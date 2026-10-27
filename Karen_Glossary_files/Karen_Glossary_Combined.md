@@ -581,7 +581,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | west | မုၢ်​နုာ် | NT 6/6; OT 55/59 |  |  |  |
 | wilderness / desert | ပှၢ်​မုၢ်​က​နၢ | NT 44/47; OT 221/272 | *wilderness*: same 9/9 |  |  |
 
-## 7. Nature, animals, body and objects (220)
+## 7. Nature, animals, body and objects (222)
 
 | English | Karen — use this | Bible evidence | MH | STC draft | Notes |
 |---|---|---|---|---|---|
@@ -683,6 +683,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | iron | ထး | OT 79/82 |  |  |  |
 | javelin | ဘီ​ဖိ | OT 4/6 |  | 1 Sam 18:10–11; 19:9–10 |  |
 | jawbone | ခၣ်​ဃံ | OT 3/3 |  | Judg 15:15–17 |  |
+| juniper tree | သ့ၣ်​ပ​ထိး​သ့ၣ်​ရီ​သ့ၣ် | OT 4/4 |  | 1 Kgs 19:4–5 |  |
 | key | နီၣ်​ဝံာ် | NT 6/6 |  |  |  |
 | kid (young goat) | မဲာ်​တဲး​လဲး​ဖိ | OT 43/50 |  |  |  |
 | kidneys | က​လ့ၢ် | OT 13/13 |  | Lev 3:4 |  |
@@ -729,6 +730,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | purple | လုး​တ​ကုာ် | OT 37/39 |  |  |  |
 | quails | ထိၣ်​ဘှၢၣ် | OT 4/4 |  |  | Exod 16:13. |
 | ram | သိ​ဖါ | OT 129/163 |  |  |  |
+| raven | စိး​ဝၣ်​ဃး | OT 5/6 |  | 1 Kgs 17:4, 6 |  |
 | razor | ဒီ​လူၤ​တၢ် | OT 6/8 |  | Num 6:5 |  |
 | right hand | စု​ထွဲ | NT 44/44; OT 109/117 |  |  |  |
 | rings | ကွီၤ | OT 31/33 |  | Exod 25:12; 37:3 |  |
@@ -1149,7 +1151,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | wherever | တ​ပူၤ​လၢ်​လၢ် |  | 6/7 |  |  |
 | year | နံၣ် | NT 69/74; OT 658/664 | *year(s)*: same 19/22 |  |  |
 
-## 12. Names: people, places and peoples (750)
+## 12. Names: people, places and peoples (752)
 
 | English | Karen — use this | Bible evidence | MH | STC draft | Notes |
 |---|---|---|---|---|---|
@@ -1164,6 +1166,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Abihail | စီၤ​အ​ဘံ​ဃ​ယ့း​လး | OT 5/6 |  | Num 3:35 |  |
 | Abihu | စီၤ​အ​ဘံ​ဟူၤ | OT 11/12 |  |  |  |
 | Abijah | စီၤ​အ​ဘံ​ယၤ | OT 18/20 |  |  |  |
+| Abijam | စီၤ​အ​ဘံ​ယၣ် | OT 4/5 |  |  | 1 Kgs 14:31; 15:1–8. |
 | Abimelech | စီၤ​အ​ဘံၤ​မ့​လ့း | OT 56/62 |  |  |  |
 | Abiram | စီၤ​အ​ဘံ​ရၣ် | OT 9/9 |  | Num 16:1–27 |  |
 | Abishai | စီၤ​အ​ဘံ​ၡဲၤ | OT 17/24 varies |  |  |  |
@@ -1809,6 +1812,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Shephatiah | ၡ​ဖး​တ​ယၤ | OT 11/12 |  |  |  |
 | Shiloh | ၡံ​လိၤ | OT 28/31 |  |  |  |
 | Shimei | စီၤ​ၡံ​မံၤ | OT 35/38 |  |  |  |
+| Shishak | စီၤ​ၡံ​ၡး | OT 6/6 |  |  | 1 Kgs 11:40; 14:25. King of Egypt. |
 | Shittim (place) | ၡံး​တံၣ် | OT 4/6 |  | Num 25:1; Josh 2:1; 3:1 | Not the same as shittim wood (သ့ၣ်ဖှ့ၡံးတၤ). |
 | Shobal | စီၤ​ၡိ​ဘ​လး | OT 8/9 |  |  |  |
 | Shunem | ၡူ​န့ၣ် | OT 3/3 |  |  | 1 Sam 28:4. |
@@ -1967,7 +1971,7 @@ The STC draft uses a different word from the Bible for these terms. These are ch
 | conscience | သး​လၢ​အ​သ့ၣ်​ညါ | သ့ၣ်​ညါ​ဒၣ်​တၢ် |
 | faith | တၢ်​စူၢ်​တၢ်​နာ် | တၢ်​နာ် |
 
-## 16. Possible typos in the Karen Old Testament text (360)
+## 16. Possible typos in the Karen Old Testament text (395)
 
 Each spelling below appears only once or twice, while the usual spelling appears many times. Check these against the printed Bible.
 
@@ -2281,11 +2285,46 @@ Each spelling below appears only once or twice, while the usual spelling appears
 | 2 Samuel 21:15 | ဒုး​ဒံး​သု | ဒုး​ဒံး​သုး | war |
 | 2 Samuel 22:9 | မ့ၢ်​အူ​ခုၣ် | မ့ၣ်​အူ​ခုၣ် | smoke |
 | 2 Samuel 23:14 | ဘ့ၤ​သ​လ့​ဃ့ၢ် | ဘ့ၤ​သ​လ့​ဃ့ၣ် | Bethlehem |
+| 1 Kings 1:7 | စီၤ​အ​ဒိ​နံ​ယၤ | စီၤ​အ​ဒိ​နံၤ​ယၤ | Adonijah |
+| 1 Kings 1:11 | နီၢ်​ဘၤ​သ​ၡ့​ဘၤ | နီၢ်​ဘၤ​သ​ၡ့ၤ​ဘၤ | Bathsheba |
+| 1 Kings 1:15 | လဲ​နုာ် | လဲၤ​နုာ် | went in |
+| 1 Kings 1:26 | ဒီၤ​ပှၤ​လုၢ်​တၢ် | ဒီး​ပှၤ​လုၢ်​တၢ် | and the priest |
+| 1 Kings 2:7 | ပှၤ​ကံ​လ​ဧး​ဖိ | ပှၤ​ကံး​လ​ဧး​ဖိ | Gileadite |
+| 1 Kings 2:37 | ကံၤ​ဒြိၣ် | ကံ​ဒြိၣ် | Kidron |
+| 1 Kings 2:38 | ယ​ရူ​ၡ​လ့ၣ် | ယ​ရူၤ​ၡ​လ့ၣ် | Jerusalem |
+| 1 Kings 3:1 | ဖး​ရိၤ | ဖၤ​ရိၤ | Pharaoh |
+| 1 Kings 3:24 | ဒီၤ​စီၤ​ပၤ | ဒီး​စီၤ​ပၤ | and the king |
 | 1 Kings 4:4 | စီၤ​အ့​ဘ​ယၤ​သၣ် | စီၤ​အ့​ဘ​ယၤ​သၢ် | Abiathar |
+| 1 Kings 4:17 | ယး​စၣ်​ကၢ် | ယံး​စၣ်​ကၢ် | Issachar |
+| 1 Kings 4:18 | စီၤ​ၡံး​မံၤ | စီၤ​ၡံ​မံၤ | Shimei |
+| 1 Kings 5:2 | စိၤ​ဃံ​ရၣ် | စီၤ​ဃံ​ရၣ် | Hiram |
+| 1 Kings 5:6 | ပှၤ​က​ကူၣ် | ပှၤ​က​ကူာ် | hew |
+| 1 Kings 6:10 | သ့ၣ်​ဆှိး​အ့​ရ့း | သ့ၣ်​ဆှိ​အ့​ရ့း | cedar |
+| 1 Kings 6:12 | လဲး​တၢ် | လဲၤ​တၢ် | walk |
+| 1 Kings 6:21 | ဒီၤ​မၤ | ဒီး​မၤ | and he made |
+| 1 Kings 6:35 | စိၤ​ပျၤ | စိး​ပျၤ | carved |
+| 1 Kings 7:48 | ပီး​အ​လီ | ပိး​အ​လီ | vessels |
+| 1 Kings 8:59 | အိၣ်​ဘူ | အိၣ်​ဘူး | nigh |
 | 1 Kings 10:16 | ၡ​က့း​လး | ၡ​က့​လး | shekel |
+| 1 Kings 10:21 | ထူ​စီၤ | ထူ​စီ | pure gold |
+| 1 Kings 11:41 | ကွဲ​အ​သး | ကွဲး​အ​သး | written |
+| 1 Kings 12:19 | တ​နံၤ​အီၤ | တ​နံၤ​အံၤ | this day |
+| 1 Kings 12:33 | ဆိး​ကဲၤ | ဆိၣ်​ကဲၤ | burnt incense |
+| 1 Kings 13:15 | အိၣ်​ကိၣ် | အီၣ်​ကိၣ် | eat bread |
+| 1 Kings 13:17 | တၢ်​စံ | တၢ်​စံး | it was said |
 | 1 Kings 13:33 | ပှၤ​လၢ်​တၢ် | ပှၤ​လုၢ်​တၢ် | priest |
 | 1 Kings 13:34 | တၢ်​ဒဲ​ဘး | တၢ်​ဒဲး​ဘး | sin |
+| 1 Kings 14:24 | စ့ၢ်​ကီၤ | စ့ၢ်​ကီး | also |
+| 1 Kings 14:29 | စီၤ​ရ​ယၤ​ဘၣ် | စီၤ​ရ​ဃၤ​ဘၣ် | Rehoboam |
+| 1 Kings 15:18 | စီၤ​အါ​စၤ | စီၤ​အၤ​စါ | Asa |
+| 1 Kings 15:20 | နး​သး​လံ | နး​သၤ​လံ | Naphtali |
+| 1 Kings 16:15 | ပှၤ​ဖ​လ့​ၡ​ဖိ | ပှၤ​ဖ​လ့​ၡ​သး​ဖိ | Philistines |
+| 1 Kings 17:10 | စၤ​ရ​ဖၢ​သး | စၤ​ရ​ဖၤ​သး | Zarephath |
+| 1 Kings 18:25 | လ​ဧၤ​လး | ဘ​ဧၤ​လး | Baal |
+| 1 Kings 20:23 | စူၤ​ရံ​အီၤ​ပၤ | စူၤ​ရံ​အ​စီၤ​ပၤ | king of Syria |
+| 1 Kings 20:40 | အ​ဖၢ​ဖုၢ် | အ​ဖၢ​မုၢ် | while |
 | 1 Kings 21:23 | နီၢ်​အ့ၤ​စ့​ဘ့ၤ​လး | နီၢ်​အံၤ​စ့​ဘ့ၤ​လး | Jezebel |
+| 1 Kings 22:10 | ယ​ဟိ​ၡ​ဖး | ယ​ဟိ​ၡၤ​ဖး | Jehoshaphat |
 | 1 Kings 22:29 | ရၤ​မိး​ကံ​လ​ဧး | ရၤ​မိး​ကံး​လ​ဧး | Ramothgilead |
 | 2 Kings 24:2 | ပှၤ​က့​စ့း​ဖိ | ပှၤ​က့ၤ​စ့း​ဖိ | Chaldees |
 | 1 Chronicles 2:41 | စီၤ​အ​လံၤ​ၡ​မၤ | စီၤ​အ​လံ​ၡ​မၤ | Elishama |
@@ -2375,7 +2414,7 @@ Each spelling below appears only once or twice, while the usual spelling appears
 - **Corrections made while combining:** the earlier MH chapter 1 note said MH's word for "temple" (တၢ်​လုၢ်​ဟံၣ်) didn't match the Bible, but it does match the New Testament. Decapolis, Calvary and Eve were checked directly against the Karen Bible (Mark 5:20, Luke 23:33, Genesis 3:20).
 - **Genesis 2 review (26 October 2026):** Genesis 2 in the Karen Bible was compared with the KJV. Terms used 3 or more times in the chapter and not yet listed were added after checking their consistency across the Old Testament: the LORD God, man (male), field, ground, create / form, every, whole. Notes were added to Adam, river, beast and seventh day.
 
-## 19. Spellings to decide (38)
+## 19. Spellings to decide (40)
 
 Names and words that appear in more than one form in the Karen Bible, where the right spelling is not clear. Counts are whole-Bible verse counts. "Suggested" is the more common or more likely form; "Decision" is for the team.
 
@@ -2383,6 +2422,7 @@ Names and words that appear in more than one form in the Karen Bible, where the 
 | Absalom | အး​ဘ​ၡါ​လိၣ် (87) / အၤ​ဘ​ၡါ​လိၣ် (6: 2 Sam 13:26, 34; 15:2; 16:16; 17:26; 18:18) | Probably slips | အး​ဘ​ၡါ​လိၣ် |  |
 | Cherethites | ပှၤ​က​ရံ​သး​ဖိ (7: 2 Sam 15:18; 20:7, 23; 1 Kgs 1:38, 44; 1 Chr 18:17; Ezek 25:16) / ပှၤ​က​ရံး​သး​ဖိ (2: 1 Sam 30:14; 2 Sam 8:18) |  | ပှၤ​က​ရံ​သး​ဖိ |  |
 | Elah (valley) | အ့​လၤ (21: 1 Sam 17:2, 17:19…) / အ့​လး (1: 1 Sam 21:9) | အ့လး is also the usual ending of ၡမူၤအ့လး / ဣ့လး names | အ့​လၤ |  |
+| Elijah | အ့ၤ​လံ​ယၤ (59) / အ့​လံ​ယၤ (3: 1 Kgs 17:13, 15; 18:21) / အ့​လံၤ​ယၤ (1: 1 Kgs 17:23) | Probably slips | အ့ၤ​လံ​ယၤ |  |
 | Engedi | ဧ့ၣ်​က့​ဒံၤ (4: Josh 15:62, 1 Sam 24:1, 2 Chr 20:2, Song 1:14) / ဧ့ၣ်​က့ၤ​ဒံၤ (1: 1 Sam 23:29) / ဧ့ၣ်​က့ၤ​ဒံ (1: Ezek 47:10) | Same place, three spellings | ဧ့ၣ်​က့​ဒံၤ |  |
 | English | Forms found (count: where) | Notes | Suggested | Decision |
 | hundred thousand (numeral) | ကလီၤ (32 verses, e.g. Exod 38:26; Num 1:46)<br>ကလီၢ် (3: Exod 12:37; 1 Sam 11:8; 15:4) | Same number, two spellings. | ကလီၤ |  |
@@ -2394,6 +2434,7 @@ Names and words that appear in more than one form in the Karen Bible, where the 
 | Michal | မံ​ကၤ​လး (10)<br>မံၤ​ကၤ​လး (5, e.g. 1 Sam 14:49) | Both common. | (decide) |  |
 | Pelethites | ပှၤ​ပ​လ့​သး​ဖိ (5: 2 Sam 20:7, 23; 1 Kgs 1:38, 44; 1 Chr 18:17) / ပှၤ​ဖ့ၤ​လ့း​ဖိ (1: 2 Sam 15:18) / ပှၤ​ဖ​လ့​ၡ​သး​ဖိ (1: 2 Sam 8:18 – this is the word for Philistines) | 2 Sam 8:18 reads as "Philistines" | ပှၤ​ပ​လ့​သး​ဖိ |  |
 | Pharez / Perez | ဖ့ၤ​ရ့း (16)<br>ဖ့​ရ့း (3: e.g. Ruth 4:12)<br>ဖ့း​ရ့း (3: e.g. Ruth 4:18–19) | Three forms. | ဖ့ၤ​ရ့း |  |
+| Tishbite | တံး​ၡ​ဘး (4) / တံး​ၡ့​ဘး (1: 1 Kgs 17:1) / တံး​ၡ​ဘၤ (1: 1 Kgs 21:28) |  | တံး​ၡ​ဘး |  |
 | Zeruiah | စ​ရူ​ယၤ (20) / စ​ရူၤ​ယၤ (5: 2 Sam 3:39; 16:9, 10; 1 Chr 18:12, 15) | Mother of Joab, Abishai, Asahel | စ​ရူ​ယၤ |  |
 |---|---|---|---|---|
 | Abiezer / Abiezrite | အ​ဘံၤ​ဧ့​စ့ၢ် (6: Judg 6:11, 24, 34; 8:32; 1 Chr 7:18; 27:12)<br>အ​ဘံၤ​ဧ့ၢ်​စ့ (1: Judg 8:2) | Second form looks like a slip. | အ​ဘံၤ​ဧ့​စ့ၢ် |  |
