@@ -1971,7 +1971,7 @@ The STC draft uses a different word from the Bible for these terms. These are ch
 | conscience | သး​လၢ​အ​သ့ၣ်​ညါ | သ့ၣ်​ညါ​ဒၣ်​တၢ် |
 | faith | တၢ်​စူၢ်​တၢ်​နာ် | တၢ်​နာ် |
 
-## 16. Possible typos in the Karen Old Testament text (395)
+## 16. Possible typos in the Karen Old Testament text (412)
 
 Each spelling below appears only once or twice, while the usual spelling appears many times. Check these against the printed Bible.
 
@@ -2326,7 +2326,24 @@ Each spelling below appears only once or twice, while the usual spelling appears
 | 1 Kings 21:23 | နီၢ်​အ့ၤ​စ့​ဘ့ၤ​လး | နီၢ်​အံၤ​စ့​ဘ့ၤ​လး | Jezebel |
 | 1 Kings 22:10 | ယ​ဟိ​ၡ​ဖး | ယ​ဟိ​ၡၤ​ဖး | Jehoshaphat |
 | 1 Kings 22:29 | ရၤ​မိး​ကံ​လ​ဧး | ရၤ​မိး​ကံး​လ​ဧး | Ramothgilead |
+| 2 Kings 1:2 | လီာ်​တဲာ် | လီၤ​တဲာ် | fell down |
+| 2 Kings 3:24 | ဂဲၤ​ထၢၣ် | ဂဲၤ​ဆၢ​ထၢၣ် | rose up |
+| 2 Kings 8:26 | ဧ​သါ​လ​ယၤ | ဧ​သၤ​လ​ယၤ | Athaliah |
+| 2 Kings 8:28 | အၤ​ဃၤ | အၤ​ဃာ် | Ahab |
+| 2 Kings 9:25 | ဆူး | ဆူ | into |
+| 2 Kings 10:27 | မၢ​လီၤ​က​လဲ | မၤ​လီၤ​က​လဲ | brake down |
+| 2 Kings 12:2 | ယိၤ​အာ် | ယိၤ​အၣ် | Jehoash |
+| 2 Kings 15:23 | ၡၤ​မ​ၡံ | ၡၤ​မ​ရံ | Samaria |
+| 2 Kings 16:17 | အး​ဃး | အၤ​ဃး | Ahaz |
+| 2 Kings 17:7 | အဲၤ​ပ​တူး | အဲၤ​ကူ​ပ​တူး | Egypt |
+| 2 Kings 17:21 | ယၤ​ရ​ဘၣ် | ယၤ​ရၤ​ဘၣ် | Jeroboam |
+| 2 Kings 18:2 | စ​ကၢ်​ရ​ယၤ | စ​ကၤ​ရ​ယၤ | Zachariah |
+| 2 Kings 19:11 | အီ | အီၤ | them |
+| 2 Kings 19:13 | အၢ်​ဖး | အၢ်​ပး | Arpad |
+| 2 Kings 21:13 | အီ | အီၤ | it |
+| 2 Kings 21:21 | အါ​အီၤ | ဘါ​အီၤ | worshipped them |
 | 2 Kings 24:2 | ပှၤ​က့​စ့း​ဖိ | ပှၤ​က့ၤ​စ့း​ဖိ | Chaldees |
+| 2 Kings 25:29 | ဃိာ်​အ​အ​တၢ် | ဃိာ်​အ​တၢ် | prison garments |
 | 1 Chronicles 2:41 | စီၤ​အ​လံၤ​ၡ​မၤ | စီၤ​အ​လံ​ၡ​မၤ | Elishama |
 | 1 Chronicles 3:24 | စီၤ​အ့​လ​ယၤ​ၡံၣ် | စီၤ​အ့​လ​ယၤ​ၡံာ် | Eliashib |
 | 1 Chronicles 6:3 | စီၤ​န​ဒး | စီၤ​နၤ​ဒး | Nadab |
@@ -2414,7 +2431,7 @@ Each spelling below appears only once or twice, while the usual spelling appears
 - **Corrections made while combining:** the earlier MH chapter 1 note said MH's word for "temple" (တၢ်​လုၢ်​ဟံၣ်) didn't match the Bible, but it does match the New Testament. Decapolis, Calvary and Eve were checked directly against the Karen Bible (Mark 5:20, Luke 23:33, Genesis 3:20).
 - **Genesis 2 review (26 October 2026):** Genesis 2 in the Karen Bible was compared with the KJV. Terms used 3 or more times in the chapter and not yet listed were added after checking their consistency across the Old Testament: the LORD God, man (male), field, ground, create / form, every, whole. Notes were added to Adam, river, beast and seventh day.
 
-## 19. Spellings to decide (40)
+## 19. Spellings to decide (43)
 
 Names and words that appear in more than one form in the Karen Bible, where the right spelling is not clear. Counts are whole-Bible verse counts. "Suggested" is the more common or more likely form; "Decision" is for the team.
 
@@ -2427,13 +2444,16 @@ Names and words that appear in more than one form in the Karen Bible, where the 
 | English | Forms found (count: where) | Notes | Suggested | Decision |
 | hundred thousand (numeral) | ကလီၤ (32 verses, e.g. Exod 38:26; Num 1:46)<br>ကလီၢ် (3: Exod 12:37; 1 Sam 11:8; 15:4) | Same number, two spellings. | ကလီၤ |  |
 | Jehoiada | ယ​ဟိ​ယ​ဒါ (33) / ယ​ဟိၤ​ယ​ဒါ (15: 2 Sam 20:23; 23:22; 1 Kgs 1:26–2:35; 4:4; 1 Chr 11:22, 24; 12:27) | Both common | (decide) |  |
+| Jehoiakim | ယ​ဟိၤ​ယါ​ကံၣ် (27) / ယ​ဟိ​ယါ​ကံၣ် (8: 2 Kgs 24:19; 1 Chr 3:15, 16; Jer 1:3; 22:24; 24:1; 28:4; 36:32) | Some of the 8 may be Jehoiachin verses (Jer 22:24; 24:1; 28:4) – check | ယ​ဟိၤ​ယါ​ကံၣ် |  |
 | Joab | ယိၤ​အာ် (118) / ယိာ်​အာ် (6: 2 Sam 3:29; 8:16; 11:17, 18; 14:33; 24:4) | Probably slips | ယိၤ​အာ် |  |
 | Jonathan (son of Saul) | ယိ​နၤ​သၣ် (118)<br>ယိၤ​နၤ​သၣ် (5, e.g. 1 Sam 13:2) | Judg 18:30 Jonathan is ယိနၤသၣ် too. | ယိ​နၤ​သၣ် |  |
 | Jordan | ယၢ်​ဒ့ၣ် (161) / ယၢ်​ဒ့ၢ် (6: Num 32:5; Deut 3:25; Josh 9:10; 2 Sam 2:29; 19:15, 18) | Probably slips, but six of them | ယၢ်​ဒ့ၣ် |  |
 | Mephibosheth | မ​ဖံ​ဘိၤ​ၡ့း (6: 2 Sam 4:4; 9:6; 16:1, 4; 19:25; 21:7) / မ​ဖံ​ဘိ​ၡ့း (7: 2 Sam 9:6, 10–13; 19:24, 30) | Both forms in 2 Sam 9:6 | (decide) |  |
 | Michal | မံ​ကၤ​လး (10)<br>မံၤ​ကၤ​လး (5, e.g. 1 Sam 14:49) | Both common. | (decide) |  |
+| Nebat | န​ဘး (most) / န​ဘိး (4: 2 Kgs 14:24; 15:24, 28; 17:21) | 2 Kings only | န​ဘး |  |
 | Pelethites | ပှၤ​ပ​လ့​သး​ဖိ (5: 2 Sam 20:7, 23; 1 Kgs 1:38, 44; 1 Chr 18:17) / ပှၤ​ဖ့ၤ​လ့း​ဖိ (1: 2 Sam 15:18) / ပှၤ​ဖ​လ့​ၡ​သး​ဖိ (1: 2 Sam 8:18 – this is the word for Philistines) | 2 Sam 8:18 reads as "Philistines" | ပှၤ​ပ​လ့​သး​ဖိ |  |
 | Pharez / Perez | ဖ့ၤ​ရ့း (16)<br>ဖ့​ရ့း (3: e.g. Ruth 4:12)<br>ဖ့း​ရ့း (3: e.g. Ruth 4:18–19) | Three forms. | ဖ့ၤ​ရ့း |  |
+| Rechab | ရ့​ကး (10+) / ရ့​ကာ် (2: 2 Kgs 10:15, 23) | Both 2 Kings 10 verses use ရ့ကာ် | ရ့​ကး |  |
 | Tishbite | တံး​ၡ​ဘး (4) / တံး​ၡ့​ဘး (1: 1 Kgs 17:1) / တံး​ၡ​ဘၤ (1: 1 Kgs 21:28) |  | တံး​ၡ​ဘး |  |
 | Zeruiah | စ​ရူ​ယၤ (20) / စ​ရူၤ​ယၤ (5: 2 Sam 3:39; 16:9, 10; 1 Chr 18:12, 15) | Mother of Joab, Abishai, Asahel | စ​ရူ​ယၤ |  |
 |---|---|---|---|---|
