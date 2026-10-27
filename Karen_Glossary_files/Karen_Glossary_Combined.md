@@ -62,7 +62,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | thus saith the LORD | စံး​ဒ်​အံၤ | OT 315/413 |  |  |  |
 | the Word / word of God | တၢ်​က​လုၢ် *(NT)*<br>ယွၤ​အ​က​လုၢ် *(OT)* | NT 105/197 varies; OT 338/478 | *word of God*: ယွၤ​အ​က​လုၢ်​က​ထါ ch. 1 (2×) (different word) | *word of God*: က​လုၢ်​က​ထါ 7/8 (same word, other form) | NT also: က​လုၢ်​အ​က​ထါ, က​ထါ<br>OT also: က​လုၢ်, က​ထါ |
 
-## 2. Faith, worship and church (241)
+## 2. Faith, worship and church (242)
 
 | English | Karen — use this | Bible evidence | MH | STC draft | Notes |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | oath / sware | ဆိၣ် | OT 194/197 |  |  |  |
 | obey | စူၢ် *(NT)*<br>ဒိ​က​နၣ် *(OT)* | NT 25/32; OT 72/82 | *obedience, obedient*: တၢ်​ဒိ​က​နၣ် 19/20 (same word, other form) | *obedience / obey*: တၢ်​ဒိ​က​နၣ် 10/12 (same word, other form) | OT also: က​နၣ် |
 | offering of jealousy | တၢ်​မၤ​ဘူၣ်​ကိၣ်​လၢ​သး​က့ၣ်​အ​ဃိ |  |  | Num 5:15–25 |  |
+| oracle (most holy place) | တၢ်​က​တိၤ​တၢ်​အ​လီၢ် | OT 15/17 |  |  |  |
 | ordinance (for ever) | တၢ်​မၤ​လိာ်​(အ​ထူ​အ​ယိာ်) / တၢ်​အ​လုၢ်​အ​လၢ် | OT 18/34 varies |  |  | Exod 12:14, 17, 24, 43. |
 | parable | တၢ်​က​တိၤ​ဒိ | NT 36/45 | *example*: အ​ဒိ​အ​တဲာ် 18/20 (different word) |  | OT Balaam's “took up his parable” = ထု​ထီၣ်​အ​တၢ်​က​တိၤ​ဒိ (Num 23–24) |
 | passover | ဘူၣ်​လဲၤ​က​ပာ် | NT 26/26; OT 45/45 |  |  | NT also: လဲၤ​က​ပာ်<br>NT: ဘူၣ် = feast; "feast of the Passover" = ဘူၣ်​လဲၤ​က​ပာ်.<br>OT also: လဲၤ​က​ပာ် |
@@ -399,7 +400,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | weak, weakness | တၢ်​ဂံၢ်​စၢ်​ဘါ​စၢ် |  | 32/48 | *weakness*: ဂံၢ်​စၢ်​ဘါ​စၢ် 9/12 (same word, other form) |  |
 | weary, weariness | လီၤ​ဘှံး |  | 13/18 |  |  |
 
-## 5. People, roles and groups (135)
+## 5. People, roles and groups (137)
 
 | English | Karen — use this | Bible evidence | MH | STC draft | Notes |
 |---|---|---|---|---|---|
@@ -420,6 +421,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | captain of the guard | ပှၤ​မၤ​သံ​တၢ်​တ​ဖၣ်​အ​ဒိၣ် | Gen: 6/6; OT 6/30 |  |  | Gen 37:36; 39:1; 40:3–4; 41:10, 12. Literally “chief of the executioners”. |
 | captains of thousands / of hundreds | ပှၤ​တ​က​ထိ​အ​ခိၣ် / ပှၤ​တ​က​ယၤ​အ​ခိၣ် | OT 14/16 |  | Num 31:14, 48 |  |
 | centurion | သုး​ဖိ​တ​က​ယၤ​အ​ခိၣ် | NT 21/21 | same 4/4 |  |  |
+| chamberlain / eunuch | ပှၤ​ဒ့​ဒံၣ် | OT 16/17 |  |  | Also used where the KJV has 'officer' (Heb. eunuch). |
 | champion (Goliath) | ပှၤ​လၢ​ခံ​ခီ​အ​ဘၢၣ်​စၢၤ | OT 3/3 |  | 1 Sam 17:4, 23, 51 | Literally "the man between the two sides". |
 | chief captain | သုး​ဖိ​တ​က​ထိ​အ​ခိၣ် | NT 17/17 |  |  |  |
 | child | ဖိ​သၣ် | NT 48/55; OT 114/128 |  |  | NT also: ဖိ<br>OT also: ဖိ |
@@ -503,6 +505,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | prince | ပ​ဒိၣ် | OT 331/339 |  |  | OT also: ပှၤ |
 | prisoners | ပှၤ​ဃိာ်​ဖိ | OT 8/15 |  |  | Gen 39:20, 22. |
 | queen | နီၢ်​ပၤ​မုၣ် | OT 46/48 |  |  |  |
+| recorder | ပှၤ​ကွဲး​နီၣ်​တၢ် | OT 9/9 |  |  |  |
 | revenger / avenger of blood | ပှၤ​မၤ​ကၣ်​တၢ်​သွံၣ် | OT 12/15 |  | Num 35:12–27 |  |
 | rich | အ​ထူး​အ​တီၤ | NT 37/39; OT 40/41 | *rich, riches*: (ပှၤ)ထူး(ပှၤ)တီၤ 13/17 (same word, other form) |  | NT also: ထူး<br>OT also: ထူး |
 | ruler / magistrate | ပ​ဒိၣ် | NT 31/51 varies; OT 76/114 varies | *ruler(s)*: ပှၤ​ပၢ​ထံ​အီၣ်​ကီၢ် 3/5 (different word) |  | OT also: ပှၤ​ပၢ |
@@ -539,7 +542,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | youngest (brother) | (ပုၢ်)​သ​ဒါ | OT 16/18 |  |  | Gen 42:13–34. OT also: အ​ဆံး (6). |
 | youth | သး​စၢ် |  | 7/9 |  |  |
 
-## 6. Places and directions (37)
+## 6. Places and directions (42)
 
 | English | Karen — use this | Bible evidence | MH | STC draft | Notes |
 |---|---|---|---|---|---|
@@ -553,7 +556,9 @@ Karen text has zero-width spaces between syllables, following your translation i
 | court | ဂၢၤ | OT 118/120 |  |  |  |
 | door | တြဲၤ *(NT)*<br>ကျဲ​စၢၤ *(OT)* | NT 21/38 varies; OT 192/198 |  |  | OT also: တြဲၤ<br>OT: Tabernacle door = ကျဲ​စၢၤ. House door = တြဲၤ. |
 | east | မုၢ်​ထီၣ် | NT 9/9; OT 136/139 |  |  |  |
+| fenced city | ဝ့ၢ်​အိၣ်​ဒီး​အ​ခိၣ်​ဒူ | OT 27/35 |  |  |  |
 | field | ပှၢ်​လၢ်​ကျါ | OT 142/252 varies |  |  | OT also: ပျီ (Gen 2:5 “herb of the field” = ပျီ​ပူၤ)<br>Gen 23 (a plot of land, Ephron's field) = ဟီၣ်​ခိၣ်​တ​က​ဝီၤ. |
+| fish gate | ပဲ​တ​ရီ​ညၣ် | OT 3/4 |  |  | 2 Chr 33:14 has ညၣ်​အ​ပဲ​တ​ရီ. |
 | garden | တၤ​သၣ်​အ​လီၢ် | OT 49/54 |  |  |  |
 | gate | ပဲ​တ​ရီ | OT 274/321 |  |  |  |
 | grave (Sheol) | ပျုၤ | OT 29/60 varies |  |  | Gen 37:35. OT also: သွၣ်​ခိၣ် (21/60) for a burial place. |
@@ -568,20 +573,23 @@ Karen text has zero-width spaces between syllables, following your translation i
 | salt sea (Dead Sea) | ပီၣ်​လဲၣ်​အံ​သၣ် | OT 9/9 |  | Num 34:3, 12 |  |
 | sea | ပီၣ်​လဲၣ် | NT 86/88; OT 258/264 | same 10/12 |  |  |
 | sepulchre / tomb | သွၣ်​ခိၣ် | NT 42/42; OT 29/29 |  |  | NT also: လိ​ပူၤ<br>Gen 23 “buryingplace” = တၢ်​သွၣ်​ခိၣ်. |
+| sheep gate | ပဲ​တ​ရီ​သိ | OT 3/3 |  |  |  |
 | ship | က​ဘီ | NT 68/69; OT 32/33 |  |  |  |
 | south | က​လံၤ​ထံး | NT 9/9; OT 118/118 |  |  |  |
+| store cities | ဝ့ၢ်​ပာ်​ဖှိၣ်​တၢ် | OT 3/3 |  |  |  |
 | suburbs | တၢ်​အီၣ်​ဆၣ်​အ​လီၢ် | OT 62/69 |  |  |  |
 | tower | တၢး | OT 46/56 |  |  |  |
 | valley | က​စၢၢ်​က​ဆူး | OT 122/153 |  |  | OT also: က​ဆူး |
 | village | သ​ဝီ | NT 17/17; OT 58/61 | *village(s)*: same 4/5 |  | OT also: တ​ဝီ |
 | vineyard | စ​ပံး | NT 20/22; OT 37/37 |  |  |  |
 | walled city | ဝ့ၢ်​အိၣ်​ဒီး​အ​ခိၣ်​ဒူ |  |  | Lev 25:29–30 |  |
+| water gate | ပဲ​တ​ရီ​ထံ | OT 5/5 |  |  |  |
 | way / road | ကျဲ | NT 86/130 varies; OT 424/478 |  |  |  |
 | well (of water) | ထံ​ပူၤ | OT 48/52 | ထံ​က​မျၢ ch. 1 (2×) (different word) |  | OT also: ထံ​ထီၣ်​ပၢၢ် |
 | west | မုၢ်​နုာ် | NT 6/6; OT 55/59 |  |  |  |
 | wilderness / desert | ပှၢ်​မုၢ်​က​နၢ | NT 44/47; OT 221/272 | *wilderness*: same 9/9 |  |  |
 
-## 7. Nature, animals, body and objects (222)
+## 7. Nature, animals, body and objects (236)
 
 | English | Karen — use this | Bible evidence | MH | STC draft | Notes |
 |---|---|---|---|---|---|
@@ -619,16 +627,19 @@ Karen text has zero-width spaces between syllables, following your translation i
 | chew the cud / part the hoof | က​လိာ်​ထီၣ်​အ​ဆၣ် / မၤ​သ့ၣ်​ဖး​အ​ခီၣ် |  |  | Lev 11:3–7 |  |
 | cloud | တၢ်​အၢၣ် | NT 21/23; OT 113/118 |  |  |  |
 | coat of many colours | ဆ့​ဖး​ထီ​(အိၣ်​ဒီး​အ​စု) | OT 3/3 |  |  | Gen 37:3, 23, 32. Literally “long robe with sleeves”. |
+| copy (of a letter) | လံာ်​ကွဲး​ဆဲ | OT 7/9 |  |  |  |
 | creeping thing | တၢ်​အ​စွါ​အ​စွဲ | OT 13/14 |  |  | Gen 6:7, 20; 7:8, 14, 21, 23. |
 | crown | ခိၣ်​သ​လုး | NT 21/21; OT 38/54 |  |  |  |
 | cubit | တ​ပျၢ် | OT 136/137 |  |  | OT also: ပျၢ် |
 | cup | လီ​ခီ | NT 28/28; OT 24/31 |  |  | Joseph's silver cup (Gen 44:2–17) = သ​လူ (OT 4/31). |
 | curtain | ယၣ် | OT 33/34 |  |  |  |
+| cymbals | စှၢၣ်​စှံး | OT 15/15 |  |  |  |
 | darkness | တၢ်​ခံး | NT 43/45; OT 93/97 | *darkness, dark*: same 29/31 | same 6/8 |  |
 | dew | ပ​စီၤ​ထံ | OT 35/35 |  |  |  |
 | dog | ထွံၣ် | NT 9/9; OT 31/31 |  |  |  |
 | dough | ကိၣ်​သံ​က​စဲာ် | OT 6/10 |  | Num 15:20–21 |  |
 | dove | ထိၣ်​လွံၢ် | NT 9/9; OT 22/22 |  |  |  |
+| dram (coin) | ဒၤ​ရံး | OT 6/6 |  |  |  |
 | dream | တၢ်​မံ​မီၢ် | NT 7/7; OT 67/72 |  |  |  |
 | dust | ဟီၣ်​ခိၣ်​က​မူၣ် |  | 7/7 |  |  |
 | eagle | လံာ်​ကြီ | OT 18/23 |  | Lev 11:13 | Also လံာ်​ကြီ​ကြၣ် (Lev 11:13; Deut 28:49; Dan 7:4). |
@@ -655,6 +666,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | frankincense | လီၢ်​ဘၣ် | OT 15/15 |  |  | Exod 30:34. |
 | frogs | ဒ့ၣ်​ဧိၤ​ကွီၣ်​ဧိၤ | OT 11/13 |  |  | Exod 8:2–13. |
 | fruit | တၤ​သၣ် | NT 69/71; OT 145/150 | *fruit(s)*: same 8/11 |  | NT also: သၣ်<br>OT also: သၣ် |
+| gallows | သ့ၣ်​တ​ကျီၣ် | OT 5/7 |  |  | Esth 5:14 has တ​ကျီာ် (section 16). |
 | garment / raiment / clothes | အ​ကူ​အ​သိး | NT 58/75; OT 163/243 varies | *clothing, clothes*: same 12/17<br>*garment(s)*: same 6/10 |  | NT also: တၢ်​ကူ​တၢ်​သိး, ကူ<br>OT also: တၢ်​ကူ​တၢ်​သိး, ကူ |
 | girdle | ယီၢ်​တ​ကိး | OT 34/35 |  |  | OT also: ယီၢ် |
 | goat | မဲာ်​တဲး​လဲး | OT 119/121 |  |  |  |
@@ -663,6 +675,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | grasshopper | ဒွဲၣ် | OT 7/7 |  | Num 13:33 | locust also ဒွဲၣ် |
 | green | လါ​ဟ့ |  | 3/4 |  |  |
 | ground | ဟီၣ်​ခိၣ် | OT 139/163 |  |  | Same word as “earth”. |
+| habergeon / coat of mail | သ​ဃိး | OT 4/5 |  |  | Same word as 'harness'. |
 | hail | သူၣ် | OT 25/25 |  |  | Exod 9:18–34; 10:5–15. |
 | hair | ခိၣ်​သူ | NT 15/18; OT 49/57 |  |  | OT also: ဆူၣ် |
 | hand | စု | NT 225/251; OT 1416/1459 |  |  |  |
@@ -671,6 +684,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | hart | တၤ​ယုၢ် | OT 4/9 (varies) |  | Deut 12:15, 22 |  |
 | head | ခိၣ် | NT 54/54; OT 267/280 |  |  |  |
 | heap (of stones) | တၢ်​ပူ | OT 29/39 |  |  | Gen 31:46–52. |
+| helmet | ခိၣ်​ကုာ်​သုး | OT 6/8 |  |  |  |
 | herd | ဂီၤ | OT 45/46 |  |  |  |
 | hill(s) | တၢ်​လူၢ် |  | 6/8 |  | Bible: က​စၢၢ် (OT 105/137). |
 | honey | က​နဲ​စီ | OT 52/52 |  |  |  |
@@ -681,6 +695,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | hyssop | က​ဖျီၣ်​အ့​စိး | OT 9/10 |  |  | Exod 12:22. |
 | inwards | ပှံာ် | OT 16/16 |  | Lev 1:9 | “fat that covereth the inwards” = သိ​လၢ​အ​ပှံာ်​သ​လီ​အ​လိၤ |
 | iron | ထး | OT 79/82 |  |  |  |
+| ivory | က​ဆီ​မဲ | OT 12/12 |  |  |  |
 | javelin | ဘီ​ဖိ | OT 4/6 |  | 1 Sam 18:10–11; 19:9–10 |  |
 | jawbone | ခၣ်​ဃံ | OT 3/3 |  | Judg 15:15–17 |  |
 | juniper tree | သ့ၣ်​ပ​ထိး​သ့ၣ်​ရီ​သ့ၣ် | OT 4/4 |  | 1 Kgs 19:4–5 |  |
@@ -708,6 +723,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | moon | လါ | NT 10/10; OT 41/41 |  |  |  |
 | morter | အီ​က​တ့ၣ် | OT 10/13 |  | Lev 14:42–45 |  |
 | mouth | ထး​ခိၣ် | NT 64/66; OT 301/331 |  |  | NT also: ကိာ်​ပူၤ<br>OT also: ကိာ်​ပူၤ |
+| mule | က​သ့ၣ်​လၤ | OT 18/20 |  |  |  |
 | myrrh | မူ​ရၣ် | OT 11/13 |  |  | Exod 30:23. Gen 37:25 has သ့ၣ်​လိး​အ​ထုး. |
 | nature, natural | န့​ဆၢၣ် |  | 50/59 | *nature (God's created works)*: တၢ်​ဘၣ်​တ့ 17/30 (different word) | STC: Literally "the things that were created". |
 | new | အ​သီ |  | 17/19 |  |  |
@@ -726,6 +742,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | pins (tent pegs) | တၢ်​က​မိာ်​ခံ | OT 7/8 |  | Exod 27:19; 38:20 |  |
 | pitcher | ထံ​စဲၤ | OT 10/10 |  |  | Gen 24:14–46.<br>Judg 7:16–20 (Gideon's pitchers) = သပၢၤ. |
 | pomegranates | သ​လဲ​သၣ် | OT 19/25 |  |  | Exod 28:33–34. |
+| porch | တၢ်​ခိၣ်​ဒုး​ထီၣ်​အ​သး | OT 21/32 |  |  | OT also: ပျဲၢ်​စီၢ် (8) |
 | psaltery | သီ​တူၢ် | OT 12/13 |  | 1 Sam 10:5 | Also used for "harp" sometimes. |
 | purple | လုး​တ​ကုာ် | OT 37/39 |  |  |  |
 | quails | ထိၣ်​ဘှၢၣ် | OT 4/4 |  |  | Exod 16:13. |
@@ -746,6 +763,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | savoury meat | တၢ်​အီၣ်​(လၢ)​အ​ဝံၣ် | OT 6/6 |  |  | Gen 27:4–31. |
 | scales (of fish) | သ​ဒံၣ် | OT 7/8 |  | Lev 11:9–12 |  |
 | scarlet | တၢ်​ဂီၤ | OT 37/47 |  |  | Exod 25:4; 26:1, 31, 36. |
+| sceptre | နီၣ်​ထိး | OT 12/12 |  |  | Golden sceptre = နီၣ်​ထိး​ထူ. |
 | scorpion | ပ​တ့ၤ​ချဲး | OT 6/6 |  | Deut 8:15 |  |
 | seal | တၢ်​စဲ​ပ​နီၣ် | NT 16/20 |  |  |  |
 | seed | ချံ | NT 48/54; OT 196/202 |  |  | “thy seed” (descendants) = န​ချံ​န​သၣ် (Gen 13:15–16; 15:3–18; 16:10). |
@@ -765,6 +783,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | sockets | (အ)​ခီၣ် | OT 38/38 |  |  | Exod 26:19–37. Literally “feet”. |
 | spear | ဘီ | OT 52/54 |  |  |  |
 | speckled | ကံၣ်​စံၣ်​ဘှဲ | OT 7/9 |  |  | Gen 30:32–39; 31:8–12. |
+| spice | တၢ်​နၢ​မူ | OT 25/32 |  |  | Same word as 'sweet incense'. |
 | spotted | ကံၣ်​ဖျၢၣ်​သ​လၢၣ် | OT 4/4 |  |  | Gen 30:32–39. |
 | star | ဆၣ် | NT 26/26; OT 37/37 |  |  |  |
 | stone / rock | လၢၢ် | NT 67/74; OT 312/348 | *stone*: same 4/4 |  | God as "the Rock" (Deut 32:4, 15, 18, 30–31) = လၢၢ်(တဖျၢၣ်). |
@@ -782,7 +801,9 @@ Karen text has zero-width spaces between syllables, following your translation i
 | throne | လီၢ်​ပ​စိာ် | NT 45/46; OT 118/119 | same 7/7 |  |  |
 | thunder | လီ​သီၣ် | NT 5/6; OT 13/19 varies |  |  |  |
 | timbrel | ဒၢ | OT 5/5 |  | Exod 15:20; Judg 11:34 | Same word as "drum". |
+| toll (tax on goods) | တၢ်​ဖိ​တၢ်​လံၤ​အ​သွဲ | OT 3/3 |  |  | Tribute = သွဲ; custom = ကျဲ​အ​သွဲ (Ezra 4:13, 20; 7:24). |
 | tongue (also: language) | ပျ့ၤ | NT 49/56; OT 95/104 |  |  | NT also: ကျိာ်<br>NT: Body part = ပျ့ၤ; "tongue" as language = ကျိာ်.<br>OT also: ကျိာ်<br>Gen 10:5, 20, 31: “after their tongues” = ဒ်​အ​တၢ်​က​တိၤ​အ​ကျိာ်​အ​သိး.<br>OT “language”: ကျိာ် 16/21, က​လုၢ် 9/21. Gen 11:1–9 (Babel) uses က​လုၢ်. |
+| treasures | တၢ်​လုၢ်​ဒိၣ်​ပှ့ၤ​ဒိၣ် | OT 21/50 |  |  | Treasury / treasure house: တၢ်​ပာ်​ဖှိၣ်​အ​လီၢ် (OT 11/13) |
 | tree | သ့ၣ် | NT 35/48; OT 213/239 |  |  |  |
 | tribute / tax | သွဲ | NT 9/9 |  |  | OT 26/30, e.g. Num 31:28–41 (the LORD's tribute) |
 | trumpet | ကွဲၤ | NT 11/11; OT 90/91 |  |  | Lev 23:24 “blowing of trumpets” = တၢ်​အူ​ကွဲၤ |
@@ -798,6 +819,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | water | ထံ | NT 74/77; OT 525/535 |  |  |  |
 | water of life, living water | ထံ​မူ |  | 3/4 |  |  |
 | wheat / corn | ဘု *(corn; wheat / corn)*<br>ဘု​ကၠူၣ် *(wheat)* | NT *wheat / corn* 18/19; OT *corn* 83/86; OT *wheat* 37/39 |  |  | OT also: ဘု |
+| whip | နီၣ်​ဖျ့ | OT 6/6 |  |  |  |
 | wind | က​လံၤ | NT 36/36; OT 97/97 |  |  |  |
 | window | ပဲ​တြီ | OT 37/40 | *window(s)*: same 3/3 |  | OT also: ထူၣ်​ဖျိ |
 | wine | စ​ပံး​ထံ | NT 29/29; OT 179/183 |  |  |  |
@@ -1096,7 +1118,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | woe | ဘၣ်​အ​ဖှီၣ် | NT 28/33; OT 52/65 |  |  |  |
 | work | တၢ်​မၤ | NT 110/167 varies; OT 231/426 varies |  |  |  |
 
-## 11. Numbers and time (50)
+## 11. Numbers and time (51)
 
 | English | Karen — use this | Bible evidence | MH | STC draft | Notes |
 |---|---|---|---|---|---|
@@ -1128,6 +1150,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | month | လါ | NT 20/20; OT 219/220 |  |  |  |
 | morning | ဂီၤ | OT 143/197 |  |  |  |
 | never | နီ​တ​ဘျီ … ဘၣ် |  | 29/48 |  |  |
+| new moon | လါ​ထီၣ်​သီ (အ​နံၤ) | OT 19/21 |  |  |  |
 | night | မုၢ်​နၤ | NT 49/61; OT 212/235 | same 8/11 |  | OT also: မုၢ်​ဆါ, တ​နၤ |
 | nine | ခွံ | OT 43/44 |  |  |  |
 | nothing | နီ​တ​မံၤ | NT 77/112 varies; OT 61/109 varies | နီ​တ​မံၤ … ဘၣ် 26/36 (same word, other form) |  |  |
@@ -1151,762 +1174,2795 @@ Karen text has zero-width spaces between syllables, following your translation i
 | wherever | တ​ပူၤ​လၢ်​လၢ် |  | 6/7 |  |  |
 | year | နံၣ် | NT 69/74; OT 658/664 | *year(s)*: same 19/22 |  |  |
 
-## 12. Names: people, places and peoples (752)
+## 12. Names: people, places and peoples (2785)
 
 | English | Karen — use this | Bible evidence | MH | STC draft | Notes |
 |---|---|---|---|---|---|
 | Aaron | စီၤ​အၤ​ဟ​ရိၣ် | NT 5/5; OT 320/326 |  |  |  |
+| Aaronites | ပှၤ​အၤ​ဟ​ရိၣ်​ဖိ | OT 2/2 |  |  |  |
+| Abagtha | စီၤ​အ​ဘၤ​က​သၤ | OT 1/1 |  |  |  |
+| Abana | အ​ဘၤ​နါ | OT 1/1 |  |  |  |
 | Abarim (mount) | က​စၢၢ်​ဧ​ဘါ​ရံၣ် |  |  | Num 27:12 |  |
+| Abda | စီၤ​ဧၤ​ဘ​ဒါ | OT 2/2 |  |  |  |
+| Abdi | စီၤ​ဧၤ​ဘ့း​ဒံ | OT 3/3 |  |  |  |
+| Abdiel | စီၤ​ဧၤ​ဘ့ၤ​ဒ့​လး | OT 1/1 |  |  |  |
 | Abdon | ဧၤ​ဘ​ဒိၣ် | OT 6/8 varies |  |  |  |
 | Abel | စီၤ​ဟ့း​ဘ့း​လး | OT 5/5 (Gen 4) |  |  | The other OT “Abel” verses are place names (Abel-meholah etc.). |
+| Abelbethmaachah | အၤ​ဘ့ၤ​လး​ဘ့ၤ​သ​မၤ​ကၤ | OT 2/2 |  |  |  |
+| Abelmaim | အၤ​ဘ့ၤ​လး​မဲၣ် | OT 1/1 |  |  |  |
+| Abelmeholah | အၤ​ဘ့​လး​မ​ဃိ​လၤ | OT 2/3 |  |  |  |
+| Abelmizraim | ဟ့း​ဘ့ၤ​လး​မံး​စ​ရၤ​ယံၣ် | OT 1/1 |  |  |  |
+| Abelshittim | အ​ဘ့း​လ​ၡံး​ထံၣ် | OT 1/1 |  |  |  |
+| Abez | အၤ​ဘ့း | OT 1/1 |  |  | Karen has it in the next or previous verse (Josh 19 verse boundaries differ) |
+| Abi | နီၢ်​အ​ဘံ | OT 1/1 |  |  |  |
+| Abia | စီၤ​အ​ဘံ​ယၤ | OT 1/1 |  |  |  |
+| Abiah | စီၤ​အ​ဘံ​ယၤ | OT 4/4 |  |  |  |
+| Abialbon | စီၤ​အ​ဘံ​ဧၤ​လ​ဘိၣ် | OT 1/1 |  |  |  |
+| Abiasaph | စီၤ​အ​ဘံ​အ​စၤ​ဖး | OT 1/1 |  |  |  |
 | Abiathar | စီၤ​အ့​ဘ​ယၤ​သၢ် | OT 27/28 |  |  |  |
+| Abida | စီၤ​အ​ဘံ​ဒၤ | OT 2/2 |  |  |  |
 | Abidan | စီၤ​အ​ဘံ​ဒၣ် | OT 5/5 |  | Num 1:5–15 |  |
+| Abiel | စီၤ​အ​ဘံၤ​အ့​လး | OT 3/3 |  |  |  |
 | Abiezer / Abiezrite | (ပှၤ)​အ​ဘံၤ​ဧ့​စ့ၢ်​(ဖိ) | OT |  | Judg 6:11, 24, 34 |  |
 | Abigail | နီၢ်​အ​ဘံၤ​ကါ​ယံး​လး | OT 17/17 |  |  |  |
 | Abihail | စီၤ​အ​ဘံ​ဃ​ယ့း​လး | OT 5/6 |  | Num 3:35 |  |
 | Abihu | စီၤ​အ​ဘံ​ဟူၤ | OT 11/12 |  |  |  |
+| Abihud | စီၤ​အ​ဘံ​ဟူာ် | OT 1/1 |  |  |  |
 | Abijah | စီၤ​အ​ဘံ​ယၤ | OT 18/20 |  |  |  |
 | Abijam | စီၤ​အ​ဘံ​ယၣ် | OT 4/5 |  |  | 1 Kgs 14:31; 15:1–8. |
+| Abimael | အ​ဘံ​မ​အ့​လး | OT 2/2 |  |  |  |
 | Abimelech | စီၤ​အ​ဘံၤ​မ့​လ့း | OT 56/62 |  |  |  |
+| Abinadab | စီၤ​အ​ဘံ​န​ဒာ် | OT 9/12 |  |  |  |
+| Abinoam | စီၤ​အ​ဘံ​နိၣ် | OT 4/4 |  |  |  |
 | Abiram | စီၤ​အ​ဘံ​ရၣ် | OT 9/9 |  | Num 16:1–27 |  |
+| Abishag | နီၢ်​အ​ဘံ​ၡး | OT 5/5 |  |  |  |
 | Abishai | စီၤ​အ​ဘံ​ၡဲၤ | OT 17/24 varies |  |  |  |
+| Abishalom | စီၤ​အး​ဘ​ၡါ​လိၣ် | OT 2/2 |  |  |  |
+| Abishua | စီၤ​အ​ဘံၤ​ၡူ | OT 3/5 |  |  |  |
+| Abishur | စီၤ​အ​ဘံ​ၡူၢ် | OT 1/2 |  |  |  |
+| Abital | နီၢ်​အ​ဘံ​တ​လး | OT 2/2 |  |  |  |
+| Abitub | စီၤ​အ​ဃံ​တူာ် | OT 1/1 |  |  |  |
 | Abner | စီၤ​အ​ဘံ​န့ၢ် | OT 52/53 |  |  |  |
 | Abraham | စီၤ​အၤ​ဘြၤ​ဟၣ် | NT 65/70; OT 156/160 |  |  |  |
 | Abram | စီၤ​အၤ​ဘြၣ် | OT 48/50 |  |  |  |
 | Absalom | စီၤ​အး​ဘ​ၡါ​လိၣ် | OT 82/90 |  |  |  |
+| Accad | အး​ကး | OT 1/1 |  |  |  |
+| Accho | ဧး​ကိၤ | OT 1/1 |  |  |  |
 | Achaia | အ​ဃါ​ယၤ | NT 10/11 |  |  |  |
 | Achan | စီၤ​ဧၤ​ကၣ် | OT 6/7 |  | Josh 7:1–24 |  |
+| Achar | စီၤ​ဧၤ​ကၢ် | OT 1/1 |  |  |  |
+| Achbor | စီၤ​ဧး​က​ဘိၢ် | OT 7/7 |  |  |  |
 | Achish | စီၤ​အၤ​ကံၣ် | OT 20/20 |  |  |  |
+| Achmetha | အၤ​ဃ​မ​သါ | OT 1/1 |  |  |  |
 | Achor (valley) | က​စၢၢ်​က​ဆူး​ဧၤ​ကိၢ် | OT 5/5 |  | Josh 7:24, 26 | Means "trouble". |
+| Achsah | နီၢ်​ဧၤ​က​စ့ၤ | OT 4/5 |  |  |  |
+| Achzib | အၤ​က​စံာ် | OT 4/4 |  |  |  |
+| Adadah | ဧ​ဒၤ​ဒၤ | OT 1/1 |  |  |  |
 | Adah | နီၢ်​ဧ​ဒၤ | OT 8/8 |  |  |  |
+| Adaiah | ဧ​ဒါ​ယၤ | OT 7/9 |  |  |  |
+| Adalia | စီၤ​အ​ဒၤ​လ​ယၤ | OT 1/1 |  |  |  |
 | Adam | စီၤ​အၤ​ဒၣ် | NT 7/7; OT 10/20 varies | same 4/4 |  | Genesis 2 renders Adam as ပှၤ​က​ညီ “the man” (2:19–21) and ပိာ်​ခွါ (2:23). Every OT verse with “Adam” uses အၤ​ဒၣ်, ပှၤ​က​ညီ or ပိာ်​ခွါ (22/22). |
+| Adamah | အ​ဒၤ​မၤ | OT 1/1 |  |  |  |
+| Adami | အ​ဒၣ်​မံၤ | OT 1/1 |  |  |  |
+| Adar | အး​ဒၢ် | OT 10/10 |  |  |  |
+| Adbeel | အး​ဒ​ဘ​အ့​လး | OT 1/2 |  |  |  |
+| Addan | အး​ဒၣ် | OT 1/1 |  |  |  |
+| Addar | စီၤ​အၤ​ဒၢ် | OT 1/1 |  |  |  |
+| Addon | အး​ဒၣ် | OT 1/1 |  |  | Same Karen form as Addan. |
+| Ader | စီၤ​ဧၤ​ဒၢ် | OT 1/1 |  |  |  |
+| Adiel | စီၤ​ဧ​ဒံၤ​အ့​လး | OT 2/3 |  |  |  |
+| Adin | စီၤ​ဧၤ​ဒံၣ် | OT 4/4 |  |  |  |
+| Adina | စီၤ​ဧ​ဒံ​နၤ | OT 1/1 |  |  |  |
+| Adino | စီၤ​ဧ​ဒံ​နိၤ | OT 1/1 |  |  |  |
+| Adithaim | ဧ​ဒံ​သံၣ် | OT 1/1 |  |  |  |
+| Adlai | စီၤ​ဧၤ​ဒ​လဲ | OT 1/1 |  |  |  |
+| Admah | အၤ​ဒ​မၤ | OT 5/5 |  |  |  |
+| Admatha | စီၤ​အၤ​ဒ​မါ​သၤ | OT 1/1 |  |  |  |
+| Adna | စီၤ​ဧၤ​ဒ​နၤ | OT 2/2 |  |  |  |
+| Adnah | စီၤ​ဧၤ​ဒ​နၤ | OT 1/2 |  |  |  |
+| Adonibezek | အ​ဒိ​နံၤ​ဘ့​စ့း | OT 3/3 |  |  |  |
 | Adonijah | စီၤ​အ​ဒိ​နံၤ​ယၤ | OT 22/26 |  |  |  |
+| Adonikam | စီၤ​အ​ဒိၤ​နံ​ကၣ် | OT 3/3 |  |  |  |
+| Adoniram | စီၤ​အ​ဒိၤ​နံ​ရၣ် | OT 2/2 |  |  |  |
+| Adonizedek | အ​ဒိၤ​နံၤ​စ့​ဒ့း | OT 2/2 |  |  |  |
+| Adoraim | အ​ဒိ​ရဲၣ် | OT 1/1 |  |  |  |
+| Adoram | စီၤ​အ​ဒိၤ​ရၣ် | OT 2/2 |  |  |  |
+| Adrammelech | အ​ဒြၤ​မ့​လ့း | OT 2/3 |  |  |  |
+| Adriel | ဧ့​ဒြံ​အ့​လး | OT 1/2 |  |  |  |
 | Adullam | ဧ​ဒူး​လၣ် | OT 7/8 |  |  |  |
 | Adullamite | ပှၤ​ဧ​ဒူး​လၣ်​ဖိ | OT 3/3 |  |  |  |
+| Adummim | အ​ဒူ​မံၣ် | OT 1/2 |  |  |  |
 | Agag | စီၤ​အၤ​ကး | OT 6/6 |  | Num 24:7 |  |
+| Agagite | ပှၤ​အ​ကၤ​ကး​ဖိ | OT 5/5 |  |  |  |
+| Agee | စီၤ​အ​က့ | OT 1/1 |  |  |  |
 | Agrippa | စီၤ​အ​ကြံး​ပၤ | NT 5/12 varies |  |  |  |
 | Ahab | စီၤ​အၤ​ဃာ် | OT 72/82 |  |  |  |
+| Aharah | စီၤ​အၤ​ဃ​ရၤ | OT 1/1 |  |  |  |
+| Aharhel | စီၤ​အ​ဃၤ​ရ​ဃ့​လး | OT 1/1 |  |  |  |
+| Ahasai | စီၤ​အၤ​ဃ​စဲၤ | OT 1/1 |  |  |  |
+| Ahasbai | စီၤ​အ​ဃၤ​စ​ဘဲ | OT 1/1 |  |  |  |
 | Ahasuerus | စီၤ​ပၤ​အ​ဃၤ​ၡ​ဝ့​ရိၣ် | OT 25/30 |  |  |  |
+| Ahava | အၤ​ဟ​ဝၤ | OT 3/3 |  |  |  |
 | Ahaz | အၤ​ဃး | OT 36/40 |  |  |  |
 | Ahaziah | စီၤ​အ​ဃၤ​စ​ယၤ | OT 29/30 |  |  |  |
+| Ahban | စီၤ​အၤ​ဃ​ဘၣ် | OT 1/1 |  |  |  |
+| Aher | စီၤ​အ​ဃ့ၢ် | OT 1/1 |  |  |  |
+| Ahi | စီၤ​အ​ဃံၤ | OT 2/2 |  |  |  |
+| Ahiah | စီၤ​အ​ဃံ​ယၤ | OT 4/4 |  |  |  |
+| Ahiam | စီၤ​အ​ဃံ​အၣ် | OT 2/2 |  |  |  |
+| Ahian | စီၤ​အ​ဃံ​ယၣ် | OT 1/1 |  |  |  |
 | Ahiezer | စီၤ​အ​ဃံၤ​ဧ့​စ့ၢ် | OT 6/6 |  | Num 1:5–15 |  |
+| Ahihud | စီၤ​အ​ဃံ​ဟူး | OT 1/2 |  |  |  |
 | Ahijah | စီၤ​အ​ဃံ​ယၤ | OT 16/19 |  |  |  |
 | Ahikam | စီၤ​အ​ဃံ​ကၣ် | OT 20/20 |  |  |  |
+| Ahilud | စီၤ​အ​ဃံ​လူး | OT 5/5 |  |  |  |
+| Ahimaaz | အ​ဃံ​မ့ၤ​ဧး | OT 10/15 |  |  |  |
 | Ahiman | စီၤ​အ​ဃံ​မ့ၣ် | OT 3/4 |  | Num 13 |  |
 | Ahimelech | စီၤ​အ​ဃံၤ​မ့​လ့း | OT 13/16 |  |  |  |
+| Ahimoth | စီၤ​အ​ဃံ​မိး | OT 1/1 |  |  | Karen has it in the next or previous verse (verse boundaries differ) |
+| Ahinadab | စီၤ​အ​ဃံ​န​ဒာ် | OT 1/1 |  |  |  |
 | Ahinoam | နီၢ်​အ​ဃံ​နိၣ် | OT 7/7 |  | 1 Sam 14:50; 25:43 |  |
+| Ahio | စီၤ​အ​ဃံ​ယိၤ | OT 6/6 |  |  |  |
 | Ahira | စီၤ​အ​ဃံ​ရၤ | OT 4/5 |  | Num 1:5–15 |  |
+| Ahiram | စီၤ​အ​ဃံ​ရၣ် | OT 1/1 |  |  |  |
+| Ahiramites | အ​ဃံ​ရၣ်​ဖိ​တ​ဒူၣ် | OT 1/1 |  |  |  |
+| Ahisamach | စီၤ​အ​ဃံ​စ​မး | OT 3/3 |  |  |  |
+| Ahishahar | စီၤ​အ​ဃံ​ၡ​ဃၢ် | OT 1/1 |  |  |  |
+| Ahishar | စီၤ​အ​ဃံ​ၡၢ် | OT 1/1 |  |  |  |
 | Ahithophel | စီၤ​အ​ဃံ​သ​ဖ့ၤ​လး | OT 14/17 |  |  |  |
 | Ahitub | စီၤ​အ​ဃံး​တူာ် | OT 8/15 |  |  | 1 Sam 14:3; 22:9. |
+| Ahlab | အၤ​ဃ​လာ် | OT 1/1 |  |  |  |
+| Ahlai | စီၤ​အၤ​ဃ​လဲ | OT 1/2 |  |  |  |
+| Ahoah | စီၤ​အၤ​ဃိၤ | OT 1/1 |  |  |  |
+| Ahohite | ပှၤ​အ​ဃိ​ဃး​ဖိ | OT 5/5 |  |  |  |
 | Aholiab | စီၤ​အၤ​ဟ​လံ​အာ် | OT 5/5 |  |  |  |
 | Aholibamah | နီၢ်​အ​ဟိး​လံး​ဘါ​မၤ | OT 6/7 |  |  | Gen 36:5 has အ​ဟိး​လံ​ဘါ​မၤ. |
+| Ahumai | စီၤ​အ​ဃူ​မဲၤ | OT 1/1 |  |  |  |
+| Ahuzam | စီၤ​အ​ဃူ​စၣ် | OT 1/1 |  |  |  |
+| Ahuzzath | စီၤ​အ​ဃူး​စး | OT 1/1 |  |  |  |
 | Ai | ဂဲ | OT 30/30 |  |  |  |
+| Aiah | စီၤ​အၤ​ယၤ | OT 4/5 |  |  |  |
+| Aija | ဂဲ | OT 1/1 |  |  | Same Karen form as Ai. |
+| Aijalon | အး​ယၤ​လိၣ် | OT 6/7 |  |  |  |
+| Ain | ဧ့ၣ် | OT 5/5 |  |  |  |
+| Ajah | စီၤ​အၤ​ယၤ | OT 1/1 |  |  |  |
+| Ajalon | အး​ယၤ​လိၣ် | OT 2/3 |  |  |  |
+| Akan | စီၤ​ယၤ​ဧ​ကၣ် | OT 1/1 |  |  |  |
 | Akkub | ဧး​ကူာ် | OT 8/8 |  |  |  |
+| Akrabbim | ဧး​က​ရး​ဘံၣ် | OT 2/2 |  |  |  |
+| Alameth | စီၤ​ဧၤ​လ့​မ့း | OT 1/1 |  |  |  |
+| Alammelech | အ​လး​မ့​လ့း | OT 1/1 |  |  |  |
+| Alamoth | ဧၤ​လ​မိး | OT 1/2 |  |  |  |
+| Alemeth | ဧၤ​လ့​မ့း | OT 3/3 |  |  |  |
 | Alexander | စီၤ​အ​လ့း​စၣ်​ဒြူး | NT 5/5 |  |  |  |
+| Aliah | ဧး​လ​ဝၣ် | OT 1/1 |  |  |  |
+| Alian | စီၤ​ဧး​လ​ဝၣ် | OT 1/1 |  |  |  |
+| Allon | အး​လိၣ် | OT 2/2 |  |  |  |
+| Allonbachuth | အး​လိၣ်​ဘၤ​ကူာ် | OT 1/1 |  |  |  |
+| Almodad | စီၤ​အၤ​လ​မိ​ဒး | OT 2/2 |  |  |  |
+| Almon | ဧၤ​လ​မိၣ် | OT 1/1 |  |  |  |
+| Almondiblathaim | ဧၤ​လ​မိၣ်​ဒံး​ဘ​လၤ​သံၣ် | OT 2/2 |  |  |  |
+| Aloth | ဧၤ​လိး | OT 1/1 |  |  |  |
 | Alphaeus | စီၤ​အၤ​လ​ဖဲ | NT 5/5 |  |  |  |
+| Alush | အၤ​လူၣ် | OT 2/2 |  |  |  |
+| Alvah | ဧး​လ​ဝၣ် | OT 1/1 |  |  |  |
+| Alvan | စီၤ​ဧး​လ​ဝၣ် | OT 1/1 |  |  |  |
+| Amad | ဧၤ​မး | OT 1/1 |  |  |  |
+| Amal | စီၤ​ဧၤ​မ​လး | OT 1/1 |  |  |  |
 | Amalek | ဧ​မၤ​လ့း | OT 23/23 |  |  |  |
 | Amalekites | ပှၤ​ဧ​မၤ​လ့း​ဖိ | OT 22/23 |  |  |  |
+| Amam | အ​မၣ် | OT 1/1 |  |  |  |
 | Amariah | စီၤ​အ​မၤ​ရ​ယၤ | OT 14/14 |  |  |  |
 | Amasa | စီၤ​ဧ​မါ​စၤ | OT 12/12 |  |  |  |
+| Amasai | စီၤ​ဧ​မၤ​စဲ | OT 2/5 |  |  |  |
+| Amashai | စီၤ​ဧ​မၤ​ၡဲ | OT 1/1 |  |  |  |
+| Amasiah | စီၤ​ဧ​မၤ​စ​ယၤ | OT 1/1 |  |  |  |
 | Amaziah | အ​မၤ​စ​ယါ | OT 37/39 |  |  |  |
+| Ami | စီၤ​အၤ​မံၤ | OT 1/2 |  |  |  |
+| Amittai | စီၤ​အ​မံး​တဲၤ | OT 2/2 |  |  |  |
+| Ammah | အး​မၤ | OT 1/1 |  |  |  |
 | Ammiel | စီၤ​ဧး​မံၤ​အ့​လး | OT 3/6 (varies) |  | Num 13 |  |
 | Ammihud | စီၤ​ဧး​မံၤ​ဟူး | OT 9/10 |  | Num 1:5–15 |  |
+| Amminadab | ဧး​မံၤ​န​ဒး | OT 6/12 |  |  |  |
 | Ammishaddai | စီၤ​ဧး​မံၤ​ၡး​ဒံၤ | OT 5/5 |  | Num 1:5–15 |  |
+| Ammizabad | စီၤ​ဧၤ​မံ​စ​ဘး | OT 1/1 |  |  |  |
 | Ammon | ဧၣ်​မိၣ် | OT 84/85 |  |  |  |
 | Ammonites | ပှၤ​ဧၣ်​မိၣ်​ဖိ | OT 18/22 |  |  |  |
 | Amnon | စီၤ​အၤ​မ​နိၣ် | OT 21/22 |  |  |  |
 | Amon | အၤ​မိၣ် | OT 17/17 |  |  |  |
 | Amorite | ပှၤ​အ​မိၢ်​ဖိ | OT *Amorite* 12/14; OT *Amorites* 71/72 |  |  |  |
+| Amoz | စီၤ​အၤ​မိာ် | OT 7/13 |  |  |  |
 | Amram | စီၤ​ဧၤ​မ​ရၣ် | OT 11/13 |  |  |  |
+| Amramites | ပှၤ​ဧၤ​မ​ရၣ်​ဖိ | OT 2/2 |  |  |  |
+| Amraphel | အး​မ​ရၤ​ဖ့​လး | OT 2/2 |  |  |  |
+| Amzi | စီၤ​အး​မ​စံ | OT 2/2 |  |  |  |
+| Anab | ဧ​နာ် | OT 2/2 |  |  |  |
 | Anah | စီၤ​ဧ​နၤ | OT 10/10 |  |  |  |
+| Anaharath | အ​နၤ​ဃ​ရး | OT 1/1 |  |  |  |
+| Anaiah | စီၤ​ဧ​နၤ​ယၤ | OT 2/2 |  |  |  |
 | Anak (children of) | စီၤ​ဧ​နး​အ​ဖိ​အ​လံၤ | OT 7/8 |  | Num 13 |  |
 | Anakims | ပှၤ​ဧ​နး​ဖိ | OT 9/9 |  |  |  |
+| Anamim | ဧ​နၤ​မံၣ် | OT 2/2 |  |  |  |
+| Anammelech | ဧၤ​န​မ့​လး | OT 1/1 |  |  |  |
+| Anan | စီၤ​ဧၤ​နၣ် | OT 1/1 |  |  |  |
+| Anani | စီၤ​ဧ​နၤ​နံ | OT 1/1 |  |  |  |
+| Ananiah | စီၤ​ဧ​နၤ​န​ယၤ | OT 2/2 |  |  |  |
 | Ananias | စီၤ​အ​နၤ​နံ | NT 9/10 |  |  |  |
+| Anath | စီၤ​ဧး​နး | OT 2/2 |  |  |  |
 | Anathoth | ဧၤ​န​သိး | OT 16/16 |  |  |  |
 | Andrew | စီၤ​အၣ်​ဒ​ရ့း | NT 12/12 |  |  |  |
+| Anem | ဧၤ​န့ၣ် | OT 1/1 |  |  |  |
+| Aner | စီၤ​ဧၤ​န့ၢ် | OT 3/3 |  |  |  |
+| Anethothite | ပှၤ​ဧၤ​န​သိး​ဖိ | OT 1/1 |  |  |  |
+| Anetothite | ပှၤ​ဧၤ​န​သိ​သး​ဖိ | OT 1/1 |  |  |  |
+| Aniam | စီၤ​အ​နံ​ဧၣ် | OT 1/1 |  |  |  |
+| Anim | ဧၤ​နံၣ် | OT 1/1 |  |  |  |
 | Antioch | အၣ်​တံၤ​အီာ် | NT 18/18 |  |  |  |
+| Antothijah | စီၤ​ဧၤ​န​သိ​သ​ယၤ | OT 1/1 |  |  |  |
+| Antothite | ပှၤ​ဧၤ​န​သိး​ဖိ | OT 2/2 |  |  |  |
+| Anub | စီၤ​ဧၤ​နူာ် | OT 1/1 |  |  |  |
+| Apharsachites | ပှၤ​အၢ်​ပၢ်​စ​ကၤ​ဖိ | OT 1/2 |  |  | Ezra 6:6 has ပှၤ​အ​ပၢ်​စ​ကၤ​ဖိ. |
+| Apharsathchites | ပှၤ​အ​ပၢ်​စ​သၤ​ကၤ​ဖိ | OT 1/1 |  |  |  |
+| Apharsites | ပှၤ​အၢ်​ပၢ်​စၤ​ဖိ | OT 1/1 |  |  |  |
 | Aphek | အ​ဖ့း | OT 8/8 |  |  |  |
+| Aphekah | အ​ဖ့​ကၤ | OT 1/1 |  |  |  |
+| Aphiah | စီၤ​အ​ဖံၤ | OT 1/1 |  |  |  |
+| Aphik | အ​ဖံး | OT 1/1 |  |  |  |
+| Aphses | စီၤ​ဟ​ဖံး​စ့း | OT 1/1 |  |  |  |
 | Apollos | စီၤ​အ​ပီး​လိၤ | NT 10/10 |  |  |  |
+| Appaim | စီၤ​အ​ဖၤ​ယံၣ် | OT 2/2 |  |  |  |
 | Aquila | စီၤ​အ​ကူ​လၤ | NT 6/6 |  |  |  |
+| Ar | ဧၢ် | OT 6/6 |  |  |  |
+| Ara | စီၤ​အ့​ရၤ | OT 1/1 |  |  |  |
+| Arab | အၤ​ရာ် | OT 1/1 |  |  |  |
+| Arabah | ဧၤ​ရ​ဘၤ | OT 1/1 |  |  |  |
+| Arabia | ဧ့​ရ့း | OT 5/5 |  |  |  |
+| Arabians | ပှၤ​ဧ့​ရ့း​ဖိ | OT 5/6 |  |  | Arabia is ဧ့​ရ့း. |
 | Arad | ဧ​ရး | OT 3/5 |  | Num 21:1 |  |
+| Arah | စီၤ​အ​ရၤ | OT 3/4 |  |  |  |
+| Aram | စီၤ​အ​ရၣ် | OT 7/7 |  |  |  |
+| Aran | စီၤ​အၤ​ရၣ် | OT 2/2 |  |  |  |
+| Ararat | အ​ရၤ​ရး | OT 1/2 |  |  |  |
+| Araunah | စီၤ​အၤ​ရ​နၤ | OT 7/7 |  |  |  |
+| Arba | စီၤ​အၢ်​ဘၤ | OT 2/2 |  |  |  |
+| Arbah | အၤ​ရ​ဘၤ | OT 1/1 |  |  |  |
+| Arbathite | ပှၤ​ဧၤ​ရ​ဘၤ​ဖိ | OT 2/2 |  |  |  |
+| Arbite | ပှၤ​အၢ်​ဘၤ​ဖိ | OT 1/1 |  |  |  |
+| Archevites | ပှၤ​အၢ်​က​ဝၤ​ဖိ | OT 1/1 |  |  |  |
+| Archi | အၢ်​ကံ | OT 1/1 |  |  |  |
+| Archite | ပှၤ​အၢ်​ကး​ဖိ | OT 5/5 |  |  |  |
+| Ard | စီၤ​အၤ​ရး | OT 2/2 |  |  |  |
+| Ardites | ပှၤ​အၤ​ရး​ဖိ | OT 1/1 |  |  |  |
+| Ardon | စီၤ​အၢ်​ဒိၣ် | OT 1/1 |  |  |  |
+| Areli | စီၤ​အၤ​ရ​အ့​လံ | OT 1/2 |  |  |  |
+| Arelites | ပှၤ​အၤ​အ့ၤ​လံ​ဖိ | OT 1/1 |  |  |  |
 | Argob | အၢ်​ကိး | OT 5/5 |  | Deut 3:4, 13 |  |
+| Aridai | စီၤ​အ​ရံ​ဒဲၤ | OT 1/1 |  |  |  |
+| Aridatha | စီၤ​အ​ရံၤ​ဒ​သၤ | OT 1/1 |  |  |  |
+| Arieh | စီၤ​အၢ်​ယ့ | OT 1/1 |  |  |  |
+| Ariel | စီၤ​အ​ရံၤ​အ့​လး | OT 4/5 |  |  |  |
+| Arioch | အၤ​ရ​ယိာ် | OT 2/6 |  |  |  |
+| Arisai | စီၤ​အ​ရံ​စဲၤ | OT 1/1 |  |  |  |
 | Aristarchus | စီၤ​အ​ရံ​စ​တၢ်​ဃူး | NT 4/5 |  |  |  |
+| Arkite | ဧၤ​ရ​ကၤ | OT 2/2 |  |  |  |
+| Armenia | အ​ရၤ​ရး | OT 2/2 |  |  |  |
+| Armoni | စီၤ​အၢ်​မိၤ​နံ | OT 1/1 |  |  |  |
+| Arnan | စီၤ​အၢ်​နၣ် | OT 1/1 |  |  |  |
 | Arnon | အၢ်​နိၣ် | OT 21/23 |  |  |  |
+| Arod | စီၤ​အ​ရိး | OT 1/1 |  |  |  |
+| Arodi | စီၤ​အ​ရိ​ဒံၤ | OT 1/1 |  |  |  |
+| Arodites | ပှၤ​အ​ရိး​ဖိ | OT 1/1 |  |  |  |
 | Aroer | ဧ​ရိၤ​ဧ့ၢ် | OT 15/16 |  |  |  |
+| Aroerite | ပှၤ​ဧ​ရိၤ​ဧ့ၢ်​ဖိ | OT 1/1 |  |  |  |
+| Arpad | အၢ်​ပး | OT 2/4 |  |  |  |
 | Arphaxad | စီၤ​အၢ်​ဖး​ၡး | OT 9/9 |  |  |  |
 | Artaxerxes | အၢ်​တၤ​ၡါ​ၡ​တၤ | OT 14/14 |  |  |  |
+| Aruboth | အ​ရူ​ဘိး | OT 1/1 |  |  |  |
+| Arumah | အ​ရူ​မၤ | OT 1/1 |  |  |  |
+| Arvadite | ပှၤ​အၢ်​ဝး​ဖိ | OT 2/2 |  |  |  |
+| Arza | စီၤ​အၢ်​စၤ | OT 1/1 |  |  |  |
 | Asa | အၤ​စါ | OT 50/52 |  |  |  |
 | Asahel | စီၤ​ဧ​စၤ​အ့​လး | OT 16/17 |  |  |  |
+| Asahiah | ဧ​စါ​ယၤ | OT 2/2 |  |  |  |
+| Asaiah | စီၤ​ဧ​စံ​ယၤ | OT 5/6 |  |  |  |
 | Asaph | အၤ​စာ် | OT 29/41 varies |  |  |  |
+| Asareel | စီၤ​အ​စၤ​ရ့​လး | OT 1/1 |  |  |  |
+| Asarelah | စီၤ​အ​ၡၤ​ရ့​လး | OT 1/1 |  |  |  |
+| Asenath | နီၢ်​အၤ​စ​နး | OT 3/3 |  |  |  |
+| Ashan | ဧၤ​ၡၣ် | OT 4/4 |  |  |  |
+| Ashbea | စီၤ​အၤ​ၡ​ဘ့ၤ | OT 1/1 |  |  |  |
+| Ashbel | စီၤ​အၤ​ၡ​ဘ့​လး | OT 2/3 |  |  |  |
+| Ashbelites | ပှၤ​အၤ​ၡ​ဘ့​လး​ဖိ | OT 1/1 |  |  |  |
+| Ashchenaz | စီၤ​အၤ​ၡ​ကံ​နး | OT 2/2 |  |  |  |
 | Ashdod | အၤ​စ​ဒိာ် / အၤ​စ​ဒိး | OT 7/18 (varies) |  | Josh 11:22 | 1 Sam 5 uses အၤစဒိး. |
+| Ashdodites | ပှၤ​အၤ​စ​ဒိး​ဖိ | OT 1/1 |  |  |  |
+| Ashdothites | ပှၤ​အၤ​စ​ဒိာ်​ဖိ | OT 1/1 |  |  |  |
+| Ashdothpisgah | အၤ​ၡ​ဒိး​ပံး​စ​ကၤ | OT 3/3 |  |  |  |
 | Asher | အၤ​ၡ့ၢ် | OT 41/41 |  |  |  |
+| Asherites | ပှၤ​အၤ​ၡ့ၢ်​ဖိ | OT 1/1 |  |  |  |
+| Ashima | အ​ၡံ​မၤ | OT 1/1 |  |  |  |
 | Ashkelon | အၤ​ၡ​က​လိၣ် | OT 8/8 |  |  |  |
+| Ashkenaz | အၤ​ၡ​ကံ​နး | OT 1/1 |  |  |  |
+| Ashnah | အါ​ၡ​နၤ | OT 1/2 |  |  |  |
+| Ashriel | စီၤ​အး​စ​ရံၤ​အ့​လး | OT 1/1 |  |  |  |
 | Ashtaroth | ဧၤ​ၡ​တြိး | OT 9/11 |  |  | Judg 2:13; 1 Sam 31:10. Idol. |
+| Ashterathite | ပှၤ​ဧၤ​ၡ​တြိး​ဖိ | OT 1/1 |  |  |  |
+| Ashtoreth | ဧၤ​ၡ​တြိး | OT 3/3 |  |  |  |
+| Ashur | စီၤ​အၤ​ၡူၢ် | OT 2/2 |  |  |  |
+| Ashurites | ပှၤ​အၤ​ၡူၢ်​ဖိ | OT 2/2 |  |  |  |
+| Ashvath | စီၤ​ဧၤ​ၡ​ဝး | OT 1/1 |  |  |  |
 | Asia | အၤ​စံ | NT 19/20 |  |  |  |
+| Asiel | စီၤ​ဧ​စံၤ​အ့​လး | OT 1/1 |  |  |  |
+| Askelon | အၤ​ၡ​က​လိၣ် | OT 3/3 |  |  |  |
+| Asnah | စီၤ​အၤ​စ​နၤ | OT 1/1 |  |  |  |
+| Asnappar | စီၤ​အၤ​စ​နး​ပၢ် | OT 1/1 |  |  |  |
+| Aspatha | စီၤ​အၤ​စ​ပၤ​သၤ | OT 1/1 |  |  |  |
+| Asriel | စီၤ​အး​စ​ရံၤ​အ့​လး | OT 2/2 |  |  |  |
+| Asrielites | ပှၤ​အး​စ​ရံၤ​အ့​လး​ဖိ | OT 1/1 |  |  |  |
 | Asshur (Assyria) | အၤ​ၡူၢ် | OT 9/9 |  | Num 24:22–24 |  |
+| Asshurim | ပှၤ​အၤ​ၡူ​ရး​ဖိ | OT 1/1 |  |  |  |
+| Assir | စီၤ​အး​စံၢ် | OT 4/5 |  |  |  |
+| Assur | အၤ​ၡူၢ် | OT 1/2 |  |  | Ezra 4:2; same form as Assyria. |
 | Assyria | အၤ​ၡူၢ် | OT 106/108 |  |  |  |
 | Assyrian | ပှၤ​အၤ​ၡူၢ်​ဖိ | OT 9/13 varies |  |  |  |
 | Astaroth | ဧၤ​ၡ​တြိး | OT 13 |  | Deut 1:4 |  |
+| Atad | အၤ​တၤ | OT 2/2 |  |  |  |
+| Atarah | နီၢ်​ဧ​တါ​ရၤ | OT 1/1 |  |  |  |
 | Ataroth | ဧး​တၤ​ရိး | OT 4/5 |  | Num 32:3, 34 |  |
+| Atarothadar | ဧး​တၤ​ရိး​အး​ဒၢ် | OT 1/1 |  |  |  |
+| Atarothaddar | ဧး​တၤ​ရိး​အး​ဒၤ | OT 1/1 |  |  |  |
+| Athach | ဧၤ​သး | OT 1/1 |  |  |  |
+| Athaiah | စီၤ​ဧ​သါ​ယၤ | OT 1/1 |  |  |  |
 | Athaliah | နီၢ်​ဧ​သၤ​လ​ယၤ | OT 14/17 |  |  |  |
 | Athens | အၤ​သ့ၣ် | NT 5/5 |  |  |  |
+| Athlai | စီၤ​ဧၤ​သ​လဲ | OT 1/1 |  |  |  |
+| Attai | စီၤ​ဧၤ​တဲ | OT 4/4 |  |  |  |
 | Augustus | အီ​ကူး​စ​တူး | NT 3/4 varies |  |  |  |
+| Ava | ဧး​ဝါ | OT 1/1 |  |  |  |
+| Avim | ဧၤ​ဝံၣ် | OT 1/1 |  |  |  |
+| Avims | ပှၤ​ဧ့ၤ​ဝံ​ဖိ | OT 1/1 |  |  |  |
+| Avites | ပှၤ​ဧး​ဝါ​ဖိ | OT 1/2 |  |  |  |
+| Avith | ဧ​ဝံး | OT 2/2 |  |  |  |
+| Azaliah | အ​စါ​လံ​ယၤ | OT 2/2 |  |  |  |
+| Azaniah | စီၤ​အ​စၤ​န​ယၤ | OT 1/1 |  |  |  |
+| Azarael | စီၤ​ဧ​စၤ​ရ့​လး | OT 1/1 |  |  |  |
+| Azareel | စီၤ​ဧ​စၤ​ရ့​လး | OT 4/5 |  |  |  |
 | Azariah | စီၤ​ဧ​စၤ​ရ​ယၤ | OT 37/45 |  |  |  |
+| Azaz | စီၤ​ဧၤ​စး | OT 1/1 |  |  |  |
+| Azaziah | စီၤ​ဧၤ​စါ​စ​ယၤ | OT 3/3 |  |  |  |
+| Azbuk | စီၤ​ဧၤ​စ​ဘူး | OT 1/1 |  |  |  |
 | Azekah | ဧ​စ့​ကၤ | OT 6/7 |  | Josh 10:10–11 |  |
+| Azel | စီၤ​အၤ​စ့​လး | OT 4/4 |  |  |  |
+| Azem | ဧၤ​စ့ၣ် | OT 2/2 |  |  |  |
+| Azgad | စီၤ​ဧၤ​စ​ကး | OT 3/4 |  |  |  |
+| Aziel | စီၤ​ဧၤ​စ​ရ့​လး | OT 1/1 |  |  |  |
+| Aziza | စီၤ​ဧ​စံ​စၤ | OT 1/1 |  |  |  |
 | Azmaveth | ဧၤ​စ​မၤ​ဝ့း | OT 8/8 |  |  |  |
+| Azmon | ဧၤ​စ​မိၣ် | OT 3/3 |  |  |  |
+| Aznothtabor | အၤ​စ​နိး​တၤ​ဘိၢ် | OT 1/1 |  |  |  |
+| Azriel | စီၤ​ဧၤ​စ​ရံၤ​အ့​လး | OT 2/3 |  |  |  |
+| Azrikam | စီၤ​ဧး​စ​ရံ​ကၣ် | OT 6/6 |  |  |  |
+| Azubah | နီၢ်​ဧ​စူ​ဘၤ | OT 4/4 |  |  |  |
+| Azzah | ဧး​စၤ | OT 1/3 |  |  |  |
+| Azzan | စီၤ​ဧး​စၣ် | OT 1/1 |  |  |  |
+| Azzur | စီၤ​ဧၤ​စူၢ် | OT 1/1 |  |  |  |
 | Baal | ဘ​ဧၤ​လး | OT 50/51 |  |  |  |
+| Baalah | ဘ​ဧၤ​လၤ | OT 3/5 |  |  |  |
+| Baalath | ဘ​ဧၤ​လး | OT 3/3 |  |  |  |
+| Baalathbeer | ဘ​ဧၤ​လး​ဘ့ၢ် | OT 1/1 |  |  |  |
+| Baalberith | ဘ​ဧၤ​လး​ဘ​ရံး | OT 2/2 |  |  |  |
+| Baalgad | ဘ​ဧၤ​လး​ကး | OT 3/3 |  |  |  |
+| Baalhanan | ဘ​ဧၤ​လ​ဃါ​နၣ် | OT 4/5 |  |  |  |
+| Baalhazor | ဘ​ဧၤ​လး​ဃါ​စိၢ် | OT 1/1 |  |  |  |
+| Baalhermon | ဘ​ဧၤ​လး​ဃ့​ရ​မိၣ် | OT 2/2 |  |  |  |
+| Baalmeon | ဘ​ဧၤ​လး​မ​ဧိၣ် | OT 3/3 |  |  |  |
 | Baalpeor | ဘ​ဧၤ​လး​ပ​ဧိၢ် | OT 5/5 |  | Num 25:3–5 |  |
+| Baalperazim | ဘ​ဧၤ​လး​ပ​ရၤ​စံၣ် | OT 2/2 |  |  |  |
+| Baalshalisha | ဘ​ဧၤ​လး​ၡ​လံ​ၡၤ | OT 1/1 |  |  |  |
+| Baaltamar | ဘ​ဧၤ​လး​တၤ​မၢ် | OT 1/1 |  |  |  |
+| Baalzebub | ဘ​ဧၤ​လး​စ​ဘူာ် | OT 4/4 |  |  |  |
+| Baalzephon | ဘ​ဧၤ​လး​စ​ဖိၣ် | OT 3/3 |  |  |  |
+| Baana | စီၤ​ဘၤ​နါ | OT 1/2 |  |  |  |
 | Baanah | စီၤ​ဘၤ​နါ | OT 10/10 |  |  |  |
+| Baara | နီၢ်​ဘၤ​ရၤ | OT 1/1 |  |  |  |
+| Baaseiah | စီၤ​ဘၤ​စ့​ယၤ | OT 1/1 |  |  |  |
 | Baasha | ဘါ​ၡၤ | OT 26/26 |  |  |  |
+| Babel | ဘၤ​ဘ့း​လး | OT 2/2 |  |  |  |
 | Babylon | ဘၤ​ဘူၤ​လိၣ် | NT 9/10; OT 247/249 | ဘၤ​ဘူ​လိၣ် 3/3 ⚠ spelling differs |  |  |
+| Bachrites | ပှၤ​ဘ့​က့ၢ်​ဖိ | OT 1/1 |  |  |  |
+| Baharumite | ပှၤ​ဘၢ်​ဃူၣ်​ဖိ | OT 1/1 |  |  |  |
 | Bahurim | ဘၤ​ဃူ​ရံၣ် | OT |  |  | 2 Sam 3:16. |
+| Bakbakkar | စီၤ​ဘး​က​ဘး​ကၢ် | OT 1/1 |  |  |  |
+| Bakbuk | စီၤ​ဘၤ​က​ဘူး | OT 2/2 |  |  |  |
+| Bakbukiah | စီၤ​ဘး​က​ဘူ​က​ယၤ | OT 3/3 |  |  |  |
 | Balaam | စီၤ​ဘံး​လၣ်​အ *(NT)*<br>စီၤ​ဘံး​လၣ် *(OT)* | NT 3/3; OT 55/56 |  |  |  |
+| Baladan | ဘၤ​လ​ဒၣ် | OT 2/2 |  |  |  |
+| Balah | ဘၤ​လၤ | OT 1/1 |  |  |  |
 | Balak | စီၤ​ဘၤ​လး | OT 37/40 |  |  |  |
+| Bamoth | ဘၤ​မိး | OT 2/2 |  |  |  |
+| Bamothbaal | ဘၤ​မိး​ဘ​ဧၤ​လး | OT 1/1 |  |  |  |
 | Bani | စီၤ​ဘၤ​နံ | OT 13/14 |  |  |  |
 | Barabbas | စီၤ​ဘၤ​ရး​ဘါ | NT 10/10 |  |  |  |
 | Barak | စီၤ​ဘါ​ရး | OT 12/12 |  |  |  |
+| Barhumite | ပှၤ​တၢ်​ဃူၣ်​ဖိ | OT 1/1 |  |  |  |
+| Bariah | စီၤ​ဘၤ​ရံ | OT 1/1 |  |  |  |
+| Barkos | စီၤ​ဘၢ်​ကိၣ် | OT 2/2 |  |  |  |
 | Barnabas | စီၤ​ဘၢ်​နါ​ဘၤ | NT 27/28 |  |  |  |
 | Bartholomew | စီၤ​ဘၢ်​သ | NT 4/4 |  |  |  |
 | Baruch | စီၤ​ဘၤ​ရူး | OT 23/24 |  |  |  |
 | Barzillai | စီၤ​ဘၢ်​စံး​လဲ | OT |  |  | 2 Sam 17:27; 19:31–39. |
 | Barzillai | စီၤ​ဘၢ်​စံး​လဲ | OT 10/10 |  |  |  |
 | Bashan | ဘၤ​ၡၣ် | OT 51/52 |  |  |  |
+| Bashanhavothjair | ဘၤ​ၡၣ်​ဃၤ​ဝိး​ယၤ​အံၢ် | OT 1/1 |  |  |  |
 | Bashemath | နီၢ်​ဘၤ​စ​မး | OT 6/7 |  |  |  |
+| Basmath | နီၢ်​ဘၤ​စ​မး | OT 1/1 |  |  |  |
 | Bathsheba | နီၢ်​ဘၤ​သ​ၡ့ၤ​ဘၤ | OT 8/11 varies |  |  |  |
+| Bathshua | နီၢ်​ဘၤ​သ​ၡူ | OT 1/1 |  |  |  |
+| Bavai | စီၤ​ဘၤ​ဝဲၤ | OT 1/1 |  |  |  |
+| Bazlith | စီၤ​ဘၤ​စ​လံး | OT 1/2 |  |  |  |
+| Bazluth | စီၤ​ဘၤ​စ​လူး | OT 1/1 |  |  |  |
+| Bealiah | စီၤ​ဘ​လံ​ယၤ | OT 1/1 |  |  |  |
+| Bealoth | ဘ​ဧၤ​လိး | OT 1/1 |  |  |  |
+| Bebai | စီၤ​ဘ့​ဘဲၤ | OT 5/5 |  |  |  |
+| Becher | စီၤ​ဘ့​က့ၢ် | OT 4/4 |  |  |  |
+| Bechorath | စီၤ​ဘ​ကိး​ရး | OT 1/1 |  |  |  |
+| Bedad | စီၤ​ဘ​ဒး | OT 2/2 |  |  |  |
+| Bedan | ဘ​ဒၣ် | OT 2/2 |  |  |  |
+| Bedeiah | စီၤ​ဘ့​ဒ​ယၤ | OT 1/1 |  |  |  |
+| Beeliada | စီၤ​ဘ​ဧ့ၤ​လ​ယၤ​ဒၤ | OT 1/1 |  |  |  |
 | Beelzebub | ဘၤ​ဧၤ​လ​စ​ဘူာ် | NT 6/7 |  |  |  |
+| Beer | ဘ့ၢ် | OT 2/2 |  |  |  |
+| Beera | စီၤ​ဘ့​ရၤ | OT 1/1 |  |  |  |
+| Beerah | စီၤ​ဘ့​ရၤ | OT 1/1 |  |  |  |
+| Beeri | စီၤ​ဘ့ၤ​ရံ | OT 1/2 |  |  |  |
+| Beeroth | ဘ​အ့​ရိး | OT 4/5 |  |  |  |
 | Beersheba | ဘ့ၢ်​ၡ​ဘၤ | OT 31/33 |  |  |  |
+| Beeshterah | ဘ​ဧ့​ၡ​တ​ရၤ | OT 1/1 |  |  |  |
 | Bela | ဘ့​လၤ | OT 12/13 |  |  |  |
+| Belah | စီၤ​ဘ့​လၤ | OT 1/1 |  |  |  |
+| Belaites | ပှၤ​ဘ့​လၤ​ဖိ | OT 1/1 |  |  |  |
 | Belshazzar | ဘ့ၤ​လ​ၡါ​စၢ် | OT 8/8 |  |  |  |
 | Belteshazzar | ဘ့ၤ​လး​တ​ၡါ​စၢ် | OT 8/8 |  |  |  |
+| Ben | စီၤ​ဘ့ၣ် | OT 1/1 |  |  |  |
 | Benaiah | စီၤ​ဘ​နါ​ယၤ | OT 41/41 |  |  |  |
+| Benammi | စီၤ​ဘ့ၣ်​ဧၣ်​မံ | OT 1/1 |  |  |  |
+| Beneberak | ဘ​န့​ဘ​ရး | OT 1/1 |  |  |  |
+| Benejaakan | ဘ​န့​ယၤ​ကၣ် | OT 2/2 |  |  |  |
 | Benhadad | ဘ့ၣ်​ဟ​ဒး | OT 25/26 |  |  |  |
+| Benhail | စီၤ​ဘ့ၣ်​ဃၤ​ယံ​လး | OT 1/1 |  |  |  |
+| Benhanan | စီၤ​ဘ့ၣ်​ဃ​နၣ် | OT 1/1 |  |  |  |
+| Beninu | စီၤ​ဘ​နံ​နူၤ | OT 1/1 |  |  |  |
 | Benjamin | ဘံၣ်​ယၤ​မံၣ်​အ​ဒူၣ် *(NT)*<br>ဘံၣ်​ယၤ​မံၣ် *(OT)* | NT 4/4; OT 154/157 |  |  |  |
+| Benjamite | ပှၤ​ဘံၣ်​ယၤ​မံၣ်​ဖိ | OT 8/9 |  |  |  |
+| Beno | စီၤ​ဘ​နိၤ | OT 2/2 |  |  |  |
+| Benoni | ဘံၣ်​အိ​နံ | OT 1/1 |  |  |  |
+| Benzoheth | စီၤ​ဘ့ၣ်​စိ​ဃ့း | OT 1/1 |  |  |  |
+| Beon | ဘ​ဧိၣ် | OT 1/1 |  |  |  |
 | Beor | စီၤ​ဘ​ဧိၢ် | OT 9/10 |  | Num 22:5 |  |
+| Bera | ဘ့​ရၤ | OT 1/1 |  |  |  |
+| Berachah | စီၤ​ဘ​ရၤ​ကၤ | OT 2/2 |  |  |  |
+| Berachiah | စီၤ​ဘ​ရ့​ကံ​ယၤ | OT 1/1 |  |  |  |
+| Beraiah | စီၤ​ဘ​ရါ​ယၤ | OT 1/1 |  |  | Karen has it in the next or previous verse (verse boundaries differ) |
 | Berea | ဘ့း​ရံၤ | NT 3/3 |  |  |  |
+| Berechiah | စီၤ​ဘ​ရ့​က​ယၤ | OT 3/10 |  |  |  |
+| Bered | ဘ့​ရ့း | OT 2/2 |  |  |  |
+| Beri | စီၤ​ဘ့​ရံၤ | OT 1/1 |  |  |  |
 | Beriah | ဘ​ရံ​ဧၤ | OT 10/10 |  |  |  |
+| Beriites | ပှၤ​ဘ​ရံ​ဧၤ​ဖိ | OT 1/1 |  |  |  |
+| Berites | ပှၤ​ဘ့ၢ်​ဖိ | OT 1/1 |  |  |  |
+| Berith | ဘ​ရံး | OT 1/1 |  |  |  |
 | Bernice | ဒီး​နီၢ်​ဘ့ၢ်​နံ​က့ၤ | NT 3/3 |  |  |  |
+| Berodachbaladan | ဘ​ရိ​ဒး​ဘၤ​လ​ဒၣ် | OT 1/1 |  |  |  |
+| Berothai | ဘ့ၤ​ရိ​သဲၤ | OT 1/1 |  |  |  |
+| Berothite | ပှၤ​ဘ​အ့​ရိး​ဖိ | OT 1/1 |  |  |  |
+| Besai | စီၤ​ဘ့​စဲၤ | OT 2/2 |  |  | Same Karen form as Bezai. |
+| Besodeiah | စီၤ​ဘ​စိ​ဒ​ယၤ | OT 1/1 |  |  |  |
 | Besor (brook) | ထံ​ကျိ​ဘ​စိၢ် | OT 3/3 |  |  | 1 Sam 30:9. |
+| Betah | ဘ့ၤ​တၤ | OT 1/1 |  |  |  |
+| Beten | ဘ့​တ့ၣ် | OT 1/1 |  |  |  |
+| Bethanath | ဘ့ၤ​သၤ​နး | OT 2/2 |  |  |  |
+| Bethanoth | ဘ့ၤ​သၤ​နိး | OT 1/1 |  |  |  |
 | Bethany | ဘ့ၤ​သ​နံ | NT 11/11 |  |  |  |
+| Betharabah | ဘ့ၤ​သ​ဧါ​ရ​ဘၤ | OT 3/3 |  |  |  |
+| Betharam | ဘ့ၤ​သ​ဟၤ​ရၣ် | OT 1/1 |  |  |  |
 | Bethaven | ဘ့ၤ​သ​အၤ​ဝ့ၣ် | OT 6/7 |  | Josh 7:2 |  |
+| Bethazmaveth | ဘ့ၤ​သ​ဧၤ​စ​မၤ​ဝ့း | OT 1/2 |  |  |  |
+| Bethbaalmeon | ဘ့ၤ​သ​ဘ​ဧၤ​လး​မ | OT 1/1 |  |  |  |
+| Bethbarah | ဘ့ၤ​သ​ဘါ​ရၤ | OT 1/1 |  |  |  |
+| Bethbirei | ဘၤ​သ​ဘံၢ်​ရံ | OT 1/1 |  |  |  |
+| Bethcar | ဘ့ၤ​သ​ကၢ် | OT 1/1 |  |  |  |
+| Bethdagon | ဘ့ၤ​သ​ဒၤ​ကိၣ် | OT 2/2 |  |  |  |
 | Bethel | ဘ့ၤ​သ့​လး | OT 58/59 |  |  |  |
+| Bethelite | ပှၤ​ဘ့ၤ​သ့​လး​ဖိ | OT 1/1 |  |  |  |
+| Bethemek | ဘ့ၤ​သ​ဧ့ၤ​မ့း | OT 1/1 |  |  |  |
+| Bethgader | ဘ့ၤ​သ​ကၤ​ဒ့ၢ် | OT 1/1 |  |  |  |
+| Bethhaccerem | ဘ့ၤ​သ​ဟး​ကၤ​ရ့ၣ် | OT 2/2 |  |  |  |
+| Bethharan | ဘ့ၤ​သ​ဟၤ​ရံၣ် | OT 1/1 |  |  |  |
+| Bethhogla | ဘ့ၤ​သ​ဃါ​က​လၤ | OT 1/1 |  |  |  |
+| Bethhoglah | ဘ့ၤ​သ​ဃါ​က​လၤ | OT 2/2 |  |  |  |
 | Bethhoron | ဘ့ၤ​သ​ဃိ​ရိၣ် | OT 12/13 |  |  |  |
+| Bethjeshimoth | ဘ့ၤ​သၤ​ယ​ၡံ​မိး | OT 2/3 |  |  |  |
+| Bethjesimoth | ဘ့း​ယၤ​ယ​ၡံ​မိး | OT 1/1 |  |  |  |
+| Bethlebaoth | ဘ့ၤ​သ​လ​ဘိး | OT 1/1 |  |  | Karen has it in the next or previous verse (Josh 19 verse boundaries differ) |
 | Bethlehem | ဘ့ၤ​သ​လ့​ဃ့ၣ် | NT 6/8 varies; OT 27/30 |  |  |  |
+| Bethlehemite | ပှၤ​ဘ့ၤ​သ​လ့​ဃ့ၣ်​ဖိ | OT 4/4 |  |  |  |
+| Bethlehemjudah | ဘ့ၤ​သ​လ့​ဃ့ၣ်​ယူ​ဒၤ | OT 6/9 |  |  |  |
+| Bethmaachah | ဘ့ၤ​သ​မၤ​ကၤ | OT 2/2 |  |  |  |
+| Bethmarcaboth | ဘ့ၤ​သ​မၢ်​က​ဘိး | OT 1/2 |  |  |  |
+| Bethnimrah | ဘ့ၤ​သ​နံး​မ​ရၤ | OT 2/2 |  |  |  |
+| Bethpalet | ဘ့ၤ​သ​ပၤ​လ့း | OT 1/1 |  |  |  |
+| Bethpazzez | ဘ့ၤ​သ​ပး​စ့ | OT 1/1 |  |  | Karen has it in the next or previous verse (Josh 19 verse boundaries differ) |
 | Bethpeor | ဘ့ၤ​သ​ပ​ဧိၢ် | OT 4/4 |  | Deut 3:29; 34:6 |  |
+| Bethphelet | ဘ့ၤ​သ​ပၤ​လ့း | OT 1/1 |  |  |  |
+| Bethrapha | စီၤ​ဘ့ၤ​သ​ရၤ​ဖၤ | OT 1/1 |  |  |  |
+| Bethrehob | ဘ့ၤ​သ​ရ​ဃိာ် | OT 2/2 |  |  |  |
 | Bethsaida | ဘ့ၤ​သ​စဲ​ဒၤ | NT 7/7 |  |  |  |
 | Bethshan | ဘ့ၤ​သ​ၡၣ် | OT 3/3 |  |  | 1 Sam 31:10. |
+| Bethshean | ဘ့ၤ​သ​ၡၣ် | OT 5/5 |  |  |  |
 | Bethshemesh | ဘ့ၤ​သ​ၡ့​မ့ၣ် | OT 16/19 |  |  |  |
+| Bethshemite | ပှၤ​ဘ့ၤ​သ​ၡ့ၤ​မ့ၣ်​ဖိ | OT 1/2 |  |  |  |
+| Bethshittah | ဘ့ၤ​သ​ၡံး​တၤ | OT 1/1 |  |  |  |
+| Bethtappuah | ဘ့ၤ​သ​တး​ပူၤ | OT 1/1 |  |  |  |
 | Bethuel | စီၤ​ဘ​သူၤ​အ့​လး | OT 9/10 |  |  |  |
+| Bethul | ဘ​သူ​လး | OT 1/1 |  |  |  |
+| Bethzur | ဘ့ၤ​သ​စူၢ် | OT 4/4 |  |  |  |
+| Betonim | ဘ​တိ​နံၣ် | OT 1/1 |  |  |  |
+| Bezai | စီၤ​ဘ့​စဲၤ | OT 3/3 |  |  | Same Karen form as Besai. |
 | Bezaleel | စီၤ​ဘ​စၤ​လ​အ့​လး | OT 9/9 |  |  |  |
 | Bezek | ဘ့​စ့း | OT 3/3 |  | Judg 1:4–5 | Adonibezek = အ​ဒိ​နံၤ​ဘ့​စ့း. |
 | Bezer | ဘ့​စ့ၢ် | OT 5/5 |  | Deut 4:43 |  |
 | Bichri | စီၤ​ဘံး​ကြံၤ | OT 8/8 |  |  |  |
+| Bidkar | စီၤ​ဘံး​ဒ​ကၢ် | OT 1/1 |  |  |  |
+| Bigtha | စီၤ​ဘံး​က​ယၤ | OT 1/1 |  |  | Esth 1:10. |
+| Bigthan | စီၤ​ဘံး​က​သၣ် | OT 1/1 |  |  |  |
+| Bigthana | စီၤ​ဘံး​က​သၤ​နၤ | OT 1/1 |  |  |  |
+| Bigvai | စီၤ​ဘံး​က​ဝဲၤ | OT 6/6 |  |  |  |
+| Bileam | ဘံး​လၣ် | OT 1/1 |  |  |  |
+| Bilgah | စီၤ​ဘံ​လ​ကၤ | OT 3/3 |  |  |  |
+| Bilgai | စီၤ​ဘံး​လ​ကဲၤ | OT 1/1 |  |  |  |
 | Bilhah | နီၢ်​ဘံၤ​လ​ဟၤ | OT 9/11 |  |  |  |
+| Bilhan | စီၤ​ဘံး​လ​ဟၣ် | OT 3/3 |  |  |  |
+| Bilshan | စီၤ​ဘံး​လ​ၡၣ် | OT 2/2 |  |  |  |
+| Bimhal | စီၤ​ဘံး​မ​ဟၤ​လး | OT 1/1 |  |  |  |
+| Binea | စီၤ​ဘံး​နၤ | OT 2/2 |  |  |  |
+| Binnui | စီၤ​ဘံ​နူၤ | OT 7/8 |  |  |  |
+| Birsha | ဘံး​ရ​ၡၤ | OT 1/1 |  |  |  |
+| Birzavith | စီၤ​ဘံး​ရ​စၤ​ဝံး | OT 1/1 |  |  |  |
+| Bishlam | စီၤ​ဘံး​ၡ​လၣ် | OT 1/1 |  |  |  |
+| Bithiah | နီၢ်​ဘံး​သ​ယၤ | OT 1/1 |  |  |  |
+| Bithron | ဘံၤ​သြိၣ် | OT 1/1 |  |  |  |
+| Bizjothjah | ဘံ​စ​ယိၤ​သၤ | OT 1/1 |  |  |  |
+| Biztha | စီၤ​ဘံး​စ​သၤ | OT 1/1 |  |  |  |
 | Boaz | စီၤ​ဘိၤ​ဧး | OT 20/22 |  |  |  |
+| Bocheru | စီၤ​ဘိ​က​ရူၤ | OT 2/2 |  |  |  |
 | Bochim | ဘိး​ကံၣ် | OT 2/2 |  | Judg 2:1, 5 | Means "weepers". |
+| Bohan | စီၤ​ဘိ​ဟၣ် | OT 1/2 |  |  |  |
+| Boscath | ဘိး​စ​ကး | OT 1/1 |  |  |  |
+| Bozez | ဘိ​စ့း | OT 1/1 |  |  |  |
+| Bozkath | ဘိး​စ​ကး | OT 1/1 |  |  |  |
 | Bozrah | ဘိး​စ​ရၤ | OT 9/9 |  |  |  |
+| Bukki | စီၤ​ဘူး​ကံၤ | OT 4/4 |  |  |  |
+| Bukkiah | စီၤ​ဘူး​ကံ​ယၤ | OT 2/2 |  |  |  |
+| Bul | လါ​ဘူ​လး | OT 1/1 |  |  |  |
+| Bunah | စီၤ​ဘူ​နၤ | OT 1/1 |  |  |  |
+| Bunni | စီၤ​ဘူ​နံၤ | OT 3/3 |  |  |  |
+| Buz | စီၤ​ဘူ​စး | OT 3/3 |  |  |  |
+| Cabbon | ကး​ဘိၣ် | OT 1/1 |  |  |  |
+| Cabul | ကၤ​ဘူ​လး | OT 2/2 |  |  |  |
 | Caesar | ကဲ​စၢ် | NT 24/24 |  |  |  |
 | Caesarea | ကဲၤ​စါ​ရံၤ | NT 16/17 |  |  |  |
 | Caiaphas | စီၤ​ကၤ​ယါ​ဖၤ | NT 9/9 |  |  |  |
 | Cain | စီၤ​ကၤ​ယံၣ် | NT 3/3; OT 13/14 |  |  |  |
 | Cainan | စီၤ​က့ၤ​နၣ် | OT 5/5 |  |  |  |
+| Calah | ကါ​လး | OT 2/2 |  |  |  |
+| Calcol | စီၤ​ကး​လ​ကိး​လး | OT 1/1 |  |  |  |
 | Caleb | စီၤ​ကၤ​လ့း | OT 33/36 |  |  |  |
+| Calebephratah | ကၤ​လ့း​အ့​ဖ​ရး​သး | OT 0/1 |  |  | Karen text has ကၤလ့းအ့ပရးသး (ပ for ဖ) – see section 16 |
+| Calneh | ကၤ​လ​န့ၤ | OT 2/2 |  |  |  |
 | Calvary | က​ရၤ​နံ | NT | same 3/4 | က​ရၤ​နံၤ 3/6 ⚠ spelling differs | NT: Luke 23:33 |
+| Camon | ကၤ​မိၣ် | OT 1/1 |  |  |  |
 | Canaan | က​နၤ​ဧၣ် | OT 86/87 |  |  |  |
 | Canaanite | ပှၤ​က​နၤ​ဧၣ်​ဖိ | OT *Canaanite* 11/12; OT *Canaanites* 50/53 |  |  |  |
 | Capernaum | က​ပ့း​ရ​နီၣ် | NT 16/16 | same 7/10 |  |  |
+| Caphthorim | ကၤ​ပ​တိ​ရံၣ် | OT 1/1 |  |  |  |
 | Caphtor | ကၤ​ဖ​တိၢ် | OT 3/3 |  | Deut 2:23 |  |
+| Caphtorim | ကၤ​ပ​တိ​ရံၣ် | OT 1/1 |  |  |  |
+| Caphtorims | ပှၤ​ကၤ​ဖ​တိၢ်​ဖိ | OT 1/1 |  |  |  |
+| Carcas | စီၤ​ကၤ​ရ​ကၣ် | OT 1/1 |  |  |  |
+| Carchemish | ကၢ်​က​မံၣ် | OT 3/3 |  |  |  |
+| Careah | စီၤ​ကၤ​ရ့ၤ | OT 1/1 |  |  |  |
 | Carmel | ကၢ်​မ့ၤ​လး | OT 21/25 |  |  |  |
+| Carmelite | ပှၤ​ကၢ်​မ့ၤ​လး​ဖိ | OT 4/5 |  |  |  |
 | Carmi | စီၤ​ကၢ်​မံၤ | OT 8/8 |  |  |  |
+| Carmites | ပှၤ​ကၢ်​မံၤ​ဖိ | OT 1/1 |  |  |  |
+| Carshena | စီၤ​ကၢ်​ၡၤ​နၤ | OT 1/1 |  |  |  |
+| Casiphia | ကၤ​စ​ဖၤ​ယၤ | OT 1/1 |  |  |  |
+| Casluhim | ကၤ​စ​လူ​ဃံၣ် | OT 2/2 |  |  |  |
 | Cephas | စီၤ​က့ၤ​ဖး | NT 6/6 |  |  |  |
+| Chalcol | စီၤ​ကး​လ​ကိး​လး | OT 1/1 |  |  |  |
 | Chaldeans | ပှၤ​က့ၤ​စ့း​ဖိ | OT 60/66 |  |  |  |
 | Chaldees | ပှၤ​က့ၤ​စ့း​ဖိ | OT 13/14 |  |  |  |
+| Charashim | ဃ​ရၤ​ၡး | OT 1/1 |  |  |  |
 | Chedorlaomer | က​ဒၢ်​လ​ဧိ​မ့ၢ် | OT 5/5 |  |  |  |
+| Chelal | စီၤ​က​လၤ​လး | OT 1/1 |  |  |  |
+| Chelluh | စီၤ​ကး​လူၤ | OT 1/1 |  |  |  |
+| Chelub | စီၤ​က​လူာ် | OT 2/2 |  |  |  |
+| Chelubai | စီၤ​က​လူ​ဘဲၤ | OT 1/1 |  |  |  |
 | Chemosh | က​မိၣ် | OT 7/8 |  | Num 21:29 |  |
+| Chenaanah | စီၤ​က​နၤ​နါ | OT 5/5 |  |  |  |
+| Chenani | စီၤ​က​နၤ​နံ | OT 1/1 |  |  |  |
+| Chenaniah | စီၤ​က​နၤ​န​ယၤ | OT 2/3 |  |  |  |
+| Chepharhaammonai | က​ဖၢ်​ဧ​မိ​နဲ | OT 1/1 |  |  |  |
+| Chephirah | က​ဖံ​ရၤ | OT 3/4 |  |  |  |
+| Cheran | စီၤ​က​ရၣ် | OT 2/2 |  |  |  |
 | Cherethites and Pelethites | ပှၤ​က​ရံ​သး​ဖိ ဒီး ပှၤ​ပ​လ့​သး​ဖိ | OT varies |  |  | David's bodyguard. 2 Sam 8:18; 15:18; 20:7, 23. See section 19. |
+| Cherith | က​ရံ​သး | OT 2/2 |  |  |  |
+| Cherub | ခ့​ရူာ် | OT 2/2 |  |  | A place (Ezra 2:59), same form as cherub. |
+| Chesalon | က​စ့​လိၣ် | OT 1/1 |  |  |  |
+| Chesed | စီၤ​က့ၤ​စ့း | OT 1/1 |  |  |  |
+| Chesil | က​သံ​လး | OT 1/1 |  |  |  |
+| Chesulloth | ယံး​စူး​လိး | OT 1/1 |  |  |  |
+| Chezib | က​စံာ် | OT 1/1 |  |  |  |
+| Chidon | နၤ​ကိၣ် | OT 1/1 |  |  |  |
+| Chileab | စီၤ​ကံး​လ​အာ် | OT 1/1 |  |  |  |
+| Chimham | ကံ​မ​ဟၣ် | OT 3/4 |  |  |  |
 | Chinnereth (sea of) | ပီၣ်​လဲၣ်​ကံး​န့ၤ​ရ့​သး | OT 3/4 |  | Num 34:11 |  |
+| Chinneroth | ကံး​န့ၤ​ရ့​သး | OT 2/2 |  |  |  |
+| Chisleu | ကံး​စ​လ့ၤ | OT 1/2 |  |  |  |
+| Chislon | စီၤ​ကံး​စ​လိၣ် | OT 1/1 |  |  |  |
+| Chislothtabor | ကံး​စ​လိး​တၤ​ဘိၢ် | OT 1/1 |  |  |  |
+| Chittim | ကံး​တံၣ် | OT 5/6 |  |  |  |
+| Chorashan | ရၤ​ၡၣ် | OT 1/1 |  |  |  |
+| Chozeba | ကိၤ​စ့​ဘၤ | OT 1/1 |  |  |  |
 | Christian(s) | ခရံာ်​ဖိ |  | 30/30 | *Christian*: ပှၤခရံာ်​ဖိ 16/18 (same word, other form) | STC: Matches your instruction file (ပှၤခရံာ်​ဖိ). |
 | Christlike(ness) | လီၤ​ဂာ်​ဒီးခရံာ် |  | 3/5 |  |  |
+| Chun | ကူၣ် | OT 1/1 |  |  |  |
+| Chushanrishathaim | ကူ​ၡၣ်​ရံး​ၡၤ​သဲၣ် | OT 2/2 |  |  |  |
 | Cilicia | ကံၤ​လံၤ​ကံ | NT 7/8 |  |  |  |
+| Cinneroth | ကံး​န့ၤ​ရ့​သး | OT 1/1 |  |  |  |
+| Colhozeh | စီၤ​ကိး​လ​ဃိ​စ့ၤ | OT 2/2 |  |  |  |
+| Conaniah | စီၤ​က​နၤ​န​ယၤ | OT 1/1 |  |  | Same man as Cononiah. |
+| Cononiah | စီၤ​က​နၤ​န​ယၤ | OT 2/2 |  |  | Same man as Conaniah. |
 | Corinth | က​ရံၣ်​သူး | NT 6/6 |  |  |  |
 | Cornelius | စီၤ​က​န့​လံး | NT 7/10 varies |  |  |  |
+| Coz | စီၤ​ကိး | OT 1/1 |  |  |  |
 | Cozbi | နီၢ်​ကး​စ​ဘံၤ | OT 2/2 |  | Num 25:15, 18 |  |
 | Crete | ကြ့​တ့ၤ | NT 5/5 |  |  |  |
 | Cush (person) | စီၤ​ကူၤ​ၡး | OT 9/9 |  |  | The land (Ethiopia) = ကူၤ​ၡး. |
 | Cushi | စီၤ​ကူၤ​ၡံ | OT |  |  | 2 Sam 18:21–32. |
+| Cuth | ကူ​သး | OT 1/1 |  |  |  |
+| Cuthah | ကူ​သး | OT 1/1 |  |  |  |
 | Cyprus | ကူ​ပြူး | NT 8/8 |  |  |  |
 | Cyrene | ကူၤ​ရ့ၤ​န့ | NT 4/4 |  |  |  |
 | Cyrus | ကိ​ရ့ၣ် | OT 19/19 |  |  |  |
+| Dabareh | ဒၤ​ဘြး | OT 1/1 |  |  |  |
+| Dabbasheth | ဒး​ဘး​ၡ့ | OT 1/1 |  |  |  |
+| Daberath | ဒၤ​ဘြး | OT 2/2 |  |  |  |
 | Dagon | ဒၤ​ကိၣ် | OT 7/7 |  | Judg 16:23; 1 Sam 5 |  |
+| Dalaiah | စီၤ​ဒ​လါ​ယၤ | OT 1/1 |  |  |  |
+| Dalphon | စီၤ​ဒၤ​လ​ဖိၣ် | OT 1/1 |  |  |  |
 | Damascus | ဒၤ​မ့ၤ​စ့း | NT 14/15; OT 39/40 |  |  |  |
 | Dan | ဒၣ် | OT 64/64 |  |  |  |
 | Daniel | စီၤ​ဒၤ​နံး​ယ့​လး | OT 71/71 |  |  |  |
+| Danites | ပှၤ​ဒၣ်​ဖိ | OT 4/4 |  |  |  |
+| Danjaan | ဒၣ်​ယၤ​ဧၣ် | OT 1/1 |  |  |  |
+| Dannah | ဒး​နၤ | OT 1/1 |  |  |  |
+| Dara | စီၤ​ဒါ​ရၤ | OT 1/1 |  |  |  |
+| Darda | စီၤ​ဒၢ်​ဒၤ | OT 1/1 |  |  |  |
 | Darius | ဒၤ​ရ​ယါ​ဝ့ၣ် | OT 25/25 |  |  |  |
+| Darkon | စီၤ​ဒၢ်​ကိၣ် | OT 2/2 |  |  |  |
 | Dathan | စီၤ​ဒၤ​သၣ် | OT 8/8 |  |  |  |
 | David | စီၤ​ဒၤ​ဝံး | NT 52/54; OT 803/914 |  |  |  |
 | Debir | ဒ​ဘံၢ် | OT 12/12 |  |  |  |
 | Deborah | နီၢ်​ဒ​ဘိ​ရၤ | OT 8/10 |  |  | Rebekah's nurse (Gen 35:8) is spelled နီၢ်​ဒ​ဘိ​ရၣ်. |
 | Decapolis | ဒ့း​ကၤ​ပ​လံၣ် | NT | ဒ့း​ကး​ပ​လံၣ် 3/3 ⚠ spelling differs |  | NT: Mark 5:20 |
 | Dedan | ဒ​ဒၣ် | OT 9/10 |  |  |  |
+| Dehavites | ပှၤ​ဒ့​ဟၤ​ဝး​ဖိ | OT 1/1 |  |  |  |
+| Dekar | စီၤ​ဒ့​က့ၢ် | OT 1/1 |  |  |  |
+| Delaiah | စီၤ​ဒ​လါ​ယၤ | OT 6/6 |  |  |  |
 | Delilah | နီၢ်​ဒ​လံ​လၤ | OT 6/6 |  | Judg 16:4–18 |  |
 | Demas | စီၤ​ဒ့​မၤ | NT 3/3 |  |  |  |
 | Derbe | ဒ့ၢ်​ဘ့ၤ | NT 4/4 |  |  |  |
 | Deuel | စီၤ​ဒ​ဧူၤ​အ့​လး | OT 4/4 |  | Num 1:5–15 |  |
 | Diana | နီၢ်​အၢ်​တ့း​မံၤ | NT 5/5 |  |  |  |
 | Dibon | ဒံၤ​ဘိၣ် | OT 8/9 |  |  |  |
+| Dibongad | ဒံ​ဘိၣ်​ကး | OT 2/2 |  |  |  |
+| Dibri | စီၤ​ဒံး​ဘ​ရံၤ | OT 1/1 |  |  |  |
+| Diklah | စီၤ​ဒံး​က​လး | OT 2/2 |  |  |  |
+| Dilean | ဒံ​လၣ် | OT 1/1 |  |  |  |
+| Dimnah | ဒံး​မ​နၤ | OT 1/1 |  |  |  |
+| Dimonah | ဒံ​မိၤ​နၤ | OT 1/1 |  |  |  |
 | Dinah | နီၢ်​ဒံ​နၤ | OT 7/8 |  |  |  |
+| Dinaites | ပှၤ​ဒံ​နၤ​ဖိ | OT 1/1 |  |  |  |
+| Dinhabah | ဒံး​န​ဟး​ဘၤ | OT 2/2 |  |  |  |
+| Dishan | စီၤ​ဒံ​ၡၣ် | OT 5/5 |  |  |  |
+| Dishon | စီၤ​ဒံ​ၡိၣ် | OT 6/6 |  |  |  |
+| Dizahab | ဒံ​စၤ​ဟး | OT 1/1 |  |  |  |
+| Dodai | စီၤ​ဒိ​ဒဲၤ | OT 1/1 |  |  |  |
+| Dodanim | ဒိ​ဒၤ​နံၣ် | OT 2/2 |  |  |  |
+| Dodavah | စီၤ​ဒိ​ဒၤ​ဝၤ | OT 1/1 |  |  |  |
+| Dodo | စီၤ​ဒိ​ဒိၤ | OT 5/5 |  |  |  |
 | Doeg | စီၤ​ဒိ​အ့း | OT 5/5 |  |  | 1 Sam 21:7. The Edomite. |
+| Dophkah | ဒၤ​ဖ​ကၤ | OT 2/2 |  |  |  |
+| Dor | ဒိၢ် | OT 6/6 |  |  |  |
+| Dothan | ဒိၤ​သၣ် | OT 2/2 |  |  |  |
+| Dumah | စီၤ​ဒူ​မၤ | OT 4/4 |  |  |  |
 | Ebal | ဧ့ၤ​ဘါ​လး | OT 7/8 |  |  |  |
+| Ebed | စီၤ​ဧ့​ဘ့း | OT 6/6 |  |  |  |
 | Ebenezer | အ့​ဘ့ၣ်​န့​စၢ် | OT 3/3 |  | 1 Sam 4:1; 5:1; 7:12 | "Stone of help". |
 | Eber | စီၤ​ဧ့ၤ​ဘ့ၢ် | OT 11/13 |  |  |  |
+| Ebiasaph | စီၤ​အ​ဘံ​ယၤ​စာ် | OT 2/3 |  |  |  |
+| Ebronah | ဧ​ဘြိ​နၤ | OT 2/2 |  |  |  |
+| Edar | ဧ့ၤ​ဒ့ၢ် | OT 1/1 |  |  |  |
 | Eden | ဧ့ၤ​ဒ့ၣ် | OT 15/19 varies | same 4/4 |  |  |
+| Eder | စီၤ​ဧ့​ဒ့ၢ် | OT 2/3 |  |  |  |
 | Edom | အ​ဒိၣ် | OT 81/82 |  |  |  |
 | Edomites | ပှၤ​အ​ဒိၣ်​ဖိ | OT 10/13 varies |  |  |  |
 | Edrei | အ့​ဒြံၤ | OT 6/8 |  | Deut 3:1 | Num 21:33 အ့​ဒ​ရ့​ဧံၤ (variant) |
+| Eglah | နီၢ်​ဧ့​က​လၤ | OT 2/2 |  |  |  |
 | Eglon | ဧ့း​က​လိၣ် | OT 12/12 |  |  |  |
 | Egypt | အဲၤ​ကူ​ပ​တူး | NT 22/22; OT 531/536 |  |  |  |
 | Egyptians | ပှၤ​အဲၤ​ကူ​ပ​တူး​ဖိ | OT 80/85 |  |  |  |
+| Ehi | စီၤ​အ့​ဃံၤ | OT 1/1 |  |  |  |
 | Ehud | စီၤ​အ့​ဟူာ် | OT 9/9 |  |  |  |
+| Eker | စီၤ​ဧ့​က့ၢ် | OT 1/1 |  |  |  |
 | Ekron | ဧ့​ကြိၣ် | OT 19/20 |  |  |  |
+| Ekronites | ဧ့​ကြိၣ် | OT 2/2 |  |  |  |
+| Eladah | စီၤ​အ့​လၤ​ဒၤ | OT 1/1 |  |  |  |
 | Elah | အ့​လၤ | OT 13/16 |  |  |  |
 | Elam | ဧ့ၤ​လၣ် | OT 26/27 |  |  |  |
+| Elamites | ပှၤ​ဧ့ၤ​လၣ်​ဖိ | OT 1/1 |  |  |  |
+| Elasah | စီၤ​အ့​လၤ​စၤ | OT 2/2 |  |  |  |
+| Elath | အ့​လၤ​သး | OT 1/3 |  |  |  |
+| Elbethel | အ့​လး​ဘ့ၤ​သ့​လး | OT 1/1 |  |  |  |
+| Eldaah | အ့ၤ​လ​ဒါ​ဧၤ | OT 2/2 |  |  |  |
 | Eldad | စီၤ​အ့​လ​ဒး | OT 2/2 |  | Num 11:26–27 |  |
+| Elead | စီၤ​အ့​လၤ | OT 1/1 |  |  |  |
 | Elealeh | အ့​လ​ဧၤ​လ့ၤ | OT 5/5 |  | Num 32:3, 37 |  |
+| Eleasah | စီၤ​အ့​လ​ဧ​စၤ | OT 2/4 |  |  |  |
 | Eleazar | စီၤ​အ​လၤ​ဧ​စၢ် | OT 66/70 |  |  |  |
+| Eleph | အ့​လ့ာ် | OT 1/1 |  |  |  |
+| Elhanan | စီၤ​အ့​လ​ဃၤ | OT 4/4 |  |  |  |
 | Eli | စီၤ​ဧ့​လံၤ | OT 28/30 |  |  |  |
 | Eliab | စီၤ​အ​လံ​အာ် | OT 18/20 |  |  |  |
+| Eliada | စီၤ​အ​လံ​ဒၤ | OT 3/3 |  |  |  |
+| Eliadah | စီၤ​အ​လံ​ဒၤ | OT 1/1 |  |  |  |
+| Eliah | စီၤ​အ့​လံ​ယၤ | OT 1/2 |  |  |  |
+| Eliahba | စီၤ​အ့​လံ​ယ​ဘၤ | OT 2/2 |  |  |  |
 | Eliakim | စီၤ​အ့ၤ​လ​ယါ​ကံၣ် | OT 11/12 |  |  |  |
+| Eliam | စီၤ​အ​လံ​ဧၣ် | OT 2/2 |  |  |  |
 | Elias | စီၤ​အ့ၤ​လံ​ယၤ | NT 25/30 |  |  |  |
 | Eliasaph | စီၤ​အ့​လ​ယၤ​စာ် | OT 5/6 |  | Num 1:5–15 |  |
 | Eliashib | စီၤ​အ့​လ​ယၤ​ၡံာ် | OT 13/15 |  |  |  |
+| Eliathah | စီၤ​အ​လံ​အ​သၤ | OT 2/2 |  |  |  |
+| Elidad | စီၤ​အ​လံ​ဒး | OT 1/1 |  |  |  |
 | Eliel | စီၤ​အ​လံၤ​အ့​လး | OT 8/10 |  |  |  |
+| Elienai | စီၤ​အ့​လံၤ​ဧ့​နံၤ | OT 1/1 |  |  |  |
+| Eliezer | စီၤ​အ​လၤ​ဧ​စၢ် | OT 11/13 |  |  |  |
+| Elihoenai | စီၤ​အ့​လံၤ​ဧ့​နံၤ | OT 1/1 |  |  | Same Karen form as Elioenai. |
+| Elihoreph | စီၤ​အ​လံၤ​ဃိ​ရ့ာ် | OT 1/1 |  |  |  |
 | Elihu | စီၤ​အ​လံ​ဟူၤ | OT 11/11 |  |  |  |
 | Elijah | စီၤ​အ့ၤ​လံ​ယၤ | OT 56/63 |  |  |  |
+| Elika | စီၤ​အ​လံ​ကၤ | OT 1/1 |  |  |  |
 | Elim | အ့​လံၣ် | OT 4/4 |  | Num 33:9–10 |  |
 | Elimelech | စီၤ​အ​လံၤ​မ့​လ့း | OT 6/6 |  | Ruth 1:2–3; 4:3, 9 |  |
+| Elioenai | စီၤ​အ့​လံၤ​ဧ့​နံၤ | OT 5/8 |  |  |  |
+| Eliphal | စီၤ​အ​လံ​ဖၤ​လဲး | OT 1/1 |  |  |  |
+| Eliphalet | စီၤ​အ​လံ​ဖ​လ့ | OT 2/2 |  |  |  |
 | Eliphaz | စီၤ​အ​လံ​ဖး​စး | OT 14/14 |  |  |  |
+| Elipheleh | စီၤ​အ​လံ​ဖ​လ့ | OT 1/2 |  |  |  |
+| Eliphelet | စီၤ​အ​လံၤ​ဖ့​လ့း | OT 2/6 |  |  |  |
 | Elisabeth | နီၢ်​အ့း​လံၤ​စါ​ဘ့း | NT 8/8 |  |  |  |
 | Elisha | စီၤ​အ​လံၤ​ၡါ | OT 50/52 |  |  |  |
+| Elishah | စီၤ​အ​လံ​ၡၤ | OT 2/3 |  |  |  |
 | Elishama | စီၤ​အ​လံ​ၡ​မၤ | OT 16/17 |  |  |  |
+| Elishaphat | စီၤ​အ​လံ​ၡ​ဖး | OT 1/1 |  |  |  |
+| Elisheba | နီၢ်​အ့း​လံၤ​စါ​ဘ့း | OT 1/1 |  |  |  |
+| Elishua | စီၤ​အ​လံ​ၡူၤ | OT 1/2 |  |  |  |
 | Elizaphan / Elzaphan | စီၤ​အ​လံ​စ​ဖၣ် | OT 4/5 |  | Num 3:30 | Lev 10:4 အ့​လံ​စၤ​ဖၣ် |
 | Elizur | စီၤ​အ​လံ​စူၢ် | OT 5/5 |  | Num 1:5–15 |  |
 | Elkanah | စီၤ​အ့​လ​ကါ​နၤ | OT 19/20 |  |  |  |
+| Ellasar | အ့း​လး​စၢ် | OT 2/2 |  |  |  |
+| Elnaam | စီၤ​အ့​လ​နၣ် | OT 1/1 |  |  |  |
+| Elnathan | စီၤ​အ့​လ​နၤ​သၣ် | OT 5/5 |  |  |  |
+| Elon | စီၤ​အ့​လိၣ် | OT 7/7 |  |  |  |
+| Elonbethhanan | အ့​လိၣ်​ဘ့ၤ​သ​ဃၤ​နၣ် | OT 1/1 |  |  |  |
+| Elonites | ပှၤ​အ့​လိၣ်​ဖိ | OT 1/1 |  |  |  |
+| Eloth | အ့​လိး | OT 1/3 |  |  |  |
+| Elpaal | စီၤ​အ့​လ​ပၤ​လး | OT 2/3 |  |  |  |
+| Elpalet | စီၤ​အ့​လ​ပၤ​လ့း | OT 1/1 |  |  |  |
+| Elparan | အ့​လး​ဖ​ရၣ် | OT 1/1 |  |  |  |
+| Eltekeh | အ့​လ​တ​က့ၤ | OT 2/2 |  |  |  |
+| Eltekon | အ့​လ​တး​ကိၣ် | OT 1/1 |  |  |  |
+| Eltolad | အ့း​လ​တိ​လး | OT 2/2 |  |  |  |
+| Elul | အ​လူ​လး | OT 1/1 |  |  |  |
+| Eluzai | စီၤ​အ​လူ​စဲၤ | OT 1/1 |  |  |  |
+| Elzabad | စီၤ​အ့​လ​စၤ​ဘး | OT 2/2 |  |  |  |
 | Emims | ပှၤ​အ့ၣ်​ဖိ | OT 3/3 |  | Deut 2:10–11 |  |
+| Enam | ဧ့ၤ​နၣ် | OT 1/1 |  |  |  |
 | Enan | စီၤ​ဧ့​နၣ် | OT 4/5 |  | Num 1:5–15 |  |
 | Endor | ဧ့ၣ်​ဒိၣ် | OT 1/3 varies |  |  | 1 Sam 28:7. |
+| Engannim | ဧ့ၣ်​က​နၣ် | OT 1/3 |  |  |  |
 | Engedi | ဧ့ၣ်​က့​ဒံၤ | OT 4/6 |  |  | 1 Sam 24:1; 2 Chr 20:2; Song 1:14. See section 19. |
+| Enhaddah | ဧ့ၣ်​ဃး​ဒၤ | OT 1/1 |  |  | Karen has it in the next or previous verse (Josh 19 verse boundaries differ) |
+| Enhakkore | ဧ့ၣ်​ဟး​ကိ​ရ့ၤ | OT 1/1 |  |  |  |
+| Enhazor | ဧ့ၣ်​ဃ​စိၢ် | OT 1/1 |  |  |  |
+| Enmishpat | ဧ့ၣ်​မံး​ၡ​ပး | OT 1/1 |  |  |  |
 | Enoch | စီၤ​ဃ​နိာ် | OT 8/8 |  |  |  |
 | Enos | စီၤ​အ​နိၣ် | OT 6/6 |  |  |  |
+| Enosh | စီၤ​အ​နိၣ် | OT 1/1 |  |  |  |
+| Enrimmon | ဧ့ၣ်​ရံ​မိၣ် | OT 1/1 |  |  |  |
 | Enrogel | ဧ့ၣ်​ရိၤ​က့​လး | OT 4/4 |  | Josh 15:7; 18:16 |  |
+| Enshemesh | ဧ့ၣ်​ၡ့​မ့ၣ် | OT 1/2 |  |  |  |
+| Entappuah | ဧ့ၣ်​တး​ပူၤ | OT 1/1 |  |  |  |
+| Epher | စီၤ​ဧ့ၤ​ဖ့ၢ် | OT 3/4 |  |  |  |
+| Ephesdammim | အ့​ဖ့း​စ​ဒး​မံၣ် | OT 1/1 |  |  |  |
 | Ephesians | အ့း​ဖ့း​စူး​ဖိ | NT 3/3 |  |  |  |
 | Ephesus | အ့း​ဖ့း​စူး | NT 16/17 |  |  |  |
+| Ephlal | စီၤ​အ့​ဖ​လ​လး | OT 1/1 |  |  |  |
 | Ephraim | အ့​ဖ​ရဲၣ် | OT 156/161 |  |  |  |
+| Ephraimite | ပှၤ​အ့​ဖ​ရဲၣ်​ဖိ | OT 1/1 |  |  |  |
+| Ephrain | အ့​ဖ​ရဲၣ် | OT 1/1 |  |  | Same Karen form as Ephraim (a town, 2 Chr 13:19). |
+| Ephratah | အ့​ဖ​ရး​သး | OT 5/5 |  |  |  |
+| Ephrath | အ့​ဖ​ရး​သး | OT 4/4 |  |  |  |
+| Ephrathite | ပှၤ​အ့​ဖ​ရး​သး​ဖိ | OT 3/3 |  |  |  |
 | Ephron | စီၤ​ဧ့ၤ​ဖ​ရိၣ် | OT 10/11 |  |  |  |
 | Er | စီၤ​အ့ၢ် | OT 7/7 |  |  |  |
+| Eran | စီၤ​ဧ့​ရၣ် | OT 1/1 |  |  |  |
+| Eranites | ပှၤ​ဧ့​ရၣ်​ဖိ | OT 1/1 |  |  |  |
+| Erech | အ့​ရ့း | OT 1/1 |  |  |  |
+| Eri | စီၤ​ဧ့​ရံၤ | OT 2/2 |  |  |  |
+| Erites | ပှၤ​ဧ့​ရံၤ​ဖိ | OT 1/1 |  |  |  |
 | Esaias | ယ​ၡါ​ယၤ | NT 21/21 |  |  |  |
+| Esarhaddon | စီၤ​အ့ၤ​စၢ်​ဃး​ဒိၣ် | OT 3/3 |  |  |  |
 | Esau | စီၤ​ဧ့​ၡီၤ | NT 3/3; OT 73/82 |  |  |  |
+| Esek | ဧ့​စ့း | OT 1/1 |  |  |  |
+| Eshbaal | စီၤ​အ့​ၡ​ဘ​ဧၤ​လး | OT 2/2 |  |  |  |
+| Eshban | အ့း​ၡ​ဘၣ် | OT 2/2 |  |  |  |
 | Eshcol (brook) | ထံ​အ့​ၡ​ကိၤ​လး | OT 6/6 |  | Num 13 |  |
+| Eshean | အ့​ၡၣ် | OT 1/1 |  |  |  |
+| Eshek | စီၤ​ဧ့ၤ​ၡ့း | OT 1/1 |  |  |  |
+| Eshkalonites | ပှၤ​အၤ​ၡ​က​လိၣ်​ဖိ | OT 1/1 |  |  |  |
 | Eshtaol | အ့ၤ​ၡ​တိ​လး | OT 7/7 |  | Judg 13:25 |  |
+| Eshtaulites | ပှၤ​အ့​ၡ​တၤ​အူ​လး​ဖိ | OT 1/1 |  |  |  |
+| Eshtemoa | အ့​ၡ​တ​မိး | OT 4/5 |  |  |  |
+| Eshtemoh | အ့​ၡ​တ​မိး | OT 1/1 |  |  |  |
+| Eshton | စီၤ​အ့​ၡ​တိၣ် | OT 2/2 |  |  |  |
 | Esther | အ့ၤ​စ​တၢ် | OT 46/46 |  |  |  |
 | Etam (rock) | လၢၢ်​အ​က​ဆူး​ဧ့ၤ​တၣ် | OT 5/5 |  | Judg 15:8, 11 |  |
 | Etham | အ့​သၣ် | OT 4/4 |  | Num 33:6–8 |  |
+| Ethan | စီၤ​အ့​သၣ် | OT 6/8 |  |  |  |
+| Ethanim | အ့​သၤ​နံၣ် | OT 1/1 |  |  |  |
+| Ethbaal | အ့​သ​ဘၤ​လး | OT 1/1 |  |  |  |
+| Ether | ဧ့​သ့ၢ် | OT 2/2 |  |  |  |
 | Ethiopia | ကူၤ​ၡး | OT 17/19 |  |  |  |
 | Ethiopian (Cushite) | ပှၤ​ကူၤ​ၡး​ဖိ | OT 7/7 |  | Num 12:1 |  |
+| Ethnan | စီၤ​အ့ၤ​သၣ် | OT 1/1 |  |  |  |
+| Ethni | စီၤ​အ့ၤ​သ​နံ | OT 1/1 |  |  |  |
 | Euphrates | ဖ​ရၤ​သး | OT 17/19 |  |  |  |
 | Eve | နီၢ်​အံၣ်​အု | OT | same 3/3 |  | OT: Genesis 3:20 |
 | Evi | စီၤ​အ​ဝံၤ | OT 2/2 |  | Num 31:8 |  |
+| Evilmerodach | အ့​ဝ​လး​မ​ရိ​ဒး | OT 1/2 |  |  |  |
+| Ezbai | စီၤ​အ့​စ​ဘၤ | OT 1/1 |  |  |  |
+| Ezbon | စီၤ​အ့​စ​ဘိၣ် | OT 2/2 |  |  |  |
+| Ezel | အၤ​စ့း​လး | OT 1/1 |  |  |  |
+| Ezem | ဧ့ၤ​စ့ၣ် | OT 1/1 |  |  |  |
+| Ezer | စီၤ​အ့​စၢ် | OT 5/10 |  |  |  |
 | Eziongaber | ဧ့​စ​ယိၣ်​က့း​ဘ့ၢ် | OT 2/3 |  | Num 33:35–36 |  |
+| Eziongeber | ဧ့း​စ​ယိၣ်​က့​ဘ့ၢ် | OT 4/4 |  |  |  |
+| Eznite | ပှၤ​ဧ့​စ့ၢ်​ဖိ | OT 1/1 |  |  |  |
 | Ezra | စီၤ​ဧ့​စြၤ | OT 25/26 |  |  |  |
+| Ezrahite | ပှၤ​အ့​စ​ရၤ​ဃး​ဖိ | OT 3/3 |  |  |  |
+| Ezri | စီၤ​ဧ့​စ​ရံၤ | OT 1/1 |  |  |  |
 | Felix | စီၤ​ဖ့​လံး | NT 6/8 varies |  |  |  |
 | Festus | စီၤ​ဖ့​စ​တူး | NT 12/13 |  |  |  |
 | Gaal | စီၤ​ကၤ​လး | OT 9/9 |  |  |  |
+| Gaash | ကၤ​ဧၣ် | OT 4/4 |  |  |  |
+| Gaba | က့​ဘၤ | OT 2/2 |  |  |  |
+| Gabbai | စီၤ​ကး​ဘဲ | OT 1/1 |  |  |  |
 | Gad | ကး | OT 68/68 |  |  |  |
 | Gadarenes | ပှၤ​က​ဒါ​ရၤ | NT 3/3 |  |  |  |
 | Gaddi | စီၤ​ကၤ​ဒံ | OT 1/1 |  | Num 13 |  |
 | Gaddiel | စီၤ​ကး​ဒံၤ​အ့​လး | OT 1/1 |  | Num 13 |  |
+| Gadi | စီၤ​ကၤ​ဒံ | OT 2/2 |  |  |  |
+| Gadite | ပှၤ​ကး​ဖိ | OT 1/1 |  |  |  |
+| Gaham | စီၤ​က​ဃၣ် | OT 1/1 |  |  |  |
+| Gahar | စီၤ​ကၤ​ဃၢ် | OT 2/2 |  |  |  |
 | Gaius | စီၤ​ကါ​ယူး | NT 5/5 |  |  |  |
+| Galal | စီၤ​ကၤ​လ​လး | OT 3/3 |  |  |  |
 | Galatia | က​လၤ​တံ | NT 6/6 |  |  |  |
+| Galeed | ကံး​လ​ဧး | OT 2/2 |  |  |  |
 | Galilee | ကၤ​လံၤ​လါ | NT 63/65 | same 9/9 |  |  |
+| Gallim | ကး​လံၣ် | OT 2/2 |  |  |  |
 | Gallio | စီၤ​ကး​လံၤ​အိၣ် | NT 3/3 |  |  |  |
 | Gamaliel | စီၤ​က​မၤ​လ့​လး | OT 5/5 |  | Num 1:5–15 |  |
+| Gamul | စီၤ​က​မူ​လး | OT 1/1 |  |  |  |
+| Gareb | စီၤ​ကၢ်​ရ့း | OT 3/3 |  |  |  |
+| Garmite | ကၢ်​မး | OT 1/1 |  |  |  |
+| Gashmu | စီၤ​ကၤ​ၡ​မူၤ | OT 1/1 |  |  |  |
+| Gatam | စီၤ​ကၤ​တၣ် | OT 3/3 |  |  |  |
 | Gath | ကၤ​သး | OT 30/31 |  |  |  |
+| Gathhepher | ကၤ​သး​ဃ့​ဖ့ၢ် | OT 1/1 |  |  |  |
+| Gathrimmon | ကၤ​သ​ရံး​မိၣ် | OT 3/4 |  |  |  |
 | Gaza | ဂါ​စၤ | OT 17/17 |  |  |  |
+| Gazathites | ပှၤ​ဂါ​စၤ​ဖိ | OT 1/1 |  |  |  |
+| Gazer | က့ၤ​စ့ၢ် | OT 1/2 |  |  |  |
+| Gazez | စီၤ​က့​စ့း | OT 1/1 |  |  |  |
+| Gazites | ပှၤ​ဂါ​စၤ​ဖိ | OT 1/1 |  |  |  |
+| Gazzam | စီၤ​ကး​စၣ် | OT 2/2 |  |  |  |
 | Geba | က့​ဘၤ | OT 12/13 |  |  |  |
+| Geber | စီၤ​က့​ဘ့ၢ် | OT 2/2 |  |  |  |
 | Gedaliah | စီၤ​က​ဒါ​လ​ယၤ | OT 30/31 |  |  |  |
+| Geder | က့​ဒ့ၢ် | OT 1/1 |  |  |  |
+| Gederah | က​ဒ့​ရၤ | OT 1/1 |  |  |  |
+| Gederathite | ပှၤ​က​ဒ့​ရၤ​သး​ဖိ | OT 1/1 |  |  |  |
+| Gederite | ပှၤ​က့​ဒ့ၢ်​ဖိ | OT 1/1 |  |  |  |
+| Gederoth | က​ဒ့​ရိၣ် | OT 1/2 |  |  |  |
+| Gederothaim | က​ဒ့​ရိၤ​သံၣ် | OT 1/1 |  |  |  |
+| Gedor | က​ဒိၢ် | OT 6/7 |  |  |  |
 | Gehazi | စီၤ​က့ၤ​ဃ​စံ | OT 12/12 |  |  |  |
+| Geliloth | က​လံ​လိး | OT 1/1 |  |  |  |
+| Gemalli | စီၤ​က​မး​လံၤ | OT 1/1 |  |  |  |
+| Genubath | စီၤ​က​နူ​ဘး | OT 1/1 |  |  |  |
+| Gera | စီၤ​က့​ရၤ | OT 7/9 |  |  |  |
 | Gerar | က​ရၢ် | OT 10/10 |  |  |  |
 | Gerizim (mount) | က​စၢၢ်​က​ရံး​စံၣ် | OT 4/4 |  | Deut 11:29 |  |
+| Gershom | က့​ရ​ၡိၣ် | OT 14/14 |  |  |  |
 | Gershon | က့​ရ​ၡိၣ် | OT 18/18 |  |  |  |
+| Gershonites | ပှၤ​က့​ရ​ၡိၣ်​ဖိ | OT 9/9 |  |  |  |
+| Geshan | စီၤ​က့​ၡၣ် | OT 1/1 |  |  |  |
+| Geshem | စီၤ​က့ၤ​ၡ့ၣ် | OT 3/4 |  |  |  |
+| Geshur | က​ၡူၢ် | OT 8/8 |  |  |  |
+| Geshuri | ပှၤ​က​ၡူၢ်​ဖိ | OT 1/2 |  |  |  |
+| Geshurites | ပှၤ​က​ၡူၢ်​ဖိ | OT 4/4 |  |  |  |
+| Gether | စီၤ​က့​သ့ၢ် | OT 1/2 |  |  |  |
 | Geuel | စီၤ​က​အူၤ​အ့​လး | OT 1/1 |  | Num 13 |  |
 | Gezer | က့​စ့ၢ် | OT 12/12 |  |  |  |
+| Gezrites | ပှၤ​က့​စ့ၢ်​ဖိ | OT 1/1 |  |  |  |
+| Giah | ကံၤ​ဃး | OT 1/1 |  |  |  |
+| Gibbar | စီၤ​ကံး​ဘၢ် | OT 1/2 |  |  |  |
+| Gibea | ကံ​ဘ​ဧၤ | OT 1/1 |  |  |  |
 | Gibeah | ကံ​ဘ​ဧၤ | OT 44/47 |  |  |  |
+| Gibeath | ကံ​ဘ​ဧး | OT 1/1 |  |  |  |
+| Gibeathite | ပှၤ​ကံ​ဘ​ဧး​ဖိ | OT 1/1 |  |  |  |
 | Gibeon | ကံး​ဘိၣ် | OT 34/35 |  |  |  |
+| Gibeonites | ပှၤ​ကံး​ဘိၣ်​ဖိ | OT 5/5 |  |  |  |
+| Giblites | ပှၤ​ကံး​ဘ​လး​ဖိ | OT 1/1 |  |  |  |
+| Giddalti | စီၤ​ကံး​ဒၤ​လ​တံၤ | OT 2/2 |  |  |  |
+| Giddel | စီၤ​ကံး​ဒ့​လး | OT 4/4 |  |  |  |
 | Gideon | စီၤ​ကံး​ဒ​ဧိၣ် | OT 35/37 |  |  |  |
 | Gideoni | စီၤ​ကံး​ဒ​ဧိ​နံၤ | OT 4/5 |  | Num 1:5–15 |  |
+| Gidom | ကံ​ဒိၣ် | OT 1/1 |  |  |  |
+| Gihon | ကံ​ဃိၣ် | OT 6/6 |  |  |  |
+| Gilalai | စီၤ​ကံ​လ​လဲၤ | OT 1/1 |  |  |  |
 | Gilboa | ကံး​လ​ဘိ | OT 8/8 |  |  |  |
 | Gilead | ကံး​လ​ဧး | OT 88/93 |  |  |  |
+| Gileadite | ပှၤ​ကံး​လ​ဧး​ဖိ | OT 8/9 |  |  |  |
 | Gilgal | ကံး​လ​ကၤ​လး | OT 39/39 |  |  |  |
+| Giloh | ကံ​လိၤ | OT 2/2 |  |  |  |
+| Gilonite | ပှၤ​ကံ​လိၤ​ဖိ | OT 1/2 |  |  |  |
+| Gimzo | — | OT 0/1 |  |  | Not in the Karen text – 2 Chr 28:18 leaves it out. |
+| Ginath | စီၤ​ကံ​နး | OT 2/2 |  |  |  |
+| Ginnetho | စီၤ​ကံး​န​သိၤ | OT 1/1 |  |  |  |
+| Ginnethon | စီၤ​ကံး​န​သိၣ် | OT 2/3 |  |  |  |
 | Girgashites | ပှၤ​ကံၢ်​ကၣ်​ဖိ | OT 3/7 |  | Josh 3:10 |  |
+| Girgasite | ပှၤ​ကံၢ်​ကၣ်​ဖိ | OT 1/1 |  |  |  |
+| Gispa | စီၤ​ကံး​ၡ​ပၤ | OT 1/1 |  |  |  |
+| Gittahhepher | ကံး​တၤ​ဃ့​ဖ့ၢ် | OT 1/1 |  |  |  |
+| Gittaim | ကံး​တ​ယၣ် | OT 1/2 |  |  |  |
+| Gittite | ပှၤ​ကံး​တံး​ဖိ | OT 8/8 |  |  |  |
+| Gizonite | ပှၤ​ကံး​စိာ်​ဖိ | OT 1/1 |  |  |  |
+| Gob | ကိာ် | OT 2/2 |  |  |  |
 | Gog | စီၤ​ကိး | OT 8/8 |  |  |  |
 | Golan | ကိ​လၣ် | OT 4/4 |  | Deut 4:43 |  |
 | Golgotha | ကီၤ​လၤ​ကီၤ​သါ | NT 3/3 |  |  |  |
 | Goliath | စီၤ​ကၤ​လ​ယး | OT 5/6 |  | 1 Sam 17:4, 23 |  |
+| Gomer | စီၤ​ကိ​မၢၤ | OT 6/6 |  |  |  |
 | Gomorrah | ဂ​မိ​ရၤ | OT 18/19 |  |  |  |
 | Gomorrha | ဂ​မိ​ရၤ | NT 4/5 |  |  |  |
 | Goshen | ကိ​ၡ့ၣ် | OT 11/14 varies |  |  |  |
+| Gozan | ကိ​စၣ် | OT 5/5 |  |  |  |
+| Gudgodah | ကူး​ဒ​ကိ​ဒၤ | OT 1/1 |  |  |  |
+| Guni | စီၤ​ကူ​နံၤ | OT 2/4 |  |  |  |
+| Gunites | ပှၤ​ကူ​နံၤ​ဖိ | OT 1/1 |  |  |  |
+| Gur | ကူၢ် | OT 1/1 |  |  |  |
+| Gurbaal | ကူၢ်​ဘ​ဧၤ​လး | OT 1/1 |  |  |  |
+| Haahashtari | စီၤ​အ​ဃၤ​ၡ​တၤ​ရံ | OT 1/1 |  |  |  |
+| Habaiah | စီၤ​ဃ​ဘါ​ယၤ | OT 2/2 |  |  |  |
+| Habor | ဃၤ​ဘိၢ် | OT 3/3 |  |  |  |
+| Hachaliah | စီၤ​ဃ​ကါ​လ​ယၤ | OT 2/2 |  |  |  |
+| Hachilah | ဃ​ကံ​လၤ | OT 3/3 |  |  |  |
+| Hachmoni | စီၤ​ဃၤ​က​မိၣ် | OT 1/1 |  |  |  |
+| Hachmonite | ပှၤ​ဃၤ​က​မိၣ်​ဖိ | OT 1/1 |  |  |  |
+| Hadad | စီၤ​ဟၤ​ဒး | OT 5/12 |  |  |  |
 | Hadadezer | စီၤ​ဟး​ဒး​ဧ့​စ့ၢ် | OT 7/8 |  |  |  |
+| Hadar | စီၤ​ဃ​ဒၢ် | OT 2/2 |  |  |  |
 | Hadarezer | ဟး​ဒၢ်​ဧ့​စ့ၢ် | OT 8/10 |  |  |  |
+| Hadashah | ဒး​လ​ကး | OT 1/1 |  |  |  |
+| Hadassah | နီၢ်​ဟ​ဒး​စၤ | OT 1/1 |  |  |  |
+| Hadattah | ဃ​ဒး​တၤ | OT 1/1 |  |  |  |
+| Hadid | ဃၤ​ဒံး | OT 3/3 |  |  |  |
+| Hadlai | စီၤ​ဃၤ​ဒ​လဲ | OT 1/1 |  |  |  |
+| Hadoram | စီၤ​ဟ​ဒိၣ်​ရၣ် | OT 2/4 |  |  |  |
+| Hagab | စီၤ​ဃၤ​ကာ် | OT 1/1 |  |  |  |
+| Hagaba | စီၤ​ဃၤ​က​ဘၤ | OT 1/1 |  |  |  |
+| Hagabah | စီၤ​ဃၤ​က​ဘၤ | OT 1/1 |  |  |  |
 | Hagar | နီၢ်​ဟၤ​ကၢ် | OT 10/10 |  |  |  |
+| Hagarites | ပှၤ​ဟၤ​ကၢ်​ဖိ | OT 3/3 |  |  |  |
+| Hagerite | ပှၤ​ဃၤ​ကၢ်​ဖိ | OT 1/1 |  |  |  |
+| Haggai | ဃး​ကဲ | OT 11/11 |  |  | Called ဝံ​ဃး​ကဲ (the prophet). |
+| Haggeri | စီၤ​ဟ​က​ရံ | OT 1/1 |  |  |  |
+| Haggi | စီၤ​ဃး​ကံ | OT 2/2 |  |  |  |
+| Haggiah | စီၤ​ဃး​ကံ​ယၤ | OT 1/1 |  |  |  |
+| Haggites | ပှၤ​ဃး​ကံၤ​ဖိ | OT 1/1 |  |  |  |
+| Haggith | နီၢ်​ဃး​ကံၤ | OT 5/5 |  |  |  |
+| Hai | ဂဲ | OT 2/2 |  |  |  |
+| Hakkatan | စီၤ​ဟး​ကၤ​တၣ် | OT 1/1 |  |  |  |
+| Hakkoz | စီၤ​ဟး​ကိး | OT 1/1 |  |  |  |
+| Hakupha | စီၤ​ဃၤ​ကူ​ဖၤ | OT 2/2 |  |  |  |
+| Halah | ဃၤ​လၤ | OT 3/3 |  |  |  |
+| Halak | ဃၤ​လး | OT 2/2 |  |  |  |
+| Halhul | ဃၤ​လ​ဃူ​လး | OT 1/1 |  |  |  |
+| Hali | ဃ​လံ | OT 1/1 |  |  |  |
+| Hallohesh | စီၤ​ဟး​လိ​ဃ့ၣ် | OT 1/1 |  |  | Same man as Halohesh. |
+| Halohesh | စီၤ​ဟး​လိ​ဃ့ၣ် | OT 1/1 |  |  | Same man as Hallohesh. |
 | Ham | စီၤ​ဃၣ် | OT 15/16 |  |  |  |
 | Haman | စီၤ​ဟၤ​မၣ် | OT 44/45 |  |  |  |
 | Hamath | ဃ​မါ​သး | OT 32/32 |  |  |  |
+| Hamathite | ပှၤ​ဃ​မါ​သး​ဖိ | OT 2/2 |  |  |  |
+| Hamathzobah | ဃ​မါ​သး​စိ​ဘၤ | OT 1/1 |  |  |  |
+| Hammath | ဃး​မး | OT 1/1 |  |  |  |
+| Hammedatha | စီၤ​ဟး​မ​ဒၤ​သၤ | OT 5/5 |  |  |  |
+| Hammoleketh | နီၢ်​ဟး​မိၤ​လ့​က့း | OT 1/1 |  |  |  |
+| Hammon | ဃ​မိၣ် | OT 1/2 |  |  |  |
+| Hammothdor | ဃၤ​မိး​ဒိၣ် | OT 1/1 |  |  |  |
 | Hamor | စီၤ​ဃ​မိၢ် | OT 11/12 |  |  |  |
+| Hamuel | စီၤ​ဃ​မူၤ​အ့​လး | OT 1/1 |  |  |  |
+| Hamul | စီၤ​ဃ​မူ | OT 3/3 |  |  |  |
+| Hamulites | ပှၤ​ဃ​မူ​ဖိ | OT 1/1 |  |  |  |
+| Hamutal | နီၢ်​ဃ​မူ​တ​လး | OT 3/3 |  |  |  |
+| Hanan | စီၤ​ဃၤ​နၣ် | OT 11/12 |  |  |  |
+| Hananeel | ဃ​နၤ​န့​လး | OT 4/4 |  |  |  |
 | Hanani | စီၤ​ဃ​နၤ​နံ | OT 11/11 |  |  |  |
 | Hananiah | ဃ​နၤ​န​ယၤ | OT 26/28 |  |  |  |
+| Haniel | စီၤ​ဃ​နံၤ​အ့​လး | OT 1/1 |  |  |  |
 | Hannah | နီၢ်​ဃး​နၤ | OT 11/11 |  |  |  |
+| Hannathon | ဃး​န​သိၣ် | OT 1/1 |  |  |  |
+| Hanniel | စီၤ​ဃ​နံၤ​အ့​လး | OT 1/1 |  |  |  |
+| Hanoch | စီၤ​ဃ​နိာ် | OT 5/5 |  |  |  |
+| Hanochites | ပှၤ​ဃ​နိာ်​ဖိ | OT 1/1 |  |  |  |
 | Hanun | စီၤ​ဃၤ​နူၣ် | OT 10/10 |  |  |  |
+| Hapharaim | ဃ​ဖၢ်​ရဲၣ် | OT 1/1 |  |  |  |
+| Hara | ဟၤ​ရၢ် | OT 1/1 |  |  |  |
+| Haradah | ဃ​ရၤ​ဒါ | OT 2/2 |  |  |  |
 | Haran | ဟၤ​ရၣ် | OT 11/16 varies |  |  |  |
+| Hararite | ပှၤ​ဟ​ရၢ်​ဖိ | OT 3/4 |  |  |  |
+| Harbona | စီၤ​ဃၤ​ရ​ဘိ​နၤ | OT 1/1 |  |  | Same man as Harbonah. |
+| Harbonah | စီၤ​ဃၤ​ရ​ဘိ​နၤ | OT 1/1 |  |  | Same man as Harbona. |
+| Hareph | စီၤ​ဃၤ​ရၣ် | OT 1/1 |  |  |  |
+| Hareth | ဃ့ၤ​ရ့း | OT 1/1 |  |  |  |
+| Harhaiah | စီၤ​ဃၤ​ရ​ဟ​ယၤ | OT 1/1 |  |  |  |
+| Harhas | စီၤ​ဃၢ်​ဃၣ် | OT 1/1 |  |  |  |
+| Harhur | စီၤ​ဃၢ်​ဃူၢ် | OT 2/2 |  |  |  |
 | Harim | ဃၤ​ရံၣ် | OT 10/11 |  |  |  |
+| Hariph | စီၤ​ဃၤ​ရံာ် | OT 2/3 |  |  |  |
+| Harnepher | စီၤ​ဃၤ​ရ​န့​ဖ့ၢ် | OT 1/1 |  |  |  |
+| Harod | ဃ​ရိး | OT 1/1 |  |  |  |
+| Harodite | ပှၤ​ဃ​ရိး​ဖိ | OT 1/1 |  |  |  |
+| Haroeh | စီၤ​ဃ့ၤ​ရိ​အ့း | OT 1/1 |  |  |  |
+| Harorite | ပှၤ​ဃ​ရိး​ဖိ | OT 1/1 |  |  |  |
+| Harosheth | ဃ​ရိ​ၡ့း | OT 3/3 |  |  |  |
+| Harsha | စီၤ​ဃၤ​ရ​ၡၤ | OT 2/2 |  |  |  |
+| Harum | စီၤ​ဟ့ၤ​ရူၣ် | OT 1/1 |  |  |  |
+| Harumaph | စီၤ​ဃ​ရူ​မာ် | OT 1/1 |  |  |  |
+| Haruphite | ပှၤ​ဃ​ရူ​ဖး​ဖိ | OT 1/1 |  |  |  |
+| Haruz | စီၤ​ဃၤ​ၡူး | OT 1/1 |  |  |  |
+| Hasadiah | စီၤ​ဃ​စၤ​ဒံ​ယၤ | OT 1/1 |  |  |  |
+| Hasenuah | စီၤ​ဟး​စ​နူ​အၤ | OT 1/1 |  |  |  |
 | Hashabiah | စီၤ​ဃ​ၡၤ​ဘ​ယၤ | OT 14/15 |  |  |  |
+| Hashabnah | စီၤ​ဃ​ၡၤ​ဘ​နၤ | OT 1/1 |  |  |  |
+| Hashabniah | စီၤ​ဃ​ၡၤ​ဘံ​ယၤ | OT 2/2 |  |  |  |
+| Hashbadana | စီၤ​ဃၤ​ၡ​ဘး​ဒ​နၤ | OT 1/1 |  |  |  |
+| Hashem | စီၤ​ယၤ​ၡ့ၣ် | OT 1/1 |  |  |  |
+| Hashmonah | ဃၤ​ၡ​မိ​နၤ | OT 2/2 |  |  |  |
+| Hashub | စီၤ​ဃၤ​ၡူာ် | OT 3/4 |  |  | Neh 3:11 has ဃၤ​ရူာ် (section 16). |
+| Hashubah | စီၤ​ဃ​ၡူ​ဘၤ | OT 1/1 |  |  |  |
+| Hashum | စီၤ​ဃၤ​ၡူၣ် | OT 4/5 |  |  |  |
+| Hashupha | စီၤ​ဃ​စူ​စၤ | OT 1/1 |  |  | Ezra 2:43 Hasupha is ဃ​စူ​ဖၤ. |
+| Hasrah | စီၤ​ဃၤ​စ​ရၤ | OT 1/1 |  |  |  |
+| Hassenaah | စီၤ​ဟး​စ​နုၤ​အၤ | OT 1/1 |  |  |  |
+| Hasshub | စီၤ​ဃၤ​ၡူာ် | OT 1/1 |  |  |  |
+| Hasupha | စီၤ​ဃ​စူ​ဖၤ | OT 1/1 |  |  |  |
+| Hatach | စီၤ​ဟၤ​တး | OT 3/4 |  |  | Esth 4:9 has ဟး​တး (section 16). |
+| Hathath | စီၤ​ဃ​သး | OT 1/1 |  |  |  |
+| Hatipha | စီၤ​ဃၤ​တံ​ဖၤ | OT 2/2 |  |  |  |
+| Hatita | စီၤ​ဃ​တံ​တၤ | OT 2/2 |  |  |  |
+| Hattil | စီၤ​ဃး​တံ​လး | OT 2/2 |  |  |  |
+| Hattush | စီၤ​ဃး​တူၣ် | OT 4/5 |  |  |  |
 | Havilah | ဃ​ဝံၤ​လၤ | OT 5/6 |  |  | Gen 25:18 has ဃ​ဝံ​လၤ (possible typo). |
+| Havothjair | ဃၤ​ဝီး​ယၤ​အံၢ် | OT 1/2 |  |  |  |
 | Hazael | ဃ​စ့​လး | OT 21/21 |  |  |  |
+| Hazaiah | စီၤ​ဃ​စါ​ယၤ | OT 1/1 |  |  |  |
+| Hazaraddar | ဃ​စၢ်​အး​ဒၢ် | OT 1/1 |  |  |  |
+| Hazarenan | ဃ​စၢ်​ဧ့​နၣ် | OT 4/4 |  |  |  |
+| Hazargaddah | ဃ​စၣ်​ကး​ဒၤ | OT 1/1 |  |  |  |
+| Hazarmaveth | ဃၤ​စ​ရ​မၤ​ဝ့း | OT 2/2 |  |  |  |
+| Hazarshual | ဃ​စၢ်​ၡူ​ဧ​လး | OT 4/4 |  |  |  |
+| Hazarsusah | ဃ​စၢ်​စူ​စၤ | OT 1/1 |  |  | Karen has it in the next or previous verse (Josh 19 verse boundaries differ) |
+| Hazarsusim | ဃ​စၢ်​စူ​စၤ | OT 1/1 |  |  |  |
+| Hazazontamar | ဃၤ​ဃ​စိၣ်​တါ​မၢ် | OT 1/1 |  |  |  |
+| Hazelelponi | နီၢ်​ဟး​စ့​လ​လ့​ပိ​နံၤ | OT 1/1 |  |  |  |
+| Hazerim | ဃ​စ့​ရံၣ် | OT 1/1 |  |  |  |
 | Hazeroth | ဃ​စ့​ရိၤ | OT 2/5 (varies) |  | Num 11:35; 12:16 |  |
+| Hazezontamar | ဃၤ​စ​စိၣ်​တါ​မၢ် | OT 1/1 |  |  |  |
+| Haziel | စီၤ​ဃ​စံၤ​အ့​လး | OT 1/1 |  |  |  |
+| Hazo | စီၤ​ဃ​စိၤ | OT 1/1 |  |  |  |
 | Hazor | ဃါ​စိၢ် | OT 17/17 |  |  |  |
 | Heber | စီၤ​ဃ့​ဘ့ၢ် | OT 10/12 |  |  |  |
+| Heberites | ပှၤ​ဃ့​ဘ့ၢ်​ဖိ | OT 1/1 |  |  |  |
 | Hebrew | ဧ့ၤ​ဘြံၤ *(Hebrew)*<br>ပှၤ​ဧ့ၤ​ဘြံၤ​ဖိ *(Hebrews)* | NT *Hebrew* 11/11; OT *Hebrews* 17/18 |  |  |  |
 | Hebron | ဃ့​ဘြိၣ် | OT 64/68 |  |  |  |
+| Hebronites | ပှၤ​ဃ့​ဘြိၣ်​ဖိ | OT 5/5 |  |  |  |
+| Hegai | စီၤ​ဟ့​က့ၤ | OT 3/3 |  |  | Same man as Hege. |
+| Hege | စီၤ​ဟ့​က့ၤ | OT 1/1 |  |  | Same man as Hegai. |
+| Helah | နီၢ်​ဃ့​လၤ | OT 2/2 |  |  |  |
+| Helam | ဃ့​လၣ် | OT 2/2 |  |  |  |
+| Helbah | ဃ့​လ​ဘၤ | OT 1/1 |  |  |  |
+| Heldai | စီၤ​ဃ့​လ​ဒဲၤ | OT 2/2 |  |  |  |
+| Heleb | စီၤ​ဃ့​လ့ာ် | OT 1/1 |  |  |  |
+| Heled | စီၤ​ဃ့​လ့ာ် | OT 1/1 |  |  |  |
+| Helek | စီၤ​ဃ့​လ့း | OT 2/2 |  |  |  |
+| Helekites | ပှၤ​ဃ့​လ့း​ဖိ | OT 1/1 |  |  |  |
+| Helem | စီၤ​ဃ့​လ့ၣ် | OT 1/2 |  |  |  |
+| Heleph | ယ့​လ့ာ် | OT 1/1 |  |  |  |
+| Helez | စီၤ​ဃ့​လ့း | OT 4/4 |  |  |  |
+| Helkai | စီၤ​ဃ့​လ​ကံ | OT 1/1 |  |  |  |
+| Helkath | ဃ့​လ​ကး | OT 2/2 |  |  |  |
+| Helkathhazzurim | ဃ့​လ​ကး​ဟ​စူ​ရံၣ် | OT 1/1 |  |  |  |
 | Helon | စီၤ​ဃ့​လူၣ် | OT 4/5 |  | Num 1:5–15 |  |
+| Hemam | စီၤ​ဟ့ၣ်​မၣ် | OT 1/1 |  |  |  |
 | Heman | စီၤ​ဟ့​မၣ် | OT 14/15 |  |  |  |
+| Hemath | ဃၤ​မါ​သး | OT 1/3 |  |  |  |
+| Hemdan | ဃ့း​မ​ဒၣ် | OT 1/1 |  |  |  |
+| Hena | ဟ့​နၤ | OT 3/3 |  |  |  |
+| Henadad | စီၤ​ဃ့​နါ​ဒး | OT 4/4 |  |  |  |
+| Henoch | စီၤ​ဃ​နိာ် | OT 2/2 |  |  |  |
 | Hepher | ဃ့​ဖ့ၢ် | OT 8/9 |  |  |  |
+| Hepherites | ပှၤ​ဃ့​ဖ့ၢ်​ဖိ | OT 1/1 |  |  |  |
+| Hephzibah | နီၢ်​ဃ့​ပ​စံ​ဘၤ | OT 2/2 |  |  |  |
+| Heres | ဃ့​ရ့း | OT 1/1 |  |  |  |
+| Heresh | စီၤ​ဃ့​ရ့ၣ် | OT 1/1 |  |  |  |
 | Hermon | ဃ့​ရ​မိၣ် | OT 12/13 |  |  |  |
 | Herod | စီၤ​ဟ့ၤ​ရိာ် | NT 34/41 |  |  |  |
 | Herodias | နီၢ်​ဟ့ၤ​ရိၤ​ဒံ | NT 6/6 |  |  |  |
+| Hesed | စီၤ​ဃ့​စ့း | OT 1/1 |  |  |  |
 | Heshbon | ဃ့​ၡ​ဘိၣ် | OT 37/37 |  |  |  |
+| Heshmon | ဃ့​ၡ​မိၣ် | OT 1/1 |  |  |  |
 | Heth (sons / children of) | စီၤ​ဃ့ၤ​သး​အ​ဖိ​ခွါ | OT 12/12 |  |  | Gen 23:3–20. Hittite = ပှၤ​ဃ့ၤ​သး​ဖိ. |
+| Hezeki | စီၤ​ဃံး​စ​ကံ | OT 1/1 |  |  |  |
 | Hezekiah | စီၤ​ဃံး​စ​ကံ​ယၤ | OT 100/117 |  |  |  |
+| Hezion | စီၤ​ဃ့​စိၣ် | OT 1/1 |  |  |  |
+| Hezir | စီၤ​ဃ့​စံၢ် | OT 2/2 |  |  |  |
+| Hezrai | စီၤ​ဃ့ၤ​စ​ရ့ | OT 1/1 |  |  |  |
+| Hezro | စီၤ​ဃ့​စ​ရိၤ | OT 1/1 |  |  |  |
 | Hezron | ဃ့​စ​ရိၣ် | OT 12/17 varies |  |  | OT also ဃ့း​စ​ရိၣ် (5×), e.g. Num 26:6 |
+| Hezronites | ပှၤ​ဃ့း​စ​ရိၣ်​ဖိ | OT 1/2 |  |  |  |
+| Hiddai | စီၤ​ဟံး​ဒဲ | OT 1/1 |  |  |  |
+| Hiddekel | ဃံး​ဒ​က့​လး | OT 2/2 |  |  |  |
+| Hiel | ဃံၤ​အ့​လး | OT 1/1 |  |  |  |
+| Hilen | ဃံ​လ့ၣ် | OT 1/1 |  |  | Karen has it in the next or previous verse (verse boundaries differ) |
 | Hilkiah | စီၤ​ဃံး​လ​ကံ​ယၤ | OT 29/31 |  |  |  |
+| Hillel | ဟံး​လ့​လး | OT 2/2 |  |  |  |
 | Hinnom (valley of the son of) | (စီၤ)​ဟံၣ်​နိၣ်​(အ​ဖိ​ခွါ)​အ​က​စၢၢ်​က​ဆူး | OT 10/11 |  | Josh 15:8; 18:16 |  |
+| Hirah | စီၤ​ဃံ​ရၤ | OT 2/2 |  |  |  |
 | Hiram | စီၤ​ဃံ​ရၣ် | OT 16/19 |  |  |  |
 | Hittite | ပှၤ​ဃ့ၤ​သး​ဖိ | OT *Hittite* 25/25; OT *Hittites* 21/22 |  |  |  |
+| Hizkijah | စီၤ​ဃံး​စ​ကံ​ယၤ | OT 1/1 |  |  | Same Karen form as Hezekiah. |
 | Hobab | စီၤ​ဃိ​ဘာ် | OT 1/2 |  | Num 10:29 | Judg 4:11 has စီၤ​ဃိ​တာ် |
+| Hobah | ဃိ​ဘၤ | OT 1/1 |  |  |  |
+| Hod | စီၤ​ဟိး | OT 1/1 |  |  |  |
+| Hodaiah | စီၤ​ဟိ​ဒါ​ယၤ | OT 1/1 |  |  |  |
+| Hodaviah | စီၤ​ဟိ​ဒၤ​ဝ​ယၤ | OT 3/3 |  |  |  |
+| Hodesh | နီၢ်​ဃိ​ဒ့ၣ် | OT 1/1 |  |  |  |
+| Hodevah | စီၤ​ဟိၤ​ဒၤ​ဝ​ယၤ | OT 1/2 |  |  |  |
+| Hodiah | နီၢ်​ဟိၤ​ဒံ​ယၤ | OT 1/1 |  |  |  |
+| Hodijah | စီၤ​ဟိၤ​ဒံ​ယၤ | OT 5/5 |  |  |  |
+| Hoglah | နီၢ်​ဃၤ​က​လၤ | OT 3/4 |  |  |  |
+| Hoham | စီၤ​ဟိ​ဟၣ် | OT 1/1 |  |  |  |
+| Holon | ဟိ​လိၣ် | OT 2/3 |  |  |  |
+| Homam | စီၤ​ဟ့​မၣ် | OT 1/1 |  |  |  |
 | Hophni | စီၤ​ဃၤ​ဖ​နံ | OT 4/5 |  | 1 Sam 1:3; 2:34; 4:4–17 | 1 Sam 1:3 has ဃၤဖနံၤ. |
 | Hor (mount) | က​စၢၢ်​ဃိၢ် | OT 12/12 |  | Num 20:22–28 |  |
+| Horam | စီၤ​ဟိ​ရၣ် | OT 1/1 |  |  |  |
 | Horeb | ဃိၤ​ရ့း | OT 13/17 |  | Deut 1:2, 6, 19 |  |
 | Horeb | ဃိၤ​ရ့း | OT 13/17 varies |  |  |  |
+| Horem | ဃိး​ရ့ၣ် | OT 1/1 |  |  |  |
+| Horhagidgad | ဃိး​ရ​ဟး​ကံ​ဒ့း | OT 2/2 |  |  |  |
 | Hori | စီၤ​ဃိ​ရံၤ | OT 1/4 (varies) |  | Num 13 |  |
 | Horims | ပှၤ​ဃိ​ရံၤ​ဖိ | OT 2/2 |  | Deut 2:12, 22 |  |
 | Horites | ပှၤ​ဃိၢ်​ဖိ | OT 4/4 |  |  |  |
 | Hormah | ဃိၢ်​မါ | OT 9/9 |  |  |  |
+| Horonite | ပှၤ​ဃိ​ရၣ်​ဖိ | OT 2/3 |  |  |  |
+| Hosah | စီၤ​ဃိ​စၤ | OT 5/5 |  |  |  |
+| Hoshaiah | စီၤ​ဟိၤ​ၡၤ​ယၤ | OT 3/3 |  |  |  |
+| Hoshama | စီၤ​ဟိ​ၡၤ​မၤ | OT 1/1 |  |  |  |
 | Hoshea | စီၤ​ဟိၤ​ၡ့ | OT 9/11 |  |  |  |
+| Hotham | စီၤ​ဃိ​သၣ် | OT 1/1 |  |  |  |
+| Hothan | စီၤ​ဃိ​သၣ် | OT 1/1 |  |  |  |
+| Hothir | စီၤ​ဟိ​သံၤ | OT 1/2 |  |  |  |
+| Hukkok | ဃူး​ကိး | OT 1/1 |  |  |  |
+| Hukok | ဃူး​ကိး | OT 1/1 |  |  |  |
+| Hul | စီၤ​ဃူ​လး | OT 2/2 |  |  |  |
+| Huldah | နီၢ်​ဃူး​လ​ဒါ | OT 1/2 |  |  |  |
+| Humtah | ဃူ​မ​တၤ | OT 1/1 |  |  |  |
+| Hupham | စီၤ​ဃူ​ဖၣ် | OT 1/1 |  |  |  |
+| Huphamites | ပှၤ​ဃူ​ဖၣ်​ဖိ | OT 1/1 |  |  |  |
+| Huppah | စီၤ​ဃူး​ပၤ | OT 1/1 |  |  |  |
+| Huppim | စီၤ​ဃူ​ဖံၣ် | OT 2/3 |  |  |  |
 | Hur | စီၤ​ဃူၢ် | OT 16/16 |  |  |  |
+| Hurai | စီၤ​ဃူ​ရဲၤ | OT 1/1 |  |  |  |
 | Huram | စီၤ​ဃူ​ရၣ် | OT 10/11 |  |  |  |
+| Huri | စီၤ​ဃူ​ရံၤ | OT 1/1 |  |  |  |
+| Hushah | ဃူ​ၡဲၤ | OT 1/1 |  |  |  |
 | Hushai | စီၤ​ဃူ​ၡဲၤ | OT 12/13 |  |  |  |
+| Husham | စီၤ​ဃူ​ၡၣ် | OT 4/4 |  |  |  |
+| Hushathite | ပှၤ​ဃူ​ၡ​သး​ဖိ | OT 4/5 |  |  |  |
+| Hushim | စီၤ​ဃူ​ၡံၣ် | OT 4/4 |  |  |  |
+| Huz | စီၤ​ဧူ​စး | OT 1/1 |  |  |  |
+| Ibhar | စီၤ​ယံး​ဘ​ဃၢ် | OT 3/3 |  |  |  |
+| Ibleam | ယံး​ဘျၣ် | OT 3/3 |  |  |  |
+| Ibneiah | စီၤ​ယံး​ဘ​နံ​ယၤ | OT 1/1 |  |  |  |
+| Ibnijah | စီၤ​ယံး​ဘ​နံ​ယၤ | OT 1/1 |  |  |  |
+| Ibri | စီၤ​ဧံ​ဘြံၤ | OT 1/1 |  |  |  |
+| Ibzan | စီၤ​အံး​ဘ​စၣ် | OT 2/2 |  |  |  |
 | Ichabod | စီၤ​အံ​က​ဘိး | OT 2/2 |  | 1 Sam 4:21 | "No glory". |
 | Iconium | အံၤ​က​နံၤ | NT 5/6 |  |  |  |
+| Idalah | ယံး​ဒၤ​လၤ | OT 1/1 |  |  |  |
+| Idbash | စီၤ​ယံး​ဒ​ဘၣ် | OT 1/1 |  |  |  |
 | Iddo | ဧံး​ဒိၤ | OT 11/13 |  |  |  |
 | Igal | စီၤ​ယံး​က​အၤ​လး | OT 1/2 |  | Num 13 |  |
+| Igeal | စီၤ​ယ​ကၤ​လး | OT 1/1 |  |  |  |
+| Iim | ဧ့ၤ​ယ့ | OT 1/2 |  |  |  |
+| Ijeabarim | ဧ့ၤ​ယ့​ဟိး​ဘၤ​ရံၣ် | OT 2/2 |  |  |  |
+| Ijon | ဧံၤ​ယိၣ် | OT 3/3 |  |  |  |
+| Ikkesh | စီၤ​ဧံး​က့ၣ် | OT 2/3 |  |  |  |
+| Ilai | စီၤ​ဧံ​လဲၤ | OT 1/1 |  |  |  |
+| Imla | စီၤ​ယံး​မ​လၤ | OT 2/2 |  |  |  |
+| Imlah | စီၤ​ယံး​မ​လၤ | OT 2/2 |  |  |  |
+| Immer | စီၤ​အံး​မ့ၢ် | OT 10/10 |  |  |  |
+| Imna | စီၤ​ယံး​မ​နၤ | OT 1/1 |  |  |  |
+| Imnah | စီၤ​ယံး​မ​နၤ | OT 2/2 |  |  |  |
+| Imrah | စီၤ​ယး​မ​ရၤ | OT 1/1 |  |  |  |
+| Imri | စီၤ​အံၤ​မ​ရံ | OT 2/2 |  |  |  |
+| India | ဟံၣ်​ဒူၤ | OT 2/2 |  |  |  |
+| Iphedeiah | စီၤ​ယံး​ဖံး​ဒ​ယၤ | OT 1/1 |  |  |  |
+| Ir | စီၤ​ဧံၢ် | OT 1/1 |  |  |  |
+| Ira | စီၤ​ဧံ​ရၤ | OT 6/6 |  |  |  |
+| Irad | စီၤ​ဧၤ​ရး | OT 1/1 |  |  |  |
+| Iram | ဧံ​ရၣ် | OT 2/2 |  |  |  |
+| Iri | စီၤ​ဧံ​ရံၤ | OT 1/1 |  |  |  |
+| Irnahash | ဧံၢ်​န​ဃ့ၣ် | OT 1/1 |  |  |  |
+| Irpeel | ယံ​ရ​ဖၤ​အ့​လး | OT 1/1 |  |  |  |
+| Irshemesh | ဧံၢ်​ၡ့​မ့ၣ် | OT 1/1 |  |  |  |
+| Iru | စီၤ​ဧံၤ​ရူ | OT 1/1 |  |  |  |
 | Isaac | စီၤ​အံၤ​စဲး | NT 18/18; OT 103/105 |  |  |  |
 | Isaiah | ယ​ၡါ​ယၤ | OT 32/32 |  |  |  |
+| Iscah | နီၢ်​ယံၤ​စ​ကၤ | OT 1/1 |  |  |  |
+| Ishbah | စီၤ​ယံး​ၡ​ဘၤ | OT 1/1 |  |  |  |
+| Ishbak | စီၤ​ယံး​ၡ​ဘး | OT 2/2 |  |  |  |
+| Ishbibenob | ယံ​ၡ​ဘ​နိး | OT 1/1 |  |  |  |
 | Ishbosheth | စီၤ​အံၤ​ၡ​ဘိ​ၡ့း | OT 10/11 |  |  |  |
+| Ishi | စီၤ​ယံ​ၡံၤ | OT 4/5 |  |  |  |
+| Ishiah | စီၤ​ယံး​ၡံ​ယၤ | OT 1/1 |  |  |  |
+| Ishijah | စီၤ​ယ​ၡံ​ယၤ | OT 1/1 |  |  |  |
+| Ishma | စီၤ​ယံ​ၡ​မၤ | OT 1/1 |  |  |  |
 | Ishmael | စီၤ​ယံး​ၡ​မၤ | OT 43/44 |  |  | Abraham's son is written in full, စီၤ​ယံး​ၡ​မၤ​ဧ့​လး (Gen 16–25). |
+| Ishmaelite | ပှၤ​ယံး​ၡ​မၤ​ဧ့​လး​ဖိ | OT 1/1 |  |  |  |
+| Ishmaiah | စီၤ​ယံး​ၡ​မၤ​ယၤ | OT 1/1 |  |  |  |
 | Ishmeelites | ပှၤ​ယံး​ၡ​မၤ​ဧ့​လး​ဖိ | OT 4/4 |  |  | Gen 37:25–28; 39:1. |
+| Ishmerai | စီၤ​ယး​ၡး​မ​ရဲ | OT 1/1 |  |  |  |
+| Ishod | စီၤ​အံ​ၡ​ဟိး | OT 1/1 |  |  |  |
+| Ishpan | စီၤ​ယံး​ၡ​ဖၣ် | OT 1/1 |  |  |  |
+| Ishtob | အံ​ၡ​တိာ် | OT 2/2 |  |  |  |
+| Ishuah | စီၤ​ယံး​ၡ​ဝၤ | OT 1/1 |  |  |  |
+| Ishuai | စီၤ​ယံး​ၡ​ဝံၤ | OT 1/1 |  |  |  |
+| Ishui | စီၤ​ယံး​ၡ​ဝံ | OT 1/1 |  |  |  |
+| Ismachiah | စီၤ​ယံး​စ​မၤ​က​ယၤ | OT 1/1 |  |  |  |
+| Ismaiah | စီၤ​ယံး​ၡ​မၤ​ယၤ | OT 1/1 |  |  |  |
+| Ispah | စီၤ​ယး​ၡ​ပၤ | OT 1/1 |  |  |  |
 | Israel | အံၣ်​စ​ရ့​လး | NT 70/73; OT 2202/2228 | same 18/20 |  |  |
 | Israelites | ပှၤ​အံၣ်​စ​ရ့​လး​ဖိ |  | 6/6 |  |  |
 | Issachar | ယံး​စၣ်​ကၢ် | OT 37/40 |  |  |  |
+| Isshiah | စီၤ​ယံး​ၡံ​ယၤ | OT 2/2 |  |  |  |
+| Isuah | စီၤ​ယံး​ၡ​ဝၤ | OT 1/1 |  |  |  |
+| Isui | စီၤ​ယံး​ၡ​ဝံၤ | OT 1/1 |  |  |  |
 | Italy | အံၤ​တ​လံ | NT 4/4 |  |  |  |
+| Ithai | စီၤ​အံ​သဲၤ | OT 1/1 |  |  |  |
 | Ithamar | စီၤ​အံ​သ​မၢ် | OT 19/20 |  |  |  |
+| Ithiel | စီၤ​အံ​သံၤ​အ့​လး | OT 1/2 |  |  |  |
+| Ithmah | စီၤ​ယံး​သ​မၤ | OT 1/1 |  |  |  |
+| Ithnan | ယံ​သ​နၣ် | OT 1/1 |  |  |  |
+| Ithra | စီၤ​ယ့​သ့ၢ် | OT 1/1 |  |  |  |
+| Ithran | စီၤ​ယံး​သ​ရၣ် | OT 3/3 |  |  |  |
+| Ithream | စီၤ​ယံး​သြၣ် | OT 2/2 |  |  |  |
+| Ithrite | ပှၤ​ယံ​သၢ်​ဖိ | OT 2/2 |  |  |  |
+| Ittahkazin | ဧ့း​တၤ​က​စံၣ် | OT 1/1 |  |  |  |
+| Ittai | စီၤ​အံ​တဲၤ | OT 7/7 |  |  |  |
+| Ivah | ဧး​ဝါ | OT 3/3 |  |  |  |
+| Izehar | စီၤ​ယံး​စ​ဟၢ် | OT 0/1 |  |  | Num 3:19 has ယံးစတၢ် – see section 19 |
+| Izeharites | ပှၤ​ယံး​စ​ဟၢ်​ဖိ | OT 1/1 |  |  |  |
 | Izhar | စီၤ​ယံး​စ​ဟၢ် | OT 7/8 |  |  | Num 3:19 variant ယံး​စ​တၢ် (3×) |
+| Izharites | ပှၤ​ယံး​စ​ဟၢ်​ဖိ | OT 2/3 |  |  |  |
+| Izrahiah | စီၤ​ယံး​စ​ရါ​ဃၤ​ယၤ | OT 1/1 |  |  |  |
+| Izrahite | ပှၤ​ယံး​စ​ရၤ​ဃး​ဖိ | OT 1/1 |  |  |  |
+| Izri | စီၤ​ယံး​စ​ရံ | OT 1/1 |  |  |  |
+| Jaakan | ယၤ​ကၣ် | OT 1/1 |  |  |  |
+| Jaakobah | စီၤ​ယၤ​ကိ​ဘၤ | OT 1/1 |  |  |  |
+| Jaala | စီၤ​ယၤ​လၤ | OT 1/1 |  |  |  |
+| Jaalah | စီၤ​ယၤ​လၤ | OT 1/1 |  |  |  |
+| Jaalam | စီၤ​ယၤ​ဧ​လၣ် | OT 3/4 |  |  |  |
+| Jaanai | စီၤ​ယၤ​နဲ | OT 1/1 |  |  |  |
+| Jaareoregim | စီၤ​ယၤ​ရ့​အိ​ရ​ကံၣ် | OT 1/1 |  |  |  |
+| Jaasau | စီၤ​ယၤ​စၤ | OT 1/1 |  |  |  |
+| Jaasiel | စီၤ​ယၤ​စံ​အ့​လး | OT 1/1 |  |  |  |
+| Jaazaniah | စီၤ​ယၤ​စါ​န​ယၤ | OT 3/4 |  |  |  |
+| Jaazer | ယၤ​ဧ​စ့ၢ် | OT 2/2 |  |  |  |
+| Jaaziah | စီၤ​ယ​ဧၤ​စံ​ယၤ | OT 2/2 |  |  |  |
+| Jaaziel | စီၤ​ယၤ​စံ​အ့​လး | OT 1/1 |  |  |  |
+| Jabal | စီၤ​ယၤ​ဘ​လး | OT 1/1 |  |  |  |
 | Jabbok | ယး​ဘိး | OT 5/7 |  | Gen 32:22; Num 21:24 | Num 21:24 ယး​ဘိာ် (variant) |
+| Jabesh | ယၤ​ဘ့ၣ် | OT 11/11 |  |  |  |
 | Jabeshgilead | ယၤ​ဘ့ၣ်​ကံး​လ​ဧး | OT 11/12 |  |  |  |
+| Jabez | စီၤ​ယၤ​ဘ့း | OT 3/3 |  |  |  |
 | Jabin | ယၤ​ဘံၣ် | OT 7/7 |  | Josh 11:1 |  |
+| Jabneel | ယး​ဘ​န့​လး | OT 2/2 |  |  |  |
+| Jabneh | ယၤ​ဘ​န့ | OT 1/1 |  |  |  |
+| Jachan | စီၤ​ယၤ​ကၣ် | OT 1/1 |  |  |  |
+| Jachin | စီၤ​ယၤ​ကံၣ် | OT 8/8 |  |  |  |
+| Jachinites | ပှၤ​ယၤ​ကံၣ်​ဖိ | OT 1/1 |  |  |  |
 | Jacob | စီၤ​ယၤ​ကိာ် | NT 22/25; OT 227/320 varies |  |  |  |
 | Jacob's well | စီၤ​ယၤ​ကိာ်​အ​ထံ​က​မျၢ |  | ch. 1 (1×) |  |  |
+| Jada | စီၤ​ယၤ​ဒၤ | OT 2/2 |  |  |  |
+| Jadau | စီၤ​ယး​ဒဲ | OT 1/1 |  |  |  |
+| Jaddua | စီၤ​ယး​ဒူ | OT 3/3 |  |  |  |
+| Jadon | စီၤ​ယၤ​ဒိၣ် | OT 1/1 |  |  |  |
 | Jael | နီၢ်​ယ​ဧ့​လး | OT 6/6 |  | Judg 4:17–22; 5:6, 24 |  |
+| Jagur | ယၤ​ကူၢ် | OT 1/1 |  |  |  |
+| Jahath | စီၤ​ယၤ​ဃး | OT 7/7 |  |  |  |
 | Jahaz | ယါ​စၤ | OT 3/5 |  | Num 21:23 |  |
 | Jahaz / Jahazah | ယး​ဟ​စၤ / ယါ​စၤ | OT 3+3 (varies) |  | Num 21:23; Josh 13:18; Judg 11:20 |  |
+| Jahaziah | စီၤ​ယ​ဃၤ​စ​ယၤ | OT 1/1 |  |  |  |
+| Jahaziel | စီၤ​ယၤ​ဃ​စ​အ့​လး | OT 5/6 |  |  |  |
+| Jahdai | စီၤ​ယ့ၤ​ဒဲ | OT 1/1 |  |  |  |
+| Jahdiel | စီၤ​ယၤ​ဃ​ဒံၤ​အ့​လး | OT 1/1 |  |  |  |
+| Jahdo | စီၤ​ယး​ဃ​ဒိၤ | OT 1/1 |  |  |  |
+| Jahleel | စီၤ​ယၤ​လ​အ့​လး | OT 2/2 |  |  |  |
+| Jahleelites | ပှၤ​ယၤ​လ​အ့​လး​ဖိ | OT 1/1 |  |  |  |
+| Jahmai | စီၤ​ယၤ​ဃ​မဲ | OT 1/1 |  |  |  |
+| Jahzah | ယး​ဟ​စၤ | OT 1/1 |  |  |  |
+| Jahzeel | စီၤ​ယၤ​စ​အ့​လး | OT 1/2 |  |  |  |
+| Jahzeelites | ပှၤ​ယၤ​စ​အ့​လး​ဖိ | OT 1/1 |  |  |  |
+| Jahzerah | စီၤ​ယၤ​က​စ့​ရၤ | OT 1/1 |  |  |  |
+| Jahziel | စီၤ​ယၤ​ဃ​စံၤ​အ့​လး | OT 1/1 |  |  |  |
 | Jair | စီၤ​ယၤ​အံၢ် | OT 9/10 |  |  |  |
+| Jairite | ပှၤ​ယၤ​အံၢ်​ဖိ | OT 1/1 |  |  |  |
+| Jakan | စီၤ​ယၤ​ဧ​ကၣ် | OT 1/1 |  |  |  |
+| Jakim | စီၤ​ယၤ​ကံၣ် | OT 2/2 |  |  |  |
+| Jalon | စီၤ​ယၤ​လိၣ် | OT 1/1 |  |  |  |
 | James | စီၤ​ယၤ​ကိာ် | NT 38/38 |  |  |  |
+| Jamin | စီၤ​ယး​မံၣ် | OT 1/6 |  |  |  |
+| Jaminites | ပှၤ​ယၤ​မံၣ်​ဖိ | OT 1/1 |  |  |  |
+| Jamlech | စီၤ​ယၤ​မ​လ့း | OT 1/1 |  |  | Karen has it in the next or previous verse (verse boundaries differ) |
+| Janoah | ယၤ​နိ​ဃၤ | OT 1/1 |  |  |  |
+| Janohah | ယၤ​နိ​ဃၤ | OT 2/2 |  |  |  |
+| Janum | ယၤ​နူၣ် | OT 1/1 |  |  |  |
 | Japheth | စီၤ​ယ့​ဖ့း​သး | OT 11/11 |  |  |  |
+| Japhia | စီၤ​ယၤ​ဖံ | OT 5/5 |  |  |  |
+| Japhlet | စီၤ​ယၤ​ဖ​လ့း | OT 2/2 |  |  |  |
+| Japhleti | ယး​ဖ​လံ​တံၤ | OT 1/1 |  |  |  |
+| Japho | ယၤ​ဖိၤ | OT 1/1 |  |  |  |
+| Jarah | စီၤ​ယၤ​ရ့ၤ | OT 1/1 |  |  |  |
 | Jared | စီၤ​ယၤ​ရ့း | OT 5/5 |  |  |  |
+| Jaresiah | စီၤ​ယၤ​ရ့ၤ​ၡ​ယၤ | OT 1/1 |  |  |  |
+| Jarha | စီၤ​ယၢ်​ဃၤ | OT 1/2 |  |  |  |
+| Jarib | စီၤ​ယၤ​ရံာ် | OT 2/3 |  |  |  |
+| Jarmuth | ယၢ်​မူ​သး | OT 7/7 |  |  |  |
+| Jaroah | စီၤ​ယၤ​ရိၤ | OT 1/1 |  |  |  |
+| Jashen | စီၤ​ယၤ​ၡ့ၣ် | OT 1/1 |  |  |  |
+| Jasher | ယၤ​ၡၣ် | OT 2/2 |  |  |  |
+| Jashobeam | စီၤ​ယၤ​ၡ​ဘၣ် | OT 3/3 |  |  |  |
+| Jashub | စီၤ​ယၤ​ၡူာ် | OT 2/3 |  |  |  |
+| Jashubilehem | ယၤ​ၡူ​ဘံၤ​လ့​ဃ့ၣ် | OT 1/1 |  |  |  |
+| Jashubites | ယၤ​ၡူာ်​ဖိ​တ​ဒူၣ် | OT 1/1 |  |  |  |
+| Jasiel | စီၤ​ယၤ​စံ​အ့​လး | OT 1/1 |  |  |  |
 | Jason | စီၤ​ယါ​စီၣ် | NT 5/5 |  |  |  |
+| Jathniel | စီၤ​ယၤ​သ​နံၤ​အ့​လး | OT 1/1 |  |  |  |
+| Jattir | ယး​တံၢ် | OT 3/4 |  |  |  |
+| Javan | စီၤ​ယၤ​ဝၣ် | OT 7/7 |  |  |  |
 | Jazer | ယၤ​စ့ၢ် | OT 10/10 |  |  |  |
+| Jaziz | စီၤ​ယၤ​စံး | OT 1/1 |  |  |  |
+| Jearim | ယ​ဧၤ​ရံၣ် | OT 1/1 |  |  |  |
+| Jeaterai | စီၤ​ယ​အး​တ​ရဲ | OT 1/1 |  |  |  |
+| Jebus | ယ​ဘူၣ် | OT 4/4 |  |  |  |
+| Jebusi | ယ​ဘူၣ် | OT 2/2 |  |  |  |
 | Jebusite | ပှၤ​ယ​ဘူၣ်​ဖိ | OT *Jebusite* 11/14 varies; OT *Jebusites* 23/23 |  |  |  |
 | Jebusites | ပှၤ​ယ​ဘူၣ်​ဖိ | OT |  |  | 2 Sam 5:6, 8. |
+| Jecamiah | စီၤ​ယ​ကၤ​မ​ယ့ၤ | OT 1/1 |  |  |  |
+| Jecholiah | နီၢ်​ယ​ကိး​လ​ယၤ | OT 1/1 |  |  |  |
+| Jecoliah | နီၢ်​ယ​ကိး​လ​ယၤ | OT 1/1 |  |  |  |
+| Jeconiah | စီၤ​ယံး​ကၤ​နံ​ယၤ | OT 7/7 |  |  |  |
+| Jedaiah | စီၤ​ယ​ဒါ​ယၤ | OT 6/13 |  |  |  |
+| Jediael | စီၤ​ယ​ဒံၤ​အ့​လး | OT 1/6 |  |  |  |
+| Jedidah | နီၢ်​ယ​ဒံ​ဒၤ | OT 1/1 |  |  |  |
+| Jedidiah | စီၤ​ယ​ဒံ​ဒ​ယၤ | OT 1/1 |  |  |  |
+| Jeduthun | စီၤ​ယ​ဒူ​သူၣ် | OT 13/14 |  |  |  |
+| Jeezer | စီၤ​အံ​စ့ၢ် | OT 1/1 |  |  |  |
+| Jeezerites | ပှၤ​အံ​စ့ၢ်​ဖိ | OT 1/1 |  |  |  |
+| Jegarsahadutha | ယ​ကၢ်​စၤ​ဒူ​သၤ | OT 1/1 |  |  |  |
+| Jehaleleel | စီၤ​ယ​ဟၤ​လ​လ့​လး | OT 1/1 |  |  |  |
+| Jehalelel | စီၤ​ယ​ဟး​လ့ၤ​လ့​လး | OT 1/1 |  |  |  |
+| Jehdeiah | စီၤ​ယ့​ဒ​ယၤ | OT 2/2 |  |  |  |
+| Jehezekel | စီၤ​ယ​ဃ့း​စ​က့​လး | OT 1/1 |  |  |  |
+| Jehiah | စီၤ​အ​ဃံ​ယၤ | OT 1/1 |  |  |  |
+| Jehiel | စီၤ​ယ​ဃံ​အ့​လး | OT 12/16 |  |  |  |
+| Jehieli | စီၤ​ယ​ဃံၤ​အ့​လး | OT 2/2 |  |  |  |
+| Jehizkiah | စီၤ​ယ​ဃံး​စ​ကံ​ယၤ | OT 1/1 |  |  |  |
+| Jehoadah | စီၤ​ယ​ဟိ​ဒၤ | OT 1/1 |  |  |  |
+| Jehoaddan | နီၢ်​ယ​ဟိ​ဧ​ဒံၣ် | OT 1/2 |  |  |  |
 | Jehoahaz | စီၤ​ယ​ဟိ​အါ​ဃး | OT 18/22 |  |  |  |
+| Jehoash | စီၤ​ယိၤ​အၣ် | OT 15/16 |  |  |  |
+| Jehohanan | စီၤ​ယိ​ဃၤ​နၣ် | OT 6/6 |  |  |  |
 | Jehoiachin | ယ​ဟိၤ​ယါ​ခံၣ် | OT 9/9 |  |  |  |
 | Jehoiada | စီၤ​ယ​ဟိ​ယ​ဒါ | OT 33/49 varies |  |  |  |
 | Jehoiakim | ယါ​ကံၣ် | OT 36/37 |  |  |  |
+| Jehoiarib | စီၤ​ယ​ဟိ​ယၤ​ရံာ် | OT 2/2 |  |  |  |
+| Jehonadab | စီၤ​ယိၤ​န​ဒာ် | OT 2/2 |  |  |  |
+| Jehonathan | စီၤ​ယိ​နၤ​သၣ် | OT 3/3 |  |  |  |
 | Jehoram | စီၤ​ယ​ဟိ​ရၣ် | OT 18/21 |  |  |  |
+| Jehoshabeath | နီၢ်​ယ​ဟိၤ​ၡ့​ဘၤ | OT 1/1 |  |  |  |
 | Jehoshaphat | စီၤ​ယ​ဟိ​ၡၤ​ဖး | OT 62/76 |  |  |  |
+| Jehosheba | နီၢ်​ယ​ဟိၤ​ၡ့​ဘၤ | OT 1/1 |  |  |  |
+| Jehoshua | စီၤ​ယ​ဟိၤ​ၡူ | OT 2/2 |  |  |  |
+| Jehovahjireh | ယ​ဟိ​ဝၤ​ယံၤ​ရၤ | OT 1/1 |  |  |  |
+| Jehovahnissi | ယွၤ​နံး​စံး | OT 1/1 |  |  |  |
+| Jehovahshalom | ယွၤ​ၡၤ​လိၣ် | OT 1/1 |  |  |  |
+| Jehozabad | စီၤ​ယ​ဟိ​စ​ဘး | OT 4/4 |  |  |  |
+| Jehozadak | စီၤ​ယ​ဃိၤ​စါ​ဒး | OT 2/2 |  |  |  |
 | Jehu | စီၤ​ယ့ၤ​ဟူ | OT 51/55 |  |  |  |
+| Jehubbah | စီၤ​ယ​ဃူ​ဘၤ | OT 1/1 |  |  |  |
+| Jehud | ယ​ဟူး | OT 1/1 |  |  |  |
+| Jehudijah | နီၢ်​ယ​ဟူ​ဒံ​ယၤ | OT 1/1 |  |  |  |
+| Jehush | စီၤ​ယ​ဧူ​ၡး | OT 1/1 |  |  |  |
+| Jeiel | စီၤ​ယံၤ​အ့​လး | OT 5/10 |  |  |  |
+| Jekabzeel | ယ​ကၤ​ဘ​စ့​လး | OT 1/1 |  |  |  |
+| Jekameam | စီၤ​ယ​ကၤ​မၣ် | OT 2/2 |  |  |  |
+| Jekamiah | စီၤ​ယ​ကၤ​မ​ယၤ | OT 1/1 |  |  |  |
+| Jekuthiel | စီၤ​ယ​ကူ​သံၤ​အ့​လး | OT 1/1 |  |  |  |
+| Jemuel | စီၤ​ယၤ​မူ​အ့​လး | OT 1/2 |  |  |  |
 | Jephthah | စီၤ​ယံး​ဖ​သၤ | OT 25/25 |  |  |  |
 | Jephunneh | စီၤ​ယ​ဖူ​န့ၤ | OT 16/16 |  |  |  |
+| Jerah | စီၤ​ယၤ​ရၢ် | OT 2/2 |  |  |  |
 | Jerahmeel | စီၤ​ယ​ရၤ​ဃ​မ​အ့​လး | OT 8/8 |  |  |  |
+| Jerahmeelites | ပှၤ​ယ​ရၤ​ဃ​မ​အ့​လး​ဖိ | OT 2/2 |  |  |  |
+| Jered | စီၤ​ယ့​ရ့း | OT 1/2 |  |  |  |
+| Jeremai | စီၤ​ယ​ရ့​မဲၤ | OT 1/1 |  |  |  |
 | Jeremiah | ယံး​ရ​မံ​ယၤ | OT 132/133 |  |  |  |
+| Jeremoth | စီၤ​ယ​ရံ​မိး | OT 5/5 |  |  |  |
+| Jeriah | စီၤ​ယ​ရံ​ယၤ | OT 2/2 |  |  |  |
+| Jeribai | စီၤ​ယ​ရံ​ဘဲ | OT 1/1 |  |  |  |
 | Jericho | ယ​ရံၤ​ဃိ | NT 6/6; OT 52/53 |  |  |  |
+| Jeriel | စီၤ​ယ​ရံၤ​အ့​လး | OT 1/1 |  |  |  |
+| Jerijah | စီၤ​ဃ​ရံ​ယၤ | OT 1/1 |  |  |  |
+| Jerimoth | စီၤ​ယ​ရံ​မိး | OT 7/8 |  |  |  |
+| Jerioth | နီၢ်​ယ​ရံ​ဧိး | OT 1/1 |  |  |  |
 | Jeroboam | စီၤ​ယၤ​ရၤ​ဘၣ် | OT 86/95 |  |  |  |
 | Jeroham | စီၤ​ယ​ရိ​ဃၣ် | OT 9/10 |  |  |  |
 | Jerubbaal | စီၤ​ယ​ရူ​ဘ​ဧၤ​လး | OT 12/13 |  |  |  |
+| Jerubbesheth | စီၤ​ယ​ရူၤ​ဘ​ၡ့း | OT 1/1 |  |  |  |
+| Jeruel | ယ​ရူၤ​အ့​လး | OT 1/1 |  |  |  |
 | Jerusalem | ယ​ရူၤ​ၡ​လ့ၣ် | NT 137/141; OT 613/626 | same 5/8 |  |  |
+| Jerusha | နီၢ်​ယ​ရူၤ​ၡၤ | OT 1/1 |  |  |  |
+| Jerushah | နီၢ်​ယ​ရူ​ၡၤ | OT 1/1 |  |  |  |
+| Jesaiah | စီၤ​ယ​ၡၤ​ယါ | OT 2/2 |  |  |  |
+| Jeshaiah | စီၤ​ယ​ၡၤ​ယါ | OT 4/5 |  |  |  |
+| Jeshanah | ယ​ၡၤ​နၤ | OT 1/1 |  |  |  |
+| Jesharelah | စီၤ​ယ​စၤ​ရ​အ့​လး | OT 1/1 |  |  |  |
+| Jeshebeab | စီၤ​ယ့ၤ​ၡ့ၤ​ဘ​အာ် | OT 1/1 |  |  |  |
+| Jesher | စီၤ​ယ့​ၡ့ၢ် | OT 1/1 |  |  |  |
+| Jeshimon | ယံး​ၡံ​မိၣ် | OT 5/6 |  |  |  |
+| Jeshishai | စီၤ​ယ​ၡံၤ​ၡဲ | OT 1/1 |  |  |  |
+| Jeshohaiah | စီၤ​ယၤ​ၡိ​ဃ​ယၤ | OT 1/1 |  |  |  |
 | Jeshua | ယ့ၤ​ၡူ | OT 29/30 |  |  |  |
 | Jeshurun | ယ​ၡူ​ရိၣ် | OT 3/3 |  | Deut 32:15; 33:5, 26 | Poetic name for Israel. |
+| Jesiah | စီၤ​ယ​ၡံ​ယၤ | OT 2/2 |  |  |  |
+| Jesimiel | စီၤ​ယ​စး​မ​အ့​လး | OT 1/1 |  |  |  |
 | Jesse | စီၤ​ယံး​ၡဲ | NT 4/5; OT 37/39 |  |  |  |
+| Jesui | စီၤ​ယံး​ၡ​ဝံၤ | OT 1/1 |  |  |  |
+| Jesuites | ပှၤ​ယံး​ၡ​ဝံၤ​ဖိ | OT 1/1 |  |  |  |
+| Jether | စီၤ​ယ့​သ့ၢ် | OT 4/7 |  |  |  |
+| Jetheth | ယ​သ့း | OT 2/2 |  |  |  |
+| Jethlah | ယံး​သ​လၤ | OT 1/1 |  |  |  |
 | Jethro | စီၤ​ယံး​သ​ရိၤ | OT 9/9 |  |  |  |
+| Jetur | စီၤ​ယ​တူၢ် | OT 3/3 |  |  |  |
+| Jeuel | စီၤ​ယူၤ​အ့​လး | OT 1/1 |  |  |  |
 | Jeush (Esau's son) | စီၤ​ယ​ဧူၤ​ၡး (varies) | OT 5/8 |  |  | Spelled 3 ways in Gen 36:5, 14, 18 and differently in 1 Chr 1:35. Check the printed Bible. |
+| Jeuz | စီၤ​ယ​ဧူး​စး | OT 1/1 |  |  |  |
 | Jewish nation | ပှၤ​ယူ​ဒၤ​ဖိ​က​လုာ် |  | ch. 1 (1×) |  |  |
 | Jezebel | နီၢ်​အံၤ​စ့​ဘ့ၤ​လး | OT 19/19 |  |  |  |
+| Jezer | စီၤ​ယ့​စ့ၢ် | OT 2/3 |  |  |  |
+| Jezerites | ယ့​စ့ၢ်​ဖိ​တ​ဒူၣ် | OT 1/1 |  |  |  |
+| Jeziah | စီၤ​ယ​စံ​ယၤ | OT 1/1 |  |  |  |
+| Jeziel | စီၤ​ယံး​စ​အ့​လဲး | OT 1/1 |  |  |  |
+| Jezliah | စီၤ​ယံး​စ​လံ​အၤ | OT 1/1 |  |  |  |
+| Jezoar | စီၤ​စိ​ဃၢ် | OT 1/1 |  |  |  |
+| Jezrahiah | စီၤ​ယံး​စ​ရၤ​ဃ​ယၤ | OT 1/1 |  |  |  |
 | Jezreel | ယံး​စ​ရ့​လး | OT 29/32 |  |  |  |
+| Jezreelite | ပှၤ​ယံး​စ​ရ့​လး​ဖိ | OT 7/8 |  |  |  |
+| Jibsam | စီၤ​ယံး​ဘ​စၣ် | OT 1/1 |  |  |  |
+| Jidlaph | စီၤ​ယံး​ဒ​လာ် | OT 1/1 |  |  |  |
+| Jimna | စီၤ​ယံး​မ​နၤ | OT 1/1 |  |  |  |
+| Jimnah | စီၤ​ယံး​မ​နၤ | OT 1/1 |  |  |  |
+| Jimnites | ပှၤ​ယံး​မ​နၤ​ဖိ | OT 1/1 |  |  |  |
+| Jiphtah | ယံး​ဖ​တၤ | OT 1/1 |  |  |  |
+| Jiphthahel | ယံး​ဖ​တ့း​လ | OT 1/2 |  |  |  |
 | Joab | စီၤ​ယိၤ​အာ် | OT 114/125 |  |  |  |
+| Joah | စီၤ​ယိၤ​အၤ | OT 7/10 |  |  |  |
+| Joahaz | စီၤ​ယ​ဟါ​အါ​ဃး | OT 1/1 |  |  | Not the same as Jehoahaz (ယ​ဟိ​အါ​ဃး). |
 | Joanna | ယိၤ​အၣ်​နၣ် | NT 3/3 |  |  |  |
 | Joash | စီၤ​ယိၤ​အၣ် | OT 40/43 |  |  |  |
 | Job | စီၤ​ယိၤ​ဘး | OT 53/53 |  |  |  |
+| Jobab | စီၤ​ယိၤ​ဘာ် | OT 2/9 |  |  |  |
 | Jochebed | နီၢ်​ယိ​က​ဘ့ၣ် |  |  | Num 26:59 |  |
+| Joed | စီၤ​ယိၤ​ဧ့း | OT 1/1 |  |  |  |
 | Joel | စီၤ​ယိၤ​အ့​လး | OT 18/19 |  |  |  |
+| Joelah | စီၤ​ယိၤ​ဧ့​လး | OT 1/1 |  |  |  |
+| Joezer | စီၤ​ယိၤ​ဧ့​စ့ၢ် | OT 1/1 |  |  |  |
+| Jogbehah | ယၤ​က​ဘၤ | OT 2/2 |  |  |  |
+| Jogli | စီၤ​ယၤ​က​လံၤ | OT 1/1 |  |  |  |
+| Joha | စီၤ​ယိ​ဃၤ | OT 2/2 |  |  |  |
 | Johanan | စီၤ​ယိ​ဃၤ​နၣ် | OT 21/27 varies |  |  |  |
 | John | စီၤ​ယိၤ​ဟၣ် | NT 128/130 |  |  |  |
+| Joiada | စီၤ​ယိ​ယ​ဒၤ | OT 3/4 |  |  | Neh 13:28 has ယ​ဟိ​ယ​ဒါ (the Jehoiada form). |
+| Joiakim | စီၤ​ယိ​ယၤ​ကံၣ် | OT 3/3 |  |  |  |
+| Joiarib | စီၤ​ယိၤ​ရံာ် | OT 5/5 |  |  |  |
+| Jokdeam | ယိး​က​ဒၣ် | OT 1/1 |  |  |  |
+| Jokim | စီၤ​ယိ​ကံၣ် | OT 1/1 |  |  |  |
+| Jokmeam | ယၤ​က​မၣ် | OT 1/1 |  |  |  |
+| Jokshan | စီၤ​ယး​က​ၡၣ် | OT 3/3 |  |  |  |
 | Joktan | စီၤ​ယး​က​တၣ် | OT 6/6 |  |  |  |
+| Joktheel | ယိး​က​သ့ၣ်​လး | OT 1/2 |  |  |  |
 | Jonadab | စီၤ​ယိၤ​န​ဒာ် | OT 11/11 |  |  |  |
 | Jonah | စီၤ​ယိၤ​နါ | OT 16/17 |  |  |  |
 | Jonas | စီၤ​ယိၤ​နါ | NT 9/10 |  |  |  |
 | Jonathan | စီၤ​ယိ​နၤ​သၣ် | OT 101/105 |  |  |  |
 | Joppa | ယၤ​ဖိၤ | NT 10/10 |  |  |  |
+| Jorah | စီၤ​ယိ​ရၤ | OT 1/1 |  |  |  |
+| Jorai | စီၤ​ယိၤ​ရဲ | OT 1/1 |  |  |  |
 | Joram | စီၤ​ယ​ဟိ​ရၣ် | OT 17/21 |  |  |  |
 | Jordan | ယၢ်​ဒ့ၣ် | NT 15/15; OT 158/164 | same ch. 1 (1×) |  |  |
+| Jorkoam | ယၢ်​ကၣ် | OT 1/1 |  |  |  |
+| Josabad | စီၤ​ယိၤ​စၤ​ဘး | OT 1/1 |  |  |  |
 | Joseph | စီၤ​ယိၤ​သး | NT 33/34; OT 181/195 |  |  |  |
 | Joses | စီၤ​ယိၤ​စ့ၣ် | NT 4/6 varies |  |  |  |
+| Joshah | စီၤ​ယိ​ၡၤ | OT 1/1 |  |  | Karen has it in the next or previous verse (verse boundaries differ) |
+| Joshaphat | စီၤ​ယ​ဟိ​ၡၤ​ဖး | OT 1/1 |  |  |  |
+| Joshaviah | စီၤ​ယိ​ၡ​ဝ​ယၤ | OT 1/1 |  |  |  |
+| Joshbekashah | စီၤ​ယၤ​ၡ​ဘ​ကါ​ၡၤ | OT 2/2 |  |  |  |
 | Joshua | စီၤ​ယိၤ​ၡူ | OT 196/197 |  |  |  |
 | Josiah | စီၤ​ယိၤ​ၡံ​ယၤ | OT 43/48 |  |  |  |
+| Josibiah | စီၤ​ယိၤ​စံ​ဘ​ယၤ | OT 1/1 |  |  |  |
+| Josiphiah | စီၤ​ယိၤ​စံး​ဖ​ယၤ | OT 1/1 |  |  |  |
+| Jotbah | ယၤ​တ​ဘၤ | OT 1/1 |  |  |  |
+| Jotbath | န့ၣ်​ဆူ​ယး​တ​ဘၤ​သၤ | OT 1/1 |  |  |  |
+| Jotbathah | ယး​တ​ဘၤ​သၤ | OT 2/2 |  |  |  |
 | Jotham | စီၤ​ယိၤ​သၣ် | OT 23/24 |  |  |  |
+| Jozabad | စီၤ​ယိၤ​စၤ​ဘး | OT 1/8 |  |  |  |
+| Jozachar | စီၤ​ယိၤ​စၤ​ကၢ် | OT 1/1 |  |  |  |
+| Jozadak | စီၤ​ယိၤ​စ​ဒး | OT 4/5 |  |  | Ezra 3:8 has ယိ​စ​ဒး (section 16). |
+| Jubal | စီၤ​ယူၤ​ဘ​လး | OT 1/1 |  |  |  |
 | Juda | စီၤ​ယူ​ဒၤ | NT *Juda* 5/9 varies; NT *Judas* 32/32 |  |  |  |
 | Judaea | ကီၢ်​ယူ​ဒၤ | NT 32/43 varies |  |  |  |
 | Judah | ယူ​ဒၤ | OT 743/754 |  |  |  |
+| Judea | ယူ​ဒၤ | OT 1/1 |  |  | Same Karen form as Judah (ကီၢ်​ယူ​ဒၤ). |
+| Judith | နီၢ်​ယ​ဟူ​ဒံး | OT 1/1 |  |  |  |
+| Jushabhesed | စီၤ​ယူ​ၡ​ဘၤ​ဃ့​စ့း | OT 1/1 |  |  |  |
 | Justus | စီၤ​ယူ​စ​တူး | NT 3/3 |  |  |  |
+| Juttah | ယူး​တၤ | OT 2/2 |  |  |  |
+| Kabzeel | ကၤ​ဘ​စ့​လး | OT 2/3 |  |  |  |
 | Kadesh | ကၤ​ဒ့ၣ် | OT 18/18 |  |  |  |
 | Kadeshbarnea | ကၤ​ဒ့ၣ်​ဘၢ်​န့ | OT 10/10 |  |  |  |
+| Kadmiel | စီၤ​ကး​မံၤ​အ့​လး | OT 6/8 |  |  |  |
+| Kadmonites | ပှၤ​ကး​မိၣ်​ဖိ | OT 1/1 |  |  |  |
+| Kallai | စီၤ​ကး​လဲၤ | OT 1/1 |  |  |  |
+| Karkaa | ကၢ်​ကၤ | OT 1/1 |  |  |  |
+| Karkor | ကၢ်​ကိၢ် | OT 1/1 |  |  |  |
+| Karnaim | ကၢ်​နါ​ယံၣ် | OT 1/1 |  |  |  |
+| Kartan | ကၢ်​တၢ် | OT 1/1 |  |  |  |
+| Kattath | ကး​တး | OT 1/1 |  |  |  |
 | Kedar | က့​ဒၢ် | OT 10/11 |  |  |  |
+| Kedemah | စီၤ​က့​ဒ​မၤ | OT 2/2 |  |  |  |
 | Kedemoth | က​ဒ့​မိး | OT 3/4 |  | Deut 2:26 |  |
 | Kedesh | က့​ဒ့ၣ် | OT 9/11 |  |  |  |
+| Kedeshnaphtali | က့​ဒ့ၣ်​နး​သၤ​လံ | OT 1/1 |  |  |  |
+| Kehelathah | က​ဟ့​လ​သၤ | OT 2/2 |  |  |  |
 | Keilah | ကံ​လၤ | OT 16/16 |  |  |  |
+| Kelaiah | စီၤ​က့​လ​ယၤ | OT 1/1 |  |  |  |
+| Kelita | စီၤ​က့​လံၤ​တၤ | OT 2/3 |  |  |  |
+| Kemuel | စီၤ​က​မူၤ​အ့​လး | OT 3/3 |  |  |  |
+| Kenan | စီၤ​က့ၤ​နၣ် | OT 1/1 |  |  |  |
+| Kenath | က​နး | OT 2/2 |  |  |  |
 | Kenaz | က​နး​စး | OT 11/11 |  |  |  |
 | Kenites | ပှၤ​က့ၣ်​ဖိ | OT 10/11 |  | Num 24:21 |  |
+| Kenizzites | ပှၤ​က​နး​ဖိ | OT 1/1 |  |  |  |
+| Kerioth | က​ရံ​ယိး | OT 3/4 |  |  |  |
+| Keros | စီၤ​က့​ရိၣ် | OT 2/2 |  |  |  |
+| Keturah | နီၢ်​က​တူ​ရၤ | OT 4/4 |  |  |  |
+| Keziz | က​စံး | OT 1/1 |  |  |  |
 | Kibrothhattaavah | ကံး​ဘြိၤ​ဟး​တ​ဝၤ | OT 5/5 |  | Num 11:34–35 |  |
+| Kibzaim | ကံး​ဘ​စဲၣ် | OT 1/1 |  |  |  |
+| Kidron | ကံ​ဒြိၣ် | OT 9/10 |  |  |  |
+| Kinah | ကံ​နၤ | OT 1/1 |  |  |  |
+| Kir | ကံၢ် | OT 5/5 |  |  |  |
+| Kirharaseth | ကံၢ်​ဃ​ရၤ​ၡ့း | OT 1/1 |  |  |  |
+| Kiriathaim | ကး​ရ​ယး​သံၣ် | OT 1/4 |  |  |  |
+| Kirjath | ကံး​ရ​ယး | OT 1/1 |  |  |  |
+| Kirjathaim | ကံး​ရ​ယး​သံၣ် | OT 2/3 |  |  |  |
 | Kirjatharba (= Hebron) | (စီၤ) အၢ်​ဘၤ​အ​ဝ့ၢ် | OT 8/8 |  | Josh 14:15 | Rendered "the city of Arba". |
+| Kirjatharim | ကံး​ရ​ယး​ဧၤ​ရံၣ် | OT 1/2 |  |  |  |
+| Kirjathbaal | ကံး​ရ​ယး​ဘ​ဧၤ​လး | OT 2/2 |  |  |  |
+| Kirjathhuzoth | ကံး​ရ​ယး​ဃူၤ​စိး | OT 1/1 |  |  |  |
 | Kirjathjearim | ကံး​ရ​ယး​ယ​ဧၤ​ရံၣ် | OT 17/17 |  |  |  |
+| Kirjathsannah | ကံး​ရ​ယး​စး​နၤ | OT 1/1 |  |  |  |
+| Kirjathsepher | ကံး​ရ​ယး​စ့​ဖ့ၢ် | OT 4/4 |  |  |  |
 | Kish | စီၤ​ကံၣ် | OT 17/17 |  |  |  |
+| Kishi | စီၤ​ကံ​ၡံၤ | OT 1/1 |  |  |  |
+| Kishion | ကံး​ၡ​ယိၣ် | OT 1/1 |  |  | Karen has it in the next or previous verse (Josh 19 verse boundaries differ) |
 | Kishon (river) | ထံ​ကျိ​ကံ​ၡိၣ် | OT 5/5 |  | Judg 4:7, 13 |  |
+| Kithlish | ကံ​သ​လံၣ် | OT 1/1 |  |  |  |
+| Kitron | ကံ​တြိၣ် | OT 1/1 |  |  |  |
+| Kittim | စီၤ​ကံး​တံၣ် | OT 2/2 |  |  |  |
 | Kohath | စီၤ​က​ဃး | OT 23/29 varies |  |  |  |
 | Kohathites | ပှၤ​က​ဃး​ဖိ | OT 14/15 |  |  |  |
+| Kolaiah | စီၤ​ကိ​လ​ယၤ | OT 1/2 |  |  |  |
 | Korah | စီၤ​ကိၤ​ရး | OT 21/37 varies |  |  | OT also ကိး​ရး (18×), e.g. Num 26:11, 58 |
+| Korahite | ပှၤ​ကိၤ​ရး​ဖိ | OT 1/1 |  |  |  |
+| Korathites | ပှၤ​ကိး​ရး​ဖိ | OT 1/1 |  |  |  |
+| Kore | စီၤ​ကိၤ​ရ့ | OT 2/4 |  |  |  |
+| Korhites | ပှၤ​ကိၤ​ရး​ဖိ | OT 4/4 |  |  |  |
+| Koz | စီၤ​ကိ​စး | OT 4/4 |  |  |  |
+| Kushaiah | စီၤ​ကူၤ​ၡါ​ယၤ | OT 1/1 |  |  |  |
+| Laadah | စီၤ​လၤ​ဒၤ | OT 1/1 |  |  |  |
+| Laadan | စီၤ​လၤ​ဒၣ် | OT 5/5 |  |  |  |
 | Laban | စီၤ​လၤ​ဘၣ် | OT 45/47 |  |  |  |
 | Lachish | လၤ​ကံၣ် | OT 21/22 |  |  |  |
+| Lael | စီၤ​လၤ​အ့​လး | OT 1/1 |  |  |  |
+| Lahad | စီၤ​လၤ​ဃး | OT 1/1 |  |  |  |
+| Lahmam | လၤ​မၣ် | OT 1/1 |  |  |  |
+| Lahmi | စီၤ​လၤ​ဃ​မံ | OT 1/1 |  |  |  |
 | Laish (= Dan) | လ့​ၡ့ၣ် | OT 7/7 |  | Judg 18:7–29 |  |
+| Lakum | လး​ကူၣ် | OT 1/1 |  |  |  |
 | Lamech | စီၤ​လ့ၤ​မ့း | OT 10/10 |  |  |  |
 | Laodicea | လီၤ​ဒံၤ​ကံ | NT 5/5 |  |  |  |
+| Lapidoth | စီၤ​လံး​ပံ | OT 1/1 |  |  |  |
+| Lasha | လါ​ၡၤ | OT 1/1 |  |  |  |
+| Lasharon | လး​ၡၤ​ရိၣ် | OT 1/1 |  |  |  |
 | Lazarus | စီၤ​လါ​စ​ရူး | NT 15/15 |  |  |  |
 | Leah | နီၢ်​လ့ၤ​အၤ | OT 30/32 |  |  |  |
+| Lebana | စီၤ​လ​ဘၤ​နၤ | OT 1/1 |  |  |  |
+| Lebanah | စီၤ​လ​ဘၤ​နၤ | OT 1/1 |  |  |  |
 | Lebanon | လ​ဘၤ​နိၣ် | OT 64/64 |  |  |  |
+| Lebaoth | လ​ဘၤ​အိ​သး | OT 1/1 |  |  |  |
+| Lebonah | လ​ဘိ​နၤ | OT 1/1 |  |  |  |
+| Lecah | လ့​ကၤ | OT 1/1 |  |  |  |
+| Lehabim | လ​ဟါ​ဘံၣ် | OT 2/2 |  |  |  |
 | Lehi | လ့ၤ​ဃံ | OT 3/3 |  | Judg 15:9–19 |  |
+| Leshem | လ့​ၡ့ၣ် | OT 1/1 |  |  |  |
+| Letushim | ပှၤ​လ​တူ​ၡး​ဖိ | OT 1/1 |  |  |  |
+| Leummim | ပှၤ​လူ​မး​ဖိ | OT 1/1 |  |  |  |
 | Levi | စီၤ​လ့ၤ​ဝံ | NT 7/8; OT 35/61 varies |  |  |  |
 | Levite | ပှၤ​လ့ၤ​ဝံ​ဖိ | OT *Levite* 260/262; OT *Levite* 26/26; OT *Levites* 234/236 | *Levite(s)*: same 4/4 |  |  |
 | Libnah | လံး​ဘ​နၤ | OT 17/17 |  |  |  |
 | Libni | စီၤ​လံး​ဘ​နံၤ | OT 5/7 |  | Num 3:18 |  |
+| Libnites | ပှၤ​လံး​ဘ​နၤ​ဖိ | OT 1/2 |  |  |  |
+| Likhi | စီၤ​လံး​က​ဃံ | OT 1/1 |  |  |  |
+| Lod | လိး | OT 4/4 |  |  |  |
+| Lodebar | လိ​ဒ​ဘၢ် | OT 3/3 |  |  |  |
 | Lot | စီၤ​လိာ် | OT 30/31 |  |  |  |
+| Lotan | စီၤ​လိ​တၣ် | OT 5/5 |  |  |  |
+| Lubims | ပှၤ​လူ​ဘး​ဖိ | OT 2/2 |  |  |  |
+| Lud | စီၤ​လူး | OT 3/4 |  |  |  |
+| Ludim | လူ​ဒံၣ် | OT 2/2 |  |  |  |
 | Luz | လူး​စး | OT 7/7 |  | Gen 28:19; Josh 16:2 | Old name of Bethel. |
 | Lydda | လူး​ဒၤ | NT 3/3 |  |  |  |
 | Lysias | စီၤ​လူၤ​စံ | NT 2/3 varies |  |  |  |
 | Lystra | လူ​စ​တြၤ | NT 6/6 |  |  |  |
+| Maacah | မ​ကၤ | OT 1/3 |  |  |  |
 | Maachah | မၤ​ကၤ | OT 18/18 |  |  |  |
+| Maachathi | ပှၤ​မၤ​ကး​ဖိ | OT 1/1 |  |  |  |
+| Maachathite | ပှၤ​မၤ​ကၤ​ဖိ | OT 1/4 |  |  |  |
+| Maachathites | ပှၤ​မၤ​ကး​ဖိ | OT 3/3 |  |  |  |
+| Maadai | စီၤ​မၤ​ဒဲ | OT 1/1 |  |  | Same Karen form as Madai. |
+| Maadiah | စီၤ​မၤ​ဒ​ယၤ | OT 1/1 |  |  |  |
+| Maai | စီၤ​မၤ​ဧၤ | OT 1/1 |  |  |  |
+| Maalehacrabbim | မၤ​လ့ၤ​ကြၤ​ဘံၣ် | OT 1/1 |  |  |  |
+| Maarath | မၤ​ရး | OT 1/1 |  |  |  |
 | Maaseiah | စီၤ​မၤ​စ့​ယၤ | OT 24/25 |  |  |  |
+| Maasiai | စီၤ​မၤ​စဲ | OT 1/1 |  |  |  |
+| Maaz | စီၤ​မၤ​ဧး | OT 1/1 |  |  |  |
+| Maaziah | စီၤ​မၤ​ဧါ​စ​ယၤ | OT 2/2 |  |  |  |
 | Macedonia | မၤ​က့း​ဒ​နံ | NT 23/23 |  |  |  |
+| Machbanai | စီၤ​မၤ​က​ဘၤ​နဲ | OT 1/1 |  |  |  |
+| Machbenah | မၤ​က​ဘ့​နၤ | OT 1/1 |  |  |  |
+| Machi | စီၤ​မၤ​ကံ | OT 1/1 |  |  |  |
 | Machir | စီၤ​မၤ​ကံၢ် | OT 19/20 |  |  |  |
+| Machirites | ပှၤ​မၤ​ကံၢ်​ဖိ | OT 1/1 |  |  |  |
+| Machnadebai | စီၤ​မၤ​က​နၤ​ဒ​ဘဲ | OT 1/1 |  |  |  |
 | Machpelah | မး​က​ပ့​လၤ | OT 6/6 |  |  |  |
+| Madai | စီၤ​မၤ​ဒဲ | OT 1/2 |  |  |  |
+| Madmannah | မၤ​ဒ​မး​နၤ | OT 2/2 |  |  |  |
+| Madon | မၤ​ဒိၣ် | OT 2/2 |  |  |  |
+| Magbish | မး​က​ဘံၣ် | OT 1/1 |  |  |  |
 | Magdalene | နီၢ်​မၤ​ရံ​မၤ​က​ဒၤ​လ့ၣ် | NT 7/12 varies |  |  |  |
+| Magdiel | မး​က​ဒံ​အ့​လး | OT 1/2 |  |  |  |
+| Magog | စီၤ​မါ​ကူး | OT 3/4 |  |  |  |
+| Magpiash | စီၤ​မၤ​က​ပံ​ဧၣ် | OT 1/1 |  |  |  |
+| Mahalah | စီၤ​မၤ​ဃ​လၤ | OT 1/1 |  |  |  |
 | Mahalaleel | စီၤ​မၤ​ဟ​လၤ​လ့​လး | OT 6/7 |  |  |  |
+| Mahalath | နီၢ်​မၤ​ဃ​လ့း | OT 1/4 |  |  |  |
+| Mahali | စီၤ​မး​ဃ​လံ | OT 1/1 |  |  |  |
 | Mahanaim | မၤ​ဃ​န့ၤ | OT 13/13 |  |  |  |
+| Mahanehdan | မၤ​ဃ​န့ၤ​ဒၣ် | OT 1/1 |  |  |  |
+| Maharai | စီၤ​မၤ​ဟ​ရဲ | OT 3/3 |  |  |  |
+| Mahath | စီၤ​မၤ​ဃး | OT 3/3 |  |  |  |
+| Mahavite | မၤ​ဃ​ဝး | OT 1/1 |  |  |  |
+| Mahazioth | စီၤ​မၤ​ဃ​စံ​အိး | OT 2/2 |  |  |  |
+| Mahlah | နီၢ်​မံး​လ​ကၤ | OT 4/4 |  |  |  |
+| Mahli | စီၤ​မး​ဃ​လံၤ | OT 2/10 |  |  |  |
+| Mahlites | ပှၤ​မး​ဃ​လံ​ဖိ | OT 2/2 |  |  |  |
 | Mahlon and Chilion | စီၤ​မၤ​ဃ​လိၣ် ဒီး စီၤ​ကံး​လ​ယိၣ် | OT 4/4; 3/3 |  | Ruth 1:2, 5; 4:9–10 |  |
+| Mahol | စီၤ​မၤ​ဃိ​လး | OT 1/1 |  |  |  |
+| Makaz | မၤ​ကး | OT 1/1 |  |  |  |
+| Makheloth | မၤ​က​ဟ့​လိး | OT 2/2 |  |  |  |
 | Makkedah | မး​က့​ဒၤ | OT 8/8 |  |  |  |
+| Malcham | စီၤ​မၤ​လ​က့ၣ် | OT 1/2 |  |  |  |
+| Malchiah | စီၤ​မၤ​လ​ကံ​ယၤ | OT 8/9 |  |  |  |
+| Malchiel | စီၤ​မၤ​လ​ကၤ​အ့​လး | OT 1/3 |  |  |  |
+| Malchielites | ပှၤ​မး​လ​ကံၤ​အ့​လး​ဖိ | OT 1/1 |  |  |  |
+| Malchijah | စီၤ​မၤ​လ​ကံ​ယၤ | OT 6/6 |  |  |  |
+| Malchiram | စီၤ​မၤ​လ​ကံ​ရၣ် | OT 1/1 |  |  |  |
+| Malchishua | မး​လ​ကံ​ၡူၤ | OT 2/4 |  |  |  |
+| Mallothi | စီၤ​မး​လိ​သံၤ | OT 2/2 |  |  |  |
+| Malluch | စီၤ​မး​လူး | OT 6/6 |  |  |  |
 | Mamre | မး​မ​ရ့ | OT 10/10 |  |  |  |
+| Manahath | စီၤ​မ​နၤ​ဃး | OT 2/3 |  |  |  |
+| Manahethites | ပှၤ​မ​နူ​ဃး​ဖိ | OT 2/2 |  |  |  |
 | Manasseh | မ​နၤ​ၡ့ၤ | OT 127/134 |  |  |  |
+| Manassites | ပှၤ​မ​နၤ​ၡ့ၤ​ဖိ | OT 3/3 |  |  |  |
 | Manoah | စီၤ​မၤ​နိ | OT 14/14 |  |  |  |
+| Maoch | စီၤ​မၤ​ဧိး | OT 1/1 |  |  |  |
+| Maon | မၤ​ဧိၣ် | OT 5/5 |  |  |  |
+| Maonites | ပှၤ​မၤ​ဧိၣ်​ဖိ | OT 1/1 |  |  |  |
+| Mara | နီၢ်​မၤ​ရၤ | OT 1/1 |  |  |  |
 | Marah | မၤ​ရၤ | OT 3/3 |  | Num 33:8–9 |  |
+| Maralah | မ​ရၤ​လၤ | OT 1/1 |  |  |  |
+| Mareshah | မ​ရ့​ၡၤ | OT 6/8 |  |  |  |
+| Marsena | စီၤ​မၢ်​စ​နၤ | OT 1/1 |  |  |  |
 | Martha | နီၢ်​မၢ်​သၤ | NT 12/12 |  |  |  |
 | Mary | နီၢ်​မၤ​ရံ | NT 46/46 |  |  |  |
+| Mash | စီၤ​မၤ​စး | OT 1/1 |  |  |  |
+| Mashal | မၤ​ၡ​လး | OT 1/1 |  |  |  |
+| Masrekah | မး​စ​ရ့​ကၤ | OT 2/2 |  |  |  |
+| Massa | စီၤ​မၤ​စၤ | OT 2/2 |  |  |  |
 | Massah | မး​စၤ | OT 4/4 |  | Deut 6:16 |  |
+| Matred | နီၢ်​မး​တ​ရ့း | OT 2/2 |  |  |  |
+| Matri | စီၤ​မၤ​တြံၤ | OT 1/1 |  |  |  |
+| Mattan | စီၤ​မး​တၣ် | OT 3/3 |  |  |  |
+| Mattanah | မး​တၤ​နၤ | OT 1/2 |  |  |  |
 | Mattaniah | စီၤ​မး​တၤ​န​ယၤ | OT 15/16 |  |  |  |
+| Mattathah | စီၤ​မး​တၤ​သါ | OT 1/1 |  |  |  |
+| Mattenai | စီၤ​မး​တ​နဲ | OT 3/3 |  |  |  |
 | Matthew | စီၤ​မး​သဲ | NT 5/5 |  |  |  |
+| Mattithiah | စီၤ​မး​တံး​သ​ယၤ | OT 6/8 |  |  |  |
+| Meah | မ့ၤ​အၤ | OT 2/2 |  |  |  |
+| Mearah | မၤ​ရါ | OT 1/1 |  |  |  |
+| Mebunnai | စီၤ​မၤ​ဘူ​နဲၤ | OT 1/1 |  |  |  |
+| Mecherathite | ပှၤ​မ​က့ၤ​သး​ဖိ | OT 1/1 |  |  |  |
 | Medad | စီၤ​မ့​ဒး | OT 2/2 |  | Num 11:26–27 |  |
+| Medan | စီၤ​မ​ဒၣ် | OT 2/2 |  |  |  |
 | Medeba | မ့​ဒ​ဘၤ | OT 5/5 |  | Num 21:30; Josh 13:9 | Josh 13:16 has မ့ၤဒဘၤ. |
 | Medes | ပှၤ​မၤ​ဒဲ​ဖိ | OT 10/13 varies |  |  |  |
+| Media | မၤ​ဒဲ | OT 6/6 |  |  | Same Karen form as Madai. |
 | Megiddo | မ​ကံး​ဒိၤ | OT 9/11 |  |  |  |
+| Mehetabeel | မ​ဟ့​တး​ဘ​အ့​လး | OT 1/1 |  |  |  |
+| Mehetabel | နီၢ်​မ​ဟ့​တး​ဘး​အ့​လး | OT 1/2 |  |  |  |
+| Mehida | စီၤ​မ​ဃံ​ဒၤ | OT 2/2 |  |  |  |
+| Mehir | စီၤ​မ​ဃံၢ် | OT 1/1 |  |  |  |
+| Meholathite | ပှၤ​မ​ဃိ​လၤ​ဖိ | OT 2/2 |  |  |  |
+| Mehujael | စီၤ​မ​ဃူ​ယ​အ့​လး | OT 1/1 |  |  |  |
+| Mehuman | စီၤ​မ​ဟူ​မၣ် | OT 1/1 |  |  |  |
+| Mehunims | ပှၤ​မူ​နး​ဖိ | OT 1/1 |  |  |  |
+| Mejarkon | မ့​ယၢ်​ကိၣ် | OT 1/1 |  |  |  |
+| Mekonah | မ​ကိ​နၤ | OT 1/1 |  |  |  |
+| Melatiah | စီၤ​မ​လၤ​တ​ယၤ | OT 1/1 |  |  |  |
 | Melchisedec | စီၤ​မၤ​လ​ကံ​စ​ဒ့း | NT 9/9 |  |  |  |
+| Melchishua | စီၤ​မး​လ​ကံ​ၡူၤ | OT 1/1 |  |  |  |
+| Melchizedek | မး​လ​ကံ​စ​ဒ့း | OT 2/2 |  |  |  |
+| Melech | စီၤ​မ့​လ့း | OT 2/2 |  |  |  |
+| Melicu | စီၤ​မံ​လ​ကူၤ | OT 1/2 |  |  |  |
+| Memucan | စီၤ​မ​မူ​ကၣ် | OT 3/3 |  |  |  |
 | Menahem | စီၤ​မ​နၤ​ဃ့ၣ် | OT 8/8 |  |  |  |
+| Meonenim | မ​ဧိ​န​နံ | OT 1/1 |  |  |  |
+| Meonothai | စီၤ​မ​ဧိ​နိၤ​သဲ | OT 1/1 |  |  |  |
+| Mephaath | မ့​ဖၤ | OT 4/4 |  |  |  |
 | Mephibosheth | စီၤ​မ​ဖံ​ဘိၤ​ၡ့း / စီၤ​မ​ဖံ​ဘိ​ၡ့း | OT 13/14 varies |  |  | 2 Sam 4:4; 9:6–13. See section 19. |
 | Merab | နီၢ်​မ့​ရ့ာ် | OT 3/3 |  | 1 Sam 14:49; 18:17, 19 |  |
+| Meraiah | စီၤ​မ​ရါ​ယၤ | OT 1/1 |  |  |  |
+| Meraioth | စီၤ​မ​ရၤ​ယိး | OT 6/7 |  |  |  |
 | Merari | မ​ရၤ​ရံၤ | OT 35/38 |  |  |  |
+| Merarites | ပှၤ​မ​ရၤ​ရံၤ​ဖိ | OT 1/1 |  |  |  |
+| Mered | စီၤ​မ့​ရ့း | OT 2/2 |  |  |  |
+| Meremoth | စီၤ​မ​ရ့​မိး | OT 6/6 |  |  |  |
+| Meres | စီၤ​မ့​ရ့း | OT 1/1 |  |  |  |
 | Meribah (water of) | ထံ​မ​ရံၤ​ဘါ | OT 7/7 |  | Num 20:13, 24 |  |
+| Meribbaal | စီၤ​မ​ရံး​ဘ​ဧၤ​လး | OT 2/2 |  |  |  |
+| Merom | မ့ၤ​ရိၣ် | OT 1/2 |  |  |  |
+| Meronothite | ပှၤ​မ့ၤ​ရိ​နိၤ​သး​ဖိ | OT 2/2 |  |  |  |
+| Meroz | မ့​ရိး | OT 1/1 |  |  |  |
+| Mesha | စီၤ​မ့​ၡၤ | OT 3/4 |  |  |  |
+| Meshech | စီၤ​မ့ၤ​ၡ့း | OT 6/8 |  |  |  |
+| Meshelemiah | စီၤ​မ​ၡ့​လ့ၤ​မ​ယၤ | OT 3/4 |  |  |  |
+| Meshezabeel | စီၤ​မ​ၡ့​စ​ဘ့​လး | OT 2/3 |  |  |  |
+| Meshillemith | စီၤ​မ​ၡံး​လ့​မံး | OT 1/1 |  |  |  |
+| Meshillemoth | စီၤ​မၤ​ၡံး​လ့​မိး | OT 1/2 |  |  |  |
+| Meshobab | စီၤ​မ​ၡိ​ဘာ် | OT 1/1 |  |  | Karen has it in the next or previous verse (verse boundaries differ) |
 | Meshullam | စီၤ​မ​ၡူ​လၣ် | OT 25/25 |  |  |  |
+| Meshullemeth | နီၢ်​မ​ၡူ​လ​မံး | OT 1/1 |  |  |  |
+| Mesobaite | ပှၤ​မ​စိ​ဘ​ယၤ​ဖိ | OT 1/1 |  |  |  |
 | Mesopotamia | မ့း​စ​ပ​တၤ​မံ | OT 5/5 |  |  |  |
+| Methegammah | မ့​သ့း​အး​မၤ | OT 1/1 |  |  |  |
+| Methusael | စီၤ​မ​သူ​ၡ့ၤ​အ့​လး | OT 1/1 |  |  |  |
 | Methuselah | စီၤ​မ​သူၤ​ၡ​လၤ | OT 6/6 |  |  |  |
+| Meunim | စီၤ​မူ​နး | OT 1/1 |  |  |  |
+| Mezahab | စီၤ​မ့​စ​ဟး | OT 2/2 |  |  |  |
+| Miamin | စီၤ​မံ​ယ​မံၣ် | OT 2/2 |  |  |  |
+| Mibhar | စီၤ​မံး​ဘ​ဃၢ် | OT 1/1 |  |  |  |
+| Mibsam | စီၤ​မံး​ဘ​စၣ် | OT 2/3 |  |  |  |
+| Mibzar | မံး​ဘ​စၢ် | OT 2/2 |  |  |  |
 | Micah | စီၤ​မံၤ​ကါ | OT 25/28 |  |  |  |
 | Micaiah | စီၤ​မံၤ​ကါ​ယၤ | OT 18/18 |  |  |  |
+| Micha | စီၤ​မံၤ​ကါ | OT 3/4 |  |  |  |
 | Michael | မံၤ​က့​လး | OT 12/13 |  |  |  |
+| Michah | စီၤ​မံၤ​ကါ | OT 3/3 |  |  |  |
+| Michaiah | မံၤ​ကါ​ယၤ | OT 5/7 |  |  |  |
 | Michal | နီၢ်​မံ​ကၤ​လး | OT 10/17 varies |  |  |  |
+| Michmas | မံး​က​မၣ် | OT 2/2 |  |  |  |
 | Michmash | မံး​က​မၣ် | OT 11 |  | 1 Sam 13:2–23 |  |
 | Michmash | မံး​က​မၣ် | OT 9/9 |  |  |  |
+| Michri | စီၤ​မံး​ကြံၤ | OT 1/1 |  |  |  |
+| Middin | မံး​ဒံၣ် | OT 1/1 |  |  |  |
 | Midian | မံး​ဒ​ယၣ် | OT 38/38 |  |  |  |
 | Midianites | ပှၤ​မံး​ဒ​ယၣ်​ဖိ | OT 24/24 |  |  |  |
+| Migdalel | မံး​က​ဒၤ​လ့​လး | OT 1/1 |  |  |  |
+| Migdalgad | မံး​က​ဒး​လ​ကး | OT 1/1 |  |  |  |
 | Migdol | မံး​က​ဒိး​လး | OT 6/6 |  | Num 33:7 |  |
+| Migron | မံး​ကြိၣ် | OT 2/2 |  |  |  |
+| Mijamin | စီၤ​မံ​ယ​မံၣ် | OT 2/2 |  |  |  |
+| Mikloth | စီၤ​မံး​က​လိး | OT 4/4 |  |  |  |
+| Mikneiah | စီၤ​မံး​က​န့​ယၤ | OT 2/2 |  |  |  |
+| Milalai | စီၤ​မံ​လ​လဲၤ | OT 1/1 |  |  |  |
 | Milcah | နီၢ်​မံး​လ​ကၤ | OT 10/10 |  |  |  |
+| Milcom | မိ​လး | OT 3/3 |  |  |  |
 | Millo | မံး​လိၤ | OT 9/9 |  |  |  |
+| Miniamin | စီၤ​မံး​န​ယၤ​မံၣ် | OT 3/3 |  |  |  |
+| Minnith | မံ​နံး | OT 1/2 |  |  |  |
+| Miphkad | မံး​ဖ​ကး | OT 1/1 |  |  |  |
 | Miriam | နီၢ်​မံး​ရ​ယၣ် | OT 13/13 |  |  |  |
+| Mirma | စီၤ​မံ​ရ​မၤ | OT 1/1 |  |  |  |
 | Mishael | စီၤ​မံ​ၡ​အ့​လး | OT 5/8 (varies) |  | Lev 10:4 |  |
+| Mishal | မံၤ​ၡ့​လး | OT 1/1 |  |  |  |
+| Misham | စီၤ​မံ​ၡၣ် | OT 1/1 |  |  |  |
+| Misheal | မံၤ​ၡ့​လး | OT 1/1 |  |  |  |
+| Mishma | စီၤ​မံး​ၡ​မၤ | OT 3/4 |  |  |  |
+| Mishmannah | စီၤ​မံး​ၡ​မ​နၤ | OT 1/1 |  |  |  |
+| Mishraites | ပှၤ​မံၤ​ၡ​ရံ​ဖိ | OT 1/1 |  |  |  |
+| Mispar | စီၤ​မံး​စ​ပၢ် | OT 1/1 |  |  |  |
+| Mispereth | စီၤ​မံး​စ​ပ့​ရ့း | OT 1/1 |  |  |  |
+| Misrephothmaim | မံး​စြ​ဖိး​မၤ​ယံၣ် | OT 2/2 |  |  |  |
+| Mithcah | မံး​သ​ကၤ | OT 2/2 |  |  |  |
+| Mithnite | ပှၤ​မံၤ​သၣ်​ဖိ | OT 1/1 |  |  |  |
+| Mithredath | စီၤ​မံး​သြၤ​ဒး | OT 2/2 |  |  |  |
 | Mizpah | မံး​စ​ပၤ | OT 19/21 |  |  |  |
 | Mizpeh | မံး​စ​ပၤ | OT 19/21 |  |  |  |
+| Mizraim | စီၤ​မံး​စ​ရၤ​ယံၣ် | OT 4/4 |  |  |  |
+| Mizzah | စီၤ​မံ​စၤ | OT 3/3 |  |  |  |
 | Moab | မိၤ​အး | OT 150/151 |  |  |  |
 | Moabites | ပှၤ​မိၤ​အး​ဖိ | OT 16/18 |  |  |  |
+| Moadiah | စီၤ​မိၤ​ဧၤ​ဒ​ယၤ | OT 1/2 |  |  |  |
+| Moladah | မိၤ​လ​ဒၤ | OT 2/4 |  |  |  |
 | Molech | မိ​လး | OT 8/8 |  |  |  |
+| Molid | စီၤ​မိ​လံး | OT 1/1 |  |  |  |
 | Mordecai | စီၤ​မၢ်​ဒ​ကဲၤ | OT 52/52 |  |  |  |
 | Moreh | မိၤ​ရံ​ယၤ | OT 2/3 |  | Deut 11:30 |  |
+| Moriah | မိၤ​ရံ​ယၤ | OT 2/2 |  |  |  |
+| Mosera | မိၤ​စ့​ရၤ | OT 1/1 |  |  |  |
+| Moseroth | မိၤ​စ့​ရိး | OT 2/2 |  |  |  |
 | Moses | စီၤ​မိၤ​ၡ့ | NT 78/79; OT 700/705 | same 3/5 |  |  |
+| Moza | စီၤ​မိ​စၤ | OT 5/5 |  |  |  |
+| Mozah | မိ​စၤ | OT 1/1 |  |  |  |
+| Muppim | စီၤ​မူး​ဖံၣ် | OT 1/1 |  |  |  |
 | Mushi | စီၤ​မူ​ၡံၤ | OT 8/8 |  |  |  |
+| Mushites | ပှၤ​မူ​ၡံၤ​ဖိ | OT 2/2 |  |  |  |
+| Naam | စီၤ​နၤ​ဧၣ် | OT 1/1 |  |  |  |
+| Naamah | နီၢ်​နၤ​ဧ​မၤ | OT 4/5 |  |  |  |
 | Naaman | စီၤ​န​ဧၤ​မၣ် | OT 13/14 |  |  |  |
+| Naamites | ပှၤ​နၤ​ဧ​မၣ်​ဖိ | OT 1/1 |  |  |  |
+| Naarah | နီၢ်​နၤ​ရၤ | OT 2/2 |  |  |  |
+| Naarai | စီၤ​နၤ​ရဲ | OT 1/1 |  |  |  |
+| Naaran | နၤ​ရၣ် | OT 1/1 |  |  |  |
+| Naarath | နၤ​ရး | OT 1/1 |  |  |  |
+| Naashon | စီၤ​နး​ၡိၣ် | OT 1/1 |  |  |  |
 | Nabal | စီၤ​နၤ​ဘ​လး | OT 18/18 |  |  |  |
 | Naboth | စီၤ​နၤ​ဘိး | OT 17/18 |  |  |  |
+| Nachor | စီၤ​နၤ​ဃိၢ် | OT 1/1 |  |  |  |
 | Nadab | စီၤ​နၤ​ဒး | OT 15/20 varies |  |  |  |
+| Nahalal | န​ဟး​လ​လး | OT 1/1 |  |  |  |
+| Nahaliel | နၤ​ဃ​လံၤ​အ့​လး | OT 1/1 |  |  |  |
+| Nahallal | န​ဟး​လ​လး | OT 1/1 |  |  |  |
+| Nahalol | နၤ​ဟ​လိ​လး | OT 1/1 |  |  |  |
+| Naham | စီၤ​နၤ​ဃၣ် | OT 1/1 |  |  |  |
+| Nahamani | စီၤ​န​ဃၤ​မ​နံ | OT 1/1 |  |  |  |
+| Naharai | စီၤ​နၤ​ဃ​ရဲ | OT 2/2 |  |  |  |
 | Nahash | စီၤ​နၤ​ဃၣ် | OT 8/8 |  | 1 Sam 11:1–2; 12:12 | Also the father of Hanun (2 Sam 10:2). |
+| Nahath | စီၤ​နၤ​ဃး | OT 4/5 |  |  |  |
 | Nahbi | စီၤ​ဃၤ​န​ဘံ | OT 1/1 |  | Num 13 |  |
 | Nahor | စီၤ​နၤ​ဃိၢ် | OT 15/16 |  |  |  |
 | Nahshon | စီၤ​နၤ​ဃ​ၡိၣ် | OT 5/8 (varies) |  | Num 1:5–15 |  |
 | Naioth | နၤ​ဝိး | OT 5/5 |  | 1 Sam 19:18–23 |  |
 | Naomi | နီၢ်​နၤ​ဧ​မံ | OT 19/20 |  |  |  |
+| Naphish | စီၤ​နါ​ဖံၣ် | OT 1/2 |  |  |  |
 | Naphtali | နး​သၤ​လံ *(Naphtali)*<br>စ​ဘူ​လိၣ် *(Zebulun)* | OT *Naphtali* 44/47; OT *Zebulun* 42/43 | *Zebulun / Naphtali*: same ch. 1 (1×) |  |  |
+| Naphtuhim | နၤ​ဖ​တူ​ဃံၣ် | OT 1/2 |  |  |  |
 | Nathan | စီၤ​နၤ​သၣ် | OT 23/39 varies |  |  |  |
 | Nathanael | စီၤ​နၤ​သ​န့​လး | NT 6/6 |  |  |  |
+| Nathanmelech | စီၤ​နၤ​သၣ်​မ့​လ့း | OT 1/1 |  |  |  |
 | Nazareth | န​စၤ​ရ့း | NT 27/28 | same 3/4 |  |  |
+| Neah | န့​ဧၤ | OT 1/1 |  |  |  |
+| Neariah | စီၤ​နၤ​ရ​ယၤ | OT 3/3 |  |  |  |
+| Nebai | စီၤ​န့​ဘဲၤ | OT 1/1 |  |  |  |
+| Nebaioth | စီၤ​န​ဘါ​ယိး | OT 2/2 |  |  |  |
+| Nebajoth | စီၤ​န​ဘါ​ယိး | OT 3/3 |  |  |  |
+| Neballat | န​ဘး​လး | OT 1/1 |  |  |  |
 | Nebat | စီၤ​န​ဘး | OT 21/25 |  |  |  |
 | Nebo | န​ဘိ | OT 13/13 |  |  |  |
 | Nebuchadnezzar | န​ဘူၤ​ကး​န့​စၢ် | OT 56/57 |  |  |  |
 | Nebuchadrezzar | န​ဘူၤ​ကး​န့​စၢ် | OT 25/31 |  |  |  |
 | Nebuzaradan | စီၤ​န​ဘူ​စၢ်​ရ | OT 14/15 |  |  |  |
+| Necho | စီၤ​န​ကိၤ | OT 3/3 |  |  |  |
+| Nedabiah | စီၤ​န​ဒၤ​ဘံ​ယၤ | OT 1/1 |  |  |  |
 | Nehemiah | စီၤ​န​ဃ့​မ​ယၤ | OT 8/8 |  |  |  |
+| Nehum | စီၤ​ရ​ဃူၣ် | OT 1/1 |  |  | Same Karen form as Rehum (Ezra 2:2). |
+| Nehushta | နီၢ်​န​ဃူ​ၡ​တၤ | OT 1/1 |  |  |  |
+| Nehushtan | န​ဃူ​ၡ​တၣ် | OT 1/1 |  |  |  |
+| Neiel | န​ဧ့​လး | OT 1/1 |  |  |  |
+| Nekeb | န့​က့ာ် | OT 1/1 |  |  |  |
+| Nekoda | စီၤ​န​ကိ​ဒၤ | OT 3/4 |  |  |  |
+| Nemuel | စီၤ​န​မူၤ​အ့​လး | OT 3/3 |  |  |  |
+| Nemuelites | ပှၤ​န​မူၤ​အ့​လး​ဖိ | OT 1/1 |  |  |  |
+| Nepheg | စီၤ​နိ​ကၤ | OT 2/4 |  |  |  |
+| Nephish | နၤ​ဖံၣ် | OT 1/1 |  |  |  |
+| Nephishesim | စီၤ​န​ဖူ​စံၣ် | OT 2/2 |  |  |  |
+| Nephtoah | န့​ဖ​တိၤ | OT 2/2 |  |  |  |
+| Nephusim | စီၤ​န​ဖူ​စံၣ် | OT 1/1 |  |  |  |
 | Ner | စီၤ​န့ၢ် | OT 16/16 |  |  |  |
+| Nergal | န့​ရ​ကၤ​လး | OT 1/1 |  |  |  |
 | Neriah | စီၤ​န့ၤ​ရံ​ယၤ | OT 9/10 |  |  |  |
 | Nethaneel | စီၤ​နၤ​သ​န့​လး | OT 13/14 |  |  |  |
 | Nethaniah | စီၤ​န​သၤ​နံ​ယၤ | OT 18/20 |  |  |  |
 | Nethinims | ပှၤ​န​သံ​နး​ဖိ | OT 16/16 |  |  |  |
+| Netophah | န​တိ​ဖၤ | OT 2/2 |  |  |  |
+| Netophathi | န​တိ​ဖၤ | OT 1/1 |  |  |  |
+| Netophathite | ပှၤ​န​တိ​ဖၤ​ဖိ | OT 5/7 |  |  |  |
+| Neziah | စီၤ​န​စံၤ | OT 2/2 |  |  |  |
+| Nezib | န​စံာ် | OT 1/1 |  |  |  |
+| Nibhaz | နံၤ​ဘ​ဃး | OT 1/1 |  |  |  |
+| Nibshan | နံး​ဘ​ၡၣ် | OT 1/1 |  |  |  |
+| Nimrah | နံး​မ​ရၤ | OT 1/1 |  |  |  |
+| Nimrod | စီၤ​နံး​မ​ရိး | OT 4/4 |  |  |  |
+| Nimshi | စီၤ​နံၣ်​ၡံၤ | OT 2/5 |  |  |  |
 | Nineveh | နံၤ​န​ဝ့ | OT 16/16 |  |  |  |
+| Nisan | နံ​စၣ် | OT 2/2 |  |  |  |
+| Nisroch | နံ​စ​ရိး | OT 1/2 |  |  |  |
+| Noadiah | စီၤ​နိ​ဒ​ယၤ | OT 2/2 |  |  |  |
 | Noah | စီၤ​နိ​အၤ | OT 39/43 |  |  |  |
 | Nob | နိၤ​ဘး | OT 6/6 |  |  | 1 Sam 21:1. City of priests. |
+| Nobah | နိ​ဘၤ | OT 2/2 |  |  |  |
+| Nod | နိာ် | OT 1/1 |  |  |  |
+| Nodab | နိ​ဒာ် | OT 1/1 |  |  |  |
 | Noe | စီၤ​နိ​အၤ | NT 5/5 |  |  |  |
+| Nogah | စီၤ​နိ​ကၤ | OT 2/2 |  |  |  |
+| Nohah | စီၤ​နိ​ဃၤ | OT 1/1 |  |  |  |
+| Non | စီၤ​နိၣ် | OT 1/1 |  |  |  |
+| Nophah | နိၤ​ဖး | OT 1/1 |  |  |  |
 | Nun | စီၤ​နိၣ် | OT 28/29 |  |  |  |
 | Obadiah | စီၤ​ဧိၤ​ဘါ​ဒ​ယၤ | OT 18/19 |  |  |  |
+| Obal | စီၤ​ဧူ​ဘ​လး | OT 1/1 |  |  |  |
 | Obed | စီၤ​ဧိၤ​ဘ့း | OT 8/9 |  |  |  |
 | Obededom | စီၤ​ဧိၤ​ဘ့း​အ့​ဒိၣ် | OT 14/15 |  |  |  |
+| Obil | စီၤ​အိၤ​ဟံ​လး | OT 1/1 |  |  |  |
 | Oboth | အိ​ဘိး | OT 4/4 |  | Num 21:10–11 |  |
 | Ocran | စီၤ​ဧး​က​ရၣ် | OT 5/5 |  | Num 1:5–15 |  |
+| Oded | စီၤ​ဧိၤ​ဒ့း | OT 3/3 |  |  |  |
 | Og | ဧိာ် | OT 22/22 |  |  |  |
+| Ohad | စီၤ​အိၤ​ဟး | OT 1/2 |  |  |  |
+| Ohel | စီၤ​အိ​ဟ့​လး | OT 1/1 |  |  |  |
 | olive | သ့ၣ်​စၤ​ယံး *(olive)*<br>က​စၢၢ်​သ့ၣ်​စၤ​ယံး *(Olives)* | NT *olive* 14/15; NT *Olives* 8/11 varies; OT *olive* 33/33 | *olive(s)*: same 4/4 |  |  |
+| Omar | စီၤ​အိ​မၢ် | OT 3/3 |  |  |  |
 | Omri | စီၤ​ဧိၣ်​ရံၤ | OT 14/16 |  |  |  |
+| Onam | စီၤ​အိၣ်​နၣ် | OT 2/4 |  |  |  |
 | Onan | စီၤ​အိၤ​နၣ် | OT 5/6 |  |  |  |
+| Ono | အိ​နိၤ | OT 5/5 |  |  |  |
+| Ophel | ဧိၤ​ဖ့​လး | OT 5/5 |  |  |  |
 | Ophir | အိ​ဖ့ၢ် | OT 12/12 |  |  |  |
+| Ophni | ဧိး​ဖ​နံၤ | OT 1/1 |  |  |  |
 | Ophrah | ဧိး​ဖြၤ | OT 6/8 |  | Judg 6:24; 8:27 | Judg 6:11 and Josh 18:23 have ဧိၤဖြၤ. |
 | Oreb and Zeeb | စီၤ​ဧိ​ရ့ာ် ဒီး စီၤ​စ​အ့ာ် | OT 3/4 |  | Judg 7:25; 8:3 |  |
+| Oren | စီၤ​အိ​ရ့ၣ် | OT 1/1 |  |  |  |
 | Ornan | စီၤ​အၤ​ရ​နၤ | OT 10/10 |  |  |  |
 | Orpah | နီၢ်​ဧိး​ရ​ပၤ | OT 2/2 |  | Ruth 1:4, 14 |  |
+| Othni | စီၤ​ဧီၤ​သ​နံ | OT 1/1 |  |  |  |
 | Othniel | စီၤ​ဧီၤ​သ​န့​လး | OT 6/6 |  | Judg 1:13; 3:9–11 |  |
+| Ozem | စီၤ​အိ​စ့ၣ် | OT 1/2 |  |  |  |
+| Ozni | စီၤ​အီး​စ​နံၤ | OT 1/1 |  |  |  |
+| Oznites | ပှၤ​အီး​စ​နံၤ​ဖိ | OT 1/1 |  |  |  |
+| Paarai | စီၤ​ပ​ရဲ | OT 1/1 |  |  |  |
+| Padan | ပၤ​ဒၣ် | OT 1/1 |  |  |  |
 | Padanaram | ပၤ​ဒ​နါ​ရၣ် | OT 9/10 |  |  |  |
+| Padon | စီၤ​ပၤ​ဒိၣ် | OT 2/2 |  |  |  |
 | Pagiel | စီၤ​ပး​ကံၤ​အ့​လး | OT 5/5 |  | Num 1:5–15 |  |
+| Pahathmoab | စီၤ​ပၤ​ဃး​မိၤ​အး | OT 6/6 |  |  |  |
+| Pai | ဖၤ​ဧံၤ | OT 1/1 |  |  |  |
+| Palal | စီၤ​ပ​လါ​လး | OT 1/1 |  |  |  |
 | Palestine | ကီၢ်​ဖ​လ့​ၡ​သး |  | ch. 1 (2×) |  |  |
+| Pallu | စီၤ​ပး​လူ | OT 4/4 |  |  |  |
+| Palluites | ပှၤ​ပး​လူ​ဖိ | OT 1/1 |  |  |  |
 | Palti | စီၤ​ပး​လ​တံၤ | OT 1/1 |  | Num 13 |  |
+| Paltiel | စီၤ​ပး​လ​တံၤ​အ့​လး | OT 1/1 |  |  |  |
+| Paltite | ပှၤ​ပး​လ​တံၤ​ဖိ | OT 1/1 |  |  |  |
 | Pamphylia | ပၣ်​ဖူၤ​လံ | NT 5/5 |  |  |  |
+| Parah | ပါ​ရၤ | OT 1/1 |  |  |  |
 | Paran (wilderness) | ပှၢ်​မုၢ်​က​နၢ​ပၤ​ရၣ် | OT 9/11 |  |  | Gen 21:21; 1 Sam 25:1. |
+| Parmashta | စီၤ​ပၢ်​မၤ​ၡ​တၤ | OT 1/1 |  |  |  |
+| Parnach | စီၤ​ပၢ်​နး | OT 1/1 |  |  |  |
+| Parosh | စီၤ​ပၤ​ရိာ် | OT 5/5 |  |  |  |
+| Parshandatha | စီၤ​ပ​ၡၤ​န​ဒၤ​သၤ | OT 1/1 |  |  |  |
+| Paruah | စီၤ​ပၤ​ရူၤ | OT 1/1 |  |  |  |
+| Parvaim | ပး​ရ​ဝဲၣ် | OT 1/1 |  |  |  |
+| Pasach | စီၤ​ပါ​စး | OT 1/1 |  |  |  |
+| Pasdammim | ပၤ​စ​ဒၤ​မံၣ် | OT 1/1 |  |  |  |
+| Paseah | စီၤ​ပၤ​စ့ၤ | OT 3/3 |  |  |  |
+| Pashur | စီၤ​ပၣ်​ၡ​ဃူၢ် | OT 6/12 |  |  |  |
+| Pathrusim | ပ​သြူ​စံၣ် | OT 1/2 |  |  |  |
+| Pau | ဖၤ​ဧူၤ | OT 1/1 |  |  |  |
 | Paul | စီၤ​ပီ​လူး | NT 153/158 | same 4/6 |  |  |
+| Pedahel | စီၤ​ပ​ဒၤ​အ့​လး | OT 1/1 |  |  |  |
 | Pedahzur | စီၤ​ပ​ဒၤ​စူၢ် | OT 4/5 |  | Num 1:5–15 |  |
 | Pedaiah | စီၤ​ပ​ဒါ​ယၤ | OT 8/8 |  |  |  |
+| Pekah | စီၤ​ပ့​ကး | OT 11/11 |  |  |  |
+| Pekahiah | စီၤ​ပ​ကၤ​ဃ | OT 3/3 |  |  |  |
+| Pelaiah | စီၤ​ပ​လါ​ယၤ | OT 3/3 |  |  |  |
+| Pelaliah | စီၤ​ပ​လၤ​လ​ယၤ | OT 1/1 |  |  |  |
+| Pelatiah | စီၤ​ပ​လၤ​တ​ယၤ | OT 5/5 |  |  |  |
 | Peleg | စီၤ​ပ့ၤ​လ့း | OT 7/7 |  |  |  |
+| Pelet | စီၤ​ပ့​လ့း | OT 1/2 |  |  |  |
+| Peleth | စီၤ​ပ့း​လ့း | OT 1/2 |  |  |  |
+| Pelonite | ပှၤ​ပ​လိၣ်​ဖိ | OT 3/3 |  |  |  |
 | Peninnah | နီၢ်​ပ​နံး​နၤ | OT 2/2 |  | 1 Sam 1:2, 4 |  |
 | Penuel / Peniel | ပ​နံၤ​အ့​လး | OT 4/7 |  | Judg 8:8–17 |  |
 | Peor | ပ​ဧိၢ် | OT 4/4 |  | Num 23:28 |  |
+| Peresh | စီၤ​ပ့​ရ့ၣ် | OT 1/1 |  |  |  |
+| Perezuzza | ဖ့​ရ့း​ဧူး​စၤ | OT 1/1 |  |  |  |
+| Perezuzzah | ဖ့​ရ့း​ဧူး​စၤ | OT 1/1 |  |  |  |
 | Perga | ပ့ၢ်​က့ၤ | NT 3/3 |  |  |  |
+| Perida | စီၤ​ပ​ရံ​ဒၤ | OT 1/2 |  |  |  |
 | Perizzites | ပှၤ​ပ​ရး​စၤ​ဖိ | OT 14/18 varies |  |  |  |
 | Persia | ပၤ​ရၣ် | OT 24/25 |  |  |  |
+| Persians | ပှၤ​ပၤ​ရၣ်​ဖိ | OT 5/5 |  |  |  |
+| Peruda | စီၤ​ပ​ရူ​ဒၤ | OT 1/1 |  |  |  |
 | Peter | စီၤ​ပ့း​တ​ရူး | NT 136/156 | same 7/8 |  |  |
+| Pethahiah | စီၤ​ပ​သၤ​ဃ​ယၤ | OT 3/4 |  |  |  |
 | Pethor | ပ​သူၣ် | OT 2/2 |  | Num 22:5; Deut 23:4 | Deut 23:4 has typo ပ​သူၢ်. |
+| Peulthai | စီၤ​ပ​ဧူ​လ​သဲၤ | OT 1/1 |  |  |  |
+| Phallu | စီၤ​ပး​လူ | OT 1/1 |  |  |  |
+| Phalti | စီၤ​ဖး​လ​တံၤ | OT 1/1 |  |  |  |
+| Phaltiel | စီၤ​ဖး​လၤ​တံ​လး | OT 1/1 |  |  |  |
 | Pharaoh | ဖၤ​ရိၤ | OT 227/230 |  |  |  |
+| Pharaohnechoh | ဖၤ​ရိၤ​န​ကိၤ | OT 4/4 |  |  |  |
 | Pharez | စီၤ​ဖ့ၤ​ရ့း | OT 8/10 |  |  |  |
+| Pharosh | စီၤ​ပၤ​ရိာ် | OT 1/1 |  |  | Same man as Parosh. |
+| Pharpar | ဖၢ်​ပၢ် | OT 1/1 |  |  |  |
+| Pharzites | ပှၤ​ဖ့ၤ​ရ့း​ဖိ | OT 1/1 |  |  |  |
+| Phaseah | စီၤ​ပၤ​စ့ၤ | OT 1/1 |  |  |  |
 | Phenice | လၢ​ဖံၤ​နံ​က့ၤ | NT 2/3 varies |  |  |  |
+| Phichol | စီၤ​ဖံ​ကိး​လး | OT 3/3 |  |  |  |
 | Philip | စီၤ​ဖံ​လံး​ပူး | NT 32/35 | same 3/3 |  |  |
 | Philistine | ပှၤ​ဖ​လ့​ၡ​သး​ဖိ | OT *Philistine* 27/28; OT *Philistines* 212/218 |  |  |  |
 | Phinehas | စီၤ​ဖံၤ​န​ဃၣ် | OT 19/24 varies |  |  | Num 25:7, 11 spell it ပံၤ​န​ဃၣ် |
+| Phurah | စီၤ​ဖူ​ရါ | OT 2/2 |  |  |  |
+| Phut | စီၤ​ဖူး | OT 1/2 |  |  |  |
+| Phuvah | စီၤ​ဖူ​ဝၤ | OT 1/1 |  |  |  |
 | Pihahiroth | ပံၤ​ဟ​ဃံ​ရိး | OT 4/4 |  | Num 33:7–8 |  |
 | Pilate | စီၤ​ပံၤ​လး | NT 48/54 |  |  |  |
+| Pildash | စီၤ​ပံး​လ​ဒၣ် | OT 1/1 |  |  |  |
+| Pileha | စီၤ​ဖံး​လ​ဃၤ | OT 1/1 |  |  |  |
+| Piltai | စီၤ​ပံး​လ​တဲၤ | OT 1/1 |  |  |  |
+| Pinon | ပံ​နိၣ် | OT 2/2 |  |  |  |
+| Piram | ပံး​ရၣ် | OT 1/1 |  |  |  |
+| Pirathon | ပံး​ရၤ​သိၣ် | OT 1/1 |  |  |  |
+| Pirathonite | ပှၤ​ပံး​ရ​သိၣ်​ဖိ | OT 3/5 |  |  |  |
 | Pisgah | က​စၢၢ်​ပံး​စ​ကၤ | OT 8/8 |  | Num 21:20 |  |
+| Pison | ပံၤ​ၡိၣ် | OT 1/1 |  |  |  |
+| Pispah | စီၤ​ပံး​စ​ပၤ | OT 1/1 |  |  |  |
+| Pithom | ပံ​သိၣ် | OT 1/1 |  |  |  |
+| Pithon | စီၤ​ပံၤ​သိၣ် | OT 2/2 |  |  |  |
+| Pochereth | စီၤ​ဖိၤ​က့​ရ့း | OT 2/2 |  |  |  |
 | Pontius | တံၤ​ပံၤ​လး | NT 4/4 |  |  |  |
 | Pontus | ပီၣ်​တူး | NT 3/3 |  |  |  |
+| Poratha | စီၤ​ပိၤ​ရ​သး | OT 1/1 |  |  |  |
+| Potiphar | စီၤ​ပိၤ​တံၤ​ဖၢ် | OT 2/2 |  |  |  |
+| Potipherah | စီၤ​ပိၤ​တံၤ​ဖ့​ရၤ | OT 3/3 |  |  |  |
 | Priscilla | နီၢ်​ပြံ​စ​ကံး​လၤ | NT 4/5 |  |  |  |
+| Pua | စီၤ​ဖူၤ​ဝၤ | OT 1/1 |  |  |  |
+| Puah | စီၤ​ပူ​ဧၤ | OT 1/3 |  |  |  |
+| Puhites | ပှၤ​ပူၤ​သး​ဖိ | OT 1/1 |  |  |  |
+| Pul | ပူ​လး | OT 3/3 |  |  |  |
+| Punites | ပှၤ​ဖူၤ​ဝၤ​ဖိ | OT 1/1 |  |  |  |
+| Punon | ပူၤ​နိၣ် | OT 2/2 |  |  |  |
+| Pur | ပူ​ရး | OT 3/3 |  |  |  |
+| Purim | ပူ​ရံၣ် | OT 5/5 |  |  |  |
+| Putiel | စီၤ​ပူ​တံၤ​အ့ၤ​လး | OT 1/1 |  |  |  |
+| Raamah | စီၤ​ရၤ​ဧ​မၤ | OT 3/3 |  |  |  |
+| Raamiah | စီၤ​ရၤ​မ​ယၤ | OT 1/1 |  |  | Same Karen form as Ramiah. |
+| Raamses | ရၤ​မ​စ့ | OT 1/1 |  |  |  |
 | Rabbah | ရး​ဘး | OT 12/12 |  |  |  |
 | Rabbath | ရး​ဘး | OT 2/2 |  | Deut 3:11 |  |
+| Rabbith | ရး​ဘံး | OT 1/1 |  |  | Karen has it in the next or previous verse (Josh 19 verse boundaries differ) |
+| Rabsaris | စီၤ​ရၤ​ဘ​စါ​ရံၣ် | OT 1/3 |  |  |  |
 | Rabshakeh | စီၤ​ရၤ​ဘ​ၡါ​က့ၤ | OT 16/16 |  |  |  |
+| Rachal | ရၤ​ဃ့​လး | OT 1/1 |  |  |  |
 | Rachel | နီၢ်​ရၤ​ဃ့​လး | OT 42/43 |  |  |  |
+| Raddai | စီၤ​ရၤ​ဒဲ | OT 1/1 |  |  |  |
 | Raguel / Reuel | စီၤ​ရ​ဧူၤ​အ့​လး | OT 9/10 |  | Num 10:29 |  |
 | Rahab | ရၤ​ဃး | OT 8/8 |  |  | Josh 2 adds the female title: နီၢ်​ရၤ​ဃး. |
+| Raham | စီၤ​ရၤ​ဃၣ် | OT 1/1 |  |  |  |
+| Rakem | စီၤ​ရ့ၤ​က့ၣ် | OT 1/1 |  |  |  |
+| Rakkath | ရး​ကး | OT 1/1 |  |  |  |
+| Rakkon | ရး​ကိၣ် | OT 1/1 |  |  |  |
 | Ramah | ရၤ​မါ | OT 33/34 |  |  |  |
+| Ramath | ရၤ​မး | OT 1/1 |  |  |  |
+| Ramathaimzophim | ရၤ​မါ​သဲၣ်​စိ​ဖံၣ် | OT 1/1 |  |  |  |
+| Ramathite | ပှၤ​ရၤ​မး​ဖိ | OT 1/1 |  |  |  |
+| Ramathlehi | ရၤ​မး​လ့ၤ​ဃံ | OT 1/1 |  |  |  |
+| Ramathmizpeh | ရၤ​မါ​မံး​စ​ပၤ | OT 1/1 |  |  |  |
 | Rameses | ရၤ​မ​စ့ | OT 5/5 |  |  |  |
+| Ramiah | စီၤ​ရၤ​မ​ယၤ | OT 1/1 |  |  |  |
 | Ramoth (in Gilead) | ရၤ​မိး | OT 8/9 |  | Deut 4:43 |  |
 | Ramothgilead | ရၤ​မိး​ကံး​လ​ဧး | OT 18/19 |  |  |  |
+| Rapha | စီၤ​ရၤ​ဖၤ | OT 2/2 |  |  |  |
+| Raphu | စီၤ​ရါ​ဖူၤ | OT 1/1 |  |  |  |
+| Reaia | စီၤ​ရ​အါ​ယၤ | OT 1/1 |  |  |  |
+| Reaiah | စီၤ​ရ​အါ​ယၤ | OT 2/3 |  |  |  |
+| Reba | စီၤ​ရ့​ဘၤ | OT 1/2 |  |  |  |
 | Rebekah | နီၢ်​ရံး​ဘ​ကၤ | OT 29/29 |  |  |  |
 | Rechab | စီၤ​ရ့​ကး | OT 10/13 varies |  |  |  |
+| Rechah | ရ့​ကၤ | OT 1/1 |  |  |  |
+| Reelaiah | စီၤ​ရ့​လ​ယၤ | OT 1/1 |  |  |  |
+| Regem | စီၤ​ရ့ၤ​က့ၣ် | OT 1/1 |  |  |  |
+| Rehabiah | စီၤ​ရ​ဃါ​ဘ​ယၤ | OT 3/3 |  |  |  |
 | Rehob | ရ​ဃိာ် | OT 9/10 |  |  |  |
 | Rehoboam | ရ​ဃၤ​ဘၣ် | OT 40/41 |  |  |  |
+| Rehoboth | ရ​ဃိ​ဘိး | OT 4/4 |  |  |  |
 | Rehum | စီၤ​ရ​ဃူၣ် | OT 8/8 |  |  |  |
+| Rei | စီၤ​ရ့​ဧံၤ | OT 1/1 |  |  |  |
 | Rekem | စီၤ​ရ့​က့ၣ် | OT 4/5 |  | Num 31:8 |  |
 | Remaliah | စီၤ​ရ​မါ​လ​ယၤ | OT 12/13 |  |  |  |
+| Remeth | ရ့​မ့း | OT 1/1 |  |  | Karen has it in the next or previous verse (Josh 19 verse boundaries differ) |
+| Remmon | ရံး​မိၣ် | OT 1/1 |  |  |  |
+| Remmonmethoar | ရံး​မိၣ်​မ​သိၢ် | OT 1/1 |  |  |  |
+| Rephael | စီၤ​ရ​ဖၤ​အ့​လး | OT 1/1 |  |  |  |
+| Rephah | စီၤ​ရ့​ဖၤ | OT 1/1 |  |  |  |
+| Rephaiah | စီၤ​ရ​ဖါ​ယၤ | OT 4/5 |  |  |  |
+| Rephaim | ရၤ​ဖၤ | OT 5/6 |  |  |  |
+| Rephaims | ပှၤ​ရၤ​ဖၤ​ဖိ | OT 2/2 |  |  |  |
 | Rephidim | ရ​ဖံၤ​ဒံၣ် | OT 5/5 |  |  |  |
+| Resen | ရ့​စ့ၣ် | OT 1/1 |  |  |  |
+| Resheph | စီၤ​ရ့​ၡ့ာ် | OT 1/1 |  |  |  |
 | Reu | စီၤ​ရူၤ | OT 5/5 |  |  |  |
 | Reuben | ရူၤ​ဘ့ၣ် | OT 67/69 |  |  |  |
 | Reubenites | ပှၤ​ရူၤ​ဘ့ၣ်​ဖိ | OT 16/16 |  |  |  |
 | Reuel | စီၤ​ရ​ဧူၤ​အ့​လး | OT 7/9 |  |  |  |
+| Reumah | နီၢ်​ရူ​မၤ | OT 1/1 |  |  |  |
+| Rezeph | ရ့​စ့း | OT 2/2 |  |  |  |
+| Rezia | စီၤ​ရံ​စ​ယၤ | OT 1/1 |  |  |  |
 | Rezin | ရ​စံၣ် | OT 11/11 |  |  |  |
+| Rezon | စီၤ​ရ​စိၣ် | OT 1/1 |  |  |  |
+| Ribai | စီၤ​ရံ​ဘဲၤ | OT 1/2 |  |  |  |
 | Riblah | ရံး​ဘ​လၤ | OT 7/11 varies |  |  |  |
 | Rimmon (rock) | လၢၢ်​ရံး​မိၣ် | OT 10/11 |  | Judg 20:45–47 |  |
 | Rimmon (the Beerothite) | စီၤ​ရံး​မိၣ် | OT |  |  | 2 Sam 4:2–9. |
+| Rimmonparez | ရံး​မိၣ်​ပ့ၤ​ရး | OT 2/2 |  |  |  |
+| Rinnah | စီၤ​ရံး​နၤ | OT 1/1 |  |  |  |
+| Riphath | စီၤ​ရံ​ဖ​သး | OT 2/2 |  |  |  |
+| Rissah | ရံး​စၤ | OT 2/2 |  |  |  |
+| Rithmah | ရံး​သ​မၤ | OT 2/2 |  |  |  |
+| Rizpah | နီၢ်​ရံး​စ​ဖၤ | OT 4/4 |  |  |  |
+| Rogelim | ရိ​က​လံၣ် | OT 2/2 |  |  |  |
+| Rohgah | စီၤ​ရိ​ဟ​ကၤ | OT 1/1 |  |  |  |
+| Romamtiezer | စီၤ​ရိ​မၣ်​တံၤ​ဧ့​စ့ၢ် | OT 2/2 |  |  |  |
 | Romans | ပှၤ​ရိ​မ့ၤ​ဖိ | NT 6/6 | *Roman(s)*: ရိ​မ့ၤ 9/10 (same word, other form) |  |  |
 | Rome | ရိ​မ့ၤ | NT 9/9 |  |  |  |
+| Rumah | ရူ​မၤ | OT 1/1 |  |  |  |
 | Ruth | နီၢ်​ရူၤ​သး | OT 12/12 |  |  |  |
+| Sabta | စီၤ​စၤ​ဘ​တၤ | OT 1/1 |  |  |  |
+| Sabtah | စီၤ​စၤ​ဘ​တၤ | OT 1/1 |  |  |  |
+| Sabtecha | စီၤ​စၤ​ဘ​တံ​ကၤ | OT 2/2 |  |  |  |
+| Sacar | စီၤ​စၤ​ကၢ် | OT 2/2 |  |  |  |
 | Salah | စီၤ​စ့ၤ​လါ | OT 5/5 |  |  |  |
+| Salathiel | စီၤ​ၡၤ​လ​တံ​အ့​လး | OT 1/1 |  |  |  |
+| Salcah | စၤ​လ​ကး | OT 2/2 |  |  |  |
+| Salchah | စၤ​လ​ကး | OT 2/2 |  |  |  |
+| Salem | ၡၤ​လ့ၣ် | OT 2/2 |  |  |  |
+| Sallu | စီၤ​စၤ​လူၤ | OT 1/3 |  |  |  |
+| Salma | စီၤ​စၤ​လ​မၤ | OT 2/3 |  |  |  |
 | Salmon | စီၤ​စၤ​လ​မိၣ် | NT 3/3 |  |  |  |
+| Salu | စီၤ​စၤ​လူ | OT 1/1 |  |  |  |
 | Samaria | ၡၤ​မ​ရံ | NT 12/12; OT 100/103 | same 3/3 |  |  |
 | Samaritans | ပှၤ​ၡၤ​မ​ရံ​ဖိ | NT 5/6 | *Samaritan(s)*: same 7/7 |  |  |
+| Samlah | စီၤ​စး​မ​လၤ | OT 4/4 |  |  |  |
 | Samson | စီၤ​ၡံၣ်​ၡိၣ် | OT 37/37 |  |  |  |
 | Samuel | စီၤ​ၡ​မူၤ​အ့​လး | NT 3/3; OT 115/118 |  |  |  |
 | Sanballat | စီၤ​စၤ​န​ဘၤ​လး | OT 10/10 |  |  |  |
+| Sansannah | စၤ​န​စး​နၤ | OT 1/1 |  |  |  |
+| Saph | စီၤ​စာ် | OT 1/1 |  |  |  |
 | Sarah | နီၢ်​စၤ​ရါ | NT 2/3 varies; OT 31/33 |  |  |  |
 | Sarai | နီၢ်​စၤ​ရဲ | OT 13/13 |  |  |  |
+| Saraph | စီၤ​စၤ​ရာ် | OT 1/1 |  |  |  |
 | Sardis | စၢ်​ဒံ | NT 3/3 |  |  |  |
+| Sardites | ပှၤ​စ့​ရ့း​ဖိ | OT 1/1 |  |  |  |
+| Sarid | စၤ​ရံး | OT 2/2 |  |  |  |
 | Saul | စီၤ​စီ​လူး | NT 21/23; OT 320/328 |  |  |  |
 | Sea of Galilee | ပီၣ်​လဲၣ်​ကၤ​လံၤ​လါ |  | 3/3 |  |  |
+| Seba | စီၤ​စ​ဘၤ | OT 4/4 |  |  |  |
+| Secacah | စ​ကၤ​ကၤ | OT 1/1 |  |  |  |
+| Sechu | စ့​ကူၤ | OT 1/1 |  |  |  |
+| Segub | စီၤ​စ​ကံာ် | OT 3/3 |  |  |  |
 | Seir | စ့​ဧၢ် | OT 29/38 varies |  |  | Gen 32:3; 33:14, 16 spell it စံ​ဧ့ၢ် (possible variant/typo). |
+| Seirath | စ့​ဧ့ၢ်​သၤ | OT 1/1 |  |  |  |
+| Selahammahlekoth | စ့​လၤ​ဟး​မၤ​ဃ​လ | OT 1/1 |  |  |  |
+| Seled | စီၤ​စ့​လ့း | OT 1/1 |  |  |  |
+| Semachiah | စီၤ​စ​မၤ​က​ယၤ | OT 1/1 |  |  |  |
+| Senaah | စ​နါ​အၤ | OT 2/2 |  |  |  |
+| Seneh | စ့​နၤ | OT 1/1 |  |  |  |
+| Senir | စ​နံၢ် | OT 2/2 |  |  |  |
 | Sennacherib | စၤ​န​ဃ့​ရံာ် | OT 13/13 |  |  |  |
+| Senuah | စီၤ​စ​နူ​အၤ | OT 1/1 |  |  |  |
+| Seorim | စီၤ​စ​ဧိ​ရံၣ် | OT 1/1 |  |  |  |
+| Sephar | စ​ဖၢ် | OT 1/1 |  |  |  |
+| Sepharvaim | စ​ဖၤ​ရ​ဝံၣ် | OT 5/6 |  |  |  |
+| Sepharvites | စ​ဖၤ​ရ​ဝံၣ်​ဖိ​ဆူး | OT 1/1 |  |  |  |
+| Serah | နီၢ်​စ့​ရၤ | OT 2/2 |  |  |  |
 | Seraiah | စီၤ​စ​ရါ​ယၤ | OT 18/18 |  |  |  |
+| Sered | စီၤ​စ့​ရ့း | OT 2/2 |  |  |  |
 | Serug | စီၤ​စ​ရူာ် | OT 5/5 |  |  |  |
 | Seth | စီၤ​ၡ့​သး | OT 7/7 |  |  |  |
 | Sethur | စီၤ​စ​သူၢ် | OT 1/1 |  | Num 13 |  |
+| Shaalabbin | ၡၤ​လး​ဘံၣ် | OT 1/1 |  |  |  |
+| Shaalbim | ၡး​လ​ဘံၣ် | OT 1/2 |  |  |  |
+| Shaalbonite | ပှၤ​ၡၤ​လ​ဘိၣ်​ဖိ | OT 2/2 |  |  |  |
+| Shaaph | စီၤ​ၡၤ​ဧာ် | OT 2/2 |  |  |  |
+| Shaaraim | ၡၤ​ရဲၣ် | OT 2/2 |  |  |  |
+| Shaashgaz | စီၤ​ၡၤ​ၡ​ကး | OT 1/1 |  |  |  |
+| Shabbethai | စီၤ​ၡၤ​ဘ​သဲၤ | OT 3/3 |  |  |  |
+| Shachia | စီၤ​ၡ့​က​ယၤ | OT 1/1 |  |  |  |
+| Shage | စီၤ​ၡၤ​က့ | OT 1/1 |  |  |  |
+| Shaharaim | စီၤ​ၡၤ​ဃ​ရံၣ် | OT 1/1 |  |  |  |
+| Shahazimah | ၡၤ​က​စံ​မၤ | OT 1/1 |  |  |  |
+| Shalim | ၡၤ​လံၣ် | OT 1/1 |  |  |  |
+| Shalisha | ၡၤ​လံ​ၡၤ | OT 1/1 |  |  |  |
+| Shallecheth | ၡး​လ့​က့ | OT 1/1 |  |  |  |
 | Shallum | စီၤ​ၡၤ​လူၣ် | OT 23/26 |  |  |  |
+| Shallun | စီၤ​ၡၤ​လူၣ် | OT 1/1 |  |  | Same Karen form as Shallum. |
+| Shalmai | စီၤ​ၡၤ​လ​မဲၤ | OT 2/2 |  |  |  |
+| Shalmaneser | ၡၤ​လ​မၤ​န့​စ့ၢ် | OT 2/2 |  |  |  |
+| Shama | စီၤ​ၡး​မၤ | OT 1/1 |  |  |  |
+| Shamariah | စီၤ​ၡ​မၤ​ရ​ယၤ | OT 1/1 |  |  |  |
+| Shamer | စီၤ​ၡၤ​မ့ၢ် | OT 2/2 |  |  |  |
 | Shamgar | စီၤ​ၡး​မ​ကၢ် | OT 2/2 |  | Judg 3:31; 5:6 |  |
+| Shamhuth | စီၤ​ၡၤ​မူ​ဃူး | OT 1/1 |  |  |  |
+| Shamir | ၡၤ​မံၢ် | OT 3/4 |  |  |  |
+| Shamma | စီၤ​ၡး​မၤ | OT 1/1 |  |  |  |
 | Shammah | စီၤ​ၡး​မၤ | OT 7/8 |  |  |  |
+| Shammai | စီၤ​ၡး​မဲ | OT 4/5 |  |  |  |
+| Shammoth | စီၤ​ၡး​မၤ | OT 1/1 |  |  |  |
 | Shammua | စီၤ​ၡး​မူၤ | OT 4/6 |  | Num 13 |  |
+| Shamsherai | စီၤ​ၡ့​မ​ၡံး​ရဲၤ | OT 1/1 |  |  |  |
+| Shapham | စီၤ​ၡၤ​ဖၣ် | OT 1/1 |  |  |  |
 | Shaphan | စီၤ​ၡၤ​ဖၣ် | OT 20/24 |  |  |  |
 | Shaphat | စီၤ​ၡၤ​ဖး | OT 8/8 |  |  |  |
+| Shapher | ၡၤ​ဖၢ် | OT 2/2 |  |  |  |
+| Sharai | စီၤ​ၡၤ​ရဲ | OT 1/1 |  |  |  |
+| Sharaim | ၡၤ​ရ​ယံၣ် | OT 1/1 |  |  |  |
+| Sharar | စီၤ​ၡၤ​ရၢ် | OT 1/1 |  |  |  |
+| Sharezer | စီၤ​ၡၢ်​အ့​စ့ၢ် | OT 2/2 |  |  |  |
+| Sharon | ၡၤ​ရိၣ် | OT 6/6 |  |  |  |
+| Sharonite | ပှၤ​ၡၤ​ရိၣ်​ဖိ | OT 1/1 |  |  |  |
+| Sharuhen | ၡ​ရူၤ​ဃ့ၣ် | OT 1/1 |  |  | Karen has it in the next or previous verse (Josh 19 verse boundaries differ) |
+| Shashai | — | OT 0/1 |  |  | Not in the Karen text – Ezra 10:40 leaves it out. |
+| Shashak | စီၤ​ၡၤ​ၡး | OT 2/2 |  |  |  |
+| Shaul | စီၤ​ၡီ​အူး | OT 3/7 |  |  |  |
+| Shaulites | ပှၤ​ၡၤ​အူ​လး​ဖိ | OT 1/1 |  |  |  |
+| Shaveh | ၡၤ​ဝ့ | OT 1/1 |  |  |  |
+| Shavsha | စီၤ​ၡၤ​ဝ​ၡၤ | OT 1/1 |  |  |  |
+| Sheal | စီၤ​ၡ​အၤ​လး | OT 1/1 |  |  |  |
 | Shealtiel | စီၤ​ၡၤ​လ​တံၤ​အ့​လး | OT 9/9 |  |  |  |
+| Sheariah | စီၤ​ၡၤ​ရံ​ယၤ | OT 2/2 |  |  |  |
 | Sheba | ၡ​ဘၤ | OT 31/32 |  |  |  |
 | Sheba (son of Bichri) | စီၤ​ၡ​ဘၤ | OT |  |  | 2 Sam 20:1–22. |
+| Shebah | ၡ​ဘၤ | OT 1/1 |  |  |  |
+| Shebam | စ​ဘၣ် | OT 1/1 |  |  |  |
+| Shebaniah | စီၤ​ၡ​ဘၤ​န​ယၤ | OT 7/7 |  |  |  |
+| Shebarim | ၡ​ဘၤ​ရံၣ် | OT 1/1 |  |  |  |
+| Sheber | စီၤ​ၡ့​ဘ့ၢ် | OT 1/1 |  |  |  |
 | Shebna | စီၤ​ၡ့ၤ​ဘ​နၤ | OT 8/9 |  |  |  |
+| Shebuel | စီၤ​ၡ​ဘူၤ​အ့​လး | OT 3/3 |  |  |  |
+| Shecaniah | စီၤ​ၡ​ကါ​န​ယၤ | OT 2/2 |  |  |  |
+| Shechaniah | စီၤ​ၡ​ကါ​နံ​ယၤ | OT 2/8 |  |  |  |
 | Shechem | ၡ​က့ၣ် | OT 55/55 |  |  |  |
+| Shechemites | ပှၤ​ၡ​က့ၣ်​ဖိ | OT 1/1 |  |  |  |
 | Shedeur | စီၤ​ၡ​ဒ့​အူၢ် | OT 5/5 |  | Num 1:5–15 |  |
+| Shehariah | စီၤ​ၡ​ဃၤ​ရ​ယၤ | OT 1/1 |  |  |  |
 | Shelah | စီၤ​ၡ့​လၤ | OT 8/10 |  |  |  |
+| Shelanites | ပှၤ​ၡ့​လၤ​ဖိ | OT 1/1 |  |  |  |
 | Shelemiah | စီၤ​ၡ​လ့​မ​ယၤ | OT 9/10 |  |  |  |
+| Sheleph | စီၤ​ၡ့​လ​ဖး | OT 2/2 |  |  |  |
+| Shelesh | စီၤ​ၡ့​လ့ၣ် | OT 1/1 |  |  |  |
+| Shelomi | စီၤ​ၡ​လိၤ​မံ | OT 1/1 |  |  |  |
 | Shelomith | ၡ​လိ​မံး | OT 8/9 |  |  |  |
+| Shelomoth | စီၤ​ၡ​လိ​မိး | OT 1/1 |  |  |  |
 | Shelumiel | စီၤ​ၡ​လူ​မံၤ​အ့​လး | OT 4/5 |  | Num 1:5–15 |  |
 | Shem | စီၤ​ၡ့ၣ် | OT 16/16 |  |  |  |
+| Shemaah | စီၤ​ၡ​မၤ | OT 1/1 |  |  |  |
 | Shemaiah | စီၤ​ၡ​မါ​ယၤ | OT 34/39 |  |  |  |
+| Shemariah | စီၤ​ၡ​မၤ​ရ​ယၤ | OT 3/3 |  |  |  |
+| Shemeber | ၡ့​မ့​ဘ့ၢ် | OT 1/1 |  |  |  |
+| Shemer | စီၤ​ၡ့​မ့ၢ် | OT 1/1 |  |  |  |
+| Shemida | စီၤ​ၡ​မံ​ဒၤ | OT 3/3 |  |  |  |
+| Shemidaites | ပှၤ​ၡ​မံ​ဒၤ​ဖိ | OT 1/1 |  |  |  |
+| Sheminith | ၡ​မံ​နံး | OT 1/3 |  |  |  |
+| Shemiramoth | စီၤ​ၡ​မံၤ​ရ​မိး | OT 3/4 |  |  |  |
+| Shemuel | စီၤ​ၡံ​မူၤ​အ့​လး | OT 1/3 |  |  |  |
+| Shen | ၡ့ၣ် | OT 1/1 |  |  |  |
+| Shenazar | စီၤ​ၡ့​နၤ​စၢ် | OT 1/1 |  |  |  |
+| Shenir | စ​နံၢ် | OT 2/2 |  |  |  |
+| Shepham | ၡ​ဖၣ် | OT 2/2 |  |  |  |
+| Shephathiah | စီၤ​ၡ​ဖး​တ​ယၤ | OT 1/1 |  |  |  |
 | Shephatiah | ၡ​ဖး​တ​ယၤ | OT 11/12 |  |  |  |
+| Shephi | စီၤ​ၡ​ဖိၤ | OT 1/1 |  |  |  |
+| Shepho | စီၤ​ၡ​ဖိၤ | OT 1/1 |  |  |  |
+| Shephuphan | စီၤ​ၡ​ဖူ​ဖၣ် | OT 1/1 |  |  |  |
+| Sherah | နီၢ်​ၡ့​ရၤ | OT 1/1 |  |  |  |
+| Sherebiah | စီၤ​ၡ့ၤ​ရ့​ဘ​ယၤ | OT 2/8 |  |  |  |
+| Sheresh | စီၤ​ၡ့​ရ့ၣ် | OT 1/1 |  |  |  |
+| Sheshai | စီၤ​ၡ့ၤ​ၡဲ | OT 2/3 |  |  |  |
+| Sheshan | စီၤ​ၡ့​ၡၣ် | OT 3/3 |  |  |  |
+| Sheshbazzar | စီၤ​ၡ့​ၡ​ဘး​စၢ် | OT 4/4 |  |  |  |
+| Shethar | စီၤ​ၡ့​သၢ် | OT 1/1 |  |  |  |
+| Shetharboznai | စီၤ​ၡ​သၢ်​ဘိ​စ​နဲၤ | OT 4/4 |  |  |  |
+| Sheva | စီၤ​ၡ​ဝၤ | OT 2/2 |  |  |  |
+| Shibboleth | ၡံး​ဘိၤ​လ့း | OT 1/1 |  |  |  |
+| Shibmah | စံး​ဘ​မၤ | OT 1/1 |  |  |  |
+| Shicron | ၡံ​ကြိၣ် | OT 1/1 |  |  |  |
+| Shihor | ၡံ​ဃိၢ် | OT 1/1 |  |  |  |
+| Shihorlibnath | ၡံ​ဃိၢ်​လံး​ဘ​နး | OT 1/1 |  |  |  |
+| Shilhi | စီၤ​ၡံး​လ​ဃံ | OT 2/2 |  |  |  |
+| Shilhim | ၡံ​လ​ဃံၣ် | OT 1/1 |  |  |  |
+| Shillem | စီၤ​ၡံး​လ့ၣ် | OT 1/2 |  |  |  |
+| Shillemites | ပှၤ​ၡံး​လ့ၣ်​ဖိ | OT 1/1 |  |  |  |
 | Shiloh | ၡံ​လိၤ | OT 28/31 |  |  |  |
+| Shiloni | စီၤ​ၡံ​လိ​နံၤ | OT 1/1 |  |  |  |
+| Shilonite | ပှၤ​ၡံ​လိၤ​ဖိ | OT 5/5 |  |  |  |
+| Shilshah | စီၤ​ၡံ​လ​ၡၣ် | OT 1/1 |  |  |  |
+| Shimea | စီၤ​ၡံ​မၤ | OT 5/5 |  |  |  |
+| Shimeah | စီၤ​ၡံ​မၤ | OT 2/3 |  |  |  |
+| Shimeam | စီၤ​ၡံ​မၣ် | OT 1/1 |  |  |  |
+| Shimeath | နီၢ်​ၡံ​မ​ဧး | OT 2/2 |  |  |  |
+| Shimeathites | ပှၤ​ၡံ​မ​ဧး​ဖိ | OT 1/1 |  |  |  |
 | Shimei | စီၤ​ၡံ​မံၤ | OT 35/38 |  |  |  |
+| Shimeon | စီၤ​စူၤ​မ့း​အိၣ် | OT 1/1 |  |  | Same Karen form as Simeon. |
+| Shimhi | စီၤ​ၡံ​မ​ဧံ | OT 1/1 |  |  |  |
+| Shimi | စီၤ​ၡံ​မံၤ | OT 1/1 |  |  |  |
+| Shimites | ပှၤ​ၡ​မၤ​ဖိ | OT 1/1 |  |  |  |
+| Shimma | စီၤ​ၡံ​မၤ | OT 1/1 |  |  |  |
+| Shimon | စီၤ​ၡံ​မိၣ် | OT 1/1 |  |  |  |
+| Shimrath | စီၤ​ၡံး​မ​ရံ | OT 1/1 |  |  |  |
+| Shimri | စီၤ​ၡံး​မ​ရံ | OT 3/3 |  |  |  |
+| Shimrith | နီၢ်​ၡ​မံ​ရံး | OT 1/1 |  |  |  |
+| Shimron | ၡံး​မ​ရိၣ် | OT 5/5 |  |  |  |
+| Shimronites | ပှၤ​ၡံး​မ​ရိၣ်​ဖိ | OT 1/1 |  |  |  |
+| Shimronmeron | ၡံး​မ​ရိၣ်​မ​ရိၣ် | OT 1/1 |  |  |  |
+| Shimshai | စီၤ​ၡံး​မ​ၡဲ | OT 3/4 |  |  |  |
+| Shinab | ၡံး​နာ် | OT 1/1 |  |  |  |
+| Shinar | ၡံ​နၢ် | OT 7/7 |  |  |  |
+| Shion | ၡံ​အိၣ် | OT 1/1 |  |  |  |
+| Shiphi | စီၤ​ၡ​မံ | OT 1/1 |  |  |  |
+| Shiphmite | ပှၤ​ၡံး​ဖ​မး​ဖိ | OT 1/1 |  |  |  |
+| Shiphrah | နီၢ်​ၡံး​ပ​ရၤ | OT 1/1 |  |  |  |
+| Shiphtan | စီၤ​ၡံး​ဖ​တၣ် | OT 1/1 |  |  |  |
+| Shisha | စီၤ​ၡံ​ၡၤ | OT 1/1 |  |  |  |
 | Shishak | စီၤ​ၡံ​ၡး | OT 6/6 |  |  | 1 Kgs 11:40; 14:25. King of Egypt. |
+| Shitrai | စီၤ​ၡံး​တြဲၤ | OT 1/1 |  |  |  |
 | Shittim (place) | ၡံး​တံၣ် | OT 4/6 |  | Num 25:1; Josh 2:1; 3:1 | Not the same as shittim wood (သ့ၣ်ဖှ့ၡံးတၤ). |
+| Shiza | စီၤ​ၡံ​စၤ | OT 1/1 |  |  |  |
+| Shobab | စီၤ​ၡိၤ​ဘာ် | OT 4/4 |  |  |  |
+| Shobach | စီၤ​ၡိ​ဘး | OT 2/2 |  |  |  |
+| Shobai | စီၤ​ၡိ​ဘံၤ | OT 2/2 |  |  |  |
 | Shobal | စီၤ​ၡိ​ဘ​လး | OT 8/9 |  |  |  |
+| Shobek | စီၤ​ၡိ​ဘ့း | OT 1/1 |  |  |  |
+| Shobi | စီၤ​ၡိ​တံၤ | OT 1/1 |  |  |  |
+| Shocho | ၡိ​ကိး | OT 1/1 |  |  | 2 Chr 28:18. Shoco/Shochoh are ၡိ​ကိၤ elsewhere – probably a slip (section 16). |
+| Shochoh | ၡိ​ကိၤ | OT 1/1 |  |  |  |
+| Shoco | ၡိ​ကိၤ | OT 1/1 |  |  |  |
+| Shoham | စီၤ​ၡိ​ဟၣ် | OT 1/1 |  |  |  |
+| Shomer | နီၢ်​ၡိ​မ့ၢ် | OT 2/2 |  |  |  |
+| Shophach | စီၤ​ၡိ​ဖး | OT 2/2 |  |  |  |
+| Shophan | ၡိ​ဖၣ် | OT 1/1 |  |  |  |
+| Shua | နီၢ်​ၡူ​ဧၤ | OT 2/2 |  |  |  |
+| Shuah | စီၤ​ၡူ​ဧၤ | OT 1/5 |  |  |  |
+| Shual | ၡူ​ဧၤ​လး | OT 2/2 |  |  |  |
+| Shubael | ဘၤ​အ့​လး | OT 1/2 |  |  |  |
+| Shuham | စီၤ​ၡူ​ဃၣ် | OT 1/1 |  |  |  |
+| Shuhamites | ပှၤ​ၡူ​ဃၣ်​ဖိ | OT 2/2 |  |  |  |
+| Shumathites | ပှၤ​ၡူၤ​မ​သး​ဖိ | OT 1/1 |  |  |  |
+| Shunammite | ပှၤ​ၡူ​န့ၣ်​ဖိ | OT 8/8 |  |  |  |
 | Shunem | ၡူ​န့ၣ် | OT 3/3 |  |  | 1 Sam 28:4. |
+| Shuni | စီၤ​ၡူ​နံၤ | OT 2/2 |  |  |  |
+| Shunites | ပှၤ​ၡူ​နံၤ​ဖိ | OT 1/1 |  |  |  |
+| Shupham | စီၤ​ၡူ​ဖၣ် | OT 1/1 |  |  |  |
+| Shuphamites | ပှၤ​ၡူ​ဖၣ်​ဖိ | OT 1/1 |  |  |  |
+| Shuppim | စီၤ​ၡူ​ဖံၣ် | OT 2/3 |  |  |  |
+| Shur | ၡူၢ် | OT 6/6 |  |  |  |
 | Shushan | ၡူ​ၡၣ် | OT 18/19 |  |  |  |
+| Shuthalhites | ပှၤ​ၡူၤ​သ့​လၤ​ဖိ | OT 1/1 |  |  |  |
+| Shuthelah | စီၤ​ၡူၤ​သ့​လၤ | OT 3/4 |  |  |  |
+| Sia | စီၤ​စံၤ​ဟၤ | OT 2/2 |  |  |  |
+| Siaha | စီၤ​စံၤ​ဟၤ | OT 1/1 |  |  |  |
+| Sibbecai | စီၤ​စံး​ဘ​ကဲၤ | OT 1/2 |  |  |  |
+| Sibbechai | စီၤ​စံၤ​ဘ​ကဲ | OT 1/2 |  |  |  |
+| Sibboleth | စံး​ဘိၤ​လ့း | OT 1/1 |  |  |  |
+| Sibmah | စံး​ဘ​မၤ | OT 3/4 |  |  |  |
+| Sichem | ၡ​က့ၣ် | OT 1/1 |  |  |  |
 | Siddim (vale of) | တၢ်​ပၢၤ​ခိၣ်​စံး​ဒံၣ် | OT 3/3 |  |  |  |
 | Sidon | စံ​ဒိၣ် | NT 12/12 |  |  |  |
 | Sidonians | ပှၤ​စံ​ဒိၣ်​ဖိ | OT 5/5 |  | Deut 3:9 |  |
 | Sihon | စံ​ဃိၣ် | OT 32/34 |  |  |  |
+| Sihor | ၡံ​ဃိၢ် | OT 3/3 |  |  |  |
 | Silas | စီၤ​စံ​လၤ | NT 13/13 |  |  |  |
+| Silla | စံး​လၤ | OT 1/1 |  |  |  |
+| Siloah | ၡံ​လိၤ | OT 1/1 |  |  |  |
 | Simeon | စီၤ​စူၤ​မ့း​အိၣ် *(NT)*<br>စူၤ​မ့း​အိၣ် *(OT)* | NT 4/6 varies; OT 34/39 |  |  |  |
+| Simeonites | ပှၤ​စူၤ​မ့း​အိၣ်​ဖိ | OT 2/3 |  |  |  |
 | Simon | စီၤ​ၡံ​မိၣ် | NT 67/71 |  |  |  |
+| Simri | စီၤ​ၡံ​မ​ရံ | OT 1/1 |  |  |  |
 | Sinai | စံၤ​နါ | OT 34/34 |  |  |  |
+| Sinite | ပှၤ​စံၣ်​ဖိ | OT 1/2 |  |  |  |
 | Sion | စံ​ယိၣ် | NT 7/7 |  |  |  |
+| Siphmoth | စံး​ဖ​မိး | OT 1/1 |  |  |  |
+| Sippai | စီၤ​စး​ဖဲၤ | OT 1/1 |  |  |  |
+| Sirah | စံ​ရၤ | OT 1/1 |  |  |  |
+| Sirion | စံး​ရ​ယိၣ် | OT 1/2 |  |  |  |
+| Sisamai | စီၤ​စံၤ​စ​မဲ | OT 1/1 |  |  |  |
 | Sisera | စီၤ​စံ​စ​ရၤ | OT 17/19 |  |  |  |
+| Sitnah | စံး​တ​နၤ | OT 1/1 |  |  |  |
+| Sivan | စံ​ဝၣ် | OT 1/1 |  |  |  |
+| Socho | စိ​ကိၤ | OT 1/1 |  |  |  |
+| Sochoh | စိ​ကိၤ | OT 1/1 |  |  |  |
+| Socoh | စိ​ကိၤ | OT 1/2 |  |  |  |
+| Sodi | စီၤ​စိ​ဒံၤ | OT 1/1 |  |  |  |
 | Sodom | စ​ဒိၣ် | NT 9/9; OT 38/38 |  |  |  |
 | Solomon | စီၤ​ၡ​လိၤ​မိၤ | NT 9/10; OT 233/264 |  |  |  |
+| Sophereth | စီၤ​စိ​ဖ့ၤ​ရ့း | OT 2/2 |  |  |  |
+| Sorek | စိ​ရ့း | OT 1/1 |  |  |  |
+| Sotai | စီၤ​စိ​တဲၤ | OT 2/2 |  |  |  |
 | Stephanas | စီၤ​စ​တ့း​ဖ​နၣ် | NT 3/3 |  |  |  |
 | Stephen | စီၤ​စ​တ့း​ဖၣ် | NT 7/7 |  |  |  |
+| Suah | စီၤ​စူၤ​အၤ | OT 1/1 |  |  |  |
 | Succoth | စူး​ကိၤ​သး | OT 15/16 |  |  |  |
+| Succothbenoth | စူး​ကိၤ​သး​ဘ​နိး | OT 1/1 |  |  |  |
+| Suchathites | စူး​ကိၤ​သး | OT 1/1 |  |  |  |
+| Sukkiims | ပှၤ​စူၤ​ကံၤ​ဖိ | OT 1/1 |  |  |  |
+| Susanchites | ပှၤ​ၡူ​ရ​နၤ​ဖိ | OT 1/1 |  |  |  |
+| Susi | စီၤ​စူ​စံၤ | OT 1/1 |  |  |  |
 | Syria | စူၤ​ရံ | NT 8/8; OT 61/63 |  |  |  |
 | Syrians | ပှၤ​စူၤ​ရံ​ဖိ | OT 55/55 |  |  |  |
+| Taanach | တၤ​နး | OT 6/6 |  |  |  |
+| Taanathshiloh | တၤ​နး​ၡံ​လိၤ | OT 1/1 |  |  |  |
+| Tabbaoth | စီၤ​တး​ဘၤ​ဧိး | OT 1/2 |  |  |  |
+| Tabbath | တး​ဘး | OT 1/1 |  |  |  |
+| Tabeel | စီၤ​တၤ​ဘ့​လး | OT 1/1 |  |  |  |
 | Taberah | တး​ဘ​ဧ့​ရၤ | OT 2/2 |  | Num 11:3 |  |
 | Tabor | တၤ​ဘိၢ် | OT 9/10 |  |  |  |
+| Tabrimon | စီၤ​တၤ​ဘြံ​မိၣ် | OT 1/1 |  |  |  |
+| Tachmonite | ပှၤ​တၤ​ဃ​ကး​မိၣ်​ဖိ | OT 1/1 |  |  |  |
+| Tadmor | တး​ဒ​မိၢ် | OT 2/2 |  |  |  |
+| Tahan | စီၤ​တၤ​ဃၣ် | OT 2/2 |  |  |  |
+| Tahanites | ပှၤ​တၤ​ဃၣ်​ဖိ | OT 1/1 |  |  |  |
+| Tahath | စီၤ​တၤ​ဃး | OT 5/5 |  |  |  |
+| Tahpenes | နီၢ်​တၤ​ပါ​န့ၤ | OT 2/2 |  |  |  |
+| Tahrea | စီၤ​တၤ​ဃ​ရ့ | OT 1/1 |  |  |  |
+| Tahtimhodshi | တၤ​ဃ​တံၣ်​ဃီ​ဒ​ၡံၤ | OT 1/1 |  |  |  |
 | Talmai | စီၤ​တး​လ​မဲ | OT 6/6 |  | Num 13 |  |
+| Talmon | စီၤ​တၤ​လ​မိၣ် | OT 5/5 |  |  |  |
+| Tamah | စီၤ​သၤ​မၤ | OT 1/1 |  |  |  |
 | Tamar | နီၢ်​တၤ​မၢ် | OT 20/22 |  |  |  |
+| Tanach | တၤ​နး | OT 1/1 |  |  |  |
+| Tanhumeth | စီၤ​တး​န​ဃူ​မ့း | OT 1/2 |  |  |  |
+| Taphath | နီၢ်​တၤ​ဖး | OT 1/1 |  |  |  |
+| Tappuah | တး​ပူၤ | OT 5/5 |  |  |  |
+| Tarah | တၤ​ရး | OT 2/2 |  |  |  |
+| Taralah | တၤ​ရါ​လး | OT 1/1 |  |  |  |
+| Tarea | စီၤ​တၤ​ရ့ၤ | OT 1/1 |  |  |  |
+| Tarpelites | ပှၤ​တၢ်​ပ​လး​ဖိ | OT 1/1 |  |  |  |
 | Tarshish | တၢ်​ၡံၣ် | OT 21/21 |  |  |  |
 | Tarsus | တၢ်​စူး | NT 5/5 |  |  |  |
+| Tartak | တၢ်​တး | OT 1/1 |  |  |  |
+| Tartan | စီၤ​တၢ်​တၣ် | OT 2/2 |  |  |  |
+| Tatnai | စီၤ​တး​နဲ | OT 4/4 |  |  |  |
+| Tebah | စီၤ​တ့​ဘာ် | OT 1/1 |  |  |  |
+| Tebaliah | စီၤ​တ​ဘၤ​လ​ယၤ | OT 1/1 |  |  |  |
+| Tebeth | တ့​ဘ့း | OT 1/1 |  |  |  |
+| Tehinnah | စီၤ​တ​ဃံး​နၤ | OT 1/1 |  |  |  |
+| Tekoa | တ​ကိၤ | OT 6/6 |  |  |  |
+| Tekoah | တ​ကိၤ | OT 3/3 |  |  |  |
+| Tekoite | ပှၤ​တ​ကိၤ​ဖိ | OT 3/3 |  |  |  |
+| Telah | စီၤ​တ့​လၤ | OT 1/1 |  |  |  |
+| Telaim | တ​လၤ​အံၣ် | OT 1/1 |  |  |  |
+| Telem | တ့​လ့ၣ် | OT 2/2 |  |  |  |
+| Telharesha | တ့​လ​ဃၢ်​ၡၤ | OT 1/1 |  |  |  |
+| Telharsa | တ့​လ​ဃၢ်​ၡၤ | OT 1/1 |  |  |  |
+| Telmelah | တ့ၤ​လ​မ့ၤ​လၤ | OT 2/2 |  |  |  |
+| Tema | စီၤ​တ့​မၤ | OT 5/5 |  |  |  |
 | Teman | တ့ၤ​မၣ် | OT 9/11 |  |  |  |
+| Temani | တ့ၤ​မၣ် | OT 1/1 |  |  |  |
+| Temanites | ပှၤ​တ့ၤ​မၣ်​ဖိ | OT 1/1 |  |  |  |
+| Temeni | စီၤ​တ့​မ​နံၤ | OT 1/1 |  |  |  |
 | Terah | စီၤ​တ့​ရၤ | OT 9/9 |  |  |  |
+| Teresh | စီၤ​တ့​ရ့ၣ် | OT 2/2 |  |  |  |
+| Thahash | စီၤ​တ​ဃာ် | OT 1/1 |  |  |  |
+| Thamah | စီၤ​သၤ​မၤ | OT 1/1 |  |  |  |
+| Tharshish | စီၤ​တၢ်​ၡံၣ် | OT 3/3 |  |  |  |
+| Thebez | တ့​ဘ့း | OT 2/2 |  |  |  |
+| Thelasar | သ​လး​စၢ် | OT 1/1 |  |  |  |
 | Thessalonians | ပှၤ​သ့း​စၤ​လ​နံ​ဖိ | NT 2/3 varies |  |  |  |
 | Thessalonica | သ့း​စၤ​လ​နံ | NT 6/6 |  |  |  |
+| Thimnathah | သံ​မ​နၤ​သၤ | OT 1/1 |  |  |  |
 | Thomas | စီၤ​သိၤ​မါ | NT 12/12 |  |  |  |
 | Thyatira | သူၤ​အ​တံ​ရၤ | NT 4/4 |  |  |  |
+| Tibhath | တံး​ဘ​ဃး | OT 1/1 |  |  |  |
+| Tibni | စီၤ​တံး​ဘ​နံၤ | OT 2/2 |  |  |  |
+| Tidal | တံး​ဒၤ​လး | OT 2/2 |  |  |  |
+| Tiglathpileser | တံး​က​လး​ပ​လ့​စ့ၢ် | OT 3/3 |  |  |  |
+| Tikvah | စီၤ​တံး​က​ဝၤ | OT 2/2 |  |  |  |
+| Tikvath | စီၤ​တံး​က​ဝၤ | OT 1/1 |  |  |  |
+| Tilgathpilneser | တံး​လ​ကး​ပံး​လ​န့​စ့ၢ် | OT 3/3 |  |  |  |
+| Tilon | စီၤ​တံ​လိၣ် | OT 1/1 |  |  |  |
 | Timna | နီၢ်​တံး​မ​နၤ | OT 4/4 |  |  |  |
 | Timnath | တံး​မ​နး / တံ​မ​နး | OT (varies) |  | Judg 14:1–5 | Both spellings occur, even in one verse. |
+| Timnathheres | တံ​မ​နး​ဃ့​ရ့း | OT 1/1 |  |  |  |
+| Timnathserah | တံး​မ​နး​စ့​ရၤ | OT 1/2 |  |  |  |
+| Timnite | ပှၤ​တံး​မ​နး​ဖိ | OT 1/1 |  |  |  |
 | Timotheus | စီၤ​တံၤ​မ​သ့း | NT 17/17 |  |  |  |
 | Timothy | စီၤ​တံၤ​မ​သ့း | NT 7/7 |  |  |  |
+| Tiphsah | တံ​ပ​စၤ | OT 1/2 |  |  |  |
+| Tiras | စီၤ​တံၤ​ရ့း | OT 1/2 |  |  |  |
+| Tirathites | တံ​ရ​သး | OT 1/1 |  |  |  |
+| Tirhakah | တံ​ရ​ဟၤ​ကၤ | OT 1/2 |  |  |  |
+| Tirhanah | စီၤ​တ့ၢ်​ဃ​နၤ | OT 1/1 |  |  |  |
+| Tiria | စီၤ​တံ​ရ​ယၤ | OT 1/1 |  |  |  |
 | Tirzah | တံး​ရ​စၢ် | OT 16/17 |  |  |  |
 | Titus | စီၤ​တံ​တူး | NT 12/12 |  |  |  |
+| Tizite | တံ​စံၤ | OT 1/1 |  |  |  |
+| Toah | စီၤ​တိ​အး | OT 1/1 |  |  |  |
+| Tob | တိာ် | OT 2/2 |  |  |  |
+| Tobadonijah | စီၤ​တိ​အ​ဒိၤ​နံ​ယၤ | OT 1/1 |  |  |  |
 | Tobiah | စီၤ​တိၤ​ဘံ​ယၤ | OT 12/14 |  |  |  |
+| Tobijah | စီၤ​တိၤ​ဘံ​ယၤ | OT 2/3 |  |  | 2 Chr 17:8 has တိၤ​ရံ​ယၤ (section 16). Tobiah is the same form. |
+| Tochen | တိ​က့ၣ် | OT 1/1 |  |  |  |
+| Togarmah | တိ​ကး​ရ​မၤ | OT 3/4 |  |  |  |
+| Tohu | စီၤ​တိ​ဟူၤ | OT 1/1 |  |  |  |
+| Toi | စီၤ​တိ​ဧံၤ | OT 2/2 |  |  |  |
 | Tola | စီၤ​တိ​လၤ | OT 3/5 |  | Judg 10:1 |  |
+| Tolad | တိ​လး | OT 1/1 |  |  |  |
+| Tolaites | ပှၤ​တိၤ​လၤ​ဖိ | OT 1/1 |  |  |  |
+| Tophel | တိ​ဖ​လး | OT 1/1 |  |  |  |
 | Tophet | တိ​ဖ့း | OT 8/8 |  |  |  |
+| Topheth | တိ​ဖ့း | OT 1/1 |  |  |  |
+| Tou | စီၤ​တိ​ဧူၤ | OT 2/2 |  |  |  |
 | Troas | တြိၤ​အါ | NT 6/6 |  |  |  |
 | Trophimus | စီၤ​တြီး​ဖံၤ​မူး | NT 2/3 varies |  |  |  |
 | Tubal | တူၤ​ဘ​လး | OT 8/8 |  |  |  |
+| Tubalcain | စီၤ​တူၤ​ဘ​လး​က့ၤ​ယံၣ် | OT 1/1 |  |  |  |
 | Tychicus | စီၤ​တူ​ဃံၤ​ကူး | NT 5/5 |  |  |  |
 | Tyre | စိၢ် | NT 12/12; OT 24/24 |  |  |  |
 | Tyrus | စိၢ် | OT 20/20 |  |  |  |
+| Uel | စီၤ​အူၤ​အ့​လး | OT 1/1 |  |  |  |
+| Ulam | စီၤ​အူ​လၣ် | OT 4/4 |  |  |  |
+| Ulla | စီၤ​ဧူး​လၤ | OT 1/1 |  |  |  |
+| Ummah | ဧူး​မၤ | OT 1/1 |  |  |  |
+| Unni | စီၤ​ဧူး​နံၤ | OT 3/3 |  |  |  |
+| Ur | အူၢ် | OT 4/5 |  |  |  |
+| Uri | စီၤ​အူ​ရံၤ | OT 7/7 |  |  |  |
 | Uriah | စီၤ​အူၤ​ရံ​ယၤ | OT 19/23 |  |  |  |
+| Uriel | စီၤ​အူ​ရံၤ​အ့​လး | OT 4/4 |  |  |  |
+| Urijah | စီၤ​အူၤ​ရံ​ယၤ | OT 9/10 |  |  |  |
+| Uthai | စီၤ​ဧူ​သဲၤ | OT 2/2 |  |  |  |
+| Uz | စီၤ​ဧူး​စး | OT 7/7 |  |  |  |
+| Uzai | စီၤ​ဧူၤ​စံ | OT 1/1 |  |  |  |
+| Uzal | စီၤ​အူ​စ​လး | OT 2/2 |  |  |  |
 | Uzza | ဧူး​စၤ | OT 9/10 |  |  |  |
 | Uzzah | စီၤ​ဧူး​စၤ | OT 4/4 |  |  | 2 Sam 6:3–8. |
+| Uzzensherah | အူ​စ့ၣ်​ၡ့ၤ​ရ့ၤ | OT 1/1 |  |  |  |
+| Uzzi | စီၤ​ဧူၤ​စံ | OT 8/11 |  |  |  |
+| Uzzia | စီၤ​ဧူး​စံ​ယၤ | OT 1/1 |  |  |  |
 | Uzziah | ဧူး​စံ​ယါ | OT 24/26 |  |  |  |
 | Uzziel | စီၤ​ဧူး​စံၤ​အ့​လး | OT 13/16 |  |  |  |
+| Uzzielites | ပှၤ​ဧူး​စံၤ​အ့​လး​ဖိ | OT 2/2 |  |  |  |
+| Vajezatha | စီၤ​ဝၤ​ယ​စၤ​သၤ | OT 1/1 |  |  |  |
+| Vaniah | စီၤ​ဝၤ​န​ယၤ | OT 1/1 |  |  |  |
+| Vashni | စီၤ​ဝၤ​ၡ​နံၤ | OT 1/1 |  |  |  |
 | Vashti | ဝး​ၡ​တံၤ | OT 8/10 |  |  |  |
+| Vophsi | စီၤ​ဝး​ဖ​စံၤ | OT 1/1 |  |  |  |
+| Zaanaim | စၤ​ဧ​နဲၣ် | OT 1/1 |  |  |  |
+| Zaanannim | စ​ဧး​နဲၣ် | OT 1/1 |  |  |  |
+| Zaavan | စီၤ​စၤ​ဧ​ဝၣ် | OT 1/1 |  |  |  |
 | Zabad | စီၤ​စၤ​ဘး | OT 8/8 |  |  |  |
+| Zabbai | စီၤ​စး​ဘဲ | OT 2/2 |  |  |  |
+| Zabbud | စီၤ​စၤ​ဘူ | OT 1/1 |  |  |  |
+| Zabdi | စီၤ​စး​ဘ​ဒံၤ | OT 5/6 |  |  |  |
+| Zabdiel | စီၤ​စး​ဘ​ဒံၤ​အ့​လး | OT 1/2 |  |  |  |
+| Zabud | စီၤ​စၤ​ဘူး | OT 1/1 |  |  |  |
 | Zabulon | စ​ဘူ​လိၣ် | NT 3/3 |  |  |  |
+| Zaccai | စီၤ​စး​ကဲ | OT 2/3 |  |  |  |
 | Zacchaeus | စီၤ​စး​ဃဲ | NT 3/3 |  |  |  |
+| Zacchur | စီၤ​စး​ကူၢ် | OT 1/1 |  |  |  |
 | Zaccur | စီၤ​စး​ကူၢ် | OT 8/8 |  |  |  |
+| Zachariah | စီၤ​စ​ကၤ​ရ​ယၤ | OT 3/4 |  |  |  |
 | Zacharias | စီၤ​စ​ဃၤ​ရံ | NT 10/11 |  |  |  |
+| Zacher | စီၤ​စ့ၤ​က့ၢ် | OT 1/1 |  |  |  |
 | Zadok | စီၤ​စၤ​ဒိး | OT 50/50 |  |  |  |
+| Zaham | စီၤ​စၤ​ဟၣ် | OT 1/1 |  |  |  |
+| Zair | စၤ​ဧံ​ရၤ | OT 1/1 |  |  |  |
+| Zalaph | စီၤ​စၤ​လာ် | OT 1/1 |  |  |  |
+| Zalmon | စး​လ​မိၣ် | OT 2/2 |  |  |  |
+| Zalmonah | စး​လ​မိ​နၤ | OT 2/2 |  |  |  |
 | Zamzummims | ပှၤ​စၤ​မ​စူၣ်​ဖိ | OT 1/1 |  | Deut 2:20 |  |
+| Zanoah | စါ​နိၤ | OT 4/5 |  |  |  |
+| Zaphnathpaaneah | စီၤ​စး​ဖ​နး​သ​ဖၤ​န့ၤ | OT 1/1 |  |  |  |
+| Zaphon | စၤ​ဖိၣ် | OT 1/1 |  |  |  |
+| Zarah | စီၤ​စ့ၤ​ရး | OT 1/1 |  |  |  |
+| Zareah | စၤ​ရ​ဧၤ | OT 1/1 |  |  |  |
+| Zareathites | ပှၤ​စၤ​ရၤ​သး​ဧၤ​ဖိ | OT 1/1 |  |  |  |
+| Zared | စၤ​ရ့း | OT 1/1 |  |  |  |
+| Zarephath | စၤ​ရ​ဖၤ​သး | OT 2/3 |  |  |  |
+| Zaretan | စၤ​ရ​တၣ် | OT 1/1 |  |  |  |
+| Zarethshahar | စ့ၤ​ရ့း​ၡ​ဃၢ် | OT 1/1 |  |  |  |
+| Zarhites | ပှၤ​စၤ​ရ​ဃး​ဖိ | OT 2/5 |  |  |  |
+| Zartanah | စြ​တၤ​နၤ | OT 1/1 |  |  |  |
+| Zarthan | စၢ်​သး | OT 1/1 |  |  |  |
+| Zatthu | စီၤ​စး​တူၤ | OT 1/1 |  |  |  |
+| Zattu | စီၤ​စး​တူၤ | OT 3/3 |  |  |  |
+| Zavan | စီၤ​စၤ​ဧ​ဝၣ် | OT 1/1 |  |  |  |
+| Zaza | စီၤ​စၤ​စၤ | OT 1/1 |  |  |  |
 | Zebadiah | စီၤ​စ​ဘၤ​ဒ​ယၤ | OT 8/9 |  |  |  |
 | Zebah and Zalmunna | စီၤ​စ့​ဘၤ ဒီး စီၤ​စး​လ​မူ​နၤ | OT 9/9 |  | Judg 8:5–21 |  |
+| Zebaim | စ​ဘဲၣ် | OT 2/2 |  |  |  |
 | Zebedee | စီၤ​စ့း​ဘ့း​ဒဲ | NT 11/11 |  |  |  |
+| Zebina | စီၤ​စ​ဘံ​နၤ | OT 1/1 |  |  |  |
+| Zeboiim | စ​ဘိ​အံၣ် | OT 2/2 |  |  |  |
+| Zeboim | စ​ဘိ​အံၣ် | OT 3/5 |  |  |  |
+| Zebudah | နီၢ်​စ​ဘူ​ဒၤ | OT 1/1 |  |  |  |
 | Zebul | စီၤ​စ​ဘူ​လး | OT 5/5 |  | Judg 9:28–41 |  |
+| Zebulonite | ပှၤ​စ​ဘူ​လိၣ်​ဖိ | OT 2/2 |  |  |  |
+| Zebulun | စ​ဘူ​လိၣ် | OT 42/43 |  |  |  |
 | Zechariah | စီၤ​စ​ကၤ​ရ​ယၤ | OT 36/39 |  |  |  |
+| Zedad | စ​ဒး | OT 2/2 |  |  |  |
 | Zedekiah | စံး​ဒ​ကံ​ယၤ | OT 61/61 |  |  |  |
+| Zelah | စ့​လၤ | OT 2/2 |  |  |  |
+| Zelek | စီၤ​စ့​လ့း | OT 2/2 |  |  |  |
 | Zelophehad | စီၤ​စ​လၤ​ဖ​ဃး | OT 9/9 |  | Num 26:33 | daughters: နီၢ်​မၤ​လၤ, နီၢ်​နိ​ဧၤ, နီၢ်​ဃၤ​က​လၤ, နီၢ်​မံး​လ​ကၤ, နီၢ်​တံး​ရ​စၢ် |
+| Zelzah | စ့​လ​စၤ | OT 1/1 |  |  |  |
+| Zemaraim | စ​မၤ​ရဲၣ် | OT 2/2 |  |  |  |
+| Zemarite | ပှၤ​စ​မၢ်​ဖိ | OT 2/2 |  |  |  |
+| Zemira | စီၤ​စ​မံ​ရၤ | OT 1/1 |  |  |  |
+| Zenan | စ​နၣ် | OT 1/1 |  |  |  |
 | Zephaniah | စီၤ​စ​ဖါ​န​ယၤ | OT 10/10 |  |  |  |
+| Zephath | စ့​ဖး | OT 1/1 |  |  |  |
+| Zephathah | စ​ဖၤ​သး | OT 1/1 |  |  |  |
+| Zephi | စီၤ​စ​ဖိၤ | OT 1/1 |  |  |  |
+| Zepho | စီၤ​စ​ဖိၤ | OT 2/2 |  |  |  |
+| Zephon | စီၤ​စ​ဖိၣ် | OT 1/1 |  |  |  |
+| Zephonites | ပှၤ​စ​ဖိၣ်​ဖိ | OT 1/1 |  |  |  |
+| Zer | စ့ၢ် | OT 1/1 |  |  |  |
 | Zerah | စီၤ​စ့​ရၤ | OT 19/20 |  |  |  |
+| Zerahiah | စီၤ​စ​ရၤ​ဃ | OT 4/4 |  |  |  |
 | Zered (brook) | ထံ​စ့​ရ့း​အ​ကျိ | OT 2/2 |  | Deut 2:13 |  |
+| Zereda | စ​ရ့​ဒၤ | OT 1/1 |  |  |  |
+| Zeredathah | စၢ်​ဒ​သၤ | OT 1/1 |  |  |  |
+| Zererath | စ့ၤ​ရ့း | OT 1/1 |  |  |  |
+| Zeresh | နီၢ်​စ့​ရ့ၣ် | OT 3/3 |  |  | Esth 6:13 has စ့​ရၣ် (section 16). |
+| Zereth | စီၤ​စ့​ရ့း | OT 1/1 |  |  |  |
+| Zeri | စီၤ​စ​ရံၤ | OT 1/1 |  |  |  |
+| Zeror | စီၤ​စ​ရိၢ် | OT 1/1 |  |  |  |
+| Zeruah | နီၢ်​စ​ရူ​ဧၤ | OT 1/1 |  |  |  |
 | Zerubbabel | စီၤ​စ​ရူ​ဘၤ​ဘ့​လး | OT 19/21 |  |  |  |
 | Zeruiah | နီၢ်​စ​ရူ​ယၤ | OT 20/25 |  |  |  |
+| Zetham | စီၤ​စ့ၤ​သၣ် | OT 2/2 |  |  |  |
+| Zethan | စီၤ​စ့​သၣ် | OT 1/1 |  |  |  |
+| Zethar | စီၤ​စ့​သၢ် | OT 1/1 |  |  |  |
+| Zia | စီၤ​စံၤ | OT 1/1 |  |  |  |
 | Ziba | စီၤ​စံ​ဘၤ | OT 13/13 |  |  |  |
 | Zibeon | စီၤ​စံး​ဘ​ဧိၣ် | OT 7/7 |  |  |  |
+| Zibia | စီၤ​စံ​ဘ | OT 1/1 |  |  |  |
+| Zibiah | နီၢ်​စံ​ဘ​ယၤ | OT 2/2 |  |  |  |
 | Zichri | စီၤ​စံး​က​ရံ | OT 12/12 |  |  |  |
+| Ziddim | စံး​ဒံၣ် | OT 1/1 |  |  |  |
+| Zidkijah | စီၤ​စံး​ဒ​ကံ​ယၤ | OT 1/1 |  |  |  |
 | Zidon | စံ​ဒိၣ် | OT 20/21 |  |  |  |
 | Zidonians | ပှၤ​စံ​ဒိၣ်​ဖိ | OT 8/9 |  |  |  |
+| Zif | စံာ် | OT 2/2 |  |  |  |
+| Ziha | စီၤ​စံ​ဃၤ | OT 3/3 |  |  |  |
 | Ziklag | စံ​က​လး | OT 11/12 |  |  |  |
 | Zillah | နီၢ်​စံ​လၤ | OT 3/3 |  |  |  |
 | Zilpah | နီၢ်​စံၤ​လ​ပၤ | OT 7/7 |  |  |  |
+| Zilthai | စီၤ​စံး​လ​သဲ | OT 2/2 |  |  |  |
+| Zimmah | စီၤ​စံး​မၤ | OT 3/3 |  |  |  |
+| Zimran | စီၤ​စံး​မ​ရၣ် | OT 2/2 |  |  |  |
 | Zimri | စီၤ​စံၣ်​ရံၤ | OT 12/13 |  |  |  |
 | Zin (wilderness of) | ပှၢ်​မုၢ်​က​နၢ​စံၣ် | OT 9/9 |  | Num 13 |  |
+| Zina | စီၤ​စံ​နၤ | OT 1/1 |  |  |  |
 | Zion | စံ​ယိၣ် | OT 152/153 | same 3/3 |  |  |
+| Zior | စံ​ဧိၢ် | OT 1/1 |  |  |  |
 | Ziph | စံ​ဖး | OT 9/9 |  |  |  |
+| Ziphah | စီၤ​စံ​ဖၤ | OT 1/1 |  |  |  |
+| Ziphion | စီၤ​စံး​ဖ​ယိၣ် | OT 1/1 |  |  |  |
+| Ziphites | စံ​ဖး | OT 1/2 |  |  |  |
+| Ziphron | စံး​ဖြၣ် | OT 1/1 |  |  |  |
 | Zippor | စီၤ​စံး​ပိၢ် | OT 7/7 |  | Num 22:2 |  |
 | Zipporah | နီၢ်​စံး​ဖိ​ရၤ | OT 3/3 |  |  |  |
+| Zithri | စီၤ​စံး​သ​ရံ | OT 1/1 |  |  |  |
+| Ziz | စံာ် | OT 1/1 |  |  |  |
+| Ziza | စီၤ​စံ​စၤ | OT 2/2 |  |  |  |
+| Zizah | စီၤ​စံ​စၤ | OT 1/1 |  |  |  |
 | Zoan | ဝ့ၢ်​စိၤ​ဧၣ် | OT 6/7 |  | Num 13 |  |
 | Zoar | စိၤ​ဧၢ် | OT 8/9 |  |  |  |
+| Zoba | စိ​ဘၤ | OT 2/2 |  |  |  |
+| Zobah | စိ​ဘၤ | OT 9/10 |  |  |  |
+| Zobebah | စီၤ​စိၤ​ဘ့​ဘၤ | OT 1/1 |  |  |  |
+| Zohar | စီၤ​စိၤ​ဃၢ် | OT 2/4 |  |  |  |
+| Zoheleth | စိၤ​ဃ့​လ့း | OT 1/1 |  |  |  |
+| Zoheth | စီၤ​စိ​ဃ့း | OT 1/1 |  |  |  |
+| Zophah | စီၤ​စိ​ဖၤ | OT 2/2 |  |  |  |
+| Zophai | စီၤ​စိၤ​ဖဲ | OT 1/1 |  |  | Karen has it in the next or previous verse (verse boundaries differ) |
+| Zophim | စိ​ဖံၣ် | OT 1/1 |  |  |  |
 | Zorah | စိး​ရၤ | OT 8/8 |  |  |  |
+| Zorathites | ပှၤ​စိ​ရၤ​ဖိ | OT 1/1 |  |  |  |
+| Zoreah | စိး​ရ​ဧၤ | OT 1/1 |  |  |  |
+| Zorites | စိး​ရ​ဧၤ | OT 1/1 |  |  |  |
 | Zorobabel | စီၤ​စ​ရူ​ဘၤ | NT 3/3 |  |  |  |
 | Zuar | စီၤ​စူ​ဧၢ် | OT 5/5 |  | Num 1:5–15 |  |
+| Zuph | စီၤ​စူာ် | OT 3/3 |  |  |  |
 | Zur | စီၤ​စူၢ် | OT 5/5 |  | Num 25:15 |  |
+| Zuriel | စီၤ​စူ​ရံၤ​အ့​လး | OT 1/1 |  |  |  |
 | Zurishaddai | စီၤ​စူၤ​ရံ​ၡး​ဒံၤ | OT 4/5 |  | Num 1:5–15 |  |
+| Zuzims | ပှၤ​စူ​စၤ​ဖိ | OT 1/1 |  |  |  |
 
 ## 13. Bible book names and reference words (MH)
 
@@ -1971,7 +4027,7 @@ The STC draft uses a different word from the Bible for these terms. These are ch
 | conscience | သး​လၢ​အ​သ့ၣ်​ညါ | သ့ၣ်​ညါ​ဒၣ်​တၢ် |
 | faith | တၢ်​စူၢ်​တၢ်​နာ် | တၢ်​နာ် |
 
-## 16. Possible typos in the Karen Old Testament text (412)
+## 16. Possible typos in the Karen Old Testament text (530)
 
 Each spelling below appears only once or twice, while the usual spelling appears many times. Check these against the printed Bible.
 
@@ -2344,33 +4400,151 @@ Each spelling below appears only once or twice, while the usual spelling appears
 | 2 Kings 21:21 | အါ​အီၤ | ဘါ​အီၤ | worshipped them |
 | 2 Kings 24:2 | ပှၤ​က့​စ့း​ဖိ | ပှၤ​က့ၤ​စ့း​ဖိ | Chaldees |
 | 2 Kings 25:29 | ဃိာ်​အ​အ​တၢ် | ဃိာ်​အ​တၢ် | prison garments |
+| 1 Chronicles 1:5 | မ​ကိး | မါ​ကူး | Magog |
+| 1 Chronicles 1:12 | ပ​သြု​စံၣ် | ပ​သြူ​စံၣ် | Pathrusim |
+| 1 Chronicles 1:17 | က့​သၢ် | က့​သ့ၢ် | Gether |
+| 1 Chronicles 1:31 | နါ​ဖံၢ် | နါ​ဖံၣ် | Naphish |
+| 1 Chronicles 1:34 | အ​ဖိ​ဖိ​ခွါ | အ​ဖိ​ခွါ | sons (doubled ဖိ) |
+| 1 Chronicles 1:38 | စံ​ဧၢ် | စ့​ဧၢ် | Seir |
+| 1 Chronicles 2:17 | ယ့​သၢ် | ယ့​သ့ၢ် | Jether |
+| 1 Chronicles 2:24 | အ့​ပ​ရး​သး | အ့​ဖ​ရး​သး | Ephratah |
 | 1 Chronicles 2:41 | စီၤ​အ​လံၤ​ၡ​မၤ | စီၤ​အ​လံ​ၡ​မၤ | Elishama |
+| 1 Chronicles 2:41 | အ​လံၤ​ၡ​မၤ | အ​လံ​ၡ​မၤ | Elishama |
 | 1 Chronicles 3:24 | စီၤ​အ့​လ​ယၤ​ၡံၣ် | စီၤ​အ့​လ​ယၤ​ၡံာ် | Eliashib |
+| 1 Chronicles 3:24 | အ့​လ​ယၤ​ၡံၣ် | အ့​လ​ယၤ​ၡံာ် | Eliashib |
+| 1 Chronicles 4:24 | စူး​မ့း​အိၣ် | စူၤ​မ့း​အိၣ် | Simeon |
 | 1 Chronicles 6:3 | စီၤ​န​ဒး | စီၤ​နၤ​ဒး | Nadab |
 | 1 Chronicles 6:45 | စီၤ​ဃံ​လ​ကံ​ယၤ | စီၤ​ဃံး​လ​ကံ​ယၤ | Hilkiah |
+| 1 Chronicles 6:45 | ဃံ​လ​ကံ​ယၤ | ဃံး​လ​ကံ​ယၤ | Hilkiah |
+| 1 Chronicles 6:76 | ကံ​ရ​ယး​သၣ် | ကံး​ရ​ယး​သံၣ် | Kirjathaim |
 | 1 Chronicles 7:7 | စီၤ​ဧူၤ​စံၤ​အ့​လး | စီၤ​ဧူး​စံၤ​အ့​လး | Uzziel |
+| 1 Chronicles 7:7 | ဧူၤ​စံၤ​အ့​လး | ဧူး​စံၤ​အ့​လး | Uzziel |
+| 1 Chronicles 7:12 | ဃု​ဖံၣ် | ဃူ​ဖံၣ် | Huppim |
+| 1 Chronicles 7:13 | ကူ​နံး | ကူ​နံၤ | Guni |
+| 1 Chronicles 8:1 | အၤ​ၡ​ဘ့​လၤ | အၤ​ၡ​ဘ့​လး | Ashbel |
 | 1 Chronicles 8:20 | စီၤ​အ​လံ​အ့​လး | စီၤ​အ​လံၤ​အ့​လး | Eliel |
+| 1 Chronicles 8:20 | အ​လံ​အ့​လး | အ​လံၤ​အ့​လး | Eliel |
+| 1 Chronicles 8:30 | နၤ​ဒၤ | နၤ​ဒး | Nadab |
+| 1 Chronicles 8:33 | အ​ဘံ​န​ဒၣ် | အ​ဘံ​န​ဒာ် | Abinadab |
+| 1 Chronicles 9:5 | ၡံၤ​လိ​နး | ၡံ​လိၤ | Shilonites |
+| 1 Chronicles 9:11 | အ​ဃံး​တူာ် | အ​ဃံ​တူာ် | Ahitub |
+| 1 Chronicles 9:14 | မ​ရၤ​ရံ​အ | မ​ရၤ​ရံၤ​အ | Merari |
+| 1 Chronicles 9:17 | ၡၤ​လ့ၣ် | ၡၤ​လူၣ် | Shallum |
 | 1 Chronicles 11:38 | စီၤ​ယိ​အ့​လး | စီၤ​ယိၤ​အ့​လး | Joel |
+| 1 Chronicles 11:38 | ယိ​အ့​လး | ယိၤ​အ့​လး | Joel |
 | 1 Chronicles 11:47 | စီၤ​ဧိ​ဘ့း | စီၤ​ဧိၤ​ဘ့း | Obed |
+| 1 Chronicles 11:47 | ဧိ​ဘ့း | ဧိၤ​ဘ့း | Obed |
+| 1 Chronicles 12:3 | ယံး​စ​အ့​လဲး | ယံး​စ​အ့​လး | Jeziel |
 | 1 Chronicles 12:7 | စီၤ​စ​ဘၤ​ဒံ​ယၤ | စီၤ​စ​ဘၤ​ဒ​ယၤ | Zebadiah |
+| 1 Chronicles 12:7 | စ​ဘၤ​ဒံ​ယၤ | စ​ဘၤ​ဒ​ယၤ | Zebadiah |
+| 1 Chronicles 12:12 | ထိ​ဃၤ​နၣ် | ယိ​ဃၤ​နၣ် | Johanan |
+| 1 Chronicles 13:7 | အ​ဘံ​န​ဒး | အ​ဘံ​န​ဒာ် | Abinadab |
+| 1 Chronicles 15:9 | အ​လၤ​အ့​လး | အ​လံၤ​အ့​လး | Eliel |
+| 1 Chronicles 16:11 | ချု | ဃု | seek |
+| 1 Chronicles 18:3 | စိၤ​ဘၤ | စိ​ဘၤ | Zobah |
 | 1 Chronicles 18:5 | ဒၤ​မ့း​စ့း | ဒၤ​မ့ၤ​စ့း | Damascus |
 | 1 Chronicles 18:10 | ဟး​စၢ်​ဧ့​စ့ၢ် | ဟး​ဒၢ်​ဧ့​စ့ၢ် | Hadarezer |
+| 1 Chronicles 18:12 | စ​ရူၤ​ယၤ | စ​ရူ​ယၤ | Zeruiah |
+| 1 Chronicles 23:6 | မ​ရၤ​ရံ​လီၤ | မ​ရၤ​ရံၤ​လီၤ | Merari |
 | 1 Chronicles 23:18 | ၡ​လိၤ​မံး | ၡ​လိ​မံး | Shelomith |
 | 1 Chronicles 24:24 | စီၤ​ဧူး​စံ​အ့​လး | စီၤ​ဧူး​စံၤ​အ့​လး | Uzziel |
+| 1 Chronicles 24:24 | ဧူး​စံ​အ့​လး | ဧူး​စံၤ​အ့​လး | Uzziel |
+| 1 Chronicles 24:25 | စ​ကၤ​ရ​ယါ | စ​ကၤ​ရ​ယၤ | Zechariah |
 | 1 Chronicles 25:2 | စီၤ​န့​သၤ​နံ​ယၤ | စီၤ​န​သၤ​နံ​ယၤ | Nethaniah |
+| 1 Chronicles 25:2 | န့​သၤ​နံ​ယၤ | န​သၤ​နံ​ယၤ | Nethaniah |
+| 1 Chronicles 25:21 | မး​တံၤ​သ​ယၤ | မး​တံး​သ​ယၤ | Mattithiah |
+| 1 Chronicles 26:3 | ယဲၢ်​တ​ဂၤ​တ​ဂၤ | ယဲၢ်​ဂၤ​တ​ဂၤ | the fifth |
 | 1 Chronicles 26:4 | စီၤ​နၤ​သ​န့း​လး | စီၤ​နၤ​သ​န့​လး | Nethaneel |
+| 1 Chronicles 26:4 | နၤ​သ​န့း​လး | နၤ​သ​န့​လး | Nethaneel |
+| 1 Chronicles 26:5 | ဧး​မံ​အ့​လး | ဧး​မံၤ​အ့​လး | Ammiel |
 | 1 Chronicles 26:14 | စီၤ​ၡၤ​လ့​မ​ယၤ | စီၤ​ၡ​လ့​မ​ယၤ | Shelemiah |
+| 1 Chronicles 26:14 | ၡၤ​လ့​မ​ယၤ | ၡ​လ့​မ​ယၤ | Shelemiah |
+| 1 Chronicles 26:25 | စံး​က​ရံး | စံး​က​ရံ | Zichri |
+| 1 Chronicles 27:3 | ဖ့း​ရ့း | ဖ့ၤ​ရ့း | Perez |
+| 1 Chronicles 27:9 | ဧံ​က့ၣ် | ဧံး​က့ၣ် | Ikkesh |
 | 1 Chronicles 27:17 | စီၤ​ဃ​ၡ​ဘ​ယၤ | စီၤ​ဃ​ၡၤ​ဘ​ယၤ | Hashabiah |
+| 1 Chronicles 27:17 | ဃ​ၡ​ဘ​ယၤ | ဃ​ၡၤ​ဘ​ယၤ | Hashabiah |
+| 1 Chronicles 27:19 | စီၤ​ရံ​မိး | စီၤ​ယ​ရံ​မိး | Jerimoth |
+| 1 Chronicles 27:32 | ယိၤ​နၤ​သၣ် | ယိ​နၤ​သၣ် | Jonathan |
+| 1 Chronicles 29:14 | တီ​ဒံ​ဒၣ် | တီ​နံ​ဒၣ် | willingly |
+| 1 Chronicles 29:25 | အ​က​က​ညီၢ် | အ​က​ဟု​က​ညီၢ် | majesty |
+| 2 Chronicles 1:14 | လ့ၣ်​က​လၣ် | လ့ၣ်​က​ဟၣ် | chariot |
+| 2 Chronicles 3:1 | ဒၤ​ဝံၤ | ဒၤ​ဝံး | David |
 | 2 Chronicles 3:5 | သ့ၣ်​စူၣ်​ပ​လိာ် | သ့ၣ်​စူၣ်​ပ​လိၣ် | palm tree |
+| 2 Chronicles 6:30 | က​နၣ်​နဲ | ဒိ​က​နၣ်​နဲ | hear thou |
+| 2 Chronicles 6:39 | က​နၣ်​နဲ | ဒိ​က​နၣ်​နဲ | hear thou |
+| 2 Chronicles 7:17 | ဒၤ​ဝံၤ | ဒၤ​ဝံး | David |
+| 2 Chronicles 9:29 | ယံး​ဒိၤ | ဧံး​ဒိၤ | Iddo |
+| 2 Chronicles 9:30 | အ​ဖီ​ခီၣ် | အ​ဖီ​ခိၣ် | over (upon) |
+| 2 Chronicles 10:1 | အံၣ်​စ​ရ့း | အံၣ်​စ​ရ့​လး | Israel |
+| 2 Chronicles 10:4 | နီၣ်​ယိး​ဘိ​လၢ​လၢ | နီၣ်​ယိး​ဘိ​ဃၢ​လၢ | heavy yoke |
+| 2 Chronicles 11:8 | မ​ရ့​ၡ့ၤ | မ​ရ့​ၡၤ | Mareshah |
+| 2 Chronicles 12:15 | ယံး​ဒိၤ | ဧံး​ဒိၤ | Iddo |
 | 2 Chronicles 17:1 | စီၤ​ယ​ဟိၤ​ၡၤ​ဖး | စီၤ​ယ​ဟိ​ၡၤ​ဖး | Jehoshaphat |
+| 2 Chronicles 17:5 | ယ​ဟိၤ​ၡၤ​ဖး | ယ​ဟိ​ၡၤ​ဖး | Jehoshaphat |
+| 2 Chronicles 17:8 | တိၤ​ရံ​ယၤ | တိၤ​ဘံ​ယၤ | Tobijah |
+| 2 Chronicles 17:14 | ဧၤ​ဒ​န​နၤ | ဧၤ​ဒ​နၤ | Adnah |
+| 2 Chronicles 20:26 | ဘ​ရၤ​ကး | ဘ​ရၤ​ကၤ | Berachah |
+| 2 Chronicles 21:16 | ဖ​လ့​ၡ​သး​ဖိ​အ​သိး | ဖ​လ့​ၡ​သး​ဖိ​အ​သး | spirit of the Philistines |
+| 2 Chronicles 22:11 | ယ​ဟိ​ၡ့​ဘၤ | ယ​ဟိၤ​ၡ့​ဘၤ | Jehoshabeath |
+| 2 Chronicles 25:26 | တၢ်​တ​က​တၢၢ် | တၢ်​အ​က​တၢၢ် | the last (first and last) |
+| 2 Chronicles 26:17 | စီၤ​အ​စၤ​ရ​ယၤ | စီၤ​ဧ​စၤ​ရ​ယၤ | Azariah |
+| 2 Chronicles 26:20 | စီၤ​အ​စၤ​ရ​ယၤ | စီၤ​ဧ​စၤ​ရ​ယၤ | Azariah |
+| 2 Chronicles 28:11 | သူ​ဒီ​ပုၢ်​ဝဲၢ် | သု​ဒီ​ပုၢ်​ဝဲၢ် | your brethren |
+| 2 Chronicles 28:18 | ၡိ​ကိး | ၡိ​ကိၤ | Shocho |
+| 2 Chronicles 30:9 | မိၤ​မၢ​ကဲ​ကုၢ် | စိာ်​မၢ​ကဲ​ကုၢ် | lead captive |
+| 2 Chronicles 30:13 | လါ​ခံ​ဘ့ၣ်​တ​ဘ့ၣ် | လါ​ခံ​လါ​တ​လါ | the second month |
 | 2 Chronicles 31:13 | စီၤ​ဧၤ​စၤ​အ့​လး | စီၤ​ဧ​စၤ​အ့​လး | Asahel |
+| 2 Chronicles 32:2 | စၤ​န​ဃ့​ရံာ်​ဝဲ | စၤ​န​ဃ့​ရံာ်​ဟဲ​ဝဲ | Sennacherib was come |
+| 2 Chronicles 32:4 | ထံၣ်​န့ၢ်​ထါ | ထံၣ်​န့ၢ်​ထံ | find water |
 | 2 Chronicles 34:7 | အ​ၡ့ၤ​ရၤ | အ​ၡ့​ရၤ | grove (Asherah) |
 | 2 Chronicles 34:8 | စီၤ​မၤ​စ​ယၤ | စီၤ​မၤ​စ့​ယၤ | Maaseiah |
+| 2 Chronicles 34:22 | ၡၣ်​လူၣ် | ၡၤ​လူၣ် | Shallum |
+| 2 Chronicles 35:15 | ယ​ဒူၣ်​သၣ် | ယ​ဒူ​သူၣ် | Jeduthun |
+| Ezra 2:12 | ဧၤ​စ​ကၤ | ဧၤ​စ​ကး | Azgad |
+| Ezra 2:47 | ရ​အၤ​ယၤ | ရ​အါ​ယၤ | Reaiah |
+| Ezra 3:8 | ယိ​စ​ဒး | ယိၤ​စ​ဒး | Jozadak |
+| Ezra 3:9 | ကး​မံၤ​အူ​လး | ကး​မံၤ​အ့​လး | Kadmiel |
+| Ezra 4:23 | ၡံၤ​မ​ၡဲ | ၡံး​မ​ၡဲ | Shimshai |
+| Ezra 5:2 | စ​ရူၤ​ဘၤ​ဘ့​လး | စ​ရူ​ဘၤ​ဘ့​လး | Zerubbabel |
+| Ezra 7:5 | အ​တံၤ​ၡူ | အ​ဘံၤ​ၡူ | Abishua |
 | Ezra 8:9 | စီၤ​ယိ​အာ် | စီၤ​ယိၤ​အာ် | Joab |
+| Ezra 8:33 | ဧူၤ​ရံ​ယၤ | အူၤ​ရံ​ယၤ | Uriah |
+| Ezra 10:27 | အ့​လံၤ​ဧ့​နၤ | အ့​လံၤ​ဧ့​နံၤ | Elioenai |
+| Nehemiah 3:11 | ဃၤ​ရူာ် | ဃၤ​ၡူာ် | Hashub |
+| Nehemiah 3:20 | တၢ်​အ​နၢၢ် | တၢ်​အ​နၢၣ် | the corner |
+| Nehemiah 3:21 | ဧူၤ​ရံ​ယၤ | အူၤ​ရံ​ယၤ | Urijah |
 | Nehemiah 7:2 | ဃ​နၤ​နံ​ယၤ | ဃ​နၤ​န​ယၤ | Hananiah |
+| Nehemiah 7:25 | ကံး​ဘိၢ် | ကံး​ဘိၣ် | Gibeon |
+| Nehemiah 7:29 | တ​ဖံ​ရၤ | က​ဖံ​ရၤ | Chephirah |
+| Nehemiah 7:35 | ဃၤ​ရံာ် | ဃၤ​ရံၣ် | Harim |
+| Nehemiah 7:43 | ဟိၤ​ဒၤ​ဝ​ယၤ | ဟိ​ဒၤ​ဝ​ယၤ | Hodevah |
+| Nehemiah 7:46 | ဃ​စူ​စၤ | ဃ​စူ​ဖၤ | Hashupha |
+| Nehemiah 7:50 | န​ဂာ်​ဒၤ | န​ကိ​ဒၤ | Nekoda |
+| Nehemiah 8:7 | က့​လံ​တၤ | က့​လံၤ​တၤ | Kelita |
+| Nehemiah 10:7 | အ​ဘံ​ယၣ် | အ​ဘံ​ယၤ | Abijah |
+| Nehemiah 10:11 | မံ​ကၤ | မံၤ​ကါ | Micha |
+| Nehemiah 10:26 | ဃၣ်​နၣ် | ဃၤ​နၣ် | Hanan |
 | Nehemiah 11:15 | စီၤ​ၡၤ​မါ​ယၤ | စီၤ​ၡ​မါ​ယၤ | Shemaiah |
+| Nehemiah 11:17 | ၡံ​မူၤ | ၡး​မူၤ | Shammua |
+| Nehemiah 11:19 | လၢၢ်​အ​ပၢၤ | လၢ​အ​ပၢၤ | that kept |
+| Nehemiah 11:24 | မ​ၡ့ၤ​စ​ဘ့​လး | မ​ၡ့​စ​ဘ့​လး | Meshezabeel |
+| Nehemiah 11:24 | ပ​သၤ​ဃိ​ယၤ | ပ​သၤ​ဃ​ယၤ | Pethahiah |
+| Nehemiah 12:2 | ဃး​ထူၣ် | ဃး​တူၣ် | Hattush |
+| Nehemiah 12:11 | ယး​ဒူၤ | ယး​ဒူ | Jaddua |
+| Nehemiah 12:15 | မ​ရၤ​ယိာ် | မ​ရၤ​ယိး | Meraioth |
 | Nehemiah 12:20 | စီၤ​ဧၤ​ဘ့ၢ် | စီၤ​ဧ့ၤ​ဘ့ၢ် | Eber |
+| Nehemiah 12:24 | ကး​မ့ၤ​အ့​လး | ကး​မံၤ​အ့​လး | Kadmiel |
+| Nehemiah 13:4 | ဧ့​လ​ယၤ​ၡံာ် | အ့​လ​ယၤ​ၡံာ် | Eliashib |
+| Nehemiah 13:24 | အး​စ​ဒိး | အၤ​စ​ဒိး | Ashdod |
+| Nehemiah 13:28 | ဃိ​ရာ် | ဃိ​ရၣ် | Horonite |
+| Esther 1:1 | အ​ဃၤ​ၡ​ဝ့​ရိာ် | အ​ဃၤ​ၡ​ဝ့​ရိၣ် | Ahasuerus |
+| Esther 1:3 | ပၤ​ရာ် | ပၤ​ရၣ် | Persia |
 | Esther 1:12 | ဝး​ၡံ​တံၤ | ဝး​ၡ​တံၤ | Vashti |
+| Esther 1:16 | ဝး​ၡံ​တံၤ | ဝး​ၡ​တံၤ | Vashti |
+| Esther 4:9 | ဟး​တး | ဟၤ​တး | Hatach |
+| Esther 5:14 | သ့ၣ်​တ​ကျီာ် | သ့ၣ်​တ​ကျီၣ် | gallows |
+| Esther 6:13 | စ့​ရၣ် | စ့​ရ့ၣ် | Zeresh |
 | Isaiah 1:17 | ပှၤ​ဖှိၣ်​ဃဲ | ပှၤ​ဖိၣ်​ဃဲ | fatherless |
 | Isaiah 2:13 | သ့ၣ်​ဆှိ​အ့း​ရ့း | သ့ၣ်​ဆှိ​အ့​ရ့း | cedar |
 | Isaiah 17:2 | ဧ​ရိ​ဧ့ၢ် | ဧ​ရိၤ​ဧ့ၢ် | Aroer |
@@ -2431,29 +4605,51 @@ Each spelling below appears only once or twice, while the usual spelling appears
 - **Corrections made while combining:** the earlier MH chapter 1 note said MH's word for "temple" (တၢ်​လုၢ်​ဟံၣ်) didn't match the Bible, but it does match the New Testament. Decapolis, Calvary and Eve were checked directly against the Karen Bible (Mark 5:20, Luke 23:33, Genesis 3:20).
 - **Genesis 2 review (26 October 2026):** Genesis 2 in the Karen Bible was compared with the KJV. Terms used 3 or more times in the chapter and not yet listed were added after checking their consistency across the Old Testament: the LORD God, man (male), field, ground, create / form, every, whole. Notes were added to Adam, river, beast and seventh day.
 
-## 19. Spellings to decide (43)
+## 19. Spellings to decide (65)
 
 Names and words that appear in more than one form in the Karen Bible, where the right spelling is not clear. Counts are whole-Bible verse counts. "Suggested" is the more common or more likely form; "Decision" is for the team.
 
+| Abiathar | အ​ဘံ​ယၤ​သၢ် (Samuel, Kings) / အ့​ဘ​ယၤ​သၢ် (1 Chr 15:11; 18:16; 24:6; 27:34) | 1 Chronicles uses the second form throughout | အ​ဘံ​ယၤ​သၢ် |  |
 | Abishai | အ​ဘံ​ၡဲၤ (17) / အ​ဘံ​ၡဲ (7: 1 Sam 26:7, 8, 9; 2 Sam 3:30; 10:10; 19:21; 21:17) | Both forms used, sometimes in the same chapter (1 Sam 26:6 vs 26:7) | အ​ဘံ​ၡဲၤ |  |
 | Absalom | အး​ဘ​ၡါ​လိၣ် (87) / အၤ​ဘ​ၡါ​လိၣ် (6: 2 Sam 13:26, 34; 15:2; 16:16; 17:26; 18:18) | Probably slips | အး​ဘ​ၡါ​လိၣ် |  |
+| Amok | ဧၤ​မိး (Neh 12:7)<br>ဧး​မိး (Neh 12:20) | One each. | (decide) |  |
+| Amoz | အၤ​မိာ် (8: Isaiah) / အၤ​မိး (6: 2 Kgs 19:2, 20; 20:1; 2 Chr 26:22; 32:20, 32) | Kings/Chronicles use one form, Isaiah the other | အၤ​မိာ် |  |
+| Ashnah | အါ​ၡ​နၤ (Josh 15:33) / အါ​နၤ (Josh 15:43) | Two different towns in KJV, but both are “Ashnah” | အါ​ၡ​နၤ |  |
+| Ater | အ့ၤ​တၢ် (3: Ezra 2:16; Neh 7:21; 10:17)<br>အၤ​တ့ၢ် (2: Ezra 2:42; Neh 7:45) | The second is the porters' family; may be meant as two names. | (decide) |  |
 | Cherethites | ပှၤ​က​ရံ​သး​ဖိ (7: 2 Sam 15:18; 20:7, 23; 1 Kgs 1:38, 44; 1 Chr 18:17; Ezek 25:16) / ပှၤ​က​ရံး​သး​ဖိ (2: 1 Sam 30:14; 2 Sam 8:18) |  | ပှၤ​က​ရံ​သး​ဖိ |  |
 | Elah (valley) | အ့​လၤ (21: 1 Sam 17:2, 17:19…) / အ့​လး (1: 1 Sam 21:9) | အ့လး is also the usual ending of ၡမူၤအ့လး / ဣ့လး names | အ့​လၤ |  |
+| Eleven / twenty-one (ordinals) | တ​ဆံ​တၢ / ခံ​ဆံ​တၢ (6: 1 Chr 24:12, 17; 25:18, 28; 27:14; Rev 21:20) / usual တ​ဆံ​တ | Possibly a deliberate spelling for 'one' in ordinals, or a slip | တ​ဆံ​တ |  |
 | Elijah | အ့ၤ​လံ​ယၤ (59) / အ့​လံ​ယၤ (3: 1 Kgs 17:13, 15; 18:21) / အ့​လံၤ​ယၤ (1: 1 Kgs 17:23) | Probably slips | အ့ၤ​လံ​ယၤ |  |
+| Eloth | အ့​လိး (1 Kgs 9:26)<br>အ့​လး (2 Chr 8:17)<br>ဧ့​လိး (2 Chr 26:2) | Three forms, one each. 'Elath' is a different form again (အ့​လၤ​သး). | အ့​လိး |  |
+| Engannim | ဧ့ၣ်​က​နၣ် (Josh 15:34) / ဧ့ၣ်​ကး​နံၣ် (2: Josh 19:20; 21:29) |  |  |  |
 | Engedi | ဧ့ၣ်​က့​ဒံၤ (4: Josh 15:62, 1 Sam 24:1, 2 Chr 20:2, Song 1:14) / ဧ့ၣ်​က့ၤ​ဒံၤ (1: 1 Sam 23:29) / ဧ့ၣ်​က့ၤ​ဒံ (1: Ezek 47:10) | Same place, three spellings | ဧ့ၣ်​က့​ဒံၤ |  |
 | English | Forms found (count: where) | Notes | Suggested | Decision |
+| Enshemesh | ဧၣ်​ၡ့​မ့ၣ် (Josh 15:7) / ဧ့ၣ်​ၡ့​မ့ၣ် (Josh 18:17) | “En-” is ဧ့ၣ် elsewhere (Enrogel, Engedi) | ဧ့ၣ်​ၡ့​မ့ၣ် |  |
 | hundred thousand (numeral) | ကလီၤ (32 verses, e.g. Exod 38:26; Num 1:46)<br>ကလီၢ် (3: Exod 12:37; 1 Sam 11:8; 15:4) | Same number, two spellings. | ကလီၤ |  |
+| Izhar / Izehar | ယံး​စ​ဟၢ် (10) / ယံး​စ​တၢ် (3: Num 3:19; 16:1; 1 Chr 26:29) |  | ယံး​စ​ဟၢ် |  |
+| Jedaiah | ယ​ဒါ​ယၤ (6: 1 Chr 4:37; 9:10; 24:7; Ezra 2:36; Neh 7:39; 11:10)<br>ယ​ဒံ​ယၤ (4: Neh 12:6, 7, 19, 21)<br>ယ​ဒံၤ​ယၤ (1: Neh 3:10) | Two different Hebrew names are both spelled Jedaiah in English. | (decide) |  |
+| Jehiel | ယ​ဃံ​အ့​လး (12)<br>ယ​ဃ့​အ့​လး (2: 2 Chr 21:2; 29:14) | Ezra 10:43 uses ယ​ဃ့​အ့​လး for Jeiel. Not to be confused with Jeiel (ယံၤ​အ့​လး). | ယ​ဃံ​အ့​လး |  |
 | Jehoiada | ယ​ဟိ​ယ​ဒါ (33) / ယ​ဟိၤ​ယ​ဒါ (15: 2 Sam 20:23; 23:22; 1 Kgs 1:26–2:35; 4:4; 1 Chr 11:22, 24; 12:27) | Both common | (decide) |  |
 | Jehoiakim | ယ​ဟိၤ​ယါ​ကံၣ် (27) / ယ​ဟိ​ယါ​ကံၣ် (8: 2 Kgs 24:19; 1 Chr 3:15, 16; Jer 1:3; 22:24; 24:1; 28:4; 36:32) | Some of the 8 may be Jehoiachin verses (Jer 22:24; 24:1; 28:4) – check | ယ​ဟိၤ​ယါ​ကံၣ် |  |
+| Jeiel | ယံၤ​အ့​လး (5: 1 Chr 5:7; 15:18, 21; 16:5; 2 Chr 26:11)<br>ယံး​အ့​လး (2: 2 Chr 20:14; 29:13)<br>ယ​ဃ့ၤ​အ့​လး (1: 2 Chr 35:9)<br>ယ​ယ့ၤ​အ့​လး (1: Ezra 8:13)<br>ယ​ဃ့​အ့​လး (1: Ezra 10:43, same as a Jehiel form) | Different men, same English name. Not to be confused with Jehiel. | ယံၤ​အ့​လး |  |
 | Joab | ယိၤ​အာ် (118) / ယိာ်​အာ် (6: 2 Sam 3:29; 8:16; 11:17, 18; 14:33; 24:4) | Probably slips | ယိၤ​အာ် |  |
+| Joah | ယိၤ​အၤ (7: 2 Kgs 18; 2 Chr 29:12; Isa 36)<br>ယိ​အၤ (3: 1 Chr 6:21; 26:4; 2 Chr 34:8) | Different men, same English name. | ယိၤ​အၤ |  |
+| Jobab | ယိၤ​ဘာ် (Gen; 1 Chr 8:9, 18) / ယိ​ဘာ် (Josh 11:1; 1 Chr 1:23) / ယိ​ဘး (1 Chr 1:44, 45) |  | ယိၤ​ဘာ် |  |
 | Jonathan (son of Saul) | ယိ​နၤ​သၣ် (118)<br>ယိၤ​နၤ​သၣ် (5, e.g. 1 Sam 13:2) | Judg 18:30 Jonathan is ယိနၤသၣ် too. | ယိ​နၤ​သၣ် |  |
 | Jordan | ယၢ်​ဒ့ၣ် (161) / ယၢ်​ဒ့ၢ် (6: Num 32:5; Deut 3:25; Josh 9:10; 2 Sam 2:29; 19:15, 18) | Probably slips, but six of them | ယၢ်​ဒ့ၣ် |  |
+| Jozabad | ယိ​စ​ဘး (5: 2 Chr 31:13; Ezra 10:22, 23; Neh 8:7; 11:16)<br>ယိၤ​စ​ဘး (3: 1 Chr 12:20; 2 Chr 35:9; Ezra 8:33)<br>ယိၤ​စၤ​ဘး (2: 1 Chr 12:4, 20) | Section 12 row has the third form. | (decide) |  |
+| Madai | မၤ​ဒဲ (1 Chr 1:5) / စၤ​ဒဲ (Gen 10:2) | Hebrew begins with M | မၤ​ဒဲ |  |
 | Mephibosheth | မ​ဖံ​ဘိၤ​ၡ့း (6: 2 Sam 4:4; 9:6; 16:1, 4; 19:25; 21:7) / မ​ဖံ​ဘိ​ၡ့း (7: 2 Sam 9:6, 10–13; 19:24, 30) | Both forms in 2 Sam 9:6 | (decide) |  |
+| Meshillemoth | မၤ​ၡံး​လ့​မိး (2 Chr 28:12)<br>မ​ၡံး​လ့​မိး (Neh 11:13) | One each. | (decide) |  |
 | Michal | မံ​ကၤ​လး (10)<br>မံၤ​ကၤ​လး (5, e.g. 1 Sam 14:49) | Both common. | (decide) |  |
 | Nebat | န​ဘး (most) / န​ဘိး (4: 2 Kgs 14:24; 15:24, 28; 17:21) | 2 Kings only | န​ဘး |  |
 | Pelethites | ပှၤ​ပ​လ့​သး​ဖိ (5: 2 Sam 20:7, 23; 1 Kgs 1:38, 44; 1 Chr 18:17) / ပှၤ​ဖ့ၤ​လ့း​ဖိ (1: 2 Sam 15:18) / ပှၤ​ဖ​လ့​ၡ​သး​ဖိ (1: 2 Sam 8:18 – this is the word for Philistines) | 2 Sam 8:18 reads as "Philistines" | ပှၤ​ပ​လ့​သး​ဖိ |  |
 | Pharez / Perez | ဖ့ၤ​ရ့း (16)<br>ဖ့​ရ့း (3: e.g. Ruth 4:12)<br>ဖ့း​ရ့း (3: e.g. Ruth 4:18–19) | Three forms. | ဖ့ၤ​ရ့း |  |
 | Rechab | ရ့​ကး (10+) / ရ့​ကာ် (2: 2 Kgs 10:15, 23) | Both 2 Kings 10 verses use ရ့ကာ် | ရ့​ကး |  |
+| Sallu / Sallai | စၤ​လူၤ (Neh 11:7) / စး​လူၤ (Neh 12:7)<br>စၤ​လဲၤ (Neh 11:8) / စး​လဲၤ (Neh 12:20) | Neh 11 uses စၤ, Neh 12 uses စး. | (decide) |  |
+| Sherebiah | ၡ့​ရ့​ဘ​ယၤ (5: Neh 8:7; 9:5; 10:12; 12:8, 24)<br>ၡ့ၤ​ရ့​ဘ​ယၤ (2: Ezra 8:18, 24)<br>ၡ့​ရ​ဘ​ယၤ (1: Neh 9:4) | Section 12 row has the Ezra form. | ၡ့​ရ့​ဘ​ယၤ |  |
+| Shimei | ၡံ​မံၤ (37)<br>ၡံး​မံၤ (3: 1 Kgs 4:18; 2 Chr 29:14; Ezra 10:33) |  | ၡံ​မံၤ |  |
+| Tabbaoth | တး​ဘၤ​ဧိး (Ezra 2:43)<br>တၤ​ဘၤ​ဧိး (Neh 7:46) | One each. | (decide) |  |
 | Tishbite | တံး​ၡ​ဘး (4) / တံး​ၡ့​ဘး (1: 1 Kgs 17:1) / တံး​ၡ​ဘၤ (1: 1 Kgs 21:28) |  | တံး​ၡ​ဘး |  |
 | Zeruiah | စ​ရူ​ယၤ (20) / စ​ရူၤ​ယၤ (5: 2 Sam 3:39; 16:9, 10; 1 Chr 18:12, 15) | Mother of Joab, Abishai, Asahel | စ​ရူ​ယၤ |  |
 |---|---|---|---|---|
