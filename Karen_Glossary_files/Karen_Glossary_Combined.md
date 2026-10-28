@@ -27,11 +27,11 @@ Karen text has zero-width spaces between syllables, following your translation i
 |---|---|---|---|---|---|
 | Almighty | သ့​တၢ်​လၢာ် *(NT)*<br>တၢ်​သ့​တၢ်​လၢာ် *(OT)* | NT 9/9; OT 39/48 |  |  |  |
 | angel | က​လူး | NT 164/175; OT 105/108 | *angel(s)*: same 14/15 | same 19/19 |  |
-| angels of God | ယွၤ​အ​မူ​ခိၣ်​က​လူး |  | ch. 1 (1×) |  |  |
+| angels of God | ယွၤ​အ​မူ​ခိၣ်​က​လူး |  | ch. 1 (1×) |  | Other Bible renderings (main form in 0 of 8 verses): ယွၤ​အ​က​လူး (8; e.g. Gen 28:12, Gen 32:1). |
 | Christ | ခရံာ် | NT 500/532 | same 190/203 | က​စၢ်ခရံာ် 111/120 (different word) | STC: Draft writes က​စၢ်ခရံာ်; the Karen Bible writes ခရံာ်. |
-| Creator | တၢ်​ဘၣ်​တ့​က​စၢ် |  | 3/4 |  |  |
+| Creator | တၢ်​ဘၣ်​တ့​က​စၢ် |  | 3/4 |  | Other Bible renderings (main form in 0 of 5 verses): ပှၤ​လၢ​အ​တ့ (2; e.g. Eccl 12:1, Rom 1:25); တ့​တၢ်​လၢ​အ (2; e.g. Rom 1:25, 1 Pet 4:19). |
 | demoniac(s) | ပှၤ​လၢ​တၢ်​နါ​အိၣ်​လၢ​အ​လိၤ |  | 8/8 |  |  |
-| the devil / Satan | မုၣ်​ကီၤ​လံၢ် | NT 59/76 | *Satan*: same 26/27 | *Satan*: same 22/23 | NT: Singular "the devil" = မုၣ်​ကီၤ​လံၢ်; plural "devils" (demons) = တၢ်​နါ. |
+| the devil / Satan | မုၣ်​ကီၤ​လံၢ် | NT 59/76 | *Satan*: same 26/27 | *Satan*: same 22/23 | NT: Singular "the devil" = မုၣ်​ကီၤ​လံၢ်; plural "devils" (demons) = တၢ်​နါ. Other Bible renderings (main form in 74 of 151 verses): တၢ်​နါ (68; e.g. Ps 106:37, Matt 4:24) 'devils' (plural) = demons. |
 | devils (demons) / unclean spirit | တၢ်​နါ | NT 62/64 | *demon(s), devil(s), evil spirit(s)*: same 16/18 |  | NT: See "the devil"; တၢ်​နါ is only used for demons. |
 | God | ယွၤ | NT 1107/1196; OT 2347/2384 | same 285/295 | က​စၢ်​ယွၤ 207/214 (different word) | NT: In the NT, God = ယွၤ. Compare the OT section, where "the LORD thy God" = ယွၤ​န​က​စၢ်.<br>OT also: က​စၢ်<br>OT: Alone, God = ယွၤ (Gen 1:1). After "the LORD", God = က​စၢ်.<br>STC: Draft writes က​စၢ်​ယွၤ (in 199 of 214 paragraphs); the Karen Bible writes ယွၤ alone. |
 | the Great Healer | ပှၤ​ယါ​ဘျါ​တၢ်​အ​ဒိၣ် |  | ch. 1 (1×) |  |  |
@@ -43,7 +43,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | King of glory | တၢ်​လၤ​က​ပီၤ​အ​စီၤ​ပၤ |  | ch. 1 (1×) |  |  |
 | Lamb | သိ​ဖိ | NT 31/31 |  |  |  |
 | living creature(s) (Ezekiel) | တၢ်​သး | OT 17/20 |  | Ezek 1:5–22; 10:15–20 | same word as 'living thing' in general use |
-| living God | ကစၢ်​မူ | OT 2/15 (varies) |  | Josh 3:10 | 1 Sam 17:26, 36 = ယွၤလၢအမူဝဲ. |
+| living God | ကစၢ်​မူ | OT 2/15 (varies) |  | Josh 3:10 | 1 Sam 17:26, 36 = ယွၤလၢအမူဝဲ. Other Bible renderings (main form in 2 of 30 verses): ယွၤ​လၢ​အ​မူ​ဝဲ (16; e.g. 1 Sam 17:26, 1 Sam 17:36); က​စၢ်​လၢ​အ​မူ​ဝဲ (9; e.g. 2 Ki 19:4, 2 Ki 19:16). |
 | Lord | က​စၢ် | NT *Lord* 570/670; OT *Lord (Adonai)* 444/447 |  |  | NT: က​စၢ် also translates "master/owner" in parables.<br>OT also: ယွၤ<br>OT: Lord (lower case in KJV) is usually က​စၢ်. |
 | LORD (Yahweh; KJV capitals) | ယွၤ | OT 5495/5551 |  |  | OT: In the OT, LORD (Yahweh) = ယွၤ. |
 | the LORD God | က​စၢ်​ယွၤ | OT 28/32 |  |  | OT: Word order is Lord + God (Gen 2:4–22). Counts exclude “the LORD God of …”. Genesis 2:18 is one of the 4 exceptions (ယွၤ only). |
@@ -51,16 +51,16 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Lord Jesus | က​စၢ်​ယ့ၣ်​ၡူး |  | 4/5 |  |  |
 | LORD of hosts | တၢ်​သုး​မုၢ်​ဂီၢ်​မုၢ်​အ​ယွၤ | OT 218/234 |  |  |  |
 | the LORD thy/your/our God | ယွၤ​န​က​စၢ် | OT 545/578 |  |  | OT also: ယွၤ​သု​က​စၢ်, ယွၤ​ပ​က​စၢ်, ယွၤ​အ​က​စၢ်, ယွၤ​ယ​က​စၢ်, က​စၢ်<br>OT: "God" here becomes က​စၢ်: the LORD thy God = ယွၤ​န​က​စၢ်. |
-| Majesty (of heaven) | (မူ​ခိၣ်​အ)တၢ်​က​ဟု​က​ညီၢ် |  | 3/3 |  |  |
+| Majesty (of heaven) | (မူ​ခိၣ်​အ)တၢ်​က​ဟု​က​ညီၢ် |  | 3/3 |  | Other Bible renderings (main form in 7 of 29 verses): က​ဟု​က​ညီၢ် (12; e.g. Ps 45:3, Ps 45:4); အ​လၤ​အ​က​ပီၤ (5; e.g. 1 Chr 29:11, Ps 145:5). |
 | Messenger of the covenant | ပှၤ​စိာ်​တၢ်​အၢၣ်​လီၤ​အီ​လီၤ​အ​က​စီၣ် |  | ch. 1 (1×) |  |  |
-| the most high God | တၢ်​ထီ​က​တၢၢ်​က​စၢ် | OT 8/13 |  |  | Gen 14:18–22. |
+| the most high God | တၢ်​ထီ​က​တၢၢ်​က​စၢ် | OT 8/13 |  |  | Gen 14:18–22. Other Bible renderings (main form in 6 of 11 verses): က​စၢ်​အ​ထီ​က​တၢၢ် (2; e.g. Dan 3:26, Dan 5:18); ထီ​က​တၢၢ်​ယွၤ (2; e.g. Mark 5:7, Acts 16:17). |
 | Our Lord Jesus Christ | ပ​က​စၢ်​ယ့ၣ်​ၡူးခရံာ် |  | ch. 1 (1×) |  |  |
 | Saviour | ပှၤ​အုၣ်​က့ၤ​ခီၣ်​က့ၤ | NT 24/24 | *the Saviour*: ပှၤ​အုၣ်​ခီၣ်​တၢ်​က​စၢ် 68/93 (different word) | same 23/39 | NT also: အုၣ်​က့ၤ​ခီၣ်​က့ၤ |
 | Son of God | ယွၤ​အ​ဖိ​ခွါ | NT 44/46 | same 4/4 | က​စၢ်​ယွၤ​အ​ဖိ​ခွါ 14/15 (different word) |  |
 | Son of man | ပှၤ​က​ညီ​ဖိ​ခွါ | NT 79/85 | same 3/5 |  |  |
 | Spirit of God | ယွၤ​အ​သး | NT 16/17; OT 9/10 |  |  | NT also: က​စၢ်​အ​သး<br>OT exception: Gen 41:38 (Pharaoh speaking) has ပ​က​စၢ်​အ​သး. |
 | the tempter | ပှၤ​လ့​ပ​စီ​တၢ် |  | 5/5 |  |  |
-| thus saith the LORD | စံး​ဒ်​အံၤ | OT 315/413 |  |  |  |
+| thus saith the LORD | စံး​ဒ်​အံၤ | OT 315/413 |  |  | Other Bible renderings (main form in 315 of 413 verses): စံး​ဝဲ​ဒ်​အံၤ (43; e.g. Exod 9:1, Exod 11:4). |
 | the Word / word of God | တၢ်​က​လုၢ် *(NT)*<br>ယွၤ​အ​က​လုၢ် *(OT)* | NT 105/197 varies; OT 338/478 | *word of God*: ယွၤ​အ​က​လုၢ်​က​ထါ ch. 1 (2×) (different word) | *word of God*: က​လုၢ်​က​ထါ 7/8 (same word, other form) | NT also: က​လုၢ်​အ​က​ထါ, က​ထါ<br>OT also: က​လုၢ်, က​ထါ |
 
 ## 2. Faith, worship and church (260)
@@ -83,13 +83,13 @@ Karen text has zero-width spaces between syllables, following your translation i
 | believe | နာ် | NT 238/244; OT 41/43 | စူၢ်(က့ၤ)နာ်(က့ၤ) ch. 1 (1×) (different word) | စူၢ်​က့ၤ​နာ်​က့ၤ 25/25 (different word) |  |
 | Bible | လံာ်​စီ​ဆှံ |  | 7/9 | *Bible / Scriptures*: same 25/28 |  |
 | bitter water (that causeth the curse) | ထံ​ခၣ်​လၢ​အ​ဒုး​ဆိၣ်​အၢ​တၢ် | OT 4/4 |  | Num 5:18–27 |  |
-| blemish (defect) | အ​မဲၣ် | OT 13/52 (varies) |  | Lev 21:17–23; 22:20–25 | “without blemish” = အ​လၢ​အ​ပှဲၤ |
+| blemish (defect) | အ​မဲၣ် | OT 13/52 (varies) |  | Lev 21:17–23; 22:20–25 | “without blemish” = အ​လၢ​အ​ပှဲၤ Other Bible renderings (main form in 15 of 56 verses): အ​လၢ​အ​ပှဲၤ (38; e.g. Exod 12:5, Exod 29:1) 'without blemish'. |
 | bless / blessed | ဆိၣ်​ဂ့ၤ | NT 96/104; OT 289/359 | *blessing, bless*: တၢ်​ဆိၣ်​ဂ့ၤ 63/69 (same word, other form) | *bless / blessing*: တၢ်​ဆိၣ်​ဂ့ၤ 30/33 (same word, other form) |  |
 | blood | သွံၣ် | NT 89/93; OT 275/282 | same 21/22 |  |  |
-| body | နီၢ်​ခိ | NT 89/113 | *body, bodies*: same 62/68 |  | NT also: နီၢ် |
+| body | နီၢ်​ခိ | NT 89/113 | *body, bodies*: same 62/68 |  | NT also: နီၢ် Other Bible renderings (main form in 69 of 154 verses): အ​စိၣ် (29; e.g. Num 9:6, Num 9:7) 'dead body'. |
 | bread of affliction | ကိၣ်​ဘၣ်​ဃး​ဒီး​တၢ်​နး​တၢ်​ဖှီၣ် | OT 3/3 |  | Deut 16:3 |  |
 | breastplate (of the high priest) | သ​ဃိး | OT 21/23 |  |  | Exod 25:7; 28:4–30. |
-| burden (prophetic oracle) | တၢ်​အ​က​လုၢ်​လီၤ | OT 12/22 |  |  | Isa 13–23 ("The burden of Babylon / Moab / Egypt …"). |
+| burden (prophetic oracle) | တၢ်​အ​က​လုၢ်​လီၤ | OT 12/22 |  |  | Isa 13–23 ("The burden of Babylon / Moab / Egypt …"). Other Bible renderings (main form in 15 of 92 verses): တၢ်​ဝံ​တၢ်​ယိး (24; e.g. Exod 1:11, Exod 2:11) ordinary (physical) burden. |
 | burnt offering | တၢ်​လုၢ်​မ့ၣ်​အူ | OT 223/241 |  |  |  |
 | captivity | ကဲ​ကုၢ် | OT 110/115 |  |  |  |
 | cast lots | ဖး​တၢ် | OT 38/79 (varies) |  | Lev 16:8 | "By lot" in Joshua = ဖးတၢ်သတးဒီး (Josh 13:6; 14:2). |
@@ -105,13 +105,13 @@ Karen text has zero-width spaces between syllables, following your translation i
 | circumcise the foreskin of your heart | ကူး​တ​ရံး​သု​သး​အ​ဖံး |  |  | Deut 10:16 | cf. Rom 2:29 |
 | clean | က​ဆှီ | OT 85/99 |  |  |  |
 | commandment | တၢ်​မၤ​လိာ် *(commandment)*<br>မၤ​လိာ် *(command)* | NT *commandment* 69/82; NT *command* 76/83; OT *commandment* 195/251; OT *command* 454/460 | *command, commandment(s)*: same 17/25 | same 4/5 | STC: Draft uses both တၢ်​မၤ​လိာ် and တၢ်​သိၣ်​တၢ်​သီ.<br>“ten commandments”: Deut 10:4 = တၢ်​မၤ​လိာ်​အ​ဘီ​တ​ဆံ; Deut 4:13 = တၢ်​မၤ​လိာ်​ဆံ​ဆဲၣ်​ထံၣ် |
-| condemn | စံၣ်​ညီၣ်​ဃၣ် | NT 28/43 varies | same 7/9 |  |  |
-| confess / confession | လီၤ​ကျဲၤ​လီၤ |  |  | 14/17 | STC: The Karen Bible has no single fixed word for "confess". |
-| confidence | တၢ်​နာ်​န့ၢ်​အီၣ် |  | 16/24 |  |  |
+| condemn | စံၣ်​ညီၣ်​ဃၣ် | NT 28/43 varies | same 7/9 |  | Other Bible renderings (main form in 27 of 46 verses): စံၣ်​ညီၣ် (10; e.g. Deut 25:1, 1 Ki 8:32); ပာ်​တၢ်​က​မၣ် (4; e.g. Job 32:3, Job 34:17). |
+| confess / confession | လီၤ​ကျဲၤ​လီၤ |  |  | 14/17 | STC: The Karen Bible has no single fixed word for "confess". Other Bible renderings (main form in 17 of 43 verses): အၢၣ်​လီၤ​အီ​လီၤ (21; e.g. Lev 26:40, 1 Ki 8:33). |
+| confidence | တၢ်​နာ်​န့ၢ်​အီၣ် |  | 16/24 |  | Other Bible renderings (main form in 0 of 40 verses): သ​န့ၤ (20; e.g. Judg 9:26, 2 Ki 18:19) 'trust'; သး​ခူ​တ​လ့ၢ် (7; e.g. Acts 28:31, Eph 3:12) 'boldness' (NT). |
 | congregation | တၢ်​အိၣ်​ဖှိၣ် | OT 306/330 |  |  | OT: Same word as NT "church" (တၢ်​အိၣ်​ဖှိၣ်). |
 | conscience | သ့ၣ်​ညါ​ဒၣ်​တၢ် | NT 29/29 |  | သး​လၢ​အ​သ့ၣ်​ညါ 3/6 (different word) |  |
 | consecrate | အး​လီၤ | OT 12/13 (ပာ်​စီ​ဆှံ / မၤ​စီ​ဆှံ) | 4/4 |  |  |
-| consuming fire | မ့ၣ်​အူ​အီၣ်​တၢ် |  |  | Deut 4:24 | cf. Heb 12:29 |
+| consuming fire | မ့ၣ်​အူ​အီၣ်​တၢ် |  |  | Deut 4:24 | cf. Heb 12:29 Other Bible renderings (main form in 1 of 3 verses): မ့ၣ်​အူ​လၢ​အ​အီၣ် (2; e.g. Deut 9:3, Heb 12:29). |
 | continual burnt offering | တၢ်​လုၢ်​မ့ၣ်​အူ​တ​ထံၣ်​ဃီ |  |  | Num 28:3–31 |  |
 | covenant / testament | တၢ်​အၢၣ်​လီၤ​အီ​လီၤ | NT 25/31; OT 211/254 | *covenant*: same 4/6 |  |  |
 | covenant of salt | တၢ်​အၢၣ်​လီၤ​အ​ထူ​အ​ယိာ်​ဘၣ်​ဃး​ဒီး​အံ​သၣ် |  |  | Num 18:19 |  |
@@ -123,21 +123,21 @@ Karen text has zero-width spaces between syllables, following your translation i
 | death | တၢ်​သံ | NT 123/124; OT 215/218 | same 24/27 | same 7/13 | NT also: သံ<br>OT also: သံ |
 | deliver | မၤ​ပူၤ​ဖျဲး | OT 443/489 |  |  | OT also: မၤ​ပူၤ, အုၣ်​က့ၤ, ဟ့ၣ် |
 | devoted thing | တၢ်​လၢ​ပှၤ​ပာ်​ဒီး​တၢ်​ဆိၣ် | OT 6/10 |  | Lev 27:28–29 |  |
-| disallow (a vow) | တ​အၢၣ်​လီၤ​အီ​လီၤ |  |  | Num 30:5–8 | make void = မၤ​အီၤ​က​လီ​က​လီ |
+| disallow (a vow) | တ​အၢၣ်​လီၤ​အီ​လီၤ |  |  | Num 30:5–8 | make void = မၤ​အီၤ​က​လီ​က​လီ Other Bible renderings (main form in 2 of 5 verses): ညိ​ကွံာ် (2; e.g. 1 Pet 2:4, 1 Pet 2:7) 'disallowed' = rejected (1 Pet 2). |
 | disciple | ပျဲၢ်​အ​ဘီၣ် | NT 226/255 | *disciple(s)*: အ​ပျဲၢ်​အ​ဘီၣ် 37/40 (same word, other form) | အ​ပျဲၢ်​အ​ဘီၣ် 9/14 (same word, other form) |  |
 | drink offering | တၢ်​လုၢ်​အီ | OT 52/60 |  |  | OT also: လုၢ်​အီ |
 | earth | ဟီၣ်​ခိၣ် | NT *earth* 161/170; NT *world* 170/203; OT *earth* 682/736; OT *world* 41/46 | *world*: same 80/85<br>same 28/29 | *world*: same 36/42 |  |
-| elder | ပှၤ​သူၣ်​က့​သး​ပှၢ် | NT 50/68; OT 104/126 | *elders*: same 4/5 |  | NT also: သူၣ်​က့​သး​ပှၢ်<br>OT also: သူၣ်​က့​သး​ပှၢ် |
-| enchantments / sorcerers | (ပှၤ)​မၤ​က​ဒါ​ပ​မဲာ် | OT 10/14 |  |  | Exod 7:11, 22; 8:7, 18. |
+| elder | ပှၤ​သူၣ်​က့​သး​ပှၢ် | NT 50/68; OT 104/126 | *elders*: same 4/5 |  | NT also: သူၣ်​က့​သး​ပှၢ်<br>OT also: သူၣ်​က့​သး​ပှၢ် Other Bible renderings (main form in 128 of 194 verses): ပှၤ​သး​ပှၢ် (9; e.g. Prov 31:23, Jer 26:17). |
+| enchantments / sorcerers | (ပှၤ)​မၤ​က​ဒါ​ပ​မဲာ် | OT 10/14 |  |  | Exod 7:11, 22; 8:7, 18. Other Bible renderings (main form in 9 of 15 verses): ဟိၣ်​တၢ် (3; e.g. 2 Ki 21:6, Rev 21:8). |
 | ephod | အ့​ဖိး | OT 40/42 |  |  |  |
 | eternal / everlasting life | တၢ်​မူ​အ​ထူ​အ​ယိာ် *(eternal / everlasting life)*<br>အ​ထူ​အ​ယိာ် *(everlasting)* | NT *eternal / everlasting life* 30/36; OT *everlasting* 56/65 | *everlasting, eternity*: တၢ်​လီၤ​ထူ​လီၤ​ယိာ် ch. 1 (2×) (same word, other form) |  | OT also: လီၤ​ထူ​လီၤ​ယိာ် |
 | eternal life | တၢ်​မူ​အ​ထူ​အ​ယိာ် |  |  | 3/3 |  |
-| evangelist | ပှၤ​စိာ်​တၢ်​သး​ခု​က​စီၣ် |  | ch. 1 (1×) |  |  |
+| evangelist | ပှၤ​စိာ်​တၢ်​သး​ခု​က​စီၣ် |  | ch. 1 (1×) |  | Other Bible renderings (main form in 0 of 3 verses): တဲၤ​တဲ​လီၤ​တၢ်​သး​ခု​အ​က​စီၣ် (3; e.g. Acts 21:8, Eph 4:11). |
 | evil | တၢ်​အၢ | NT 96/119; OT 443/450 | တၢ်​အၢ​တၢ်​သီ ch. 1 (1×) (different word) |  | NT also: အၢ<br>OT also: အၢ |
 | evil spirit (from God) | သး​အၢ​တ​မံၤ | OT 7/7 |  | 1 Sam 16:14–23; 18:10 |  |
 | faith | တၢ်​နာ် | NT 202/229 | same 48/50 | တၢ်​စူၢ်​တၢ်​နာ် 28/34 (different word) | STC: Draft often writes တၢ်​စူၢ်​တၢ်​နာ်; the Karen Bible writes တၢ်​နာ်. |
-| faithful | အ​က​လုၢ်​တီ | NT 37/50; OT 15/28 varies |  |  | NT also: က​လုၢ်​တီ<br>OT also: က​လုၢ်​တီ |
-| faithfulness | တၢ်​မ့ၢ်​တၢ်​တီ | OT 13/22 |  | Ps 89:1 | Psalms also "က​လုၢ်​တီ" (36:5) |
+| faithful | အ​က​လုၢ်​တီ | NT 37/50; OT 15/28 varies |  |  | NT also: က​လုၢ်​တီ<br>OT also: က​လုၢ်​တီ Other Bible renderings (main form in 50 of 80 verses): အ​မ့ၢ်​အ​တီ (15; e.g. 2 Sam 20:19, Neh 7:2). |
+| faithfulness | တၢ်​မ့ၢ်​တၢ်​တီ | OT 13/22 |  | Ps 89:1 | Psalms also "က​လုၢ်​တီ" (36:5) Other Bible renderings (main form in 13 of 22 verses): က​လုၢ်​တီ (4; e.g. 1 Sam 26:23, Ps 36:5). |
 | familiar spirit (medium) | ပှၤ​မၤ​န့ၢ်​ပှၤ​သံ​အ​က​လၤ | OT 14/15 |  | Lev 19:31; 20:6, 27 |  |
 | feast | ဘူၣ် *(NT)*<br>မၤ​ဘူၣ် *(OT)* | NT 30/36; OT 87/98 |  |  | OT also: ဘူၣ်, မၤ​တၢ်​အီၣ် |
 | feast of tabernacles | ဘူၣ်​ဒဲ | OT 9/9 |  | Lev 23:34 | booths = ဒဲ |
@@ -167,24 +167,24 @@ Karen text has zero-width spaces between syllables, following your translation i
 | heaven | မူ​ခိၣ် | NT 243/256; OT 373/414 | same 53/53 | same 35/39<br>*heavenly*: လၢ​မူ​ခိၣ် 23/29 (same word, other form) |  |
 | heifer | ဂီၤ​ဖံး​မိၢ် |  |  | Num 19:2–10 | red not translated in 19:2 |
 | hell | လ​ရာ် | NT 22/23; OT 29/31 |  |  | NT also: ပျုၤ<br>OT also: ပျုၤ |
-| high place | တၢ်​အ​လီၢ်​ထီၣ်​ထီ | OT 17/27 (varies) |  | 1 Sam 9:12–25 |  |
+| high place | တၢ်​အ​လီၢ်​ထီၣ်​ထီ | OT 17/27 (varies) |  | 1 Sam 9:12–25 | Other Bible renderings (main form in 67 of 120 verses): တၢ်​စိ​ခိၣ် (9; e.g. Num 23:3, 1 Ki 14:23). |
 | high places | လီၢ်​ထီၣ်​ထီ | OT 99/109 |  |  |  |
 | holy | စီ​ဆှံ | NT 150/169; OT 369/375 | *holy, holiness*: same 34/41 | same 28/39<br>*holiness*: တၢ်​စီ​တၢ်​ဆှံ 9/16 (same word, other form) |  |
-| holy convocation | တၢ်​ကိး​ဖှိၣ်​စီ​ဆှံ | Exod 12:16 (1/15) |  |  | Check Leviticus 23 / Numbers 28–29 for the usual form.<br>Lev 23 mostly = တၢ်​မၤ​ဘူၣ်​စီ​ဆှံ (v2–36); v37 = တၢ်​ကိး​ဖှိၣ်​စီ​ဆှံ<br>OT overall: တၢ်​မၤ​ဘူၣ်​စီ​ဆှံ 14/18 |
-| honour | တၢ်​လၤ​က​ပီၤ | NT 33/50 varies; OT 84/86 |  |  | NT also: တၢ်​ယူး​တၢ်​ယီၣ်, လၤ​က​ပီၤ<br>OT also: လၤ​က​ပီၤ, လၤ |
+| holy convocation | တၢ်​ကိး​ဖှိၣ်​စီ​ဆှံ | Exod 12:16 (1/15) |  |  | Check Leviticus 23 / Numbers 28–29 for the usual form.<br>Lev 23 mostly = တၢ်​မၤ​ဘူၣ်​စီ​ဆှံ (v2–36); v37 = တၢ်​ကိး​ဖှိၣ်​စီ​ဆှံ<br>OT overall: တၢ်​မၤ​ဘူၣ်​စီ​ဆှံ 14/18 Other Bible renderings (main form in 2 of 18 verses): တၢ်​မၤ​ဘူၣ်​စီ​ဆှံ (14; e.g. Lev 23:2, Lev 23:7). |
+| honour | တၢ်​လၤ​က​ပီၤ | NT 33/50 varies; OT 84/86 |  |  | NT also: တၢ်​ယူး​တၢ်​ယီၣ်, လၤ​က​ပီၤ<br>OT also: လၤ​က​ပီၤ, လၤ Other Bible renderings (main form in 63 of 148 verses): မၤ​လၤ​မၤ​က​ပီၤ (7; e.g. 2 Sam 10:3, 1 Chr 19:3) 'to honour'; ယူး​ယီၣ် (15; e.g. Exod 20:12, Deut 5:16) 'honour (parents)'. |
 | hope | တၢ်​မုၢ်​လၢ် | NT 44/53; OT 56/68 | same 46/49 | same 13/13 | OT also: မုၢ်​လၢ် |
 | hypocrite | ပှၤ​လီ​တၢ် | NT 19/20; OT 8/11 |  |  |  |
 | idol | တၢ်​ဂီၤ | NT 16/18; OT 83/87 |  |  |  |
 | idolater | ပှၤ​ဘါ​တၢ်​ဂီၤ | NT 7/7 |  |  |  |
 | image (of God) | ဂီၤ | OT 59/61 |  |  | Gen 1:26–27; 5:1–3; 9:6 (ယွၤ​အ​ဂီၤ). Do not confuse with ဂီၢ် (“for”). |
-| images (teraphim) | တၢ်​ဂီၤ​တ​ရၤ​ဖး | OT 5/64 (teraphim only) |  |  | Gen 31:19, 34, 35. Other “images” = တၢ်​ဂီၤ.<br>Judg 17–18: teraphim 10/10 = တၢ်ဂီၤတရၤဖး. |
+| images (teraphim) | တၢ်​ဂီၤ​တ​ရၤ​ဖး | OT 5/64 (teraphim only) |  |  | Gen 31:19, 34, 35. Other “images” = တၢ်​ဂီၤ.<br>Judg 17–18: teraphim 10/10 = တၢ်ဂီၤတရၤဖး. Other Bible renderings (main form in 5 of 64 verses): တၢ်​ဂီၤ​တၢ်​ဖီၣ် (11; e.g. Ps 78:58, Ps 97:7); အ​ၡ့​ရၤ (15; e.g. Exod 34:13, Deut 7:5); တၢ်​ဂီၤ​စိး​ပျၤ​အ​သး (11; e.g. Deut 7:5, Deut 7:25). |
 | incense | ဆိၣ်​ကဲၤ | OT 112/116 |  |  | OT also: တၢ်​နၢ​မူ |
 | inheritance / inherit / heir | သါ | NT 46/47; OT 223/235 | *inherit, inheritance*: တၢ်​န့ၢ်​သါ 7/8 (different word) |  |  |
 | iniquity | တၢ်​ဒဲး​ဘး | OT 277/294 |  |  | OT also: တၢ်​အၢ, တၢ်​က​မၣ် |
-| integrity | (အ​သး) လၢ​တၢ်​ပှဲၤ | OT 9/16 |  | Job 2:3 | other verses use different wording |
+| integrity | (အ​သး) လၢ​တၢ်​ပှဲၤ | OT 9/16 |  | Job 2:3 | other verses use different wording Other Bible renderings (main form in 9 of 16 verses): သး​ဒီ​ဖျၢၣ် (4; e.g. Gen 20:5, Gen 20:6). |
 | it is written | တၢ်​ကွဲး​အ​သး | NT 58/63; OT 17/17 |  |  |  |
 | Jew | ပှၤ​ယူ​ဒၤ | NT 181/186; OT 77/84 | *Jew(s)*: ပှၤ​ယူ​ဒၤ​ဖိ 7/7 (same word, other form) |  |  |
-| joy | တၢ်​သူၣ်​ခု​သး​ခု | NT 58/60; OT 75/95 |  | *joy / happiness*: တၢ်​သူၣ်​ဖှံ​သး​ညီ 32/36 (different word) | NT also: တၢ်​သး​ခု, သး​ခု<br>OT also: တၢ်​သး​ခု, သး​ခု<br>STC: Draft writes တၢ်​သူၣ်​ဖှံ​သး​ညီ; the Karen Bible usually writes တၢ်​သူၣ်​ခု​သး​ခု for "joy". |
+| joy | တၢ်​သူၣ်​ခု​သး​ခု | NT 58/60; OT 75/95 |  | *joy / happiness*: တၢ်​သူၣ်​ဖှံ​သး​ညီ 32/36 (different word) | NT also: တၢ်​သး​ခု, သး​ခု<br>OT also: တၢ်​သး​ခု, သး​ခု<br>STC: Draft writes တၢ်​သူၣ်​ဖှံ​သး​ညီ; the Karen Bible usually writes တၢ်​သူၣ်​ခု​သး​ခု for "joy". Other Bible renderings (main form in 31 of 162 verses): တၢ်​သး​ခု (58; e.g. 1 Ki 1:40, 1 Chr 15:25); သူၣ်​ဖှံ​သး​ညီ (31; e.g. Job 8:19, Job 8:21). |
 | jubile | တၢ်​သူၣ်​ခု​သး​ခု​(အ​နံၣ်) | OT 19/20 |  | Lev 25:10–54 | Lit. “(year of) rejoicing” |
 | judge | စံၣ်​ညီၣ် *(judge)*<br>ပှၤ​စံၣ်​ညီၣ်​ကွီၢ် *(judge (a person))* | NT *judge* 82/86; OT *judge* 175/181; OT *judge (a person)* 42/47 |  |  | OT also: ပှၤ​စံၣ်​ညီၣ် |
 | judgment | တၢ်​စံၣ်​ညီၣ် | NT 63/74; OT 201/211 | same 11/11 |  | NT also: စံၣ်​ညီၣ်<br>OT also: စံၣ်​ညီၣ် |
@@ -197,14 +197,14 @@ Karen text has zero-width spaces between syllables, following your translation i
 | law | တၢ်​သိၣ်​တၢ်​သီ | NT 158/172; OT 206/287 | *law(s)*: same 40/43 | *law (of God)*: တၢ်​မၤ​လိာ် 20/20 (different word) | STC: Draft usually writes တၢ်​မၤ​လိာ် (15 of 20); the Karen Bible writes "law" as တၢ်​သိၣ်​တၢ်​သီ. |
 | law of God | ယွၤ​အ​တၢ်​သိၣ်​တၢ်​သီ |  | 4/5 |  |  |
 | lawyer | ပှၤ​သ့​လံာ်​တၢ်​သိၣ်​တၢ်​သီ | NT 8/8 |  |  |  |
-| life | တၢ်​မူ | NT 146/170; OT 188/239 | same 184/190 | same 80/93 | NT also: မူ<br>OT also: မူ |
+| life | တၢ်​မူ | NT 146/170; OT 188/239 | same 184/190 | same 80/93 | NT also: မူ<br>OT also: မူ Other Bible renderings (main form in 154 of 429 verses): သး​သ​မူ (133; e.g. Gen 1:30, Gen 9:5). |
 | love (verb) | အဲၣ် | NT 191/197; OT 202/214 | *love*: တၢ်​အဲၣ် 81/91 (same word, other form) | *love (noun)*: တၢ်​အဲၣ်​တၢ်​ကွံ 94/95 (different word) | STC: Same as the Karen Bible (တၢ်​အဲၣ်​တၢ်​ကွံ = charity/love). |
 | lovingkindness | ဘျုး | OT 29/29 |  |  | OT: Same word as OT "mercy". |
-| lust | သး​ကွံ | NT 26/37; OT 3/5 varies | *lust(s)*: တၢ်​သး​က​တၢ 3/5 (different word) |  |  |
+| lust | သး​ကွံ | NT 26/37; OT 3/5 varies | *lust(s)*: တၢ်​သး​က​တၢ 3/5 (different word) |  | Other Bible renderings (main form in 33 of 47 verses): တၢ်​က​လုာ်​က​လိၤ (5; e.g. Titus 3:3, 2 Pet 2:10). |
 | Maschil (Psalm titles) | (စီၤ ဒၤ​ဝံး) အ​သိၣ်​တၢ် | OT 13/13 |  | Ps 32:1 | "instruction" |
 | meat offering | တၢ်​မၤ​ဘူၣ်​ကိၣ် | OT 104/122 |  |  |  |
 | meditate | ဆိ​က​မိၣ် (တၢ်) | OT 13/15 |  | Ps 1:2 |  |
-| meekness | တၢ်​သူၣ်​စူၤ​သး​စူၤ | NT 9/12 |  |  | NT also: သူၣ်​စူၤ |
+| meekness | တၢ်​သူၣ်​စူၤ​သး​စူၤ | NT 9/12 |  |  | NT also: သူၣ်​စူၤ Other Bible renderings (main form in 8 of 15 verses): ဆီၣ်​လီၤ (4; e.g. Ps 18:35, Gal 5:23). |
 | memorial (of an offering) | တၢ်​သ့ၣ်​နီၣ်​ထီၣ်​က့ၤ | OT 29/32 |  | Lev 2:2 |  |
 | mercy | သး​က​ညီၤ *(NT)*<br>ဘျုး *(OT)* | NT 57/57; OT 230/274 | *sympathy*: တၢ်​သူၣ်​က​ညီၤ​သး​က​ညီၤ 15/25 (different word)<br>*mercy, merciful*: တၢ်​သး​က​ညီၤ 26/31 (same word, other form) | *mercy / compassion / pity*: တၢ်​သး​က​ညီၤ 29/38 (same word, other form) | OT also: သး​က​ညီၤ<br>OT: OT "mercy" (Hebrew hesed) is usually ဘျုး (as in "his mercy endureth for ever"). |
 | mercy seat | တၢ်​မၤ​ပူၤ​ဖျဲး​အ​လီၢ် | OT 20/22 |  |  | Exod 25:17–22; 26:34. Literally “place of atonement”. |
@@ -218,15 +218,15 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Neginoth (Psalm titles) | (လၢ) နီၣ်​ဒ့​တၢ် | OT 6/7 |  | Ps 4:1 | stringed instruments; Ps 6:1 has နီၢ်​ဒ့ (typo) |
 | oath / sware | ဆိၣ် | OT 194/197 |  |  |  |
 | obey | စူၢ် *(NT)*<br>ဒိ​က​နၣ် *(OT)* | NT 25/32; OT 72/82 | *obedience, obedient*: တၢ်​ဒိ​က​နၣ် 19/20 (same word, other form) | *obedience / obey*: တၢ်​ဒိ​က​နၣ် 10/12 (same word, other form) | OT also: က​နၣ် |
-| oblation (holy portion) | တၢ်​ဝံၢ်​ထီၣ် | OT 7/30 (varies) |  | Ezek 45:1–7; 48:8–21 | other books use other words |
+| oblation (holy portion) | တၢ်​ဝံၢ်​ထီၣ် | OT 7/30 (varies) |  | Ezek 45:1–7; 48:8–21 | other books use other words Other Bible renderings (main form in 7 of 35 verses): တၢ်​မၤ​ဘူၣ် (18; e.g. Lev 2:4, Lev 2:5). |
 | offering of jealousy | တၢ်​မၤ​ဘူၣ်​ကိၣ်​လၢ​သး​က့ၣ်​အ​ဃိ |  |  | Num 5:15–25 |  |
 | oracle (most holy place) | တၢ်​က​တိၤ​တၢ်​အ​လီၢ် | OT 15/17 |  |  |  |
-| ordinance (for ever) | တၢ်​မၤ​လိာ်​(အ​ထူ​အ​ယိာ်) / တၢ်​အ​လုၢ်​အ​လၢ် | OT 18/34 varies |  |  | Exod 12:14, 17, 24, 43. |
+| ordinance (for ever) | တၢ်​မၤ​လိာ်​(အ​ထူ​အ​ယိာ်) / တၢ်​အ​လုၢ်​အ​လၢ် | OT 18/34 varies |  |  | Exod 12:14, 17, 24, 43. Other Bible renderings (main form in 33 of 63 verses): တၢ်​စံၣ်​ညီၣ် (9; e.g. Exod 15:25, Num 15:24); တၢ်​သိၣ်​တၢ်​သီ (8; e.g. Exod 15:25, Lev 5:10). |
 | parable | တၢ်​က​တိၤ​ဒိ | NT 36/45 | *example*: အ​ဒိ​အ​တဲာ် 18/20 (different word) |  | OT Balaam's “took up his parable” = ထု​ထီၣ်​အ​တၢ်​က​တိၤ​ဒိ (Num 23–24) |
 | passover | ဘူၣ်​လဲၤ​က​ပာ် | NT 26/26; OT 45/45 |  |  | NT also: လဲၤ​က​ပာ်<br>NT: ဘူၣ် = feast; "feast of the Passover" = ဘူၣ်​လဲၤ​က​ပာ်.<br>OT also: လဲၤ​က​ပာ် |
-| patience / longsuffering | တၢ်​ဝံ​သး​စူၤ | NT 33/44 | *patient(s)*: ပှၤ​ဆါ 25/29 (different word) |  | OT “longsuffering” = သး​ထီၣ်​ကီ (3/4), e.g. Exod 34:6 |
+| patience / longsuffering | တၢ်​ဝံ​သး​စူၤ | NT 33/44 | *patient(s)*: ပှၤ​ဆါ 25/29 (different word) |  | OT “longsuffering” = သး​ထီၣ်​ကီ (3/4), e.g. Exod 34:6 Other Bible renderings (main form in 34 of 49 verses): သး​ထီၣ်​ကီ (3; e.g. Exod 34:6, Num 14:18). |
 | patriarchs and prophets | ပၢ်​လၢ​ပျၢၤ … ဝံ |  | ch. 1 (1×) |  |  |
-| peace | တၢ်​ဃူ​တၢ်​ဖိး | NT 81/104; OT 199/296 varies | same ch. 1 (2×) | same 12/15 | NT also: အိၣ်​ဘှီၣ်<br>OT also: ဃူ, ဖိး |
+| peace | တၢ်​ဃူ​တၢ်​ဖိး | NT 81/104; OT 199/296 varies | same ch. 1 (2×) | same 12/15 | NT also: အိၣ်​ဘှီၣ်<br>OT also: ဃူ, ဖိး Other Bible renderings (main form in 159 of 428 verses): မၤ​ဃူ​မၤ​ဖိး (88; e.g. Exod 20:24, Exod 24:5) 'peace offering'; အိၣ်​ဘှီၣ် (51; e.g. Gen 24:21, Gen 34:5) 'hold one's peace'; မုာ်​မုာ် (47; e.g. Gen 15:15, Gen 26:29) 'in peace'. |
 | peace offering | တၢ်​လုၢ်​မၤ​ဃူ​မၤ​ဖိး | OT 81/84 |  |  | OT also: မၤ​ဃူ​မၤ​ဖိး<br>OT: Literally "offering of reconciliation". |
 | Pharisee | ပှၤ​ဖၤ​ရံၤ​ၡဲ | NT 94/95 | *Pharisee(s)*: same 11/12 |  |  |
 | power | အ​စိ​အ​က​မီၤ | NT 132/142; OT 83/118 | *healing power; power*: (တၢ်)စိ​က​မီၤ ch. 1 (6×) (same word, other form) | အ​စိ​က​မီၤ 36/44 (same word, other form) | NT also: က​မီၤ, စိ<br>OT also: က​မီၤ, စိ |
@@ -245,14 +245,14 @@ Karen text has zero-width spaces between syllables, following your translation i
 | redeem | ပှ့ၤ​က့ၤ | OT 53/54 |  |  | Gen 48:16 (“the Angel which redeemed me”). |
 | redemption / redeem | ပှ့ၤ​က့ၤ | NT *redemption / redeem* 16/22; OT *redeem* 109/116 | *redeem, redemption*: same 14/21 | *redeem / redemption*: same 19/34 | NT also: တၢ်​ပှ့ၤ |
 | release (year of) | တၢ်​ပျၢ် / တၢ်​ထူၣ်​ဖျဲး | OT 4/6 (varies) |  | Deut 15:1–9 |  |
-| religion, religious | တၢ်​ဘူၣ်​တၢ်​ဘါ |  | 13/14 |  |  |
+| religion, religious | တၢ်​ဘူၣ်​တၢ်​ဘါ |  | 13/14 |  | Other Bible renderings (main form in 0 of 6 verses): အ​လုၢ်​အ​လၢ် (4; e.g. Acts 13:43, Acts 26:5). |
 | remission (of sins) | တၢ်​ပျၢ် | NT 8/10 |  |  |  |
 | repent | ပီၢ်​ယၢ်​လီၤ​က့ၤ *(repent)*<br>တၢ်​ပီၢ်​ယၢ်​လီၤ​က့ၤ *(repentance)* | NT *repent* 35/38; NT *repentance* 20/25; OT *repent* 37/42 | *repent, repentance*: ပီၢ်​ယၢ်​လီၤ(သး) 8/8 (different word) | *repent / repentance*: သ့ၣ်​နီၣ်​ပီၢ်​ယၢ်​လီၤ​က့ၤ 18/20 (different word) | STC: Draft often adds သ့ၣ်​နီၣ်; the Karen Bible writes ပီၢ်​ယၢ်​လီၤ​က့ၤ. |
 | resurrection | တၢ်​ဂဲၤ​ဆၢ​ထၢၣ် | NT 39/40 |  |  | NT also: ဂဲၤ​ဆၢ​ထၢၣ်​က့ၤ |
 | righteous / just | အ​တီ​အ​လိၤ *(righteous / just)*<br>ပှၤ​တီ​ပှၤ​လိၤ *(righteous (person))* | NT *righteous / just* 36/72 varies; OT *righteous (person)* 186/188 |  |  | NT: Also တီ alone.<br>OT also: တီ |
 | righteousness | တၢ်​တီ​တၢ်​လိၤ | NT 86/91; OT 177/198 | same 19/20 | same 19/25 |  |
 | sabbath | အိၣ်​ဘှံး​အ​နံၤ *(NT)*<br>အိၣ်​ဘှံး *(OT)* | NT 55/55; OT 90/92 | *Sabbath*: မုၢ်​အိၣ်​ဘှံး​နံၤ 3/3 (different word) |  | NT also: အိၣ်​ဘှံး​နံၤ<br>NT: Literally "the day of rest". |
-| sacrifice / offering | တၢ်​လုၢ် | NT *sacrifice / offering* 30/45 varies; OT *offering* 579/623 | *sacrifice*: (တၢ်)လုၢ်​ထီၣ်(သး) 15/24 (different word) | *sacrifice*: တၢ်​လုၢ်​ထီၣ်​အ​သး 8/16 (different word) | OT also: တၢ်​ဟ့ၣ်, တၢ်​မၤ​ဘူၣ်<br>STC: Draft writes တၢ်​လုၢ်​ထီၣ်(အ)သး (Christ's self-sacrifice). |
+| sacrifice / offering | တၢ်​လုၢ် | NT *sacrifice / offering* 30/45 varies; OT *offering* 579/623 | *sacrifice*: (တၢ်)လုၢ်​ထီၣ်(သး) 15/24 (different word) | *sacrifice*: တၢ်​လုၢ်​ထီၣ်​အ​သး 8/16 (different word) | OT also: တၢ်​ဟ့ၣ်, တၢ်​မၤ​ဘူၣ်<br>STC: Draft writes တၢ်​လုၢ်​ထီၣ်(အ)သး (Christ's self-sacrifice). Other Bible renderings (main form in 572 of 822 verses): တၢ်​မၤ​ဘူၣ် (109; e.g. Gen 4:3, Gen 4:4); မၤ​ဘူၣ်​ကိၣ် (47; e.g. Lev 2:1, Lev 2:3) 'meat offering'. |
 | Sadducee | ပှၤ​စး​ဒူၤ​ကဲ | NT 13/14 |  |  |  |
 | saints | ပှၤ​စီ​ဆှံ | NT 60/62; OT 34/36 |  |  |  |
 | salvation | တၢ်​အုၣ်​က့ၤ​ခီၣ်​က့ၤ *(salvation)*<br>အုၣ်​က့ၤ​ခီၣ်​က့ၤ *(save)* | NT *salvation* 43/43; NT *save* 91/116; OT *salvation* 115/115; OT *save* 147/217 varies | same 21/23 | same 15/16<br>*save*: same 16/21 | OT also: အုၣ်​က့ၤ<br>STC: Draft uses both တၢ်​အုၣ်​က့ၤ​ခီၣ်​က့ၤ and (မၤ)ပူၤ​ဖျဲး.<br>STC: Draft uses both အုၣ်​က့ၤ​ခီၣ်​က့ၤ and မၤ​ပူၤ​ဖျဲး. |
@@ -268,40 +268,40 @@ Karen text has zero-width spaces between syllables, following your translation i
 | shewbread | (တၢ်​မဲာ်​ညါ​အ)​ကိၣ် | OT 5/14 varies |  |  | Exod 25:30. Literally “bread of the presence”. |
 | Shoshannim (Psalm titles) | ဖီ​ဒ့ၣ်​ညါ | OT 3/3 |  | Ps 45:1 | "lilies" |
 | sign | တၢ်​ပ​နီၣ် | NT 36/45; OT 66/74 |  |  | NT also: ပ​နီၣ်<br>OT also: ပ​နီၣ် |
-| similitude / likeness (of God) | အ​က့ၢ်​အ​ဂီၤ | OT 3/8 (varies) |  | Deut 4:12, 15 |  |
+| similitude / likeness (of God) | အ​က့ၢ်​အ​ဂီၤ | OT 3/8 (varies) |  | Deut 4:12, 15 | Other Bible renderings (main form in 18 of 43 verses): လီၤ​ဂာ် (7; e.g. Gen 5:3, Deut 4:18); တၢ်​ဂီၤ​စိး​ပျၤ​အ​သး (3; e.g. Deut 4:18, Deut 4:23). |
 | sin | တၢ်​ဒဲး​ဘး | NT 153/168; OT 324/367 | *sin(s)*: same 79/83 | same 83/85 |  |
 | sin offering | တၢ်​လုၢ်​တၢ်​ဒဲး​ဘး | OT 104/108 |  |  |  |
 | sin-sick | ဆိ​က့​လၢ​တၢ်​ဒဲး​ဘး |  | 3/4 |  |  |
 | sinner | ပှၤ​တၢ်​ဒဲး​ဘး​ဖိ | NT 37/42; OT 21/25 | *sinner(s)*: same 15/15 | same 22/24 |  |
 | Song of degrees | ပှၤ​တ​မှံၤ​အ​တၢ်​သး​ဝံၣ် | OT 15/15 |  | Ps 120–134 | "pilgrims' song" |
 | soul / heart / spirit (of a person) | သး | NT *soul / heart / spirit (of a person)* 125/129; OT *heart* 703/712; OT *soul* 399/443; OT *soul / heart / spirit (of a person)* 992/1033 |  | *heart*: same 113/115 | NT: Karen uses သး for all three; context decides.<br>OT: Also သး​ကံၢ်​ပူၤ ("in the heart").<br>OT: Karen uses သး for soul, heart and spirit; context decides.<br>STC: Karen uses သး for heart, soul and mind. |
-| spiritual | နီၢ်​သး |  | 25/27 |  |  |
+| spiritual | နီၢ်​သး |  | 25/27 |  | Other Bible renderings (main form in 1 of 23 verses): ဘၣ်​ဃး​ဒီး​သး (17; e.g. Rom 1:11, Rom 7:14). |
 | spiritual needs | နီၢ်​သး​အ​တၢ်​လိၣ်​ဘၣ် |  | 3/3 |  |  |
-| statutes | တၢ်​မၤ​လိာ် | OT 91/132 |  | Ps 119:5 | same word as "commandments" |
+| statutes | တၢ်​မၤ​လိာ် | OT 91/132 |  | Ps 119:5 | same word as "commandments" Other Bible renderings (main form in 91 of 132 verses): တၢ်​စံၣ်​ညီၣ် (29; e.g. Lev 18:5, Lev 18:26); တၢ်​သိၣ်​တၢ်​သီ (24; e.g. Lev 26:46, Num 30:16). |
 | strange fire | မ့ၣ်​အူ​လီၤ​ဆီ | OT 3/3 |  | Lev 10:1 |  |
 | strange gods | ပှၤ​တ​ခီ​ဘီ​မုၢ်​ဖိ​အ​က​စၢ် | OT 8/10 |  |  | Gen 35:2, 4. |
-| strength | အ​ဂံၢ်​အ​ဘါ | OT 159/215 | တၢ်​ဂံၢ်​တၢ်​ဘါ ch. 1 (1×) (same word, other form) | တၢ်​ဂံၢ်​တၢ်​ဘါ 15/17 (same word, other form) | OT also: ဂံၢ်, ဘါ |
-| stumblingblock | ခီၣ်​ဘၣ်​တိၢ်​အ​လီၢ် | OT 6/9 |  | Ezek 3:20; 7:19; 14:3–7; 18:30 |  |
+| strength | အ​ဂံၢ်​အ​ဘါ | OT 159/215 | တၢ်​ဂံၢ်​တၢ်​ဘါ ch. 1 (1×) (same word, other form) | တၢ်​ဂံၢ်​တၢ်​ဘါ 15/17 (same word, other form) | OT also: ဂံၢ်, ဘါ Other Bible renderings (main form in 83 of 257 verses): စိ​အ​က​မီၤ (16; e.g. Gen 49:3, 1 Chr 29:12). |
+| stumblingblock | ခီၣ်​ဘၣ်​တိၢ်​အ​လီၢ် | OT 6/9 |  | Ezek 3:20; 7:19; 14:3–7; 18:30 | Other Bible renderings (main form in 8 of 16 verses): တၢ်​လီၤ​ဃံၤ​အ​လီၢ် (7; e.g. Lev 19:14, Ps 119:165). |
 | Sun of Righteousness | တၢ်​တီ​တၢ်​လိၤ​အ​မုၢ် |  | 4/4 |  |  |
 | sweet savour | တၢ်​နၢ​မူ | OT 42/42 |  |  |  |
 | synagogue | ဘူၣ်​ဘျီၣ် | NT 64/67 | same 5/5 |  |  |
-| tabernacle | ဒဲ | NT 23/25; OT 233/302 |  |  | Exodus 25–40 usually says တၢ်​အိၣ်​အ​လီၢ် (“dwelling place”) for the tabernacle (OT 83/280). |
+| tabernacle | ဒဲ | NT 23/25; OT 233/302 |  |  | Exodus 25–40 usually says တၢ်​အိၣ်​အ​လီၢ် (“dwelling place”) for the tabernacle (OT 83/280). Other Bible renderings (main form in 256 of 331 verses): တၢ်​အိၣ်​အ​လီၢ် (51; e.g. Exod 26:1, Exod 26:6). |
 | tabernacle of the congregation | တၢ်​အိၣ်​ဖှိၣ်​အ​ဒဲ | OT 125/127 |  |  | Exod 27:21; 28:43; 29–40; Leviticus. |
 | tables of stone | လၢၢ်​ဘ့ၣ်​ဘၣ် | OT 12/12 |  |  | Exod 24:12; 31:18; 34:1–4. |
 | take the name of the LORD in vain | ပှ့ၤ​ဘၣ်​ယွၤ​အ​မံၤ​(လၢ/ဒီး)​တၢ်​က​လီ​က​လီ | Exod 20:7; Deut 5:11 |  |  | Third commandment wording in Mason. |
-| teach | သိၣ်​က့ၤ​သီ​က့ၤ | NT 96/119; OT 96/126 | *teach, teaching*: same 57/63 |  | NT also: သိၣ်​လိ<br>OT also: သိၣ်​လိ |
-| teacher(s) | သ​ရၣ် |  | ch. 1 (3×) |  |  |
-| temple | တၢ်​လုၢ်​ဟံၣ် *(NT)*<br>နူၢ် *(OT)* | NT 100/106; OT 60/76 | same 7/9 |  | NT also: တၢ်​လုၢ်​အ​ဟံၣ်, တၢ်​လုၢ်<br>NT: NT temple = တၢ်​လုၢ်​ဟံၣ် (also written တၢ်​လုၢ်​အ​ဟံၣ်). The OT uses နူၢ်.<br>OT: OT temple = နူၢ် (palace/temple). The NT uses တၢ်​လုၢ်​ဟံၣ်.<br>1 Sam 1:9; 3:3 temple of the LORD = ယွၤအနူၢ်ဧိၤစီၤဧိၤ. |
+| teach | သိၣ်​က့ၤ​သီ​က့ၤ | NT 96/119; OT 96/126 | *teach, teaching*: same 57/63 |  | NT also: သိၣ်​လိ<br>OT also: သိၣ်​လိ Other Bible renderings (main form in 32 of 134 verses): သိၣ်​လိ (79; e.g. Exod 4:12, Exod 4:15). |
+| teacher(s) | သ​ရၣ် |  | ch. 1 (3×) |  | Other Bible renderings (main form in 12 of 21 verses): ပှၤ​သိၣ်​လိ (3; e.g. Ps 119:99, Hab 2:18). |
+| temple | တၢ်​လုၢ်​ဟံၣ် *(NT)*<br>နူၢ် *(OT)* | NT 100/106; OT 60/76 | same 7/9 |  | NT also: တၢ်​လုၢ်​အ​ဟံၣ်, တၢ်​လုၢ်<br>NT: NT temple = တၢ်​လုၢ်​ဟံၣ် (also written တၢ်​လုၢ်​အ​ဟံၣ်). The OT uses နူၢ်.<br>OT: OT temple = နူၢ် (palace/temple). The NT uses တၢ်​လုၢ်​ဟံၣ်.<br>1 Sam 1:9; 3:3 temple of the LORD = ယွၤအနူၢ်ဧိၤစီၤဧိၤ. Other Bible renderings (main form in 111 of 192 verses): တၢ်​လုၢ်​အ​ဟံၣ် (58; e.g. Isa 44:28, Matt 12:5); ယွၤ​အ​ဟံၣ် (6; e.g. 2 Ki 11:10, 2 Ki 11:13). |
 | tempt | လ့​ပ​စီ *(tempt)*<br>တၢ်​လ့​ပ​စီ *(temptation)* | NT *tempt* 28/29; NT *temptation* 18/19; OT *tempt* 10/12 | *temptation(s)*: same 21/24<br>*tempted*: ဘၣ်​တၢ်​လ့​ပ​စီ 15/15 (same word, other form) | *temptation / tempt*: same 6/12 | When God tests someone (Gen 22:1; Exod 15:25; 16:4) = မၤ​ကွၢ် (prove). |
-| testimony | တၢ်​အုၣ်​အ​သး | NT 23/31 |  |  | OT: “the Testimony” (the tables kept in the ark) in Exod 16:34 = တၢ်​အၢၣ်​လီၤ​အီ​လီၤ (covenant). |
+| testimony | တၢ်​အုၣ်​အ​သး | NT 23/31 |  |  | OT: “the Testimony” (the tables kept in the ark) in Exod 16:34 = တၢ်​အၢၣ်​လီၤ​အီ​လီၤ (covenant). Other Bible renderings (main form in 30 of 74 verses): တၢ်​အၢၣ်​လီၤ​အီ​လီၤ (32; e.g. Exod 16:34, Exod 25:16) 'ark / tables of the testimony'. |
 | thank / thanks | စံး​ထီၣ်ပတြၢၤ | NT 64/70; OT 59/64 | *thanksgiving, thank*: စံး​ဘျုး 9/13 (different word) | *gratitude / thanks*: စံး​ဘျူး 10/11 (different word) |  |
 | thanksgiving (offering) | တၢ်​စံး​ထီၣ်​ပ​တြၢၤ | OT 17/19 |  | Lev 7:12–15 |  |
 | tithe | တၢ်​ဆံ​ဆဲၣ်​ပူ​တ​ပူ | OT 24/25 |  |  | OT also: ဆံ​ဆဲၣ်​ပူ |
 | transgression | တၢ်​က​မၣ် | OT 62/89 |  |  |  |
 | trespass offering | တၢ်​လုၢ်​တၢ်​က​မၣ် | OT 32/33 |  |  |  |
-| trial(s) | တၢ်​မၤ​ကွၢ် |  | 13/14 | *trial*: တၢ်​ကီ​တၢ်​ခဲ 5/10 (different word) |  |
+| trial(s) | တၢ်​မၤ​ကွၢ် |  | 13/14 | *trial*: တၢ်​ကီ​တၢ်​ခဲ 5/10 (different word) | Other Bible renderings (main form in 4 of 10 verses): လ့​ပ​စီ (3; e.g. Matt 4:7, Jas 1:2). |
 | trust | သ​န့ၤ | OT 141/153 |  | same 14/15 |  |
-| truth | တၢ်​မ့ၢ်​တၢ်​တီ | NT 89/109; OT 91/115 | same 21/21 | same 17/24 |  |
+| truth | တၢ်​မ့ၢ်​တၢ်​တီ | NT 89/109; OT 91/115 | same 21/21 | same 17/24 | Other Bible renderings (main form in 181 of 232 verses): အ​မ့ၢ်​အ​တီ (15; e.g. Exod 18:21, Exod 34:6); နီၢ်​နီၢ် (15; e.g. Judg 9:15, Isa 10:20) 'in truth, truly'. |
 | unbelief, distrust | တၢ်​တ​နာ် |  | 6/7 |  |  |
 | uncircumcised | တ​ဒိး​ဘၣ်​တၢ်​ကူး​တ​ရံး | OT 28/34 |  | Ezek 28:10; 31:18; 32:19–32; 44:7, 9 |  |
 | unclean | တ​က​ဆှီ | OT 125/128 | တ​က​ဆှီ​ဘၣ် 15/21 (same word, other form) |  |  |
@@ -309,11 +309,11 @@ Karen text has zero-width spaces between syllables, following your translation i
 | unleavened bread | ကိၣ်​(လၢ​အ)​တ​အိၣ်​ဘၣ်​ဒီး​ကိၣ်​မံၣ် | OT 21/40 |  |  | Literally “bread without leaven”. Exod 12:8–39. |
 | unrighteousness | တၢ်​တ​တီ​တ​လိၤ | NT 14/16 |  |  |  |
 | Urim (and Thummim) | အူ​ရံၣ် (ဒီး တူ​မံၣ်) | OT 6/7 |  |  | Exod 28:30. |
-| the vail (of the tabernacle) | ယၣ်​ဘျး​ထီၣ်​အ​သး | OT 18/31 varies |  |  | Exod 26:31–35. |
+| the vail (of the tabernacle) | ယၣ်​ဘျး​ထီၣ်​အ​သး | OT 18/31 varies |  |  | Exod 26:31–35. Other Bible renderings (main form in 18 of 36 verses): နီၣ်​ကျၢၢ် (7; e.g. Gen 24:65, Gen 38:19) 'face veil'. |
 | vanity | က​လီ​က​လီ | OT 71/85 |  |  | OT also: တၢ်​က​လီ |
 | vengeance | တၢ်​မၤ​ဆၢ​တၢ်​အၢ | OT 10/33 (varies) |  | Deut 32:35, 41, 43 | Cf. Rom 12:19 quoting Deut 32:35. |
-| vexation of spirit | တၢ်​မၤ​တ​ဂိာ်​တ​သီၣ်​ဘၣ်​တၢ် | OT 6/10 |  | Eccl 1:14 | also တၢ်​ဂုာ်​မၤ​န့ၢ်​က​လံၤ (4:16) |
-| vision | တၢ်​ထံၣ်​လၢ​ညါ​ခီ | NT 17/17; OT 63/79 |  |  | NT also: လၢ​ညါ​ခီ<br>OT also: လၢ​ညါ​ခီ |
+| vexation of spirit | တၢ်​မၤ​တ​ဂိာ်​တ​သီၣ်​ဘၣ်​တၢ် | OT 6/10 |  | Eccl 1:14 | also တၢ်​ဂုာ်​မၤ​န့ၢ်​က​လံၤ (4:16) Other Bible renderings (main form in 4 of 10 verses): တၢ်​ဂုာ်​မၤ​န့ၢ်​က​လံၤ (3; e.g. Eccl 4:6, Eccl 4:16); တၢ်​က​လီ​က​လီ (4; e.g. Eccl 1:14, Eccl 2:26). |
+| vision | တၢ်​ထံၣ်​လၢ​ညါ​ခီ | NT 17/17; OT 63/79 |  |  | NT also: လၢ​ညါ​ခီ<br>OT also: လၢ​ညါ​ခီ Other Bible renderings (main form in 21 of 96 verses): ထံၣ်​တၢ်​လၢ​ညါ​ခီ (54; e.g. Gen 15:1, Num 24:4). |
 | vow | ဆိၣ်​တၢ် | OT 48/59 |  |  | OT also: ဆိၣ်​လီၤ |
 | water of purifying | ထံ​က​ဆှီ |  |  | Num 8:7 |  |
 | water of separation | တၢ်​တ​က​ဆှီ​ဘၣ်​အ​ထံ |  |  | Num 19:9–21 | Lit. “water of uncleanness” (for removing uncleanness) |
@@ -324,7 +324,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | without blemish | အ​လၢ​အ​ပှဲၤ | OT 38/38 |  | Lev 1:3 |  |
 | witness | အုၣ်​အ​သး | NT 71/93; OT 64/74 |  |  |  |
 | wizard | ပှၤ​မဲာ်​ထံၣ်​ဝံ | OT 11/11 |  | Lev 19:31; 20:6, 27 |  |
-| words of truth | တၢ်​မ့ၢ်​တၢ်​တီ​အ​က​လုၢ်​က​ထါ |  | ch. 1 (1×) |  |  |
+| words of truth | တၢ်​မ့ၢ်​တၢ်​တီ​အ​က​လုၢ်​က​ထါ |  | ch. 1 (1×) |  | Other Bible renderings (main form in 0 of 3 verses): တၢ်​မ့ၢ်​တၢ်​တီ​အ​တၢ်​က​တိၤ (2; e.g. Prov 22:21, Eccl 12:10). |
 | worship | ဘူၣ်​ထီၣ်​ဘါ​ထီၣ် | NT 63/73; OT 105/115 |  |  | NT also: ဘါ<br>OT also: ဘါ |
 | wrath / anger | တၢ်​သး​ဒိၣ် | NT 43/48; OT 306/348 |  |  | NT also: သး​ဒိၣ်, သး​ထီၣ်<br>OT also: သး​ဒိၣ်, သး​ထီၣ် |
 
@@ -338,78 +338,78 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Follow Me | ပိာ်​ယ​ခံ |  | ch. 1 (1×) |  |  |
 | gospel worker(s) | ပှၤ​မၤ​တၢ်​သး​ခု​က​စီၣ် |  | 4/4 |  |  |
 | help others | မၤ​စၢၤ​ပှၤ​ဂၤ |  | 4/5 |  |  |
-| highways, thoroughfares, streets | ကျဲ​မုၢ်​ကျဲ​ဘိ |  | ch. 1 (4×) |  |  |
-| hospitality | တၢ်​တူၢ်​လိာ်​ခီၣ်​ဆၢ |  | ch. 1 (2×) |  |  |
+| highways, thoroughfares, streets | ကျဲ​မုၢ်​ကျဲ​ဘိ |  | ch. 1 (4×) |  | Other Bible renderings (main form in 0 of 74 verses): ကျဲ​မုၢ် (12; e.g. Judg 5:6, Judg 20:31); ကျဲ​ပူၤ (36; e.g. 2 Sam 1:20, Prov 1:20). |
+| hospitality | တၢ်​တူၢ်​လိာ်​ခီၣ်​ဆၢ |  | ch. 1 (2×) |  | Other Bible renderings (main form in 0 of 4 verses): အဲၣ်​ပှၤ​တ​မှံၤ (2; e.g. 1 Tim 3:2, Titus 1:8). |
 | industry, industrial | တၢ်​ခု​ဖံး​ခု​မၤ |  | 9/12 |  |  |
-| invite, invitation | တၢ်​ကွဲ​မုာ် |  | 18/20 |  |  |
+| invite, invitation | တၢ်​ကွဲ​မုာ် |  | 18/20 |  | Other Bible renderings (main form in 0 of 3 verses): ကိး​န့ၢ် (2; e.g. 2 Sam 13:23, Esth 5:12). |
 | learn | မၤ​လိ |  | 25/27 |  |  |
 | lesson(s) | တၢ်​မၤ​လိ |  | 25/27 |  |  |
 | medical missionary | က​သံၣ်​မ့​ၡၢၣ်​န​ရံၣ် |  | 5/8 |  |  |
-| minister (to) | မၤ​န့ၢ်​တၢ်​လၢ … အ​ဂီၢ် |  | 23/35 |  |  |
+| minister (to) | မၤ​န့ၢ်​တၢ်​လၢ … အ​ဂီၢ် |  | 23/35 |  | Other Bible renderings (main form in 0 of 162 verses): ခ့​အ​ပှၤ​အ​တၢ် (48; e.g. Exod 28:35, Exod 28:43). |
 | missionary | မ့​ၡၢၣ်​န​ရံၣ် |  | 22/26 |  |  |
 | needs, necessities | တၢ်​လိၣ်(ဘၣ်) |  | ch. 1 (4×) |  |  |
 | object lesson | တၢ်​မၤ​လိ​အ​ဒိ​အ​တဲာ် |  | 3/4 |  |  |
-| opportunity | တၢ်​ခွဲး​တၢ်​ယာ် |  | 28/29 |  |  |
+| opportunity | တၢ်​ခွဲး​တၢ်​ယာ် |  | 28/29 |  | Other Bible renderings (main form in 0 of 6 verses): အ​ဆၢ​က​တီၢ် (2; e.g. Matt 26:16, Gal 6:10). |
 | plan(s) | တၢ်​ရဲၣ်​တၢ်​ကျဲၤ |  | 9/11 |  |  |
-| purpose | တၢ်​တိာ်​ပာ် |  | 10/15 |  |  |
+| purpose | တၢ်​တိာ်​ပာ် |  | 10/15 |  | Other Bible renderings (main form in 1 of 60 verses): တၢ်​ကူၣ် (14; e.g. Gen 6:5, Prov 15:22); တိာ်​တၢ် (7; e.g. Ezra 4:5, Job 17:11). |
 | skill | တၢ်​သ့​တၢ်​ဘၣ် |  | 9/13 |  |  |
-| table | စီၤ​နီၣ်​ခိၣ် |  | ch. 1 (2×) |  |  |
+| table | စီၤ​နီၣ်​ခိၣ် |  | ch. 1 (2×) |  | Other Bible renderings (main form in 0 of 110 verses): စီၢ်​နီၤ​ခိၣ် (69; e.g. Exod 25:23, Exod 25:27); လၢၢ်​ဘ့ၣ်​ဘၣ် (17; e.g. Exod 24:12, Exod 31:18) 'tables of stone'. |
 | time, season | တၢ်​ဆၢ​က​တီၢ် |  | ch. 1 (3+×) |  |  |
-| worker(s) | ပှၤ​မၤ​တၢ်​ဖိ |  | 25/35 |  |  |
+| worker(s) | ပှၤ​မၤ​တၢ်​ဖိ |  | 25/35 |  | Other Bible renderings (main form in 0 of 28 verses): ပှၤ​မၤ​တၢ်​အၢ (13; e.g. Job 34:8, Job 34:22) 'workers of iniquity'. |
 
 ## 4. Health, the body and healing (57)
 
 | English | Karen — use this | Bible evidence | MH | STC draft | Notes |
 |---|---|---|---|---|---|
-| air | က​လံၤ |  | 24/29 |  |  |
+| air | က​လံၤ |  | 24/29 |  | Other Bible renderings (main form in 3 of 39 verses): တၢ်​ဖး​ဖီ (20; e.g. Gen 1:26, Gen 1:28) 'fowls of the air'; မူ​က​ပိာ်​လိၤ (14; e.g. Deut 4:17, Deut 28:26). |
 | appetite | ထး​ခိၣ်​အ​တၢ်​ဝံၣ် |  | 11/14 |  |  |
-| barren (woman) | ပှၤ​တူာ်​ဖိ | OT 14/18 |  | Judg 13:2–3 |  |
-| bath, bathe | လုၢ်​န့ၢ်​ထံ |  | 3/4 |  | OT “bathe himself in water” = လုၣ်​ထံ (13/18), e.g. Lev 15:5–27 |
+| barren (woman) | ပှၤ​တူာ်​ဖိ | OT 14/18 |  | Judg 13:2–3 | Other Bible renderings (main form in 12 of 23 verses): ဖိ​တ​အိၣ်​ဘၣ် (3; e.g. Exod 23:26, Song 4:2). |
+| bath, bathe | လုၢ်​န့ၢ်​ထံ |  | 3/4 |  | OT “bathe himself in water” = လုၣ်​ထံ (13/18), e.g. Lev 15:5–27 Other Bible renderings (main form in 0 of 28 verses): လုၣ်​ထံ (13; e.g. Lev 15:5, Lev 15:6). |
 | bed | လီၢ်​မံ |  | 8/9 |  |  |
 | bedside | လီၢ်​မံ​က​ပၤ |  | 4/4 |  |  |
 | boils (and blains) | တၢ်​ဝ့​(တၢ်​ကျူၤ) | OT 8/15 varies |  |  | Exod 9:9–11. |
 | brain | ခိၣ်​နူာ် |  | 6/7 |  |  |
 | breath of life | တၢ်​မူ​အ​သါ | OT 4/4 |  |  | Gen 2:7; 6:17; 7:15, 22. |
-| breathe, breathing | က​သါ |  | 11/15 |  |  |
+| breathe, breathing | က​သါ |  | 11/15 |  | Other Bible renderings (main form in 1 of 13 verses): အ​သါ (6; e.g. Gen 2:7, Josh 10:40) 'breath'. |
 | circulation | (သွံၣ်)အ​တၢ်​လဲၤ​တ​ရံး |  | 10/10 |  |  |
 | cleanliness, sanitary | တၢ်​က​ဆှဲ​က​ဆှီ |  | 8/10 |  |  |
 | dampness | တၢ်​စုၣ်​စီၣ် |  | 4/4 |  |  |
 | digestion | တၢ်​ဂံာ်​ဘျဲး |  | 4/5 |  |  |
-| dress | တၢ်​ကူ​တၢ်​သိး |  | 13/16 |  |  |
+| dress | တၢ်​ကူ​တၢ်​သိး |  | 13/16 |  | Other Bible renderings (main form in 0 of 16 verses): က​တဲာ်​က​တီၤ (11; e.g. Gen 18:7, Gen 18:8) 'dress (food, a vineyard)'. |
 | drug(s) | က​သံၣ်​က​သီ |  | 5/5 |  |  |
 | embalm | ပာ်​အ​စိၣ်​ဒီး​က​သံၣ် | OT 2/3 |  |  | Gen 50:2–3, 26. |
 | emerods | တၢ်​အ့ၣ်​ကီၢ်​ဆါ | OT 4/8 (varies) |  | Deut 28:27; 1 Sam 5:6–12 |  |
 | food | တၢ်​အီၣ် |  | 20/22 |  |  |
-| heal the sick | မၤ​ဘျါ​ပှၤ​ဆူး​ပှၤ​ဆါ |  | 3/5 |  |  |
-| health, healthful | တၢ်​အိၣ်​ဆူၣ်​အိၣ်​ချ့ |  | 88/101 |  |  |
+| heal the sick | မၤ​ဘျါ​ပှၤ​ဆူး​ပှၤ​ဆါ |  | 3/5 |  | Other Bible renderings (main form in 0 of 3 verses): မၤ​ဘျါ​က့ၤ (3; e.g. Matt 10:8, Luke 9:2). |
+| health, healthful | တၢ်​အိၣ်​ဆူၣ်​အိၣ်​ချ့ |  | 88/101 |  | Other Bible renderings (main form in 0 of 18 verses): မၤ​ဘျါ​က့ၤ (6; e.g. Prov 12:18, Prov 13:17); အိၣ်​ဆူၣ် (3; e.g. Jer 30:17, Jer 33:6). |
 | hungry | သၣ်​ဝံၤ |  | 11/12 |  |  |
 | indulgence | တၢ်​လူၤ​ဘၣ်​သး |  | 19/19 |  |  |
 | intemperance, intemperate | တၢ်​တ​ကီၤ​သူၣ်​ကီၤ​သး |  | 3/4 |  |  |
-| issue (bodily discharge) | တၢ်​ယွၤ​လီၤ | OT 20/28 |  | Lev 15:2–33 | “sick of her flowers” = ဆှုၣ်​အ​သး (Lev 15:33; 20:18) |
+| issue (bodily discharge) | တၢ်​ယွၤ​လီၤ | OT 20/28 |  | Lev 15:2–33 | “sick of her flowers” = ဆှုၣ်​အ​သး (Lev 15:33; 20:18) Other Bible renderings (main form in 20 of 42 verses): သွံၣ်​လီၤ (4; e.g. Matt 9:20, Mark 5:25) 'issue of blood'. |
 | laws of health | တၢ်​အိၣ်​ဆူၣ်​အိၣ်​ချ့​အ​တၢ်​သိၣ်​တၢ်​သီ |  | 6/7 |  |  |
 | left hand | စု​စ့ၣ် | OT 22/23 |  |  | Gen 13:9; 14:15; 24:49; 48:13–14. Opposite of စု​ထွဲ (right hand). |
-| liquor | သံး |  | 5/5 |  |  |
+| liquor | သံး |  | 5/5 |  | Other Bible renderings (main form in 1 of 3 verses): စ​ပံး​ထံ (2; e.g. Exod 22:29, Song 7:2). |
 | lungs | ပ​သိၣ် |  | 8/8 |  |  |
 | muscle(s) | ညၣ်​ထ့ၣ် |  | 7/8 |  |  |
 | naked | အိၣ်​ဘ့ၣ်​ဆ့ | OT 32/39 | 6/6 |  |  |
 | open air, outdoor(s) | လၢ​တၢ်​ပျီ​ပူၤ |  | 11/13 |  |  |
-| organ(s) (of the body) | နီၢ်​ခိ​က့ၢ်​ဂီၤ |  | 14/15 |  |  |
+| organ(s) (of the body) | နီၢ်​ခိ​က့ၢ်​ဂီၤ |  | 14/15 |  | Other Bible renderings (main form in 0 of 4 verses): တ​နၢ် (3; e.g. Gen 4:21, Job 21:12) 'organ' (musical instrument). |
 | overwork | မၤ​တၢ်​အါ​တ​လၢ |  | 3/3 |  |  |
 | oxygen | အီၣ်​စံၣ်​ကၠ့ၣ် |  | 4/4 |  |  |
 | paralytic | ပှၤ​သံ​တ​ခီ​ပၤ |  | 9/9 |  |  |
 | physical | နီၢ်​ခိ |  | 45/46 |  |  |
-| plague (spot of leprosy) | တၢ်​တီၢ် | OT 48/77 (varies) |  | Lev 13:2–59 | “plague of leprosy” = တၢ်​ဆါ​အၢ​အ​တၢ်​တီၢ် |
-| poison(ous) | အ​စုၣ်​အ​ပျၢ် |  | 13/13 |  |  |
+| plague (spot of leprosy) | တၢ်​တီၢ် | OT 48/77 (varies) |  | Lev 13:2–59 | “plague of leprosy” = တၢ်​ဆါ​အၢ​အ​တၢ်​တီၢ် Other Bible renderings (main form in 50 of 109 verses): တၢ်​သံ​သ​တြိာ် (25; e.g. Exod 12:13, Exod 30:12); တၢ်​နး​တၢ်​ဖှီၣ် (20; e.g. Exod 9:14, Exod 11:1). |
+| poison(ous) | အ​စုၣ်​အ​ပျၢ် |  | 13/13 |  | Other Bible renderings (main form in 1 of 9 verses): အ​စုၣ် (7; e.g. Deut 32:24, Deut 32:33); ဂုၢ်​သီ (4; e.g. Deut 32:33, Job 20:16). |
 | pores (of the skin) | ဘ့ၣ်​ပူၤ​ဖိ |  | 4/4 |  |  |
 | principles of health, health principles | တၢ်​အိၣ်​ဆူၣ်​အိၣ်​ချ့​အ​ကျဲ |  | 9/9 |  |  |
 | pronounce clean / unclean | ပာ်​အီၤ​လၢ​တၢ်​က​ဆှီ / ပာ်​အီၤ​လၢ​တၢ်​တ​က​ဆှီ​ဘၣ် | OT 14/16 |  | Lev 13:3–44 |  |
 | pure air | က​လံၤ​လၢ​အ​က​ဆှီ |  | 8/8 |  |  |
-| rest | တၢ်​အိၣ်​ဘှံး |  | 23/30 |  |  |
+| rest | တၢ်​အိၣ်​ဘှံး |  | 23/30 |  | Other Bible renderings (main form in 47 of 303 verses): အိၣ်​လီၤ​တဲာ် (105; e.g. Gen 30:36, Exod 23:11) 'the rest' (remainder). |
 | scall | တၢ်​ဃာ် | OT 9/9 |  | Lev 13:30–37 |  |
 | self-control | တၢ်​ပၢၤ​သူၣ်​ပၢၤ​သး |  | 8/8 |  |  |
 | shut up (in quarantine) | ကး​တံာ်​ဃာ် | OT 40/53 |  | Lev 13:4–54 |  |
-| strengthen | ဒုး​ဆူၣ်​ထီၣ် |  | 16/16 |  |  |
-| suffering / affliction | တၢ်​နး​တၢ်​ဖှီၣ် | NT 52/96 varies; OT 44/77 varies | *the sick*: ပှၤ​ဆူး​ပှၤ​ဆါ 42/60 (different word)<br>*disease(s)*: တၢ်​ဆူး​တၢ်​ဆါ 64/64 (different word)<br>*suffer, suffering*: တူၢ်​ဘၣ်​ခီၣ်​ဘၣ် 52/70 (different word) | *suffering*: same 11/18 | NT: KJV "suffer" often means "allow"; those verses are excluded here. |
+| strengthen | ဒုး​ဆူၣ်​ထီၣ် |  | 16/16 |  | Other Bible renderings (main form in 29 of 81 verses): မၤ​ဆူၣ်​ထီၣ် (21; e.g. 1 Ki 20:22, 2 Chr 11:17). |
+| suffering / affliction | တၢ်​နး​တၢ်​ဖှီၣ် | NT 52/96 varies; OT 44/77 varies | *the sick*: ပှၤ​ဆူး​ပှၤ​ဆါ 42/60 (different word)<br>*disease(s)*: တၢ်​ဆူး​တၢ်​ဆါ 64/64 (different word)<br>*suffer, suffering*: တူၢ်​ဘၣ်​ခီၣ်​ဘၣ် 52/70 (different word) | *suffering*: same 11/18 | NT: KJV "suffer" often means "allow"; those verses are excluded here. Other Bible renderings (main form in 71 of 103 verses): တၢ်​ကိၢ်​တၢ်​ဂီၤ (5; e.g. 2 Chr 20:9, 2 Chr 33:12). |
 | sunlight, sunshine | မုၢ်​တၢ်​က​ပီၤ |  | 15/15 |  |  |
 | temperance | တၢ်​ကီၤ​သူၣ်​ကီၤ​သး |  | 5/6 |  |  |
 | thigh | ကံၣ်​ဒုၣ် | OT 18/21 |  |  | Gen 24:2, 9; 32:25–32. |
@@ -417,7 +417,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | treatment | တၢ်​ကူ​စါ​ယါ​ဘျါ |  | 9/10 |  |  |
 | ventilation | က​လံၤ​ဟဲ​နုာ်​ဟး​ထီၣ် |  | 3/3 |  |  |
 | weak, weakness | တၢ်​ဂံၢ်​စၢ်​ဘါ​စၢ် |  | 32/48 | *weakness*: ဂံၢ်​စၢ်​ဘါ​စၢ် 9/12 (same word, other form) |  |
-| weary, weariness | လီၤ​ဘှံး |  | 13/18 |  |  |
+| weary, weariness | လီၤ​ဘှံး |  | 13/18 |  | Other Bible renderings (main form in 4 of 47 verses): ဘှံး​အ​သး (17; e.g. Judg 4:21, Judg 8:15); မၤ​ဘှံး (8; e.g. Prov 26:15, Eccl 12:12). |
 
 ## 5. People, roles and groups (150)
 
@@ -434,10 +434,10 @@ Karen text has zero-width spaces between syllables, following your translation i
 | bridegroom | တ​လး​မူး​ပိာ်​ခွါ | NT 12/12 |  |  |  |
 | bring forth (give birth) | ဆံး​စၢ်​န့ၢ် | NT 6/6 |  |  | NT also: ဆံး​စၢ် |
 | brother / brethren | ဒီ​ပုၢ်​ဝဲၢ် | NT 246/326; OT 484/553 | *brother(s), brethren*: same 12/15 |  |  |
-| brotherhood, brotherly, fellow men | ဒီ​ပုၢ်​ဝဲၢ် |  | ch. 1 (3×) |  |  |
+| brotherhood, brotherly, fellow men | ဒီ​ပုၢ်​ဝဲၢ် |  | ch. 1 (3×) |  | Other Bible renderings (main form in 4 of 7 verses): တၢ်​အဲၣ်​ပုၢ်​အဲၣ်​ဝဲၢ် (2; e.g. Heb 13:1, 2 Pet 1:7) 'brotherly love'. |
 | butler (cupbearer) | ပှၤ​ကွၢ်​(အ)​တၢ်​အီ | OT 8/8 |  |  | Gen 40:1–23; 41:9. |
 | captain | ခိၣ် | OT 191/208 |  |  | OT also: ပ​ဒိၣ် |
-| captain of the guard | ပှၤ​မၤ​သံ​တၢ်​တ​ဖၣ်​အ​ဒိၣ် | Gen: 6/6; OT 6/30 |  |  | Gen 37:36; 39:1; 40:3–4; 41:10, 12. Literally “chief of the executioners”. |
+| captain of the guard | ပှၤ​မၤ​သံ​တၢ်​တ​ဖၣ်​အ​ဒိၣ် | Gen: 6/6; OT 6/30 |  |  | Gen 37:36; 39:1; 40:3–4; 41:10, 12. Literally “chief of the executioners”. Other Bible renderings (main form in 6 of 31 verses): ပှၤ​ပၢၤ​တၢ်​ဖိ​အ​ခိၣ် (24; e.g. 2 Ki 25:8, 2 Ki 25:10). |
 | captains of thousands / of hundreds | ပှၤ​တ​က​ထိ​အ​ခိၣ် / ပှၤ​တ​က​ယၤ​အ​ခိၣ် | OT 14/16 |  | Num 31:14, 48 |  |
 | centurion | သုး​ဖိ​တ​က​ယၤ​အ​ခိၣ် | NT 21/21 | same 4/4 |  |  |
 | chamberlain / eunuch | ပှၤ​ဒ့​ဒံၣ် | OT 16/17 |  |  | Also used where the KJV has 'officer' (Heb. eunuch). |
@@ -446,9 +446,9 @@ Karen text has zero-width spaces between syllables, following your translation i
 | child | ဖိ​သၣ် | NT 48/55; OT 114/128 |  |  | NT also: ဖိ<br>OT also: ဖိ |
 | childless | တူာ်​ဖိ | OT 4/5 |  | Lev 20:20–21 |  |
 | children of Belial | ပှၤ​ဘ​လး​ယ​ဧၤ​လး​ဖိ | OT 14/24 (varies) |  | Deut 13:13 |  |
-| children of God | ယွၤ​အ​ဖိ​မုၢ်​ဖိ​ခွါ |  | ch. 1 (1×) |  |  |
+| children of God | ယွၤ​အ​ဖိ​မုၢ်​ဖိ​ခွါ |  | ch. 1 (1×) |  | Other Bible renderings (main form in 0 of 9 verses): ယွၤ​အ​ဖိ (9; e.g. Matt 5:9, Luke 20:36). |
 | concubine | သံၣ်​မါ | OT 34/37 |  |  |  |
-| damsel (young woman) | ဖိ​သၣ်​ပိာ်​မုၣ် | Gen 24: 6/6; OT 9/32 |  |  | Gen 24:14–61. Other OT verses vary. |
+| damsel (young woman) | ဖိ​သၣ်​ပိာ်​မုၣ် | Gen 24: 6/6; OT 9/32 |  |  | Gen 24:14–61. Other OT verses vary. Other Bible renderings (main form in 14 of 46 verses): မုၣ်​လိၣ်​ဘိ (7; e.g. Deut 22:15, Deut 22:19); ပိာ်​မုၣ် (26; e.g. Gen 34:4, Deut 22:15). |
 | daughter | ဖိ​မုၣ် | NT 30/31; OT 449/476 | *daughter(s)*: same 5/7 |  |  |
 | daughter in law | ဒဲၣ် | OT 14/14 |  | Ruth 1:6–22 |  |
 | daughter-in-law | ဒဲၣ် | OT 14/14 |  |  | Gen 11:31; 38:11–24. |
@@ -458,7 +458,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | dreamer of dreams | ပှၤ​မံ​မီၢ်​တၢ်​မံ​မီၢ် | OT 3/5 |  | Deut 13:1–5 |  |
 | duke (chief) | စ​ကီၤ | OT 17/18 |  |  | Gen 36:15–43. |
 | enemy | အ​ဒုၣ်​အ​ဒါ | NT 16/30 varies; OT 331/338 | *enemy, foe*: same 15/16 |  | NT also: ဒုၣ်​ဒါ<br>OT also: ဒုၣ် |
-| enmity | တၢ်​ထီ​ဒုၣ်​ထီ​ဒါ |  | ch. 1 (1×) |  |  |
+| enmity | တၢ်​ထီ​ဒုၣ်​ထီ​ဒါ |  | ch. 1 (1×) |  | Other Bible renderings (main form in 2 of 8 verses): တၢ်​ထီ​ဒါ (2; e.g. Rom 8:7, Jas 4:4). |
 | espoused (betrothed) | အဲၣ်​တီ | NT 4/4 |  |  |  |
 | eunuch | ပှၤ​ဒ့​ဒံၣ်​ဖိ | OT 17/27 |  |  | Isa 39:7; 56:3–4. |
 | eunuch | ပှၤ​ဒ့​ဒံၣ် | NT 6/6; OT 16/17 |  |  |  |
@@ -475,13 +475,13 @@ Karen text has zero-width spaces between syllables, following your translation i
 | free … bond | ပှၤ​သ​ဘျ့ … ပှၤ​ဘၣ်​တၢ်​စၢ​ဃာ် |  | 3/4 |  |  |
 | friend(s) | တံၤ​သ​ကိး |  | 16/18 | *friend*: same 8/8 |  |
 | garrison | ပှၤ​ပၢၤ​တၢ်​(တ​တီၤ) | OT 11/12 |  | 1 Sam 13:3–4; 14:1–15 |  |
-| generation | စိၤ | NT 30/38; OT 116/168 varies |  |  |  |
+| generation | စိၤ | NT 30/38; OT 116/168 varies |  |  | Other Bible renderings (main form in 148 of 208 verses): အ​စၢၤ​အ​သွဲၣ် (39; e.g. Gen 5:1, Gen 10:1) 'generations' (genealogy). |
 | giants | ပှၤ​နီၢ်​ဒိၣ်​ဖိ | OT 12/12 |  | Num 13:33 |  |
 | girl(s) | ပိာ်​မုၣ်​ဖိ |  | 3/4 |  |  |
 | goldsmith | ပှၤ​ပိာ်​ထူ | OT 6/6 |  |  | Isa 40:19; 41:7; 46:6. |
 | governor | ပ​ဒိၣ် | NT 20/27; OT 49/52 |  |  | OT also: ခိၣ် |
 | handmaid / maidservant | ကုၢ်​ပိာ်​မုၣ် | OT 77/77 |  |  | OT also: ကုၢ်​မုၣ်, ပိာ်​မုၣ် |
-| harlot | ပှၤ​ဃဲ​သဲ​မုၣ် | NT 6/8; OT 24/40 varies |  |  |  |
+| harlot | ပှၤ​ဃဲ​သဲ​မုၣ် | NT 6/8; OT 24/40 varies |  |  | Other Bible renderings (main form in 30 of 48 verses): မၤ​က​မၣ်​မုၣ်​က​မၣ်​ခွါ (9; e.g. Jer 2:20, Jer 3:6) 'play the harlot'. |
 | hewers of wood and drawers of water | ပှၤ​ကူာ်​သ့ၣ်​မုၣ် ဒီး ပှၤ​ဒၢၣ်​ထံ | OT 3/4 |  | Josh 9:21–27 |  |
 | home life | ဟံၣ်​ပူၤ​ဃီ​ပူၤ |  | 3/4 |  |  |
 | home(s) | ဟံၣ် |  | 44/49 |  |  |
@@ -493,9 +493,9 @@ Karen text has zero-width spaces between syllables, following your translation i
 | king | စီၤ​ပၤ | NT 107/109; OT 2030/2082 | *king(s)*: same 7/7 |  |  |
 | kinsman (redeemer, goel) | ပှၤ​(ကြၢး)​ပှ့ၤ​က့ၤ​တၢ် | OT 9/13 |  | Ruth 2:20; 3:9–13; 4:1–14 | Kinsman by blood = ဘူး​တံၢ်. |
 | labourer | ပှၤ​မၤ​တၢ်​ဖိ | NT 8/10 |  |  |  |
-| lad / child | ဖိ​သၣ် | Gen 21: 6/6; OT 8/26 |  |  | Gen 21:8–20. Other OT verses use other words (e.g. ပှၤ​ဖိၣ်​သၣ်​ခွါ). |
+| lad / child | ဖိ​သၣ် | Gen 21: 6/6; OT 8/26 |  |  | Gen 21:8–20. Other OT verses use other words (e.g. ပှၤ​ဖိၣ်​သၣ်​ခွါ). Other Bible renderings (main form in 123 of 220 verses): ဖိၣ်​သၣ်​ခွါ (19; e.g. Gen 37:2, Gen 44:22) 'lad'; ဒၢ​ထီၣ် (17; e.g. Gen 16:11, Gen 19:36) 'with child'. |
 | lame | အ​ခီၣ်​ဟး​ဂီၤ | NT 9/10; OT 13/15 |  |  |  |
-| leper | ပှၤ​ဘၣ်​တၢ်​ဆါ​အၢ | NT 7/9; OT 12/13 | *leper(s)*: same 11/11 |  | NT also: တၢ်​ဆါ​အၢ<br>OT also: တၢ်​ဆါ​အၢ |
+| leper | ပှၤ​ဘၣ်​တၢ်​ဆါ​အၢ | NT 7/9; OT 12/13 | *leper(s)*: same 11/11 |  | NT also: တၢ်​ဆါ​အၢ<br>OT also: တၢ်​ဆါ​အၢ Other Bible renderings (main form in 16 of 22 verses): ပှၤ​ဆါ​အၢ (3; e.g. 2 Chr 26:23, Matt 26:6). |
 | the LORD's anointed | ယွၤ​အ​ပှၤ​ဒိး​ဖှူ​(အ​သး) | OT 35/84 (varies) |  | 1 Sam 2:10, 35 |  |
 | magicians (of Egypt) | ပှၤ​ကွဲး​လံာ် | OT 14/14 |  |  | Same word as “scribe”. Gen 41:8, 24; Exodus 7–9. |
 | man (male, beside “woman”) | ပိာ်​ခွါ | OT 38/63 varies |  |  | OT: In verses that also mention a woman (Gen 2:22–25). For “man” as a human being, see “men (people, mankind)”. |
@@ -504,7 +504,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | merchant | ပှၤ​ကၤ​တၢ်​ဖိ | OT 30/34 |  |  |  |
 | messenger | က​လူး | OT 96/97 | *messenger(s)*: ပှၤ​စိာ်​တၢ်​က​စီၣ် 8/10 (different word) |  | OT also: ပှၤ<br>Jacob's messengers to Esau = က​လူး (Gen 32:3, 6), the same word as “angel”. |
 | midwife | ပှၤ​ကွၢ်​ပ​ဟုး | OT 6/6 |  |  | Gen 38:28; Exod 1:15–21. Gen 35:17 has ပှၤ​ကွၢ်​ဟုး. |
-| mighty men / men of valour | ပှၤ​အ​ဒိၣ်​အ​ဆူၣ် | OT 62/80 |  |  | OT also: အ​ဆူၣ် |
+| mighty men / men of valour | ပှၤ​အ​ဒိၣ်​အ​ဆူၣ် | OT 62/80 |  |  | OT also: အ​ဆူၣ် Other Bible renderings (main form in 19 of 79 verses): သုး​ဖိ​အ​ဆူၣ် (2; e.g. 1 Chr 5:24, 1 Chr 12:21); ပှၤ​ဆူၣ် (9; e.g. 2 Chr 32:3, Eccl 7:19). |
 | mistress | က​စၢ်​မုၣ် | OT 7/9 |  |  | Gen 16:4, 8, 9. |
 | mixt multitude | ပှၤ​ဃါ​ဃုာ်​ဖိ |  |  | Num 11:4 |  |
 | mother | မိၢ် | NT 79/84; OT 194/208 |  |  |  |
@@ -514,9 +514,9 @@ Karen text has zero-width spaces between syllables, following your translation i
 | nation | က​လုာ် | NT 64/65; OT 364/373 | *nation(s)*: same 12/18 |  |  |
 | near of kin | ဘူး​အ​တံၢ် |  |  | Lev 18:6, 12–13, 17 |  |
 | observer of times (soothsayer) | ပှၤ​လၢ​အ​ဒုၣ်​တၢ်​အ​ဆၢ​က​တီၢ် | OT 1/1 |  | Deut 18:10, 14 |  |
-| officer (court official / eunuch) | ပှၤ​ဒ့​ဒံၣ်​(ဖိ) | Gen 37–40: 4/4; OT 13/59 |  |  | Gen 37:36; 39:1; 40:2, 7. |
-| officers (Israelite foremen) | ပှၤ​ကွဲး​လံာ် | Exod 5: 5/5; OT 22/48 |  |  | Exod 5:6–19. Same word as scribe and magician. |
-| others | ပှၤ​ဂၤ |  | 45/57 |  |  |
+| officer (court official / eunuch) | ပှၤ​ဒ့​ဒံၣ်​(ဖိ) | Gen 37–40: 4/4; OT 13/59 |  |  | Gen 37:36; 39:1; 40:2, 7. Other Bible renderings (main form in 13 of 71 verses): ပှၤ​ကွဲး​လံာ် (23; e.g. Exod 5:6, Exod 5:10); ပ​ဒိၣ် (19; e.g. Deut 20:9, 1 Sam 8:15). |
+| officers (Israelite foremen) | ပှၤ​ကွဲး​လံာ် | Exod 5: 5/5; OT 22/48 |  |  | Exod 5:6–19. Same word as scribe and magician. Other Bible renderings (main form in 22 of 58 verses): ပ​ဒိၣ်​ဖး​ဒိၣ် (10; e.g. 1 Ki 4:5, 1 Ki 4:7); ပှၤ​ဒ့​ဒံၣ် (7; e.g. Gen 40:2, Gen 40:7). |
+| others | ပှၤ​ဂၤ |  | 45/57 |  | Other Bible renderings (main form in 32 of 73 verses): အ​ဂၤ (25; e.g. Job 8:19, Dan 7:19); တ​နီၤ​နီၤ (14; e.g. Matt 16:14, Matt 21:8) 'some … others'. |
 | parents | အ​မိၢ်​အ​ပၢ် | NT 20/20 | မိၢ်​ပၢ် 10/10 (same word, other form) |  | NT also: မိၢ် |
 | pastor(s) | ပှၤ​ကွၢ်​သိ | OT 7/8 |  | Jer 23:1 | lit. shepherd |
 | physician | က​သံၣ်​သ​ရၣ် | NT 7/7; OT 4/4 | *physician(s)*: same 61/62 |  |  |
@@ -527,13 +527,13 @@ Karen text has zero-width spaces between syllables, following your translation i
 | poverty | တၢ်​ဖှီၣ်​တၢ်​ယာ် |  | 10/14 |  |  |
 | the Preacher | ပှၤ​စံၣ်​တဲၤ​တဲ​လီၤ​တၢ် | OT 7/7 |  | Eccl 1:1 |  |
 | prince | ပ​ဒိၣ် | OT 331/339 |  |  | OT also: ပှၤ |
-| prisoners | ပှၤ​ဃိာ်​ဖိ | OT 8/15 |  |  | Gen 39:20, 22. |
-| prudent (man) | ပှၤ​(လၢ​အ)​ကူၣ်​တၢ်​ဘၣ် | OT 10/21 |  | Prov 12:16 |  |
+| prisoners | ပှၤ​ဃိာ်​ဖိ | OT 8/15 |  |  | Gen 39:20, 22. Other Bible renderings (main form in 10 of 20 verses): ဘၣ်​စၢ​ဃာ် (4; e.g. Isa 10:4, Acts 27:1). |
+| prudent (man) | ပှၤ​(လၢ​အ)​ကူၣ်​တၢ်​ဘၣ် | OT 10/21 |  | Prov 12:16 | Other Bible renderings (main form in 8 of 24 verses): သူၣ်​ဆး (7; e.g. 1 Sam 16:18, Isa 5:21). |
 | queen | နီၢ်​ပၤ​မုၣ် | OT 46/48 |  |  |  |
 | recorder | ပှၤ​ကွဲး​နီၣ်​တၢ် | OT 9/9 |  |  |  |
 | revenger / avenger of blood | ပှၤ​မၤ​ကၣ်​တၢ်​သွံၣ် | OT 12/15 |  | Num 35:12–27 |  |
 | rich | အ​ထူး​အ​တီၤ | NT 37/39; OT 40/41 | *rich, riches*: (ပှၤ)ထူး(ပှၤ)တီၤ 13/17 (same word, other form) |  | NT also: ထူး<br>OT also: ထူး |
-| ruler / magistrate | ပ​ဒိၣ် | NT 31/51 varies; OT 76/114 varies | *ruler(s)*: ပှၤ​ပၢ​ထံ​အီၣ်​ကီၢ် 3/5 (different word) |  | OT also: ပှၤ​ပၢ |
+| ruler / magistrate | ပ​ဒိၣ် | NT 31/51 varies; OT 76/114 varies | *ruler(s)*: ပှၤ​ပၢ​ထံ​အီၣ်​ကီၢ် 3/5 (different word) |  | OT also: ပှၤ​ပၢ Other Bible renderings (main form in 89 of 169 verses): ပှၤ​ပၢ (19; e.g. Gen 45:8, Judg 15:11); ဘူၣ်​ဘျီၣ်​အ​ခိၣ် (10; e.g. Mark 5:22, Mark 5:35) 'ruler of the synagogue'. |
 | scorner | ပှၤ​မၤ​တ​ရီ​တ​ပါ​တၢ် | OT 6/16 |  | Prov 9:7 | also ပှၤ​ဒုၣ်​ဒွဲၣ်​တၢ် (9:7) |
 | servant | ကုၢ် | NT 135/144; OT 713/743 |  |  | NT also: အ​ခ့​အ​ပှၤ, ခ့<br>OT also: အ​ခ့​အ​ပှၤ, ခ့ |
 | shepherd | ပှၤ​ကွၢ်​သိ | NT 15/17; OT 51/57 | same 4/4 |  |  |
@@ -543,7 +543,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | sister | ဒီ​ပုၢ်​ဝဲၢ်​မုၣ် | NT 22/25; OT 86/99 |  |  |  |
 | sluggard / slothful (man) | ပှၤ​(အ)​ကၢၣ် | OT 14/14 (slothful) |  | Prov 6:6 | sluggard OT 3/6 |
 | society, community | ပှၤ​တ​ဝၢ |  | 16/19 |  |  |
-| sojourner | ပှၤ​တ​မှံၤ | OT 5/7 |  | Lev 25:23, 35, 40, 47 | stranger = ပှၤ​တ​ခီ​ဘီ​မုၢ်​ဖိ |
+| sojourner | ပှၤ​တ​မှံၤ | OT 5/7 |  | Lev 25:23, 35, 40, 47 | stranger = ပှၤ​တ​ခီ​ဘီ​မုၢ်​ဖိ Other Bible renderings (main form in 7 of 10 verses): ပှၤ​တ​ခီ​ဘီ​မုၢ်​ဖိ (3; e.g. Lev 22:10, Num 35:15). |
 | soldier | ပှၤ​သုး​ဖိ | NT 21/27; OT 3/5 varies | *soldiers*: same 3/3 |  |  |
 | son | ဖိ​ခွါ | NT 326/363; OT 2151/2292 | *son(s)*: same 21/26 |  |  |
 | son in law | (အ)​မာ် | OT 13/13 |  | 1 Sam 18:18–27 |  |
@@ -560,9 +560,9 @@ Karen text has zero-width spaces between syllables, following your translation i
 | true men | ပှၤ​အ​တီ | OT 4/5 |  |  | Gen 42:11, 19, 31–34. |
 | uncle (father's brother) | (အ)​ဖါ​တံၢ် | OT 14/15 |  | 1 Sam 10:14–16 |  |
 | virgin | မုၣ်​က​နီၤ *(NT)*<br>မုၣ်​လိၣ်​ဘိ *(OT)* | NT 13/13; OT 42/42 |  |  | NT: NT = မုၣ်​က​နီၤ. The OT uses မုၣ်​လိၣ်​ဘိ.<br>OT also: မုၣ်​က​နီၤ<br>OT: OT = မုၣ်​လိၣ်​ဘိ. The NT uses မုၣ်​က​နီၤ. |
-| watchman | ပှၤ​ပၢၤ​တၢ်​ဖိ | OT 17/28 (varies) |  | Jer 6:17 |  |
-| wealth | တၢ်​ထူး​တၢ်​တီၤ |  | 8/11 |  |  |
-| whore | ပှၤ​ဃဲ​သဲ​မုၣ် | OT 11/56 |  | Prov 23:27 | see also harlot |
+| watchman | ပှၤ​ပၢၤ​တၢ်​ဖိ | OT 17/28 (varies) |  | Jer 6:17 | Other Bible renderings (main form in 11 of 16 verses): ပှၤ​ခိး​တၢ် (4; e.g. Isa 21:6, Isa 21:11). |
+| wealth | တၢ်​ထူး​တၢ်​တီၤ |  | 8/11 |  | Other Bible renderings (main form in 8 of 30 verses): စု​လီၢ်​ခီၣ်​ခိၣ် (1; e.g. Prov 13:11); အ​ထူး​အ​တီၤ (3; e.g. Ruth 2:1, 2 Ki 15:20). |
+| whore | ပှၤ​ဃဲ​သဲ​မုၣ် | OT 11/56 |  | Prov 23:27 | see also harlot Other Bible renderings (main form in 9 of 17 verses): မၤ​က​မၣ်​မုၣ်​က​မၣ်​ခွါ (3; e.g. Lev 21:9, Deut 22:21) 'play the whore'. |
 | widow | မုၣ်​က​မဲ | NT 22/25; OT 51/53 | same 4/5 |  |  |
 | wife | မါ | NT 76/87; OT 387/393 |  |  |  |
 | wise (man) | ကူၣ်​တၢ်​သ့ | OT 158/183 |  |  | OT also: ကူၣ်​သ့ |
@@ -570,9 +570,9 @@ Karen text has zero-width spaces between syllables, following your translation i
 | with child (pregnant) | အ​ဟုး​အ​သး *(NT)*<br>ဒၢ​ထီၣ် *(OT)* | NT 5/8 varies; OT 16/17 |  |  | NT also: ဟုး<br>OT also: အ​ဒၢ, ဟုး |
 | woman | ပိာ်​မုၣ် | NT 127/142; OT 326/366 | same 25/26 |  |  |
 | woman of Samaria | ပှၤ​ၡၤ​မ​ရံ​မုၣ် |  | ch. 1 (2×) |  |  |
-| younger (sister / brother) | (အ)​ပုၢ် | OT 15/22 varies |  |  | OT also: သ​ဒါ (youngest). Gen 19:31–38. |
+| younger (sister / brother) | (အ)​ပုၢ် | OT 15/22 varies |  |  | OT also: သ​ဒါ (youngest). Gen 19:31–38. Other Bible renderings (main form in 14 of 31 verses): အ​ဆံး (8; e.g. Gen 25:23, Gen 29:16). |
 | youngest (brother) | (ပုၢ်)​သ​ဒါ | OT 16/18 |  |  | Gen 42:13–34. OT also: အ​ဆံး (6). |
-| youth | သး​စၢ် |  | 7/9 |  |  |
+| youth | သး​စၢ် |  | 7/9 |  | Other Bible renderings (main form in 9 of 68 verses): ဖိၣ်​သၣ်​ခွါ​ထီၣ် (32; e.g. Gen 8:21, Gen 46:34) 'from (my) youth'. |
 
 ## 6. Places and directions (43)
 
@@ -589,19 +589,19 @@ Karen text has zero-width spaces between syllables, following your translation i
 | door | တြဲၤ *(NT)*<br>ကျဲ​စၢၤ *(OT)* | NT 21/38 varies; OT 192/198 |  |  | OT also: တြဲၤ<br>OT: Tabernacle door = ကျဲ​စၢၤ. House door = တြဲၤ. |
 | east | မုၢ်​ထီၣ် | NT 9/9; OT 136/139 |  |  |  |
 | fenced city | ဝ့ၢ်​အိၣ်​ဒီး​အ​ခိၣ်​ဒူ | OT 27/35 |  |  |  |
-| field | ပှၢ်​လၢ်​ကျါ | OT 142/252 varies |  |  | OT also: ပျီ (Gen 2:5 “herb of the field” = ပျီ​ပူၤ)<br>Gen 23 (a plot of land, Ephron's field) = ဟီၣ်​ခိၣ်​တ​က​ဝီၤ. |
+| field | ပှၢ်​လၢ်​ကျါ | OT 142/252 varies |  |  | OT also: ပျီ (Gen 2:5 “herb of the field” = ပျီ​ပူၤ)<br>Gen 23 (a plot of land, Ephron's field) = ဟီၣ်​ခိၣ်​တ​က​ဝီၤ. Other Bible renderings (main form in 93 of 330 verses): ဟီၣ်​ခိၣ်​အ​က​ဝီၤ (46; e.g. Gen 50:13, Josh 21:12); တၢ်​ပျီ​ပူၤ (35; e.g. Gen 3:18, Gen 4:8); စံာ်​ပူၤ (27; e.g. Gen 37:7, Exod 1:14). |
 | fish gate | ပဲ​တ​ရီ​ညၣ် | OT 3/4 |  |  | 2 Chr 33:14 has ညၣ်​အ​ပဲ​တ​ရီ. |
 | garden | တၤ​သၣ်​အ​လီၢ် | OT 49/54 |  |  |  |
 | gate | ပဲ​တ​ရီ | OT 274/321 |  |  |  |
-| grave (Sheol) | ပျုၤ | OT 29/60 varies |  |  | Gen 37:35. OT also: သွၣ်​ခိၣ် (21/60) for a burial place. |
+| grave (Sheol) | ပျုၤ | OT 29/60 varies |  |  | Gen 37:35. OT also: သွၣ်​ခိၣ် (21/60) for a burial place. Other Bible renderings (main form in 31 of 91 verses): သွၣ်​ခိၣ် (43; e.g. Gen 35:20, Exod 14:11) 'grave (burial place)'. |
 | house | ဟံၣ် | NT 187/194; OT 1593/1631 |  |  |  |
-| isles / far country | ထံ​ယံၤ​ကီၢ်​ယံၤ | OT 12/38 |  |  | Isaiah also uses ကီး for "isles". |
+| isles / far country | ထံ​ယံၤ​ကီၢ်​ယံၤ | OT 12/38 |  |  | Isaiah also uses ကီး for "isles". Other Bible renderings (main form in 13 of 44 verses): ကီး​တ​ဖၣ် (9; e.g. Ps 72:10, Isa 24:15); ပီၣ်​လဲၣ်​နံၤ (10; e.g. Isa 66:19, Jer 2:10). |
 | mountain | က​စၢၢ် | NT 40/41; OT 252/253 | *mountain(s)*: same 14/14 |  |  |
 | north | က​လံၤ​စိး | NT 3/3; OT 122/122 |  |  |  |
-| pit | တၢ်​ပူၤ | OT 58/74 |  |  | Gen 37:20–29.<br>Num 16:30, 33 (the earth swallowing Korah) = ပျုၤ (OT 8×) |
-| plain | ပျီ | OT 55/75 |  |  | OT also: သ့​ထိး​ဖၣ် (oaks) in “plain of Mamre / Moreh” (Gen 12:6; 13:18; 14:13). |
+| pit | တၢ်​ပူၤ | OT 58/74 |  |  | Gen 37:20–29.<br>Num 16:30, 33 (the earth swallowing Korah) = ပျုၤ (OT 8×) Other Bible renderings (main form in 65 of 90 verses): တၢ်​ယိာ် (6; e.g. Isa 14:15, Rev 9:11); ပျုၤ​ပူၤ (5; e.g. Num 16:30, Num 16:33). |
+| plain | ပျီ | OT 55/75 |  |  | OT also: သ့​ထိး​ဖၣ် (oaks) in “plain of Mamre / Moreh” (Gen 12:6; 13:18; 14:13). Other Bible renderings (main form in 72 of 102 verses): သ့​ထိး​ဖၣ် (7; e.g. Gen 12:6, Gen 13:18) 'plain' (KJV), Heb. oak; တၢ်​ပၢၤ​ခိၣ် (5; e.g. Josh 11:2, Josh 11:16). |
 | prison | ဃိာ် | NT 40/42; OT 38/42 |  |  |  |
-| Red sea | ပီၣ်​လဲၣ်​ဂီၤ | OT 13/26 varies |  |  | Exod 10:19.<br>OT also ပီၣ်​လဲၣ်​ဆှဲ (10×), e.g. Deut 1:40; Deut 1:1 has စူး (Zuph, margin) |
+| Red sea | ပီၣ်​လဲၣ်​ဂီၤ | OT 13/26 varies |  |  | Exod 10:19.<br>OT also ပီၣ်​လဲၣ်​ဆှဲ (10×), e.g. Deut 1:40; Deut 1:1 has စူး (Zuph, margin) Other Bible renderings (main form in 15 of 28 verses): ပီၣ်​လဲၣ်​ဆှဲ (10; e.g. Deut 1:40, Josh 2:10). |
 | river | ထံ​မိၢ်​ပှၢ် | OT 202/208 |  |  | OT also: ထံ<br>Gen 2:10–14: ထံ​ကျိ; rivers are counted with ကျိ (ထံ​လွံၢ်​ကျိ = four rivers). |
 | salt sea (Dead Sea) | ပီၣ်​လဲၣ်​အံ​သၣ် | OT 9/9 |  | Num 34:3, 12 |  |
 | sea | ပီၣ်​လဲၣ် | NT 86/88; OT 258/264 | same 10/12 |  |  |
@@ -612,7 +612,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | store cities | ဝ့ၢ်​ပာ်​ဖှိၣ်​တၢ် | OT 3/3 |  |  |  |
 | suburbs | တၢ်​အီၣ်​ဆၣ်​အ​လီၢ် | OT 62/69 |  |  |  |
 | tower | တၢး | OT 46/56 |  |  |  |
-| valley | က​စၢၢ်​က​ဆူး | OT 122/153 |  |  | OT also: က​ဆူး |
+| valley | က​စၢၢ်​က​ဆူး | OT 122/153 |  |  | OT also: က​ဆူး Other Bible renderings (main form in 122 of 163 verses): တၢ်​ပၢၤ​ခိၣ် (11; e.g. Gen 14:17, Judg 1:19); တၢ်​ပျီ​ပူၤ (7; e.g. Num 24:6, Judg 1:9). |
 | village | သ​ဝီ | NT 17/17; OT 58/61 | *village(s)*: same 4/5 |  | OT also: တ​ဝီ |
 | vineyard | စ​ပံး | NT 20/22; OT 37/37 |  |  |  |
 | walled city | ဝ့ၢ်​အိၣ်​ဒီး​အ​ခိၣ်​ဒူ |  |  | Lev 25:29–30 |  |
@@ -626,7 +626,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 
 | English | Karen — use this | Bible evidence | MH | STC draft | Notes |
 |---|---|---|---|---|---|
-| (clay) vessel, pot | သ​ပၢၤ | OT 25 |  | Jer 18:4 | other vessels use other words |
+| (clay) vessel, pot | သ​ပၢၤ | OT 25 |  | Jer 18:4 | other vessels use other words Other Bible renderings (main form in 63 of 217 verses): အ​ဃၢၤ​အ​ဃိၢ် (49; e.g. 1 Ki 15:15, 2 Ki 7:15); လီ​ခီ (36; e.g. Exod 16:33, Exod 30:27); တၢ်​ဖိ​တၢ်​လံၤ (33; e.g. Exod 25:39, Exod 27:19). |
 | (under every) green tree | သ့ၣ်​သံ​က​စဲာ် | OT 12/13 |  | Deut 12:2 |  |
 | almonds | ၡၤ​ကး​သၣ် |  |  | Num 17:8 |  |
 | ashes | ဖၣ်​ဆါ | OT 37/38 |  |  |  |
@@ -642,21 +642,21 @@ Karen text has zero-width spaces between syllables, following your translation i
 | blue | တၢ်​လါ | OT 38/49 |  |  |  |
 | boards (of the tabernacle) | သ့ၣ်​ဘ့ၣ်​ဘၣ် | OT 36/40 |  |  | Exod 26:15–29; 36. |
 | book | လံာ် | NT 37/37; OT 137/138 |  |  |  |
-| bow (rainbow; also weapon) | ချံၣ် | OT 51/88 varies |  |  | Gen 9:13, 14, 16 (rainbow in the cloud). |
+| bow (rainbow; also weapon) | ချံၣ် | OT 51/88 varies |  |  | Gen 9:13, 14, 16 (rainbow in the cloud). Other Bible renderings (main form in 65 of 193 verses): လီၤ​က​ဒွံ​ကျိာ် (30; e.g. Gen 18:2, Gen 19:1) 'bow down'; ဆုး​လီၤ (26; e.g. Gen 24:26, Gen 24:48) 'bow (the head)'. |
 | bramble | မး​တီၢ်​အၤ​တၤ | OT 2/2 |  | Judg 9:14–15 | Jotham's parable. |
 | brass | တိၢ် | OT 106/107 |  |  |  |
 | bread | ကိၣ် | NT 67/75; OT 205/255 |  |  |  |
-| breast (wave breast) | သး​နါ​ပှၢ် | OT 11/14 |  | Lev 7:30–34 |  |
+| breast (wave breast) | သး​နါ​ပှၢ် | OT 11/14 |  | Lev 7:30–34 | Other Bible renderings (main form in 20 of 44 verses): အ​နုၢ် (11; e.g. Job 24:9, Ps 22:9) 'breasts (female)'. |
 | breeches | တၢ်​ဖျီၣ်​ခံ | OT 5/5 |  | Exod 28:42 |  |
 | brick | အူး​ခဲ | OT 10/10 |  |  | Gen 11:3; Exod 1:14; 5:7–19. |
-| buckler | က​တီၤ​ဖး​ဒိၣ် | OT 8/17 |  | Ps 35:2 | other verses just က​တီၤ |
+| buckler | က​တီၤ​ဖး​ဒိၣ် | OT 8/17 |  | Ps 35:2 | other verses just က​တီၤ Other Bible renderings (main form in 8 of 17 verses): က​တီၤ (9; e.g. 2 Sam 22:31, 1 Chr 5:18). |
 | bullock / bull | ဂီၤ​ဖံး​ဖါ | OT 143/146 |  |  | OT also: ဂီၤ​ဖံး |
 | calf | ဂီၤ​ဖံး​ဖိ | OT 24/25 |  |  | Exod 32:4–35 (the golden calf). |
 | camel | ကီၤ​လၤ​အူး | OT 52/53 |  |  |  |
 | carcase | စိၣ် | OT 25/27 |  | Lev 5:2 |  |
 | cattle | ဆၣ်​ဖိ​ကီၢ်​ဖိ | OT 116/131 |  |  | OT also: ဆၣ်, ဂီၤ<br>When cattle and beasts are both listed: cattle = ဆၣ်​ဖိ​ကီၢ်​ဖိ​အ​ဒၢ (tame), beast = ဆၣ်​ဖိ​ကီၢ်​ဖိ​အ​မံၤ (wild) (Gen 7:14, 21). |
 | cedar | သ့ၣ်​ဆှိ​အ့​ရ့း | OT 62/71 |  |  |  |
-| chain | ထး​သွဲ | NT 9/11; OT 28/36 | *chains*: ပျံၤ​ထး 4/6 (different word) |  | OT also: သွဲ |
+| chain | ထး​သွဲ | NT 9/11; OT 28/36 | *chains*: ပျံၤ​ထး 4/6 (different word) |  | OT also: သွဲ Other Bible renderings (main form in 15 of 49 verses): သွဲ​ထူ (10; e.g. Gen 41:42, Exod 28:14) 'gold chain'; ပျံၤ​သွဲ (7; e.g. 1 Ki 6:21, 1 Ki 7:17). |
 | chains | သွဲ | OT 22/28 |  | Exod 28:14; 39:15 |  |
 | charger (platter) | သီ​တ့ၤ | OT 13/13 |  | Num 7:13–85 |  |
 | chariot | လ့ၣ်​က​ဟၣ် | OT 142/148 |  |  | Also “wagon” (Gen 45:19–27; 46:5) = လ့ၣ်​က​ဟၣ် (OT 9/9). |
@@ -665,7 +665,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | coat of many colours | ဆ့​ဖး​ထီ​(အိၣ်​ဒီး​အ​စု) | OT 3/3 |  |  | Gen 37:3, 23, 32. Literally “long robe with sleeves”. |
 | copy (of a letter) | လံာ်​ကွဲး​ဆဲ | OT 7/9 |  |  |  |
 | creeping thing | တၢ်​အ​စွါ​အ​စွဲ | OT 13/14 |  |  | Gen 6:7, 20; 7:8, 14, 21, 23. |
-| crown | ခိၣ်​သ​လုး | NT 21/21; OT 38/54 |  |  |  |
+| crown | ခိၣ်​သ​လုး | NT 21/21; OT 38/54 |  |  | Other Bible renderings (main form in 64 of 83 verses): ခိၣ်​ကျီၤ (9; e.g. Exod 25:11, Exod 25:24) 'crown' (rim of the ark, table). |
 | cubit | တ​ပျၢ် | OT 136/137 |  |  | OT also: ပျၢ် |
 | cup | လီ​ခီ | NT 28/28; OT 24/31 |  |  | Joseph's silver cup (Gen 44:2–17) = သ​လူ (OT 4/31). |
 | curtain | ယၣ် | OT 33/34 |  |  |  |
@@ -675,13 +675,13 @@ Karen text has zero-width spaces between syllables, following your translation i
 | dog | ထွံၣ် | NT 9/9; OT 31/31 |  |  |  |
 | dough | ကိၣ်​သံ​က​စဲာ် | OT 6/10 |  | Num 15:20–21 |  |
 | dove | ထိၣ်​လွံၢ် | NT 9/9; OT 22/22 |  |  |  |
-| dragon(s) | ပ​ယိၤ | OT 8/23 |  | Ps 74:13 | other verses vary (e.g. ထွံၣ်​ဟီၣ်​ခိၣ် "jackals" Ps 44:19) |
+| dragon(s) | ပ​ယိၤ | OT 8/23 |  | Ps 74:13 | other verses vary (e.g. ထွံၣ်​ဟီၣ်​ခိၣ် "jackals" Ps 44:19) Other Bible renderings (main form in 19 of 35 verses): ထွံၣ်​ဟီၣ်​ခိၣ် (11; e.g. Job 30:29, Ps 44:19) 'dragons' (Heb. jackals). |
 | dram (coin) | ဒၤ​ရံး | OT 6/6 |  |  |  |
 | dream | တၢ်​မံ​မီၢ် | NT 7/7; OT 67/72 |  |  |  |
 | dust | ဟီၣ်​ခိၣ်​က​မူၣ် |  | 7/7 |  |  |
-| eagle | လံာ်​ဧိၤ​တြၤ​ဧိၤ | OT 8/30 |  |  | Isa 40:31; other books use other forms. |
-| eagle | လံာ်​ကြီ | OT 18/23 |  | Lev 11:13 | Also လံာ်​ကြီ​ကြၣ် (Lev 11:13; Deut 28:49; Dan 7:4). |
-| ear | နၢ် | NT 44/49; OT 158/207 |  |  |  |
+| eagle | လံာ်​ဧိၤ​တြၤ​ဧိၤ | OT 8/30 |  |  | Isa 40:31; other books use other forms. Other Bible renderings (main form in 8 of 34 verses): လံာ်​ကြီ​ကြာ် (17; e.g. Exod 19:4, Deut 14:12). |
+| eagle | လံာ်​ကြီ | OT 18/23 |  | Lev 11:13 | Also လံာ်​ကြီ​ကြၣ် (Lev 11:13; Deut 28:49; Dan 7:4). Other Bible renderings (main form in 20 of 34 verses): လံာ်​ဧိၤ​တြၤ​ဧိၤ (8; e.g. 2 Sam 1:23, Ps 103:5). |
+| ear | နၢ် | NT 44/49; OT 158/207 |  |  | Other Bible renderings (main form in 210 of 272 verses): အ​စဲၤ (14; e.g. Gen 41:5, Gen 41:6) 'ear (of grain)'; ဒိ​က​နၣ် (24; e.g. Deut 32:1, Judg 5:3) 'give ear'. |
 | ears (of corn) | ဘု​စဲၤ | Gen 41: 8/8 |  |  | Gen 41:5–27. |
 | earthquake | ဟီၣ်​ခိၣ်​ဟူး​ဝး | NT 8/11; OT 4/5 |  |  |  |
 | east wind | က​လံၤ​မုၢ်​ထီၣ် | OT 12/19 |  |  | Gen 41:6, 23, 27. |
@@ -698,7 +698,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | first rain / latter rain | တၢ်​စူၤ​လၢ​အ​ဒုး​မဲ​ထီၣ်​တၢ် / တၢ်​စူၤ​လၢ​အ​ဒုး​သၣ်​ထီၣ်​တၢ် |  |  | Deut 11:14 |  |
 | fleece | သိ​အ​ဆူၣ်​တ​လိၣ် | OT 6/6 |  | Judg 6:37–40 |  |
 | flock | သိ | OT 158/164 |  |  | Mixed flocks are often “sheep and goats” = သိ​ဒီး​မဲာ်​တဲး​လဲး (62 verses; Gen 29:2–10). |
-| flood (Noah's) | ထံ​လုၣ်​ဘၢ​တၢ် | OT 14/32 |  |  | Used for Noah's flood (Gen 6–11). Most other OT “flood” verses mean a river. |
+| flood (Noah's) | ထံ​လုၣ်​ဘၢ​တၢ် | OT 14/32 |  |  | Used for Noah's flood (Gen 6–11). Most other OT “flood” verses mean a river. Other Bible renderings (main form in 16 of 56 verses): ထံ​ကျိ (14; e.g. 2 Sam 22:5, Job 14:11); ထံ​မိၢ်​ပှၢ် (12; e.g. Josh 24:2, Josh 24:3) 'flood' (river). |
 | flour | ကိၣ်​က​မူၣ် | OT 49/56 |  |  |  |
 | foot / feet | ခီၣ် | NT 79/84; OT 233/242 |  |  |  |
 | foreskin | (တၢ်)​အ​ခိၣ်​ဖံး | OT 6/9 |  |  | Gen 17:11–25. |
@@ -709,13 +709,13 @@ Karen text has zero-width spaces between syllables, following your translation i
 | frogs | ဒ့ၣ်​ဧိၤ​ကွီၣ်​ဧိၤ | OT 11/13 |  |  | Exod 8:2–13. |
 | fruit | တၤ​သၣ် | NT 69/71; OT 145/150 | *fruit(s)*: same 8/11 |  | NT also: သၣ်<br>OT also: သၣ် |
 | gallows | သ့ၣ်​တ​ကျီၣ် | OT 5/7 |  |  | Esth 5:14 has တ​ကျီာ် (section 16). |
-| garment / raiment / clothes | အ​ကူ​အ​သိး | NT 58/75; OT 163/243 varies | *clothing, clothes*: same 12/17<br>*garment(s)*: same 6/10 |  | NT also: တၢ်​ကူ​တၢ်​သိး, ကူ<br>OT also: တၢ်​ကူ​တၢ်​သိး, ကူ |
+| garment / raiment / clothes | အ​ကူ​အ​သိး | NT 58/75; OT 163/243 varies | *clothing, clothes*: same 12/17<br>*garment(s)*: same 6/10 |  | NT also: တၢ်​ကူ​တၢ်​သိး, ကူ<br>OT also: တၢ်​ကူ​တၢ်​သိး, ကူ Other Bible renderings (main form in 165 of 324 verses): အ​ဆ့ (37; e.g. Gen 49:11, Lev 6:10) 'coat, garment'; အ​ယၣ် (24; e.g. Gen 37:29, Gen 37:34); တၢ်​ကူ​တၢ်​သိး (16; e.g. Gen 28:20, Exod 3:22). |
 | girdle | ယီၢ်​တ​ကိး | OT 34/35 |  |  | OT also: ယီၢ် |
 | goat | မဲာ်​တဲး​လဲး | OT 119/121 |  |  |  |
 | gold | ထူ | NT 25/25; OT 333/336 |  |  |  |
-| goods / substance | တၢ်​ဖိ​တၢ်​လံၤ | OT *goods* 18/26; OT *substance* 22/48 varies |  |  | Gen 13:6; 14:11–21. |
+| goods / substance | တၢ်​ဖိ​တၢ်​လံၤ | OT *goods* 18/26; OT *substance* 22/48 varies |  |  | Gen 13:6; 14:11–21. Other Bible renderings (main form in 46 of 92 verses): စု​လီၢ်​ခီၣ်​ခိၣ် (5; e.g. Gen 36:6, Eccl 5:11). |
 | grasshopper | ဒွဲၣ် | OT 7/7 |  | Num 13:33 | locust also ဒွဲၣ် |
-| green | လါ​ဟ့ |  | 3/4 |  |  |
+| green | လါ​ဟ့ |  | 3/4 |  | Other Bible renderings (main form in 2 of 44 verses): သံ​က​စဲာ် (37; e.g. Gen 9:3, Gen 30:37) 'green' (fresh, growing). |
 | ground | ဟီၣ်​ခိၣ် | OT 139/163 |  |  | Same word as “earth”. |
 | habergeon / coat of mail | သ​ဃိး | OT 4/5 |  |  | Same word as 'harness'. |
 | hail | သူၣ် | OT 25/25 |  |  | Exod 9:18–34; 10:5–15. |
@@ -723,12 +723,12 @@ Karen text has zero-width spaces between syllables, following your translation i
 | hand | စု | NT 225/251; OT 1416/1459 |  |  |  |
 | hangings (of the court) | ယၣ်​လီၤ​စဲၤ | OT 16/18 |  |  | Exod 27:9–18. |
 | harp | တ​နၢ် | OT 45/45 |  |  | OT also: သီ​တူၢ် |
-| hart | တၤ​ယုၢ် | OT 4/9 (varies) |  | Deut 12:15, 22 |  |
+| hart | တၤ​ယုၢ် | OT 4/9 (varies) |  | Deut 12:15, 22 | Other Bible renderings (main form in 5 of 11 verses): တၤ​ဟိ (6; e.g. Ps 42:1, Song 2:9). |
 | head | ခိၣ် | NT 54/54; OT 267/280 |  |  |  |
 | heap (of stones) | တၢ်​ပူ | OT 29/39 |  |  | Gen 31:46–52. |
 | helmet | ခိၣ်​ကုာ်​သုး | OT 6/8 |  |  |  |
 | herd | ဂီၤ | OT 45/46 |  |  |  |
-| hill(s) | တၢ်​လူၢ် |  | 6/8 |  | Bible: က​စၢၢ် (OT 105/137). |
+| hill(s) | တၢ်​လူၢ် |  | 6/8 |  | Bible: က​စၢၢ် (OT 105/137). Other Bible renderings (main form in 0 of 146 verses): က​စၢၢ် (112; e.g. Gen 7:19, Gen 49:26); တၢ်​စိ​ခိၣ် (68; e.g. Gen 49:26, Exod 17:9). |
 | honey | က​နဲ​စီ | OT 52/52 |  |  |  |
 | hornet | ဖျၢ​ဧိၤ​ဖျါ​ဧိၤ | OT 2/2 |  | Exod 23:28; Josh 24:12 |  |
 | hornets | ဖျၢ​ဧိၤ​ဖျါ​ဧိၤ | OT 3/3 |  |  | Exod 23:28. |
@@ -738,7 +738,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | inwards | ပှံာ် | OT 16/16 |  | Lev 1:9 | “fat that covereth the inwards” = သိ​လၢ​အ​ပှံာ်​သ​လီ​အ​လိၤ |
 | iron | ထး | OT 79/82 |  |  |  |
 | ivory | က​ဆီ​မဲ | OT 12/12 |  |  |  |
-| javelin | ဘီ​ဖိ | OT 4/6 |  | 1 Sam 18:10–11; 19:9–10 |  |
+| javelin | ဘီ​ဖိ | OT 4/6 |  | 1 Sam 18:10–11; 19:9–10 | Other Bible renderings (main form in 4 of 6 verses): ဘီ​တ​ဘ့ၣ် (2; e.g. Num 25:7, 1 Sam 20:33). |
 | jawbone | ခၣ်​ဃံ | OT 3/3 |  | Judg 15:15–17 |  |
 | juniper tree | သ့ၣ်​ပ​ထိး​သ့ၣ်​ရီ​သ့ၣ် | OT 4/4 |  | 1 Kgs 19:4–5 |  |
 | key | နီၣ်​ဝံာ် | NT 6/6 |  |  |  |
@@ -758,7 +758,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | lily / lilies | ဖီ​ဒ့ၣ်​ညါ | OT 13/14 |  | Song 2:1 |  |
 | lion | ခ့​ယုၢ် | NT 9/9; OT 108/110 |  |  |  |
 | locust | ဒွဲၣ် (ဒွဲၣ်​ဧိၤ​တြၤ​ဧိၤ) | OT 9/9 |  | Deut 28:38, 42 |  |
-| locusts | ဒွဲၣ်​ဧိၤ​သ​ကံၤ​ဧိၤ | Exod 10: 6/6; OT 5/20 |  |  | Exod 10:4–19. Other OT verses use other words. |
+| locusts | ဒွဲၣ်​ဧိၤ​သ​ကံၤ​ဧိၤ | Exod 10: 6/6; OT 5/20 |  |  | Exod 10:4–19. Other OT verses use other words. Other Bible renderings (main form in 5 of 16 verses): ဒွဲၣ်​အၢ်​ဘၤ (4; e.g. 2 Chr 6:28, Ps 105:34); ဒွဲၣ်​ဧိၤ​တြၤ​ဧိၤ (3; e.g. Prov 30:27, Matt 3:4). |
 | loins | ယီၢ်​ဒ့ | OT 53/53 |  |  | OT also: ယီၢ် |
 | male and female (animals) | အ​မိၢ်​ဒီး​အ​ဖါ | Gen 6–7: 5/5 |  |  | Gen 6:19; 7:2, 3, 9, 16. For people, use ပိာ်​ခွါ / ပိာ်​မုၣ်. |
 | mandrakes | ဒူး​ဒး​သၣ် | OT 4/4 |  |  | Gen 30:14–16. |
@@ -772,16 +772,16 @@ Karen text has zero-width spaces between syllables, following your translation i
 | mule | က​သ့ၣ်​လၤ | OT 18/20 |  |  |  |
 | myrrh | မူ​ရၣ် | OT 11/13 |  |  | Exod 30:23. Gen 37:25 has သ့ၣ်​လိး​အ​ထုး. |
 | myrtle | သ​မ့ၤ​ဟ​ဒး | OT 5/6 |  |  | Isa 41:19; 55:13. |
-| nature, natural | န့​ဆၢၣ် |  | 50/59 | *nature (God's created works)*: တၢ်​ဘၣ်​တ့ 17/30 (different word) | STC: Literally "the things that were created". |
-| new | အ​သီ |  | 17/19 |  |  |
+| nature, natural | န့​ဆၢၣ် |  | 50/59 | *nature (God's created works)*: တၢ်​ဘၣ်​တ့ 17/30 (different word) | STC: Literally "the things that were created". Other Bible renderings (main form in 0 of 24 verses): အ​လုၢ်​အ​လၢ် (5; e.g. Rom 1:26, Rom 1:27). |
+| new | အ​သီ |  | 17/19 |  | Other Bible renderings (main form in 90 of 138 verses): လါ​ထီၣ်​သီ (20; e.g. 1 Sam 20:5, 1 Sam 20:18) 'new moon'. |
 | new life | တၢ်​အိၣ်​မူ​အ​သီ |  | 4/5 | တၢ်​မူ​အ​သီ 5/5 (different word) |  |
 | oil | သိ | OT 174/176 |  |  |  |
-| ointment | သိ​နၢ​မူ | NT 8/11 |  |  |  |
+| ointment | သိ​နၢ​မူ | NT 8/11 |  |  | Other Bible renderings (main form in 14 of 29 verses): တၢ်​နၢ​မူ (9; e.g. Exod 30:25, 2 Ki 20:13). |
 | ornaments | ကယၢ​ကယဲ | OT 9/15 (varies) |  | Exod 33:4–6 |  |
-| owl / ostrich | ထိၣ်​ကီၤ​လၤ​အူး | OT 9/15 |  |  | Isa 13:21; 34:13; 43:20. |
+| owl / ostrich | ထိၣ်​ကီၤ​လၤ​အူး | OT 9/15 |  |  | Isa 13:21; 34:13; 43:20. Other Bible renderings (main form in 10 of 16 verses): ဒိ​က​အိ (3; e.g. Lev 11:17, Deut 14:16). |
 | ox / oxen | ဂီၤ​ဖံး | OT 134/136 |  |  | OT also: ဂီၤ |
 | palm tree | သ့ၣ်​စူၣ်​ပ​လိၣ် | OT 24/29 |  |  |  |
-| palm(s) | သ့ၣ်​စူၣ်​ပၤ |  | 5/6 |  |  |
+| palm(s) | သ့ၣ်​စူၣ်​ပၤ |  | 5/6 |  | Other Bible renderings (main form in 0 of 43 verses): သ့ၣ်​စူၣ်​ပ​လိၣ် (24; e.g. Exod 15:27, Num 33:9). |
 | pearl | တၢ်​မျၢ်​ပ​လဲ | NT 8/8 |  |  |  |
 | penny | ဒၤ​နၤ​ရံ | NT 8/8 |  |  | NT also: ဒ​န့ၤ​ရံ |
 | pestilence | တၢ်​သံ​သ​တြိာ် | OT 45/46 |  |  |  |
@@ -790,7 +790,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | pins (tent pegs) | တၢ်​က​မိာ်​ခံ | OT 7/8 |  | Exod 27:19; 38:20 |  |
 | pitcher | ထံ​စဲၤ | OT 10/10 |  |  | Gen 24:14–46.<br>Judg 7:16–20 (Gideon's pitchers) = သပၢၤ. |
 | pomegranates | သ​လဲ​သၣ် | OT 19/25 |  |  | Exod 28:33–34. |
-| porch | တၢ်​ခိၣ်​ဒုး​ထီၣ်​အ​သး | OT 21/32 |  |  | OT also: ပျဲၢ်​စီၢ် (8) |
+| porch | တၢ်​ခိၣ်​ဒုး​ထီၣ်​အ​သး | OT 21/32 |  |  | OT also: ပျဲၢ်​စီၢ် (8) Other Bible renderings (main form in 23 of 37 verses): ပျဲၢ်​စီၢ် (8; e.g. 1 Ki 6:3, 1 Ki 7:6). |
 | psaltery | သီ​တူၢ် | OT 12/13 |  | 1 Sam 10:5 | Also used for "harp" sometimes. |
 | purple | လုး​တ​ကုာ် | OT 37/39 |  |  |  |
 | quails | ထိၣ်​ဘှၢၣ် | OT 4/4 |  |  | Exod 16:13. |
@@ -800,9 +800,9 @@ Karen text has zero-width spaces between syllables, following your translation i
 | right hand | စု​ထွဲ | NT 44/44; OT 109/117 |  |  |  |
 | rings | ကွီၤ | OT 31/33 |  | Exod 25:12; 37:3 |  |
 | ringstraked | ကံၣ်​တ​ပ​လူာ်​တ​ပ​လူာ် | OT 6/6 |  |  | Gen 30:35–40; 31:8–12. |
-| rods (Jacob's) | နီၣ်​ဘိ | Gen 30: 5/5; OT 4/84 |  |  | Gen 30:37–41. Other OT “rod” verses use other words. |
+| rods (Jacob's) | နီၣ်​ဘိ | Gen 30: 5/5; OT 4/84 |  |  | Gen 30:37–41. Other OT “rod” verses use other words. Other Bible renderings (main form in 4 of 13 verses): နီၣ်​ထိး​ဘိ (7; e.g. Exod 7:12, Num 17:2). |
 | roebuck | တၤ​ဟိ​စ​ဘံ | OT 4/4 |  | Deut 12:15, 22 |  |
-| roof(s) | ဟံၣ်​ခိၣ် |  | 4/4 |  |  |
+| roof(s) | ဟံၣ်​ခိၣ် |  | 4/4 |  | Other Bible renderings (main form in 12 of 20 verses): ခၣ်​ခိၣ် (4; e.g. Job 29:10, Ps 137:6) 'roof of the mouth'. |
 | running water | ထံ​မူ | OT 7/7 |  | Lev 14:5–52 |  |
 | sack | ထၢၣ် | OT 16/16 |  |  | Gen 42:25–35; 43–44. |
 | sackcloth | ထၢၣ် | OT 40/41 |  |  | Bible verses read ကူ​ထၢၣ်​တၢ်​ကံး​ညာ် (“put on sackcloth”); ကံး​ညာ် is in 40/41 sackcloth verses. |
@@ -810,13 +810,13 @@ Karen text has zero-width spaces between syllables, following your translation i
 | sapphire | တၢ်​မျၢ်​နံၤ​လါ | OT 8/8 |  |  | Exod 24:10. |
 | savoury meat | တၢ်​အီၣ်​(လၢ)​အ​ဝံၣ် | OT 6/6 |  |  | Gen 27:4–31. |
 | scales (of fish) | သ​ဒံၣ် | OT 7/8 |  | Lev 11:9–12 |  |
-| scarlet | တၢ်​ဂီၤ | OT 37/47 |  |  | Exod 25:4; 26:1, 31, 36. |
+| scarlet | တၢ်​ဂီၤ | OT 37/47 |  |  | Exod 25:4; 26:1, 31, 36. Other Bible renderings (main form in 39 of 53 verses): တၢ်​လုး​တ​ကုာ် (5; e.g. Ezek 27:7, Dan 5:7). |
 | sceptre | နီၣ်​ထိး | OT 12/12 |  |  | Golden sceptre = နီၣ်​ထိး​ထူ. |
 | scorpion | ပ​တ့ၤ​ချဲး | OT 6/6 |  | Deut 8:15 |  |
 | seal | တၢ်​စဲ​ပ​နီၣ် | NT 16/20 |  |  |  |
 | seed | ချံ | NT 48/54; OT 196/202 |  |  | “thy seed” (descendants) = န​ချံ​န​သၣ် (Gen 13:15–16; 15:3–18; 16:10). |
 | serpent | ဂုၢ် | NT 14/15; OT 32/34 |  |  |  |
-| shadow | တၢ်​က​ဒု |  | 10/12 |  |  |
+| shadow | တၢ်​က​ဒု |  | 10/12 |  | Other Bible renderings (main form in 11 of 79 verses): တၢ်​သံ​အ​က​ဒု (18; e.g. Job 3:5, Job 10:21) 'shadow of death'. |
 | sheaf | (ဘု)​က​ဒိၣ် | OT 15/15 |  |  | Gen 37:7. |
 | sheep | သိ | NT 39/39; OT 140/140 |  |  |  |
 | shekel | ၡ​က့​လး | OT 71/84 |  |  |  |
@@ -837,7 +837,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | star | ဆၣ် | NT 26/26; OT 37/37 |  |  |  |
 | stone / rock | လၢၢ် | NT 67/74; OT 312/348 | *stone*: same 4/4 |  | God as "the Rock" (Deut 32:4, 15, 18, 30–31) = လၢၢ်(တဖျၢၣ်). |
 | straw | လီၢ်​(ဧိၤ​ဒံး​ဧိၤ) | OT 15/16 |  |  | Gen 24:25, 32; Exod 5:7–18. |
-| stream(s) | ထံ​ကျိ |  | 3/3 |  |  |
+| stream(s) | ထံ​ကျိ |  | 3/3 |  | Other Bible renderings (main form in 14 of 25 verses): ထံ​မိၢ်​ပှၢ် (6; e.g. Ps 46:4, Ps 124:4). |
 | strong drink | သံး | OT 19/19 |  | Lev 10:9 | wine = စ​ပံး​ထံ |
 | sun | မုၢ် | NT 30/30; OT 120/122 |  |  |  |
 | swarms of flies | တၢ်​အ​ဖု​(တ​ဖၣ်) | OT 6/8 |  |  | Exod 8:21–31. Literally “swarms”. |
@@ -852,7 +852,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | timbrel | ဒၢ | OT 5/5 |  | Exod 15:20; Judg 11:34 | Same word as "drum". |
 | toll (tax on goods) | တၢ်​ဖိ​တၢ်​လံၤ​အ​သွဲ | OT 3/3 |  |  | Tribute = သွဲ; custom = ကျဲ​အ​သွဲ (Ezra 4:13, 20; 7:24). |
 | tongue (also: language) | ပျ့ၤ | NT 49/56; OT 95/104 |  |  | NT also: ကျိာ်<br>NT: Body part = ပျ့ၤ; "tongue" as language = ကျိာ်.<br>OT also: ကျိာ်<br>Gen 10:5, 20, 31: “after their tongues” = ဒ်​အ​တၢ်​က​တိၤ​အ​ကျိာ်​အ​သိး.<br>OT “language”: ကျိာ် 16/21, က​လုၢ် 9/21. Gen 11:1–9 (Babel) uses က​လုၢ်. |
-| treasures | တၢ်​လုၢ်​ဒိၣ်​ပှ့ၤ​ဒိၣ် | OT 21/50 |  |  | Treasury / treasure house: တၢ်​ပာ်​ဖှိၣ်​အ​လီၢ် (OT 11/13) |
+| treasures | တၢ်​လုၢ်​ဒိၣ်​ပှ့ၤ​ဒိၣ် | OT 21/50 |  |  | Treasury / treasure house: တၢ်​ပာ်​ဖှိၣ်​အ​လီၢ် (OT 11/13) Other Bible renderings (main form in 26 of 55 verses): တၢ်​ပာ်​ဖှိၣ်​အ​လီၢ် (13; e.g. 2 Ki 12:18, 2 Ki 18:15) 'treasures, treasury'. |
 | tree | သ့ၣ် | NT 35/48; OT 213/239 |  |  |  |
 | tribute / tax | သွဲ | NT 9/9 |  |  | OT 26/30, e.g. Num 31:28–41 (the LORD's tribute) |
 | trumpet | ကွဲၤ | NT 11/11; OT 90/91 |  |  | Lev 23:24 “blowing of trumpets” = တၢ်​အူ​ကွဲၤ |
@@ -877,7 +877,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | winepress | နီၣ်​စံၢ်​စ​ပံး​သၣ် |  |  | Num 18:27, 30 |  |
 | wings | အ​ဒံး​ဆ့ |  | 4/4 |  |  |
 | womb | ဒၢ​လီၢ် | OT 50/55 |  |  | OT also: ဟၢ​ဖၢ |
-| wood (for fire) | သ့ၣ်​မုၣ် | OT 30/128 (wood in general = သ့ၣ်, 119/128) |  |  | Gen 22:3–9. |
+| wood (for fire) | သ့ၣ်​မုၣ် | OT 30/128 (wood in general = သ့ၣ်, 119/128) |  |  | Gen 22:3–9. Other Bible renderings (main form in 31 of 134 verses): သ့ၣ်​ဖှ့​ၡံး​တၤ (26; e.g. Exod 25:5, Exod 25:10) 'shittim wood'; သ့ၣ်​ဧိၤ​ဝၣ်​ဧိၤ (11; e.g. Deut 4:28, Deut 28:36) 'wood' (timber, trees). |
 | woollen | သး​က​လး | OT 5/6 |  | Lev 13:47–59 | Lev 13 “linen” here = တၢ်​ကံး​ညာ် (not ဖှီ​ဝါ) |
 | wormwood | သ​ဘူး​အ​ပၤ​စံၣ်​တူး | OT 7/7 |  | Lam 3:15, 19; Jer 9:15 |  |
 | yoke | နီၣ်​ယိး | OT 42/50 |  | Jer 28:10 |  |
@@ -888,53 +888,53 @@ Karen text has zero-width spaces between syllables, following your translation i
 | English | Karen — use this | Bible evidence | MH | STC draft | Notes |
 |---|---|---|---|---|---|
 | assurance, assure | (တၢ်)အၢၣ်​လီၤ |  | ch. 1 (3×) |  |  |
-| beauty, beautiful | တၢ်​ဃံ​တၢ်​လၤ |  | 16/16 | *beauty*: same 12/16 |  |
-| burden(s) | တၢ်​ဝံ​တၢ်​ယိး, တၢ်​ဝံ​ဃၢ |  | 30/32 |  |  |
+| beauty, beautiful | တၢ်​ဃံ​တၢ်​လၤ |  | 16/16 | *beauty*: same 12/16 | Other Bible renderings (main form in 5 of 73 verses): အ​ဃံ​အ​လၤ (44; e.g. Gen 29:17, Exod 28:2). |
+| burden(s) | တၢ်​ဝံ​တၢ်​ယိး, တၢ်​ဝံ​ဃၢ |  | 30/32 |  | Other Bible renderings (main form in 25 of 92 verses): တၢ်​အ​က​လုၢ်​လီၤ (15; e.g. Isa 13:1, Isa 14:28) 'burden' (prophecy). |
 | character | လုၢ်​လၢ်​သ​ကဲး​ပ​ဝး |  | 38/42 | သ​ကဲာ်​ပ​ဝး 32/41 (different word) | STC: Not a Bible term; used consistently in the draft. |
 | cheerful | တၢ်​မဲာ်​မုာ်​နါ​ဆၢ |  | ch. 1 (2×) |  |  |
-| confusion | တၢ်​သီၣ်​တၢ်​သဲ |  | 4/5 |  |  |
-| corrupt | အၢ | OT 11/18 varies |  |  | Gen 6:11–12; also မၤ​အၢ (corrupted). |
-| courage | တၢ်​သူၣ်​ဒူ​သး​ဒူ |  | 11/18 |  |  |
+| confusion | တၢ်​သီၣ်​တၢ်​သဲ |  | 4/5 |  | Other Bible renderings (main form in 0 of 26 verses): တၢ်​မဲာ်​ဆှး (12; e.g. 1 Sam 20:30, Ezra 9:7). |
+| corrupt | အၢ | OT 11/18 varies |  |  | Gen 6:11–12; also မၤ​အၢ (corrupted). Other Bible renderings (main form in 32 of 69 verses): အုၣ်​သံ (13; e.g. Ps 16:10, Ps 38:5) 'see corruption'; မၤ​ဟး​ဂီၤ (8; e.g. Dan 11:17, Mal 2:3). |
+| courage | တၢ်​သူၣ်​ဒူ​သး​ဒူ |  | 11/18 |  | Other Bible renderings (main form in 0 of 22 verses): ပာ်​ဆူၣ် (17; e.g. Deut 31:6, Deut 31:7). |
 | danger | တၢ်​လီၤ​ပျံၤ |  | 8/11 |  |  |
 | degraded, degradation | လီၤ​ရၢၢ်(လီၤ​စၢၢ်) |  | 11/12 |  |  |
 | dependence, depend | ဒိး​သ​န့ၤ |  | 19/22 |  |  |
 | difficulty, difficulties | တၢ်​ကီ​တၢ်​ခဲ |  | 14/15 |  |  |
 | discouraged | သး(ဟး)ဂီၤ / သူၣ်​ဟး​ဂီၤ​သး​ဟး​ဂီၤ |  | ch. 1 (2×) |  |  |
-| doubt | တၢ်​သး​ဒ့​ဒီ |  | 7/8 | *doubt / unbelief*: same 17/20 |  |
-| encourage, encouragement | ဟ့ၣ်​ဂံၢ်​ဟ့ၣ်​ဘါ |  | 36/41 |  |  |
+| doubt | တၢ်​သး​ဒ့​ဒီ |  | 7/8 | *doubt / unbelief*: same 17/20 | Other Bible renderings (main form in 0 of 23 verses): သး​ဒ့​ဒီ (8; e.g. Matt 14:31, Matt 28:17). |
+| encourage, encouragement | ဟ့ၣ်​ဂံၢ်​ဟ့ၣ်​ဘါ |  | 36/41 |  | Other Bible renderings (main form in 0 of 10 verses): ဒုး​ဆူၣ်​ထီၣ် (7; e.g. Deut 1:38, Deut 3:28). |
 | greed | တၢ်​သး​ကွံ |  | 5/5 |  |  |
 | habit(s) | လုၢ်​လၢ် |  | 33/43 |  |  |
 | harmony | လီၤ​ပ​လိာ် |  | 6/10 |  |  |
 | important, importance | အ​ရ့​ဒိၣ် |  | 12/12 |  |  |
-| jealous | သး​က့ၣ် | OT 8/15 (varies) |  | Exod 34:14 |  |
+| jealous | သး​က့ၣ် | OT 8/15 (varies) |  | Exod 34:14 | Other Bible renderings (main form in 9 of 16 verses): သး​ဆူၣ် (5; e.g. 1 Ki 19:10, 1 Ki 19:14). |
 | lonely | သ​ယုၢ်​သ​ညိ |  | 4/5 |  |  |
-| meek | သး​စူၤ | OT 9/13 |  | Num 12:3 |  |
+| meek | သး​စူၤ | OT 9/13 |  | Num 12:3 | Other Bible renderings (main form in 13 of 17 verses): ပှၤ​ဖှီၣ်​ဖိ (3; e.g. Isa 11:4, Isa 61:1) 'meek' (Isaiah, Amos: the poor). |
 | misfortune | တၢ်​တ​တၢၢ်​တ​နါ |  | 3/4 |  |  |
 | perplexity | တၢ်​သ​ဘံၣ်​ဘုၣ် |  | 7/8 |  |  |
-| precious | အ​လုၢ်​ဒိၣ်​ပှ့ၤ​ဒိၣ် |  | 18/23 |  |  |
+| precious | အ​လုၢ်​ဒိၣ်​ပှ့ၤ​ဒိၣ် |  | 18/23 |  | Other Bible renderings (main form in 10 of 78 verses): တၢ်​မျၢ် (22; e.g. 2 Sam 12:30, 1 Ki 10:2) 'precious stones'. |
 | prosper | ဘီၣ်​ထီၣ်​ညီ​ထီၣ် | OT 56/88 varies | *prosperity*: တၢ်​ဘီၣ်​ထီၣ်​ညီ​ထီၣ် 3/4 (same word, other form) |  |  |
-| quiet, quietness | တၢ်​ဘှ့ၣ်​တၢ်​ဘှီၣ် |  | 10/11 |  |  |
+| quiet, quietness | တၢ်​ဘှ့ၣ်​တၢ်​ဘှီၣ် |  | 10/11 |  | Other Bible renderings (main form in 0 of 46 verses): အိၣ်​ဘှံး (17; e.g. Judg 8:28, 1 Chr 4:40); အိၣ်​ဃိ​က​လာ် (5; e.g. Job 3:13, Isa 7:4); အိၣ်​ဘှီၣ် (7; e.g. Judg 16:2, 2 Ki 11:20). |
 | satisfaction | တၢ်​သူၣ်​မံ​သး​မုာ် |  | 3/3 |  |  |
 | selfish, selfishness | တၢ်​အဲၣ်​လီၤ​သး |  | 8/8 | *selfishness*: same 10/13 |  |
 | shame | တၢ်​မဲာ်​ဆှး |  | 5/5 |  |  |
 | simplicity | တၢ်​သံၣ်​သံၣ်​သဲ​သဲ |  | 4/6 |  |  |
-| sorrow | တၢ်​သူၣ်​အုး​သး​အုး |  | 19/21<br>*misery, wretchedness*: တၢ်​ဖှီၣ်​တၢ်​နး 12/17 (different word) | same 13/13 |  |
+| sorrow | တၢ်​သူၣ်​အုး​သး​အုး |  | 19/21<br>*misery, wretchedness*: တၢ်​ဖှီၣ်​တၢ်​နး 12/17 (different word) | same 13/13 | Other Bible renderings (main form in 23 of 90 verses): တၢ်​နး​တၢ်​ဖှီၣ် (12; e.g. Gen 44:29, Exod 3:7). |
 | stiffnecked | (ပှၤ)​(အ)​ကိာ်​ဆူၣ် | OT 7/8 |  |  | Exod 32:9; 33:3, 5; 34:9. |
 | stubborn | နၢ်​က့ၣ် | OT 3/5 |  | Deut 21:18, 20 |  |
-| tradition(s) | မိၢ်​လုၢ်​ပၢ်​လၢ် |  | 3/5 |  |  |
-| tremble, trembling | က​နိး |  | 12/15 |  |  |
+| tradition(s) | မိၢ်​လုၢ်​ပၢ်​လၢ် |  | 3/5 |  | Other Bible renderings (main form in 0 of 14 verses): တဲ​စိၤ (10; e.g. Matt 15:2, Matt 15:3); တၢ်​စံၣ်​စိၤ (6; e.g. Mark 7:3, Mark 7:5). |
+| tremble, trembling | က​နိး |  | 12/15 |  | Other Bible renderings (main form in 50 of 72 verses): ဟူး​ဝး (17; e.g. Judg 5:4, 2 Sam 22:8); ဆှဲး​ဆှိး (10; e.g. 2 Sam 22:8, Job 9:6). |
 | value | အ​လုၢ်​အ​ပှ့ၤ |  | 7/8 |  |  |
-| wonders | တၢ်​လီၤ​လိၢ်​လီၤ​လး | NT 14/22 varies; OT 16/38 (also လီၤ​လး 38/38) | *wonderful, wonder*: လီၤ​လး 19/26 (different word) |  | NT also: လီၤ​လိၢ် |
+| wonders | တၢ်​လီၤ​လိၢ်​လီၤ​လး | NT 14/22 varies; OT 16/38 (also လီၤ​လး 38/38) | *wonderful, wonder*: လီၤ​လး 19/26 (different word) |  | NT also: လီၤ​လိၢ် Other Bible renderings (main form in 27 of 55 verses): လီၤ​လး (27; e.g. Exod 4:21, Exod 11:9). |
 | wrong habits | လုၢ်​လၢ်​လၢ​အ​က​မၣ် |  | 8/9 |  |  |
-| zeal | တၢ်​သူၣ်​ဆူၣ်​သး​ဂဲၤ |  | 3/5 |  |  |
+| zeal | တၢ်​သူၣ်​ဆူၣ်​သး​ဂဲၤ |  | 3/5 |  | Other Bible renderings (main form in 0 of 17 verses): သး​ဆူၣ် (12; e.g. Num 25:11, 2 Sam 21:2); သး​ဂဲၤ (4; e.g. Rom 10:2, 2 Cor 7:11). |
 
 ## 9. Actions (verbs) (149)
 
 | English | Karen — use this | Bible evidence | MH | STC draft | Notes |
 |---|---|---|---|---|---|
 | abate / assuage (waters) | လီၤ​သံး | OT 4/8 varies |  |  | Gen 8:1, 8, 11. OT also: လီၤ​စှၤ (Gen 8:3). |
-| accept | တူၢ်​လိာ် |  | 26/27 |  |  |
-| accuse, accuser | ပာ်​ဒ့ၣ်​ပာ်​က​မၣ် |  | 7/10 |  |  |
+| accept | တူၢ်​လိာ် |  | 26/27 |  | Other Bible renderings (main form in 19 of 59 verses): ကွၢ်​မဲာ် (9; e.g. 2 Ki 5:1, Job 13:8) 'accept (persons)'; ဘၣ်​တၢ်​အ​သး (8; e.g. Lev 1:4, Lev 19:7) 'be accepted'. |
+| accuse, accuser | ပာ်​ဒ့ၣ်​ပာ်​က​မၣ် |  | 7/10 |  | Other Bible renderings (main form in 0 of 36 verses): ပာ်​တၢ်​က​မၣ် (23; e.g. Dan 3:8, Dan 6:24). |
 | acquainted | မၤ​သ့ၣ်​ညါ​သ့ၣ်​ခီး |  | 3/4 |  |  |
 | anoint | ဖှူ | NT 14/18; OT 131/133 |  |  |  |
 | answer | ဆၢ | NT 248/267; OT 325/396 | စံး​ဆၢ 13/16 (different word) |  |  |
@@ -952,51 +952,51 @@ Karen text has zero-width spaces between syllables, following your translation i
 | besiege | က​ဝီၤ​ဃာ် | OT 10/10 |  | Deut 20:12, 19 |  |
 | betray | ဟ့ၣ်​လီၤ | NT 41/41 |  |  |  |
 | betroth | အဲၣ်​တီ | OT 3/3 |  | Deut 20:7; 22:23 |  |
-| bind / bound | စၢ | NT 36/46; OT 75/98 |  |  |  |
+| bind / bound | စၢ | NT 36/46; OT 75/98 |  |  | Other Bible renderings (main form in 119 of 172 verses): ဘိၣ်​ထီၣ် (8; e.g. Deut 14:25, Josh 9:4). |
 | blaspheme (the name) | ဒုၣ်​ဒွဲၣ် | OT 16/17 |  | Lev 24:11, 16 |  |
 | blot out | တြူာ်​ကွံာ် | OT 10/14 |  |  | Exod 17:14; 32:32–33. |
 | bury | ခူၣ်​လီၤ | OT 120/121 |  |  |  |
 | buy | ပှ့ၤ | NT 27/28; OT 64/67 |  |  |  |
 | call | ကိး | NT 258/280; OT 497/521 |  |  | NT also: ယုၢ်<br>OT also: ယုၢ် |
 | cast out (devils) | ဟီ​ထီၣ်​ကွံာ် | NT 29/37; OT 24/38 varies |  |  | NT also: ဟီ​ထီၣ်, ဟီ<br>OT also: ဟီ​ထီၣ်, ဟီ |
-| change | ဆီ​တ​လဲ |  | 25/26 | လဲ​လိာ် 14/15 (different word) |  |
+| change | ဆီ​တ​လဲ |  | 25/26 | လဲ​လိာ် 14/15 (different word) | Other Bible renderings (main form in 0 of 74 verses): လဲ​လိာ် (18; e.g. Lev 27:10, Lev 27:33); လဲ​က့ၤ (9; e.g. Gen 31:7, Gen 31:41). |
 | choose | ဃု​ထၢ |  | 15/17 |  |  |
 | cleanse | က​ဆှီ | NT 14/18; OT 55/64 | မၤ​က​ဆှီ(ထီၣ်) 11/14 (same word, other form) |  |  |
 | come | ဟဲ | NT 823/1112; OT 1997/2741 |  |  | NT also: တုၤ<br>OT also: တုၤ |
 | comfort | မၤ​မုာ် | NT 31/42; OT 72/77 | မၤ​မုာ်​ထီၣ် 18/27 (different word) |  | NT also: မုာ်<br>OT also: မုာ် |
-| communion | တၢ်​ရ့​လိာ်​သး |  | 10/11 |  |  |
-| compare | ထိၣ်​သ​တြီၤ |  | 3/3 |  |  |
+| communion | တၢ်​ရ့​လိာ်​သး |  | 10/11 |  | Other Bible renderings (main form in 0 of 3 verses): တၢ်​ရ့​လိာ် (2; e.g. 1 Cor 10:16, 2 Cor 13:14). |
+| compare | ထိၣ်​သ​တြီၤ |  | 3/3 |  | Other Bible renderings (main form in 4 of 9 verses): ဒိ​လီၤ (4; e.g. Song 1:9, Isa 40:18). |
 | conceive | ဒၢ​ထီၣ် | OT 47/50 |  |  | Gen 4:1; 16:4–11. |
 | connect, connection | မၤ​စဲ​ဘူး |  | 5/6 |  |  |
 | covet | သး​ကွံ | OT 3/3 |  |  | Exod 20:17. |
 | create / form (God creating) | တ့​လီၤ | OT *create(d)* 31/34; OT *form(ed)* 26/47 varies |  |  | Gen 2:3–22 uses တ့​လီၤ for created, formed and made (the woman). |
 | cry | ကိး​ပ​သူ | NT 72/74; OT 236/283 | *cry (out)*: same 11/18 |  | NT also: ကိး<br>OT also: ကိး |
 | deceive | လီ | NT 39/39; OT 34/34 |  |  |  |
-| defile (a woman) | မၤ​ဘၣ်​အၢ | Gen 34: 3/3; OT 28/62 |  |  | Gen 34:5, 13, 27 (34:2 uses မၤ​ဟး​ဂီၤ). |
-| deny | သ​မၢ | NT 29/35; OT 5/8 varies |  |  |  |
-| depart | ဟး​ထီၣ် | NT 95/129; OT 173/221 |  |  | NT also: ဟး<br>OT also: ဟး |
+| defile (a woman) | မၤ​ဘၣ်​အၢ | Gen 34: 3/3; OT 28/62 |  |  | Gen 34:5, 13, 27 (34:2 uses မၤ​ဟး​ဂီၤ). Other Bible renderings (main form in 49 of 104 verses): မၤ​တ​က​ဆှီ​ဘၣ် (16; e.g. Lev 5:3, Lev 11:44). |
+| deny | သ​မၢ | NT 29/35; OT 5/8 varies |  |  | Other Bible renderings (main form in 19 of 26 verses): ညိ​ကွံာ် (4; e.g. Matt 16:24, Mark 8:34) 'deny himself' (Matt 16:24). |
+| depart | ဟး​ထီၣ် | NT 95/129; OT 173/221 |  |  | NT also: ဟး<br>OT also: ဟး Other Bible renderings (main form in 205 of 340 verses): ဟး​ဖး (23; e.g. 2 Sam 12:10, Ps 101:4); သ​ဒၣ် (36; e.g. Gen 31:40, 1 Sam 4:21). |
 | destroy | မၤ​ဟး​ဂီၤ | NT 38/51; OT 356/382 | same 18/21 |  | NT also: ဟး​ဂီၤ<br>OT also: ဟး​ဂီၤ |
 | die / dead | သံ | NT 236/239; OT 539/565 |  |  |  |
-| divide | နီၤ​ဖး | NT 22/24; OT 75/104 |  |  | NT also: လီၤ​ဖး<br>OT also: လီၤ​ဖး |
+| divide | နီၤ​ဖး | NT 22/24; OT 75/104 |  |  | NT also: လီၤ​ဖး<br>OT also: လီၤ​ဖး Other Bible renderings (main form in 67 of 116 verses): လီၤ​ဖး (23; e.g. Gen 10:25, Gen 49:7) 'be divided'; မၤ​သ့ၣ်​ဖး (8; e.g. Exod 14:16, Lev 11:4) 'divide (cleave, part)'. |
 | divine (practise divination) | ဖး​တၢ် | OT 13/17 |  |  | Gen 44:5, 15. Same verb as “interpret” (dreams). |
 | draw water | ဒၢၣ်​ထံ | OT 6/7 |  |  | Gen 24:11–45. |
-| dried up (water) / dry (ground) | သူ​ထီၣ် (water)<br>ဃ့​ထီၣ် (ground) | Gen 8: 4/4; OT 13/35 |  |  | Gen 8:7, 13–14. Other OT verses use other words. |
+| dried up (water) / dry (ground) | သူ​ထီၣ် (water)<br>ဃ့​ထီၣ် (ground) | Gen 8: 4/4; OT 13/35 |  |  | Gen 8:7, 13–14. Other OT verses use other words. Other Bible renderings (main form in 16 of 92 verses): လီၤ​သံး (19; e.g. Josh 2:10, Josh 4:23). |
 | drink | အီ | NT 72/72; OT 282/287 |  |  |  |
 | dwell | အိၣ်​ဝဲ​ဆိး​ဝဲ | NT 52/79 varies; OT 439/599 |  |  | NT also: ဆိး<br>OT also: ဆိး |
 | eat | အီၣ် | NT 148/150; OT 548/558 |  |  |  |
 | encamp (pitch tents) | သူၣ်​(အ)​ဒဲ | OT 41/42 |  |  | Exod 13:20; 14:2, 9. |
 | enter | နုာ် | NT 140/150; OT 142/163 |  |  |  |
-| escape | ဟး​ပူၤ​ဖျဲး | OT 33/48 |  |  | Gen 19:17–22. Also ထူၣ်​ဖျဲး (Gen 14:13). |
+| escape | ဟး​ပူၤ​ဖျဲး | OT 33/48 |  |  | Gen 19:17–22. Also ထူၣ်​ဖျဲး (Gen 14:13). Other Bible renderings (main form in 4 of 111 verses): ပူၤ​ဖျဲး (74; e.g. Exod 10:5, Deut 23:15); ထူၣ်​ဖျဲး (16; e.g. Gen 14:13, 1 Sam 19:10). |
 | exalt | ပာ်​ထီၣ်​ထီ | NT 13/17; OT 69/78 |  |  | OT also: ထီၣ်​ထီ |
-| examine | သ​မံ​သ​မိး |  | 3/3 |  |  |
+| examine | သ​မံ​သ​မိး |  | 3/3 |  | Other Bible renderings (main form in 3 of 11 verses): သံ​ကွၢ်​သံ​ဒိး (6; e.g. Luke 23:14, Acts 12:19). |
 | exhort | သ​ဆၣ်​ထီၣ် | NT 29/33 |  |  |  |
 | experience | တၢ်​လဲၤ​ခီ​ဖျိ |  | 13/17 |  |  |
 | explain | ၡဲ​ပၠး |  | 5/5 |  |  |
 | fall down (prostrate oneself) | ထိၣ်​လီၤ​ပှီၤ​အ​သး | 44 verses (NT and OT) |  |  | Gen 50:18. Gen 44:14 has ပှီၢ် (possible typo). |
 | fear | ပျံၤ | NT 105/114; OT 358/387 | တၢ်​ပျံၤ 28/32 (same word, other form) | တၢ်​ပျံၤ​တၢ်​ဖုး 8/9 (different word) |  |
-| find | ထံၣ်​န့ၢ် | NT 131/166; OT 264/383 varies |  |  |  |
+| find | ထံၣ်​န့ၢ် | NT 131/166; OT 264/383 varies |  |  | Other Bible renderings (main form in 118 of 166 verses): ဘၣ်​ဘျုး​ဘၣ်​ဖှိၣ် (10; e.g. Gen 32:5, Gen 33:8) 'find grace'. |
 | flee | ဃ့ၢ် | OT 202/212 |  |  |  |
-| follow | ပိာ်​ထီၣ်​အ​ခံ | NT 95/133; OT 82/120 varies |  |  | NT also: ပိာ်<br>OT also: ပိာ် |
+| follow | ပိာ်​ထီၣ်​အ​ခံ | NT 95/133; OT 82/120 varies |  |  | NT also: ပိာ်<br>OT also: ပိာ် Other Bible renderings (main form in 30 of 231 verses): ပိာ်​အ​ခံ (31; e.g. Deut 12:30, Josh 6:8). |
 | forget | သး​ပ့ၤ​နီၣ် | OT 85/88 | same 7/7 |  | OT also: ပ့ၤ​နီၣ် |
 | gather | ထၢ​ဖှိၣ် | NT 63/69; OT 327/363 |  |  | NT also: အိၣ်​ဖှိၣ်, ဖှိၣ်<br>OT also: အိၣ်​ဖှိၣ်, ဖှိၣ် |
 | give | ဟ့ၣ် | NT 346/477; OT 1050/1315 |  |  |  |
@@ -1004,33 +1004,33 @@ Karen text has zero-width spaces between syllables, following your translation i
 | go | လဲၤ | NT 476/580; OT 1796/2107 |  |  | NT also: ဟး<br>OT also: ဟး |
 | gore (of an ox) | ဘျၢၣ် | OT 7/11 |  |  | Exod 21:28–36. |
 | harden (the heart) | ဒုး​ဆူၣ်​ထီၣ်​အ​သး / မၤ​ကိၤ​အ​သး | OT 19/28 varies |  |  | Exod 4:21; 7:3–14; 8:15, 32. |
-| harvest, reap | ကူး​တၢ် |  | 7/8 |  |  |
+| harvest, reap | ကူး​တၢ် |  | 7/8 |  | Other Bible renderings (main form in 23 of 78 verses): ကူး​ဘု (33; e.g. Gen 8:22, Gen 30:14). |
 | hate | သး​ဟ့ | OT 136/141 |  |  |  |
 | heal | ဘျါ | NT 71/75; OT 64/74 | *heal, healing*: မၤ​ဘျါ 82/86 (same word, other form) |  |  |
-| hear | နၢ်​ဟူ | NT 361/566 varies | *hear, heard*: same 40/49 |  | NT also: နၢ် |
+| hear | နၢ်​ဟူ | NT 361/566 varies | *hear, heard*: same 40/49 |  | NT also: နၢ် Other Bible renderings (main form in 767 of 1165 verses): က​နၣ် (330; e.g. Gen 4:23, Gen 21:17); ဒိ​က​နၣ် (140; e.g. Gen 4:23, Exod 20:19) 'hearken, hear (obey)'. |
 | hearken | က​နၣ် | OT 220/224 |  |  |  |
 | help | မၤ​စၢၤ | OT 129/144 | same 73/74 |  |  |
-| hide / hid | ခူ​သူၣ် | NT 26/36; OT 105/186 varies |  |  | OT also: ဟုၣ် |
+| hide / hid | ခူ​သူၣ် | NT 26/36; OT 105/186 varies |  |  | OT also: ဟုၣ် Other Bible renderings (main form in 128 of 218 verses): ပာ်​တ​ဒၢ (30; e.g. Gen 3:8, Gen 3:10); အိၣ်​တ​ဒၢ (25; e.g. Gen 4:14, Lev 4:13). |
 | humble | ဆီၣ်​လီၤ | NT 11/11; OT 37/45 |  | *humble / humility*: same 8/16 |  |
-| ignorant, ignorance | တ​သ့ၣ်​ညါ |  | 14/20 |  | OT “sin through ignorance” = ဟး​ဖျိး (9/12), e.g. Lev 4:2 |
+| ignorant, ignorance | တ​သ့ၣ်​ညါ |  | 14/20 |  | OT “sin through ignorance” = ဟး​ဖျိး (9/12), e.g. Lev 4:2 Other Bible renderings (main form in 20 of 33 verses): ဟး​ဖျိး​တၢ် (7; e.g. Lev 4:2, Num 15:24) 'sin through ignorance'. |
 | improve | မၤ​ဂ့ၤ​ထီၣ် |  | 9/10 |  |  |
-| increase | အါ​ထီၣ် |  | 14/18 |  |  |
+| increase | အါ​ထီၣ် |  | 14/18 |  | Other Bible renderings (main form in 98 of 137 verses): ဒိၣ်​ထီၣ် (15; e.g. Gen 7:17, Gen 7:18). |
 | kill / slay | မၤ​သံ | NT 103/116; OT 482/533 |  |  |  |
 | know | သ့ၣ်​ညါ | NT 449/468; OT 740/770 |  |  | Also used for marriage relations: “Adam knew his wife” = သ့ၣ်​ညါ​အ​မါ (Gen 4:1, 17, 25). |
 | lend / borrow | ဒုး​လိၢ်​တၢ် / လိၢ်​တၢ် | OT 9/10 |  | Deut 15:6–8 |  |
 | lie in wait / ambush | ခိး​ခူ​သူၣ် | OT 17/22 |  | Josh 8:2–19 | Liers in wait = ပှၤခိးခူသူၣ်တၢ်. |
 | life-giving | လၢ​အ​ဟ့ၣ်​တၢ်​မူ |  | 8/12 |  |  |
-| lived (… years) | အိၣ်​ဝဲ | OT 38/50 |  |  | Gen 5: “X lived N years” = X အိၣ်ဝဲ အနံၣ် N. |
+| lived (… years) | အိၣ်​ဝဲ | OT 38/50 |  |  | Gen 5: “X lived N years” = X အိၣ်ဝဲ အနံၣ် N. Other Bible renderings (main form in 36 of 59 verses): မူ​ဒံး (7; e.g. Gen 25:6, 2 Sam 19:6); မူ​ဝဲ (5; e.g. Gen 25:7, Deut 5:26). |
 | marvel / be astonished | က​မၢ​က​မၣ် | NT 64/71 |  |  |  |
-| meet | သ​ဂၢၢ် | OT 95/129 |  |  |  |
-| mock | ဒုၣ်​ဒွဲၣ် *(NT)*<br>မၤ​တ​ရီ​တ​ပါ *(OT)* | NT 16/18; OT 22/32 varies |  |  | OT also: တ​ရီ​တ​ပါ, ဒုၣ်​ဒွဲၣ် |
-| mourn | ဟီၣ်​(ယၢၤ) | OT 34/60 varies |  |  | Gen 23:2; 37:34–35; 50:3–11. Also တၢ်​ဟီၣ်​တၢ်​ယၢၤ (mourning). |
+| meet | သ​ဂၢၢ် | OT 95/129 |  |  | Other Bible renderings (main form in 90 of 137 verses): သ​ဃိာ် (9; e.g. Exod 23:4, Josh 2:16) 'meet (encounter)'; ကြၢး​ဒီး (6; e.g. Gen 2:18, Gen 2:20) 'meet (fitting)'. |
+| mock | ဒုၣ်​ဒွဲၣ် *(NT)*<br>မၤ​တ​ရီ​တ​ပါ *(OT)* | NT 16/18; OT 22/32 varies |  |  | OT also: တ​ရီ​တ​ပါ, ဒုၣ်​ဒွဲၣ် Other Bible renderings (main form in 29 of 41 verses): နံၤ​ဘၣ်​ဖၣ်​လဲ (3; e.g. Gen 21:9, Prov 1:26). |
+| mourn | ဟီၣ်​(ယၢၤ) | OT 34/60 varies |  |  | Gen 23:2; 37:34–35; 50:3–11. Also တၢ်​ဟီၣ်​တၢ်​ယၢၤ (mourning). Other Bible renderings (main form in 58 of 109 verses): သူၣ်​အုး​သး​အုး (18; e.g. Gen 37:34, Exod 33:4). |
 | murmur | က​ဒူး​က​ဒ့ၣ်​(တၢ်) | OT 20/20 |  |  | Exod 15:24; 16:2–12. |
-| open | အိး​ထီၣ် | NT 68/105 varies; OT 109/191 varies | same 29/48 |  | NT also: အိး<br>OT also: အိး |
+| open | အိး​ထီၣ် | NT 68/105 varies; OT 109/191 varies | same 29/48 |  | NT also: အိး<br>OT also: အိး Other Bible renderings (main form in 166 of 268 verses): အဲး​ထီၣ် (45; e.g. Gen 4:11, Num 16:30) 'open (the mouth)'. |
 | outward(ly), display | တၢ်​အိၣ်​ဖျါ(လၢ​ခိ) |  | 12/15 |  |  |
 | overcome | မၤ​နၢၤ | NT 22/22; OT 4/8 varies | same 18/21 |  |  |
 | overlay (with gold/brass) | ပီၤ | OT 28/31 |  | Exod 37:2; 38:2 |  |
-| persecute | မၤ​အၢ​မၤ​သီ | NT 41/43; OT 17/31 varies |  |  | NT also: မၤ​အၢ​မၤ​နး, မၤ​အၢ<br>OT also: မၤ​အၢ​မၤ​နး, မၤ​အၢ |
+| persecute | မၤ​အၢ​မၤ​သီ | NT 41/43; OT 17/31 varies |  |  | NT also: မၤ​အၢ​မၤ​နး, မၤ​အၢ<br>OT also: မၤ​အၢ​မၤ​နး, မၤ​အၢ Other Bible renderings (main form in 15 of 45 verses): မၤ​အၢ​မၤ​နး (13; e.g. Job 19:22, Matt 5:10). |
 | prepare / make ready | က​တဲာ်​က​တီၤ | NT 62/77; OT 138/199 varies | *prepare*: same 13/16 |  | NT also: က​တီၤ<br>OT also: က​တီၤ |
 | progress | တၢ်​လဲၤ​ထီၣ်​လဲၤ​ထီ |  | 3/3 |  |  |
 | protect, protection | တၢ်​ဒီ​သ​ဒၢ |  | 5/7 |  |  |
@@ -1038,12 +1038,12 @@ Karen text has zero-width spaces between syllables, following your translation i
 | raise (from dead) | ဂဲၤ​ဆၢ​ထၢၣ် | NT 59/70 | *raise (up)*: ဒုး​ဂဲၤ​ဆၢ​ထၢၣ် 4/5 (same word, other form) |  |  |
 | read | ဖး | NT 24/26; OT 39/40 |  |  |  |
 | rebuke | ဒူ *(NT)*<br>သိၣ်​ဃီၣ် *(OT)* | NT 20/32 varies; OT 42/47 |  |  |  |
-| receive | ဒိး​န့ၢ် |  | 39/57 |  |  |
-| refuge | တၢ်​အိၣ်​တ​ဒၢ​အ​လီၢ် |  | 4/6 |  | OT “city of refuge” = ဝ့ၢ်​တူၢ်​လိာ်​တၢ် (Num 35) |
-| reign | ပၢ | NT 16/21; OT 203/265 |  |  | OT also: ကဲ​စီၤ​ပၤ |
+| receive | ဒိး​န့ၢ် |  | 39/57 |  | Other Bible renderings (main form in 115 of 322 verses): တူၢ်​လိာ် (76; e.g. Num 12:14, Num 36:3); န့ၢ်​ဘၣ် (39; e.g. Num 34:14, Num 34:15). |
+| refuge | တၢ်​အိၣ်​တ​ဒၢ​အ​လီၢ် |  | 4/6 |  | OT “city of refuge” = ဝ့ၢ်​တူၢ်​လိာ်​တၢ် (Num 35) Other Bible renderings (main form in 4 of 47 verses): ဝ့ၢ်​တူၢ်​လိာ် (15; e.g. Num 35:11, Num 35:14) 'city of refuge'; တၢ်​ပူၤ​ဖျဲး (15; e.g. Num 35:12, Josh 20:3). |
+| reign | ပၢ | NT 16/21; OT 203/265 |  |  | OT also: ကဲ​စီၤ​ပၤ Other Bible renderings (main form in 84 of 273 verses): ကဲ​စီၤ​ပၤ (123; e.g. Gen 36:31, Gen 36:32). |
 | rejoice | သး​ခု | NT 56/70; OT 178/196 |  |  | NT also: သူၣ်​ဖှံ​သး​ညီ<br>OT also: သူၣ်​ဖှံ​သး​ညီ |
 | remember | သ့ၣ်​နီၣ် | NT 35/39; OT 168/171 | သ့ၣ်​နီၣ်​ထီၣ် 19/21 (different word) |  |  |
-| resist | တြီ​ဆၢ |  | 14/17 |  |  |
+| resist | တြီ​ဆၢ |  | 14/17 |  | Other Bible renderings (main form in 3 of 13 verses): ထီ​ဒါ (3; e.g. Zech 3:1, Acts 7:51). |
 | return | က့ၤ | NT 43/46; OT 343/381 | ဟဲ​က့ၤ / က့ၤ​က​ဒါ 12/17 (different word) |  |  |
 | revelation | တၢ်​လီၣ်​ဖျါ | NT 8/12 varies | *reveal*: same 19/28 |  | NT also: လီၣ်​ဖျါ |
 | rise / arise | ဂဲၤ​ဆၢ​ထၢၣ် | NT 158/185; OT 391/442 |  |  | NT also: ဂဲၤ, ဟဲ​ထီၣ်<br>OT also: ဂဲၤ, ဟဲ​ထီၣ် |
@@ -1053,32 +1053,32 @@ Karen text has zero-width spaces between syllables, following your translation i
 | seek | ဃု | NT 110/120; OT 282/290 |  |  |  |
 | seem | ဖျါ​လၢ |  | 13/19 |  |  |
 | sell / sold | ဆါ | NT 31/31; OT 72/76 |  |  |  |
-| send | မၢ | NT 213/257; OT 498/637 |  |  |  |
-| separate | မၤ​လီၤ​ဖး |  | 7/10 |  |  |
+| send | မၢ | NT 213/257; OT 498/637 |  |  | Other Bible renderings (main form in 177 of 243 verses): ဟ့ၣ်​ယုၢ် (19; e.g. 1 Sam 6:2, 1 Sam 6:3) 'send away'. |
+| separate | မၤ​လီၤ​ဖး |  | 7/10 |  | Other Bible renderings (main form in 17 of 67 verses): နီၤ​ဖး (17; e.g. Gen 30:40, Lev 20:25). |
 | shine | က​ပီၤ​ထီၣ် |  | 8/11 |  |  |
 | shone (Moses' face) | က​ပီၤ​က​ပြုၢ်​က​ပြီၤ | OT 3/4 |  | Exod 34:29–35 |  |
 | shout (with a great shout) | ကိး​ပ​သူ​ထီၣ် | OT 22/27 |  | Josh 6:5, 10, 16, 20 |  |
 | shut | ကး | NT 15/17; OT 71/85 |  |  |  |
-| sing | သး​ဝံၣ် | OT 83/106 | *sing, song*: same 18/23 |  |  |
+| sing | သး​ဝံၣ် | OT 83/106 | *sing, song*: same 18/23 |  | Other Bible renderings (main form in 92 of 132 verses): ကိး​ပ​သူ​ထီၣ် (9; e.g. Isa 16:10, Isa 24:14) 'sing (aloud, shout)'. |
 | sit | ဆ့ၣ်​နီၤ | NT 141/146; OT 171/177 | *sit, sat*: same 13/13 |  |  |
 | sleep | မံ | NT 22/24; OT 92/95 |  |  |  |
 | smite / smote | မၤ​သံ | OT 328/374 |  |  | OT also: ကျီ, တီၢ် |
 | sow | ဖှံ | NT 36/37; OT 48/51 |  |  |  |
 | speak | က​တိၤ(တၢ်) |  | 39/44 |  |  |
 | spue out / vomit | ဘှိး​ထီၣ်​ကွံာ် | OT 10/10 |  | Lev 18:25–28 |  |
-| stand | ဆၢ​ထၢၣ် |  | 17/22 |  |  |
+| stand | ဆၢ​ထၢၣ် |  | 17/22 |  | Other Bible renderings (main form in 251 of 335 verses): အိၣ်​ဂၢၢ်​ဆိး​ကျၢၤ (20; e.g. Exod 14:13, Num 30:4) 'stand (firm)'. |
 | stink | နၢ​အုၣ် | OT 11/16 |  |  | Exod 7:18, 21; 8:14. |
 | struggle | ဂဲၤ​ပျုၢ်​ဂဲၤ​ဆှး |  | 12/17 |  |  |
 | think | ဆိ​က​မိၣ် | NT 56/76 |  |  |  |
 | touch | ထိး​ဘၣ် | NT 36/56 varies; OT 84/103 | same 26/38 |  | NT also: ထိး<br>OT also: ထိး |
-| understand | နၢ်​ပၢၢ် | NT 33/46; OT 63/78 | same 26/27 |  | NT also: ပၢၢ်<br>OT also: ပၢၢ် |
+| understand | နၢ်​ပၢၢ် | NT 33/46; OT 63/78 | same 26/27 |  | NT also: ပၢၢ်<br>OT also: ပၢၢ် Other Bible renderings (main form in 65 of 243 verses): တၢ်​ကူၣ်​သ့ (45; e.g. Exod 35:31, Exod 36:1); သူၣ်​ဆး​သး​ဆး (22; e.g. Deut 4:6, Deut 32:28) 'understanding' (noun). |
 | uplift | စိာ်​က​ဖီ​ထီၣ် |  | 14/17 |  |  |
-| victory | တၢ်​မၤ​နၢၤ |  | 7/7 |  |  |
+| victory | တၢ်​မၤ​နၢၤ |  | 7/7 |  | Other Bible renderings (main form in 4 of 16 verses): တၢ်​အုၣ်​က့ၤ​ခီၣ်​က့ၤ (4; e.g. 2 Sam 19:2, 2 Sam 23:12); မၤ​နၢၤ (3; e.g. Matt 12:20, 1 Cor 15:57). |
 | visit | အိၣ်​သ​ကိး | OT 67/68 |  |  | OT also: ကွၢ် |
-| wait | (အိၣ်)ခိး |  | 13/16 |  |  |
+| wait | (အိၣ်)ခိး |  | 13/16 |  | Other Bible renderings (main form in 70 of 147 verses): ကွၢ်​လၢ်​အ​ကျဲ (4; e.g. Ps 37:7, Isa 8:17); မုၢ်​လၢ် (13; e.g. Job 6:19, Job 30:26). |
 | walk (also: live/conduct oneself) | ဟး *(NT)*<br>လဲၤ​တၢ် *(OT)* | NT 84/106; OT 145/284 varies |  |  | NT also: လဲၤ​တၢ်<br>NT: Literal walking = ဟး; moral "walk" (Paul) = လဲၤ​တၢ်.<br>OT also: ဟး<br>OT: Moral "walk" = လဲၤ​တၢ်; literal walking = ဟး. |
-| warn | ဟ့ၣ်​ပ​လီၢ် |  | 4/5 |  |  |
-| watch | ဆိး​သီ *(NT)*<br>ပၢၤ​တၢ် *(OT)* | NT 21/29; OT 14/28 varies |  |  | OT also: ခိး​တၢ်, ဆိး​သီ |
+| warn | ဟ့ၣ်​ပ​လီၢ် |  | 4/5 |  | Other Bible renderings (main form in 0 of 26 verses): ဒုး​ပ​လီၢ် (7; e.g. Ps 19:11, Ezek 33:3); သိၣ်​က့ၤ (9; e.g. 2 Chr 19:10, Ezek 3:17). |
+| watch | ဆိး​သီ *(NT)*<br>ပၢၤ​တၢ် *(OT)* | NT 21/29; OT 14/28 varies |  |  | OT also: ခိး​တၢ်, ဆိး​သီ Other Bible renderings (main form in 48 of 79 verses): ကွၢ်​ဟုၣ် (6; e.g. Ps 71:10, Isa 29:20); ခိး​တၢ် (4; e.g. Exod 14:24, Lam 4:17). |
 | weep | ဟီၣ် | NT 36/40; OT 109/111 |  |  | OT also: မဲာ်​ထံ |
 | write | ကွဲး | NT 190/196; OT 207/210 |  |  |  |
 
@@ -1086,10 +1086,10 @@ Karen text has zero-width spaces between syllables, following your translation i
 
 | English | Karen — use this | Bible evidence | MH | STC draft | Notes |
 |---|---|---|---|---|---|
-| afar off | သ​ကွ့ၤ | NT 14/18; OT 29/33 |  |  | NT also: အ​ယံၤ<br>OT also: အ​ယံၤ |
+| afar off | သ​ကွ့ၤ | NT 14/18; OT 29/33 |  |  | NT also: အ​ယံၤ<br>OT also: အ​ယံၤ Other Bible renderings (main form in 9 of 48 verses): လၢ​အ​ယံၤ (29; e.g. Gen 22:4, Gen 37:18). |
 | after his/their kind | ဒ်​အ​က​လုာ်​အ​သိး | OT 22/24 |  |  | Gen 1, 6:20, 7:14. |
-| again | က​ဒီး | NT 203/222; OT 329/429 |  |  | NT also: က​ဒါ​က့ၤ, က့ၤ<br>OT also: က​ဒါ​က့ၤ, က့ၤ |
-| alarm (on trumpets) | (အူ)​တၢ်​အ​သီၣ်​ဖး​ဒိၣ် |  |  | Num 10:5–9 |  |
+| again | က​ဒီး | NT 203/222; OT 329/429 |  |  | NT also: က​ဒါ​က့ၤ, က့ၤ<br>OT also: က​ဒါ​က့ၤ, က့ၤ Other Bible renderings (main form in 259 of 654 verses): ဟဲ​က့ၤ (131; e.g. Gen 14:16, Gen 15:16); က​ဒါ​က့ၤ (82; e.g. Gen 14:16, Gen 15:16) 'come again, return'. |
+| alarm (on trumpets) | (အူ)​တၢ်​အ​သီၣ်​ဖး​ဒိၣ် |  |  | Num 10:5–9 | Other Bible renderings (main form in 1 of 10 verses): သီၣ်​ဖး​ဒိၣ် (3; e.g. Num 10:6, Num 10:7). |
 | among | ကျါ | NT 129/197 varies; OT 580/653 |  |  |  |
 | angel of the Lord | က​စၢ်​အ​က​လူး / ယွၤ​အ​က​လူး *(angel of the Lord)*<br>ယွၤ​အ​က​လူး *(angel of the LORD)* | NT *angel of the Lord*; OT *angel of the LORD* 52/52 |  |  | Matthew uses က​စၢ်; Luke and Acts often use ယွၤ |
 | as sheep which have no shepherd | ဒ်​သိ​လၢ​ပှၤ​ကွၢ်​သိ​တ​အိၣ်​ဘၣ်​အ​သိး |  |  | Num 27:17 | cf. Matt 9:36 |
@@ -1108,67 +1108,67 @@ Karen text has zero-width spaces between syllables, following your translation i
 | David the king | စီၤ​ပၤ​ဒၤ​ဝံး | NT |  |  | Matthew 1:6 |
 | duty | မူ​ဒါ |  |  | 8/15 |  |
 | estimation (valuation) | ပာ်​အ​ပှ့ၤ | OT 16/20 |  | Lev 27:2–27 |  |
-| every (of a kind) | က​ယဲၢ် | OT 544/786 varies |  |  | OT also: ကိး…ဒဲး, ခဲ​လၢာ်. Genesis 2 uses က​ယဲၢ် throughout. |
+| every (of a kind) | က​ယဲၢ် | OT 544/786 varies |  |  | OT also: ကိး…ဒဲး, ခဲ​လၢာ်. Genesis 2 uses က​ယဲၢ် throughout. Other Bible renderings (main form in 423 of 1076 verses): စုာ်​စုာ် (105; e.g. Gen 10:5, Gen 47:20); ကိး​ဂၤ​ဒဲး (91; e.g. Exod 1:22, Exod 12:4). |
 | fast / fasting | ဒုၣ်​တၢ်​အီၣ် | OT 36/62 varies |  |  | OT also: ဒုၣ်​တၢ် |
 | fear not | ပျံၤ​တၢ်​တ​ဂ့ၤ | NT 14/14; OT 41/48 |  |  | NT also: ပျံၤ<br>OT also: ပျံၤ |
 | firstfruits | တၤ​သၣ်​ဆိ | OT 15/23 varies |  |  |  |
-| for ever (and ever) | လီၤ​ထူ​လီၤ​ယိာ် | NT 37/51; OT 208/329 varies |  |  | NT also: အ​စိၤ​စိၤ​အ​ဃၣ်​ဃၣ်<br>OT also: အ​စိၤ​စိၤ​အ​ဃၣ်​ဃၣ် |
-| fourscore | ဃိး​ဆံ | OT 20/33 varies |  |  |  |
+| for ever (and ever) | လီၤ​ထူ​လီၤ​ယိာ် | NT 37/51; OT 208/329 varies |  |  | NT also: အ​စိၤ​စိၤ​အ​ဃၣ်​ဃၣ်<br>OT also: အ​စိၤ​စိၤ​အ​ဃၣ်​ဃၣ် Other Bible renderings (main form in 189 of 381 verses): လီၤ​စိၤ​လီၤ​ထီ (91; e.g. Gen 13:15, Exod 29:28); အ​စိၤ​စိၤ​အ​ဃၣ်​ဃၣ် (57; e.g. Exod 15:18, Exod 30:21). |
+| fourscore | ဃိး​ဆံ | OT 20/33 varies |  |  | Other Bible renderings (main form in 22 of 35 verses): ဃိး​က​လး (12; e.g. Num 2:9, 1 Ki 5:15) 'fourscore thousand'. |
 | from thirty years old … unto fifty | လၢ​အ​သး​ပှၢ်​အ​နံၣ်​သၢ​ဆံ … ပၢၢ်​လၢ​အ​နံၣ်​ယဲၢ်​ဆံ |  |  | Num 4:3–47 |  |
 | gird | ကံၢ် | OT 52/78 varies |  |  |  |
 | God forbid | မ်​အ​သု​တ​မၤ​အ​သး​ဒ်​န့ၣ်​တ​ဂ့ၤ | NT 14/15 |  |  |  |
 | God save the king | မ်​စီၤ​ပၤ​မူ​ဝဲ​တ​က့ၢ် | OT 4/4 |  | 1 Sam 10:24 | Literally "Let the king live". |
 | godliness | တၢ်​ယူး​ယီၣ်​ယွၤ | NT 10/15 varies |  |  |  |
-| goodness | တၢ်​ဂ့ၤ​တၢ်​ဝါ |  |  | 5/10 |  |
-| graven image | တၢ်​ဂီၤ​စိး​ပျၤ​အ​သး | OT 23/46 varies |  |  | Second commandment (Exod 20:4) = တၢ်​ဂီၤ​တၢ်​ဖီၣ်. |
-| grow / growth | ဒိၣ်​ထီၣ် |  |  | 11/20 |  |
+| goodness | တၢ်​ဂ့ၤ​တၢ်​ဝါ |  |  | 5/10 | Other Bible renderings (main form in 6 of 50 verses): တၢ်​ဂ့ၤ (26; e.g. Exod 18:9, Exod 33:19); အ​ဘျုး​အ​ဖှိၣ် (10; e.g. Exod 34:6, Ps 33:5). |
+| graven image | တၢ်​ဂီၤ​စိး​ပျၤ​အ​သး | OT 23/46 varies |  |  | Second commandment (Exod 20:4) = တၢ်​ဂီၤ​တၢ်​ဖီၣ်. Other Bible renderings (main form in 23 of 47 verses): တၢ်​ဂီၤ​တၢ်​ဖီၣ် (13; e.g. Exod 20:4, Deut 5:8). |
+| grow / growth | ဒိၣ်​ထီၣ် |  |  | 11/20 | Other Bible renderings (main form in 13 of 41 verses): မဲ​ထီၣ် (15; e.g. Gen 2:9, 2 Ki 19:29) 'grow (of plants)'. |
 | the head and not the tail | တၢ်​အ​ခိၣ် … တၢ်​အ​မဲၢ် | OT 4/5 |  | Deut 28:13, 44 |  |
-| heavenly Father | ပ​ပၢ်​လၢ​မူ​ခိၣ် |  |  | 10/17 |  |
+| heavenly Father | ပ​ပၢ်​လၢ​မူ​ခိၣ် |  |  | 10/17 | Other Bible renderings (main form in 0 of 6 verses): ပၢ်​အိၣ်​လၢ​မူ​ခိၣ် (6; e.g. Matt 6:14, Matt 6:26). |
 | hold his peace | အိၣ်​ဘှီၣ်​က​လာ် |  |  | Num 30:4–14 |  |
 | house of bondage | ပှၤ​ကုၢ်​ဖိ​အ​ဟံၣ် | OT 10/10 |  | Deut 5:6; 6:12 |  |
 | immediately / straightway | တ​ကီၢ်​ခါ | NT 95/101 | *immediately*: တ​ဘျီ​ဃီ 5/6 (different word) |  |  |
 | in old time | လၢ​ပျၢၤ​လၢ​ကစၢၤ | OT 9 occurrences |  | Josh 24:2 |  |
 | in vain | က​လီ​က​လီ | NT 16/16; OT 28/32 |  |  |  |
 | just (righteous) man | ပှၤ​အ​တီ​အ​လိၤ | NT |  |  | Matthew 1:19 |
-| lest | ဘၣ်​ဖုး | OT 107/142 |  |  |  |
-| loud voice | အ​က​လုၢ်​ဖး​ဒိၣ် | NT 25/31; OT 10/18 varies |  |  |  |
+| lest | ဘၣ်​ဖုး | OT 107/142 |  |  | Other Bible renderings (main form in 129 of 229 verses): အ​သု (34; e.g. Gen 4:15, Gen 38:9) 'lest' = ဒ်သိး … အသု … တဂ့ၤ. |
+| loud voice | အ​က​လုၢ်​ဖး​ဒိၣ် | NT 25/31; OT 10/18 varies |  |  | Other Bible renderings (main form in 36 of 50 verses): အ​သီၣ်​ဖး​ဒိၣ် (6; e.g. 2 Sam 15:23, 1 Ki 8:55). |
 | make a league | အၢၣ်​လီၤ​အီ​လီၤ​တၢ် (ဒီး) | OT 16/17 |  | Josh 9:6–16 | Same word as covenant (တၢ်အၢၣ်လီၤအီလီၤ). |
 | make restitution | ဟ့ၣ်​(က့ၤ)​တၢ်​ထဲ​သိး​သိး | Exod 22: 5/5 |  |  | Exod 21:34, 36; 22:3–14. Literally “give back the same amount”. |
 | man doth not live by bread only | ပှၤ​က​ညီ​မူ​ဝဲ​ထဲ​လၢ​ကိၣ်​တ​မ့ၢ်​ဘၣ် |  |  | Deut 8:3 | cf. Matt 4:4 |
 | name | အ​မံၤ | NT 165/170; OT 681/691 |  |  | NT also: မံၤ<br>OT also: မံၤ |
 | the next day / morrow | မုၢ်​ဆ့ၣ်​ထီၣ် | NT 37/38; OT 77/83 |  |  | NT also: ခဲ​ဂီၤ<br>OT also: ခဲ​ဂီၤ |
 | O (vocative) | ဧၢ | OT 846/920 |  |  |  |
-| only | ထဲ | NT 70/98; OT 115/152 |  |  |  |
+| only | ထဲ | NT 70/98; OT 115/152 |  |  | Other Bible renderings (main form in 187 of 257 verses): တ​ဂၤ​ဃီ (28; e.g. Gen 22:2, Gen 22:12) 'only (one)'. |
 | peradventure (perhaps) | ဘၣ်​တ​ဘၣ် | OT 15/19 |  |  | Gen 18:24–32. |
-| pledge | တၢ်​ဟ့ၣ်​ကီၤ | OT 10/21 varies |  |  | Gen 38:17–20. |
+| pledge | တၢ်​ဟ့ၣ်​ကီၤ | OT 10/21 varies |  |  | Gen 38:17–20. Other Bible renderings (main form in 9 of 23 verses): ဟံး​ကီၤ (9; e.g. Exod 22:26, Deut 24:6) 'take a pledge'. |
 | plenty (years of) | တၢ်​ပှဲၤ | Gen 41: 6/6; OT 6/26 |  |  | Gen 41:29–53. |
-| possession (land held) | တၢ်​ဟံး​ဃာ် | OT 34/88 varies |  |  | Gen 17:8; 23:4, 9, 20. |
+| possession (land held) | တၢ်​ဟံး​ဃာ် | OT 34/88 varies |  |  | Gen 17:8; 23:4, 9, 20. Other Bible renderings (main form in 38 of 106 verses): တၢ်​န့ၢ်​သါ (30; e.g. Num 24:18, Num 26:56). |
 | present (gift) | တၢ်​ခိၣ်​ဖး | Gen 32–33: 6/6; OT 7/62; Judg 3:15–18: 4/4 ခိၣ်ဖး. |  |  | Gen 32:13–21; 33:10. Other OT verses vary. |
-| presumptuously (with a high hand) | ဒီး​အ​စု​ယူာ်​ထီၣ်​အ​သး |  |  | Num 15:30 |  |
-| prey / booty | တၢ်​ဂုာ်​န့ၢ် | OT 43/73 (varies) |  | Num 31:11–32 |  |
+| presumptuously (with a high hand) | ဒီး​အ​စု​ယူာ်​ထီၣ်​အ​သး |  |  | Num 15:30 | Other Bible renderings (main form in 1 of 6 verses): ပာ်​အ​သး​က​ဖိ​လိ (2; e.g. Deut 17:12, Deut 18:22). |
+| prey / booty | တၢ်​ဂုာ်​န့ၢ် | OT 43/73 (varies) |  | Num 31:11–32 | Other Bible renderings (main form in 43 of 74 verses): ဂုာ်​ဆူၣ်​ပျီ​ဆူၣ် (8; e.g. Jer 30:16, Ezek 19:3). |
 | pricks in your eyes, thorns in your sides | တၤ​ဆှုၣ်​လၢ​သု​မဲာ်​ပူၤ, ဒီး​တၤ​ဆှုၣ်​တၤ​မဲ​လၢ​သု​က​ပၤ​ပူၤ |  |  | Num 33:55 |  |
 | proverb | တၢ်​က​တိၤ​ဒိ | OT 11/16 |  | Deut 28:37 | Same word as the book title Proverbs (တၢ်ကတိၤဒိ). |
-| purity / pure | တၢ်​က​ဆှဲ​က​ဆှီ |  |  | 13/20 |  |
+| purity / pure | တၢ်​က​ဆှဲ​က​ဆှီ |  |  | 13/20 | Other Bible renderings (main form in 0 of 97 verses): ထူ​စီ (36; e.g. Exod 25:11, Exod 25:17) 'pure gold'; က​ဆှီ (23; e.g. 2 Sam 22:27, Ezra 6:20). |
 | riddle | တၢ်​ပှိၤ​ပှီၢ် | OT 8/9 |  | Judg 14:12–19 | Put forth a riddle = ပှိၤပှီၢ်တၢ်. |
 | round about | ဝး​တ​ရံး | NT 20/36 varies; OT 235/249 |  |  |  |
 | rule with rigour | ပၢ​ဒီး​စု​ဆူၣ်​ခီၣ်​သ​ကး | OT 3/5 |  | Lev 25:43, 46, 53 |  |
 | saying (introducing speech) | ဒီး​စံး​ဝဲ​ဒၣ် | NT 416/453; OT 921/954 |  |  | NT also: စံး​ဝဲ, စံး<br>OT also: စံး​ဝဲ, စံး |
-| shew (show) | ဒုး​နဲၣ် | NT 66/120 varies; OT 141/281 varies |  |  |  |
+| shew (show) | ဒုး​နဲၣ် | NT 66/120 varies; OT 141/281 varies |  |  | Other Bible renderings (main form in 196 of 360 verses): ဘိး​ဘၣ်​သ့ၣ်​ညါ (15; e.g. Gen 41:39, Exod 18:20); မၤ​ဘျုး​မၤ​ဖှိၣ် (10; e.g. Exod 20:6, Deut 5:10) 'shew mercy'. |
 | standard (banner) | လၣ် | OT 18/19 |  | Num 1:52; 2:2 |  |
 | surely be put to death | က​ဘၣ်​တၢ်​မၤ​သံ​အီၤ​သ​ပှၢ်​တၢၢ် | OT 50/54 |  |  | Exod 21:12–17; 22:19. |
 | take (a wife) | ဟံး​န့ၢ် | NT |  |  | Matthew 1:20, 24 |
 | take heed / beware | ပ​လီၢ် | NT 31/37; OT 30/41 |  |  |  |
-| threescore | ဃု​ဆံ | OT 42/83 varies |  |  |  |
+| threescore | ဃု​ဆံ | OT 42/83 varies |  |  | Other Bible renderings (main form in 47 of 91 verses): ဃု​က​လး (8; e.g. Num 1:39, Num 2:26) 'threescore thousand'. |
 | to obey is better than sacrifice | ဒိ​က​နၣ်​တၢ်​န့ၣ်​ဂ့ၤ​န့ၢ်​လုၢ်​တၢ် | OT 1/1 |  | 1 Sam 15:22 | Key verse. |
-| together | ဖှိၣ် | NT 99/134; OT 188/335 varies |  |  | NT also: ဃုာ်<br>OT also: ဃုာ် |
+| together | ဖှိၣ် | NT 99/134; OT 188/335 varies |  |  | NT also: ဃုာ်<br>OT also: ဃုာ် Other Bible renderings (main form in 265 of 479 verses): တ​ပူၤ​ဃီ (81; e.g. Gen 13:6, Gen 22:6). |
 | token / sign | အ​ပ​နီၣ် | OT 10/10 |  |  | Gen 9:12, 13, 17 (token of the covenant). |
 | uncover nakedness | လီၣ်​ဖျါ​ထီၣ်​အ​တၢ်​ဘ့ၣ်​ဆ့ | OT 20/43 (varies) |  | Lev 18:6–19 |  |
-| usury | စ့​အ​အ့ၣ် | OT 11/15 |  |  | Exod 22:25. Literally “interest on money”. |
+| usury | စ့​အ​အ့ၣ် | OT 11/15 |  |  | Exod 22:25. Literally “interest on money”. Other Bible renderings (main form in 11 of 17 verses): ဒုး​လိၢ် (5; e.g. Deut 23:20, Isa 24:2) 'lend upon usury'. |
 | verily I say unto you | ယ​စံး​ဘၣ်​သု​တီ​တီ | NT 50/52 |  |  | NT also: ယ​စံး​ဘၣ်​တဲ​ဘၣ်​သု​တီ​တီ, စံး​ဘၣ်​နၤ​တီ​တီ |
 | wages / hire / reward | ဘူး​…​လဲ (e.g. န​ဘူး​န​လဲ) | Gen 15:1; 29:15; 30:28–33 |  |  | The pronoun is repeated: ယ​ဘူး​ယ​လဲ, န​ဘူး​န​လဲ. |
 | who is called | တၢ်​ကိး​ဝဲ​လၢ | NT |  |  | Matthew 1:16 |
-| whole (land, face of the earth) | ဒီ​ဘ့ၣ်​ညါ | OT 109/155 |  |  | OT also: ခဲ​လၢာ်, ကိး. Gen 2:6, 11, 13: ဒီ​ဘ့ၣ်​ညါ. |
-| whosoever | ဖဲ​ဒၣ်​ပှၤ​လၢ​အ | NT 58/93 varies |  |  | NT also: ဖဲ​ဒၣ်​ပှၤ, တ​ဂၤ​ဂၤ |
+| whole (land, face of the earth) | ဒီ​ဘ့ၣ်​ညါ | OT 109/155 |  |  | OT also: ခဲ​လၢာ်, ကိး. Gen 2:6, 11, 13: ဒီ​ဘ့ၣ်​ညါ. Other Bible renderings (main form in 60 of 244 verses): ဒီ​ဖျၢၣ်​ညါ (20; e.g. Exod 19:18, 1 Ki 6:22). |
+| whosoever | ဖဲ​ဒၣ်​ပှၤ​လၢ​အ | NT 58/93 varies |  |  | NT also: ဖဲ​ဒၣ်​ပှၤ, တ​ဂၤ​ဂၤ Other Bible renderings (main form in 72 of 164 verses): က​ယဲၢ်​ပှၤ​လၢ​အ (46; e.g. Exod 12:19, Exod 31:14). |
 | woe | ဘၣ်​အ​ဖှီၣ် | NT 28/33; OT 52/65 |  |  |  |
 | work | တၢ်​မၤ | NT 110/167 varies; OT 231/426 varies |  |  |  |
 
@@ -1177,9 +1177,9 @@ Karen text has zero-width spaces between syllables, following your translation i
 | English | Karen — use this | Bible evidence | MH | STC draft | Notes |
 |---|---|---|---|---|---|
 | Abib (month) | လါ​အၤ​ဘံာ် | OT 3/4 |  | Exod 13:4; Deut 16:1 | Deut 16:1 has အါ​ဘံာ် |
-| always | ထီ​ဘိ |  | 12/16 |  |  |
+| always | ထီ​ဘိ |  | 12/16 |  | Other Bible renderings (main form in 2 of 59 verses): တ​ဘိ​ယူၢ်​ဃီ (21; e.g. Deut 6:24, Matt 26:11); တ​ထံၣ်​ဃီ (20; e.g. Exod 27:20, Exod 28:38). |
 | best | အ​ဂ့ၤ​က​တၢၢ် |  | 13/15 |  |  |
-| daily, every day | ကိး​နံၤ​ဒဲး |  | 16/17 |  |  |
+| daily, every day | ကိး​နံၤ​ဒဲး |  | 16/17 |  | Other Bible renderings (main form in 4 of 82 verses): ကိး​မုၢ်​နံၤ (33; e.g. Gen 6:5, Num 28:24); မုၢ်​နံၤ​မုၢ်​နၤ​ဒဲး (20; e.g. Gen 6:5, 1 Sam 23:14). |
 | day | နံၤ | NT 233/291; OT 1155/1250 | *day(s)*: same 52/57 |  |  |
 | eight | ဃိး | OT 74/74 |  |  |  |
 | ephah | အ့​ဖး | OT 24/27 |  |  | Exod 16:36. |
@@ -1193,36 +1193,36 @@ Karen text has zero-width spaces between syllables, following your translation i
 | fourteen | တ​ဆံ​လွံၢ် | NT 3/3; OT 16/20 |  |  |  |
 | future | ခါ​ဆူ​ညါ |  | 5/5 |  |  |
 | gerah | က့​ရၤ | OT 5/5 |  | Lev 27:25 | 20 gerahs = 1 shekel |
-| highest | အ​ထီ​က​တၢၢ် |  | 6/8 |  |  |
+| highest | အ​ထီ​က​တၢၢ် |  | 6/8 |  | Other Bible renderings (main form in 2 of 20 verses): တၢ်​ထီ​က​တၢၢ် (7; e.g. Ps 18:13, Ps 87:5). |
 | hin | ဟံၣ် | OT 19/19 |  |  | Exod 29:40; 30:24. |
 | homer | ဃိ | OT 6/6 |  | Lev 27:16 |  |
 | hour | နၣ်​ရံၣ် | NT 69/82 |  |  | NT also: ဃီ​ဖဲ​န့ၣ် |
 | hundred | က​ယၤ | NT 28/33; OT 451/484 |  |  |  |
 | hundred thousand | (တ)​ကလီၤ | OT |  | Judg 8:10 | 120,000 = တကလီၤ ခံကလး; ကလး = 10,000. |
-| last | လီၢ်​ခံ​က​တၢၢ် |  | 6/8 |  |  |
+| last | လီၢ်​ခံ​က​တၢၢ် |  | 6/8 |  | Other Bible renderings (main form in 3 of 82 verses): အ​က​တၢၢ် (25; e.g. 1 Chr 29:29, 2 Chr 9:29). |
 | log (of oil) | (သိ)​တ​လိာ် | OT 5/5 |  | Lev 14:10–24 |  |
 | month | လါ | NT 20/20; OT 219/220 |  |  |  |
-| morning | ဂီၤ | OT 143/197 |  |  |  |
-| never | နီ​တ​ဘျီ … ဘၣ် |  | 29/48 |  |  |
+| morning | ဂီၤ | OT 143/197 |  |  | Other Bible renderings (main form in 153 of 220 verses): မုၢ်​ဆ့ၣ်​ထီၣ် (47; e.g. Gen 24:54, Gen 29:25). |
+| never | နီ​တ​ဘျီ … ဘၣ် |  | 29/48 |  | Other Bible renderings (main form in 0 of 83 verses): တ​ခီၣ် (17; e.g. Matt 7:23, Matt 9:33) 'never' (… နီတခီၣ် … ဘၣ်). |
 | new moon | လါ​ထီၣ်​သီ (အ​နံၤ) | OT 19/21 |  |  |  |
 | night | မုၢ်​နၤ | NT 49/61; OT 212/235 | same 8/11 |  | OT also: မုၢ်​ဆါ, တ​နၤ |
 | nine | ခွံ | OT 43/44 |  |  |  |
 | nothing | နီ​တ​မံၤ | NT 77/112 varies; OT 61/109 varies | နီ​တ​မံၤ … ဘၣ် 26/36 (same word, other form) |  |  |
-| often | ညီ​နုၢ် |  | 45/58 |  |  |
+| often | ညီ​နုၢ် |  | 45/58 |  | Other Bible renderings (main form in 0 of 14 verses): အါ​ဘျီ (3; e.g. Prov 29:1, Phil 3:18). |
 | omer | ဧိၤ​မ့ၢ် | OT 5/6 |  |  | Exod 16:16–36. |
 | seven | နွံ | NT 63/65; OT 321/326 |  |  |  |
 | seventh day | နွံ​နံၤ | OT 47/47 |  |  | Gen 2:2–3: မုၢ်​နွံ​နံၤ​တ​နံၤ. |
 | seventy | နွံ​ဆံ | OT 53/57 |  |  |  |
 | six | ဃု | OT 177/177 |  |  |  |
 | sometimes | တ​ဘျီ​တ​ခီၣ် |  | 6/7 |  |  |
-| ten | ဆံ | NT 21/27; OT 153/196 |  |  |  |
+| ten | ဆံ | NT 21/27; OT 153/196 |  |  | Other Bible renderings (main form in 178 of 231 verses): က​လး (50; e.g. Lev 26:8, Num 10:36) 'ten thousand'. |
 | tenth deal | အ့​စ​ရိၣ် | OT 7/9 |  | Lev 14:10, 21 | Lev 5:11 “tenth part of an ephah” = တ​အ့​ဖး​ဆံ​ဆဲၣ်​ပူ​တ​ပူ |
 | thirty | သၢ​ဆံ | OT 133/155 |  |  |  |
 | thousand | က​ထိ | NT 36/44; OT 322/396 | *thousand(s)*: same 10/10 |  |  |
 | three | သၢ | NT 66/66; OT 360/360 | same 4/4 |  |  |
 | today, this day | မုၢ်​မ​ဆါ​တ​နံၤ |  | 20/24 |  |  |
 | twelve | တ​ဆံ​ခံ | NT 55/62; OT 90/103 | same 6/6 |  |  |
-| twenty | ခံ​ဆံ | OT 194/251 |  |  |  |
+| twenty | ခံ​ဆံ | OT 194/251 |  |  | Other Bible renderings (main form in 202 of 262 verses): ခံ​က​လး (58; e.g. Num 3:39, Num 3:43) 'twenty thousand'. |
 | two | ခံ | NT 122/125; OT 568/578 |  |  |  |
 | until the even | တုၤ​မုၢ်​ဟါ | OT 28/28 |  | Lev 11:24–40 |  |
 | wherever | တ​ပူၤ​လၢ်​လၢ် |  | 6/7 |  |  |
