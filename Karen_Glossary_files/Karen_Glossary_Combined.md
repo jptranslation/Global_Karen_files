@@ -1241,12 +1241,13 @@ Karen text has zero-width spaces between syllables, following your translation i
 | wherever | တ​ပူၤ​လၢ်​လၢ် |  | 6/7 |  |  |
 | year | နံၣ် | NT 69/74; OT 658/664 | *year(s)*: same 19/22 |  |  |
 
-## 12. Names: people, places and peoples (3103)
+## 12. Names: people, places and peoples (3327)
 
 | English | Karen — use this | Bible evidence | MH | STC draft | Notes |
 |---|---|---|---|---|---|
 | Aaron | စီၤ​အၤ​ဟ​ရိၣ် | NT 5/5; OT 320/326 |  |  |  |
 | Aaronites | ပှၤ​အၤ​ဟ​ရိၣ်​ဖိ | OT 2/2 |  |  |  |
+| Abaddon | အ​ဘး​ဒိၣ် | NT 1 |  |  | Rev 9:11 |
 | Abagtha | စီၤ​အ​ဘၤ​က​သၤ | OT 1/1 |  |  |  |
 | Abana | အ​ဘၤ​နါ | OT 1/1 |  |  |  |
 | Abarim (mount) | က​စၢၢ်​ဧ​ဘါ​ရံၣ် |  |  | Num 27:12 |  |
@@ -1301,7 +1302,9 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Accad | အး​ကး | OT 1/1 |  |  |  |
 | Accho | ဧး​ကိၤ | OT 1/1 |  |  |  |
 | Acco (? Mic 1:10) | ဧး​ကိၤ | OT 0 |  |  | Mic 1:10 has 'weep not in ဧးကိၤ' where the KJV says 'weep ye not at all' |
+| Aceldama | အၤ​က့း​လ​ဒၤ​မါ | NT 1 |  |  | Acts 1:19, explained as 'field of blood' |
 | Achaia | အ​ဃါ​ယၤ | NT 10/11 |  |  |  |
+| Achaicus | စီၤ​အ​ဃ​ကူး | NT 1 |  |  | 1 Cor 16:17 |
 | Achan | စီၤ​ဧၤ​ကၣ် | OT 6/7 |  | Josh 7:1–24 |  |
 | Achar | စီၤ​ဧၤ​ကၢ် | OT 1/1 |  |  |  |
 | Achaz | စီၤ​အၤ​ဃး | NT 1 |  |  | Matt 1:9; OT Ahaz |
@@ -1344,12 +1347,18 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Adoraim | အ​ဒိ​ရဲၣ် | OT 1/1 |  |  |  |
 | Adoram | စီၤ​အ​ဒိၤ​ရၣ် | OT 2/2 |  |  |  |
 | Adrammelech | အ​ဒြၤ​မ့​လ့း | OT 2/3 |  |  |  |
+| Adramyttium | အ​ဒြၤ​မူး​တ့ၣ် | NT 1 |  |  | Acts 27:2 |
+| Adria | အ့​ဒြံ | NT 1 |  |  | Acts 27:27 |
 | Adriel | ဧ့​ဒြံ​အ့​လး | OT 1/2 |  |  |  |
 | Adullam | ဧ​ဒူး​လၣ် | OT 7/8 |  |  |  |
 | Adullamite | ပှၤ​ဧ​ဒူး​လၣ်​ဖိ | OT 3/3 |  |  |  |
 | Adummim | အ​ဒူ​မံၣ် | OT 1/2 |  |  |  |
+| Aeneas | စီၤ​အဲၤ​န့း | NT 2 |  |  | Acts 9:33, 34 |
+| Aenon | အဲၤ​နိၣ် | NT 1 |  |  | John 3:23 |
+| Agabus | စီၤ​အ​ကၤ​ဘူး | NT 2 |  |  | Acts 11:28; 21:10 |
 | Agag | စီၤ​အၤ​ကး | OT 6/6 |  | Num 24:7 |  |
 | Agagite | ပှၤ​အ​ကၤ​ကး​ဖိ | OT 5/5 |  |  |  |
+| Agar | နီၢ်​ဟၤ​ကၢ် | NT 2 |  |  | Gal 4:24-25; the Greek form of Hagar, same Karen spelling |
 | Agee | စီၤ​အ​က့ | OT 1/1 |  |  |  |
 | Agrippa | စီၤ​အ​ကြံး​ပၤ | NT 5/12 varies |  |  |  |
 | Agur | စီၤ အၤ​ကူၢ် | OT 1/1 |  |  | Prov 30:1 |
@@ -1415,14 +1424,18 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Alamoth | ဧၤ​လ​မိး | OT 1/2 |  |  |  |
 | Alemeth | ဧၤ​လ့​မ့း | OT 3/3 |  |  |  |
 | Alexander | စီၤ​အ​လ့း​စၣ်​ဒြူး | NT 5/5 |  |  |  |
+| Alexandria | အ​လ့း​စၣ်​ဒြူး | NT 3 |  |  | Acts 18:24; 27:6; 28:11; spelled the same as the name Alexander (see section 19) |
+| Alexandrians | ပှၤ​အ​လ့း​စၣ်​ဒြ့း​ဖိ | NT 1 |  |  | Acts 6:9 (see Alexandria, section 19) |
 | Aliah | ဧး​လ​ဝၣ် | OT 1/1 |  |  |  |
 | Alian | စီၤ​ဧး​လ​ဝၣ် | OT 1/1 |  |  |  |
+| Alleluia | စံး​ထီၣ်​ပ​တြၢၤ​ယွၤ | NT 4 |  |  | Rev 19:1, 3, 4, 6: translated 'praise God', not transliterated |
 | Allon | အး​လိၣ် | OT 2/2 |  |  |  |
 | Allonbachuth | အး​လိၣ်​ဘၤ​ကူာ် | OT 1/1 |  |  |  |
 | Almodad | စီၤ​အၤ​လ​မိ​ဒး | OT 2/2 |  |  |  |
 | Almon | ဧၤ​လ​မိၣ် | OT 1/1 |  |  |  |
 | Almondiblathaim | ဧၤ​လ​မိၣ်​ဒံး​ဘ​လၤ​သံၣ် | OT 2/2 |  |  |  |
 | Aloth | ဧၤ​လိး | OT 1/1 |  |  |  |
+| Alpha and Omega | က​ဒီး​ဧ | NT 4 |  |  | Rev 1:8; 21:6; 22:13: rendered with the first and last letters of the Karen alphabet (က, ဧ) |
 | Alphaeus | စီၤ​အၤ​လ​ဖဲ | NT 5/5 |  |  |  |
 | Alush | အၤ​လူၣ် | OT 2/2 |  |  |  |
 | Alvah | ဧး​လ​ဝၣ် | OT 1/1 |  |  |  |
@@ -1456,6 +1469,8 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Amon | အၤ​မိၣ် | OT 17/17 |  |  |  |
 | Amorite | ပှၤ​အ​မိၢ်​ဖိ | OT *Amorite* 12/14; OT *Amorites* 71/72 |  |  |  |
 | Amoz | စီၤ​အၤ​မိာ် | OT 7/13 |  |  |  |
+| Amphipolis | အၣ်​ဖံ​ပ​လံၤ | NT 1 |  |  | Acts 17:1 |
+| Amplias | စီၤ​အၣ်​ပျံ | NT 1 |  |  | Rom 16:8 |
 | Amram | စီၤ​ဧၤ​မ​ရၣ် | OT 11/13 |  |  |  |
 | Amramites | ပှၤ​ဧၤ​မ​ရၣ်​ဖိ | OT 2/2 |  |  |  |
 | Amraphel | အး​မ​ရၤ​ဖ့​လး | OT 2/2 |  |  |  |
@@ -1475,6 +1490,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Anath | စီၤ​ဧး​နး | OT 2/2 |  |  |  |
 | Anathoth | ဧၤ​န​သိး | OT 16/16 |  |  |  |
 | Andrew | စီၤ​အၣ်​ဒ​ရ့း | NT 12/12 |  |  |  |
+| Andronicus | စီၤ​အၤ​ဒြ​နံ​ကူး | NT 1 |  |  | Rom 16:7 |
 | Anem | ဧၤ​န့ၣ် | OT 1/1 |  |  |  |
 | Aner | စီၤ​ဧၤ​န့ၢ် | OT 3/3 |  |  |  |
 | Anethothite | ပှၤ​ဧၤ​န​သိး​ဖိ | OT 1/1 |  |  |  |
@@ -1484,9 +1500,12 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Anna | နီၢ်​အၣ်​နၤ | NT 1 |  |  | Luke 2:36 |
 | Annas | စီၤ​အၣ်​နၣ် | NT |  |  | Luke 3:2; the same spelling as Joanna (ယိၤ​အၣ်​နၣ်) without ယိၤ |
 | Antioch | အၣ်​တံၤ​အီာ် | NT 18/18 |  |  |  |
+| Antipas | စီၤ​အၣ်​တံ​ပၤ | NT 1 |  |  | Rev 2:13 |
+| Antipatris | အၣ်​တံၤ​ပၤ​တြံ | NT 1 |  |  | Acts 23:31 |
 | Antothijah | စီၤ​ဧၤ​န​သိ​သ​ယၤ | OT 1/1 |  |  |  |
 | Antothite | ပှၤ​ဧၤ​န​သိး​ဖိ | OT 2/2 |  |  |  |
 | Anub | စီၤ​ဧၤ​နူာ် | OT 1/1 |  |  |  |
+| Apelles | စီၤ​အၤ​ပ့း​လ့ၣ် | NT 1 |  |  | Rom 16:10 |
 | Apharsachites | ပှၤ​အၢ်​ပၢ်​စ​ကၤ​ဖိ | OT 1/2 |  |  | Ezra 6:6 has ပှၤ​အ​ပၢ်​စ​ကၤ​ဖိ. |
 | Apharsathchites | ပှၤ​အ​ပၢ်​စ​သၤ​ကၤ​ဖိ | OT 1/1 |  |  |  |
 | Apharsites | ပှၤ​အၢ်​ပၢ်​စၤ​ဖိ | OT 1/1 |  |  |  |
@@ -1496,8 +1515,12 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Aphik | အ​ဖံး | OT 1/1 |  |  |  |
 | Aphrah (house of) | ဘ့ၤ​သ​ဧၤ​ဖြၤ | OT 1/1 |  |  | Mic 1:10 ('Beth-aphrah') |
 | Aphses | စီၤ​ဟ​ဖံး​စ့း | OT 1/1 |  |  |  |
+| Apollonia | အၤ​ပ​လိၤ​နံ | NT 1 |  |  | Acts 17:1 |
 | Apollos | စီၤ​အ​ပီး​လိၤ | NT 10/10 |  |  |  |
+| Apollyon | အ​ပီး​လူၣ် | NT 1 |  |  | Rev 9:11 |
 | Appaim | စီၤ​အ​ဖၤ​ယံၣ် | OT 2/2 |  |  |  |
+| Apphia | နီၢ်​အး​ဖံ | NT 1 |  |  | Phlm 1:2 |
+| Appii forum | အး​ပံ​ပ​ရူး | NT 1 |  |  | Acts 28:15 |
 | Aquila | စီၤ​အ​ကူ​လၤ | NT 6/6 |  |  |  |
 | Ar | ဧၢ် | OT 6/6 |  |  |  |
 | Ara | စီၤ​အ့​ရၤ | OT 1/1 |  |  |  |
@@ -1520,6 +1543,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Archelaus | စီၤ​အၢ်​ဃ့​လး | NT 1/1 |  |  | Matt 2:22 |
 | Archevites | ပှၤ​အၢ်​က​ဝၤ​ဖိ | OT 1/1 |  |  |  |
 | Archi | အၢ်​ကံ | OT 1/1 |  |  |  |
+| Archippus | စီၤ​အၢ်​ဃံး​ပူး | NT 2 |  |  | Col 4:17 (Phlm 1:2 has a variant spelling; see section 19) |
 | Archite | ပှၤ​အၢ်​ကး​ဖိ | OT 5/5 |  |  |  |
 | Arcturus | ဆၣ်​က​ဆီ | OT 2/2 |  |  | constellation |
 | Ard | စီၤ​အၤ​ရး | OT 2/2 |  |  |  |
@@ -1527,6 +1551,9 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Ardon | စီၤ​အၢ်​ဒိၣ် | OT 1/1 |  |  |  |
 | Areli | စီၤ​အၤ​ရ​အ့​လံ | OT 1/2 |  |  |  |
 | Arelites | ပှၤ​အၤ​အ့ၤ​လံ​ဖိ | OT 1/1 |  |  |  |
+| Areopagite | (ပှၤ​စံၣ်​ညီၣ်​ကွီၢ်) | NT 1 |  |  | Acts 17:34, rendered 'judge' |
+| Areopagus | တၢ်​စိ​ခိၣ်​အၤ​ရံ | NT 2 |  |  | Acts 17:19, 22 (Mars' hill) |
+| Aretas | စီၤ​ပၤ​အ​ရံ​တၢ် | NT 1 |  |  | 2 Cor 11:32 'Aretas the king' |
 | Argob | အၢ်​ကိး | OT 5/5 |  | Deut 3:4, 13 |  |
 | Aridai | စီၤ​အ​ရံ​ဒဲၤ | OT 1/1 |  |  |  |
 | Aridatha | စီၤ​အ​ရံၤ​ဒ​သၤ | OT 1/1 |  |  |  |
@@ -1536,7 +1563,9 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Arioch | အၤ​ရ​ယိာ် | OT 2/6 |  |  |  |
 | Arisai | စီၤ​အ​ရံ​စဲၤ | OT 1/1 |  |  |  |
 | Aristarchus | စီၤ​အ​ရံ​စ​တၢ်​ဃူး | NT 4/5 |  |  |  |
+| Aristobulus | စီၤ​အ​ရံး​စ​တီး​ဘူ​လူး | NT 1 |  |  | Rom 16:10 |
 | Arkite | ဧၤ​ရ​ကၤ | OT 2/2 |  |  |  |
+| Armageddon | အၢ်​မ​က့း​ဒိၣ် | NT 1 |  |  | Rev 16:16 |
 | Armenia | အ​ရၤ​ရး | OT 2/2 |  |  |  |
 | Armoni | စီၤ​အၢ်​မိၤ​နံ | OT 1/1 |  |  |  |
 | Arnan | စီၤ​အၢ်​နၣ် | OT 1/1 |  |  |  |
@@ -1550,6 +1579,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Arphad | အၢ်​ပး | OT 2/2 |  |  | KJV spelling of Arpad (Isa 36:19; 37:13). |
 | Arphaxad | စီၤ​အၢ်​ဖး​ၡး | OT 9/9 |  |  |  |
 | Artaxerxes | အၢ်​တၤ​ၡါ​ၡ​တၤ | OT 14/14 |  |  |  |
+| Artemas | စီၤ​အၢ်​တ့း​မါ | NT 1 |  |  | Titus 3:12 |
 | Aruboth | အ​ရူ​ဘိး | OT 1/1 |  |  |  |
 | Arumah | အ​ရူ​မၤ | OT 1/1 |  |  |  |
 | Arvad | အၢ်​ဝး | OT 2/2 |  |  |  |
@@ -1598,10 +1628,12 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Asshur (Assyria) | အၤ​ၡူၢ် | OT 9/9 |  | Num 24:22–24 |  |
 | Asshurim | ပှၤ​အၤ​ၡူ​ရး​ဖိ | OT 1/1 |  |  |  |
 | Assir | စီၤ​အး​စံၢ် | OT 4/5 |  |  |  |
+| Assos | အၣ်​စူး | NT 2 |  |  | Acts 20:13, 14 |
 | Assur | အၤ​ၡူၢ် | OT 1/2 |  |  | Ezra 4:2; same form as Assyria. |
 | Assyria | အၤ​ၡူၢ် | OT 106/108 |  |  |  |
 | Assyrian | ပှၤ​အၤ​ၡူၢ်​ဖိ | OT 9/13 varies |  |  |  |
 | Astaroth | ဧၤ​ၡ​တြိး | OT 13 |  | Deut 1:4 |  |
+| Asyncritus | စီၤ​အ​စူၣ်​ကြံ​တူး | NT 1 |  |  | Rom 16:14 |
 | Atad | အၤ​တၤ | OT 2/2 |  |  |  |
 | Atarah | နီၢ်​ဧ​တါ​ရၤ | OT 1/1 |  |  |  |
 | Ataroth | ဧး​တၤ​ရိး | OT 4/5 |  | Num 32:3, 34 |  |
@@ -1610,9 +1642,11 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Athach | ဧၤ​သး | OT 1/1 |  |  |  |
 | Athaiah | စီၤ​ဧ​သါ​ယၤ | OT 1/1 |  |  |  |
 | Athaliah | နီၢ်​ဧ​သၤ​လ​ယၤ | OT 14/17 |  |  |  |
+| Athenians | ပှၤ​အၤ​သ့ၣ်​ဖိ | NT 2 |  |  | Acts 17:21, 22 |
 | Athens | အၤ​သ့ၣ် | NT 5/5 |  |  |  |
 | Athlai | စီၤ​ဧၤ​သ​လဲ | OT 1/1 |  |  |  |
 | Attai | စီၤ​ဧၤ​တဲ | OT 4/4 |  |  |  |
+| Attalia | အး​တါ​လံၤ | NT 1 |  |  | Acts 14:25 |
 | Augustus | အီ​ကူး​စ​တူး | NT 3/4 varies |  |  |  |
 | Ava | ဧး​ဝါ | OT 1/1 |  |  |  |
 | Aven | အၤ​ဝ့ၣ် | OT 3/3 |  |  |  |
@@ -1639,6 +1673,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Azmon | ဧၤ​စ​မိၣ် | OT 3/3 |  |  |  |
 | Aznothtabor | အၤ​စ​နိး​တၤ​ဘိၢ် | OT 1/1 |  |  |  |
 | Azor | စီၤ​ဧၤ​စၢ် | NT 1 |  |  | Matt 1:13, 14 |
+| Azotus | အး​စ​ဒိာ် | NT 1 |  |  | Acts 8:40 (OT Ashdod) |
 | Azriel | စီၤ​ဧၤ​စ​ရံၤ​အ့​လး | OT 2/3 |  |  |  |
 | Azrikam | စီၤ​ဧး​စ​ရံ​ကၣ် | OT 6/6 |  |  |  |
 | Azubah | နီၢ်​ဧ​စူ​ဘၤ | OT 4/4 |  |  |  |
@@ -1680,6 +1715,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Bakbuk | စီၤ​ဘၤ​က​ဘူး | OT 2/2 |  |  |  |
 | Bakbukiah | စီၤ​ဘး​က​ဘူ​က​ယၤ | OT 3/3 |  |  |  |
 | Balaam | စီၤ​ဘံး​လၣ်​အ *(NT)*<br>စီၤ​ဘံး​လၣ် *(OT)* | NT 3/3; OT 55/56 |  |  |  |
+| Balac | စီၤ​ဘၤ​လး | NT 1 |  |  | Rev 2:14; Balak |
 | Baladan | ဘၤ​လ​ဒၣ် | OT 2/2 |  |  |  |
 | Balah | ဘၤ​လၤ | OT 1/1 |  |  |  |
 | Balak | စီၤ​ဘၤ​လး | OT 37/40 |  |  |  |
@@ -1692,9 +1728,11 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Barak | စီၤ​ဘါ​ရး | OT 12/12 |  |  |  |
 | Barhumite | ပှၤ​တၢ်​ဃူၣ်​ဖိ | OT 1/1 |  |  |  |
 | Bariah | စီၤ​ဘၤ​ရံ | OT 1/1 |  |  |  |
+| Barjesus | စီၤ​ဘၢ်​ယ့ၣ်​ၡူး | NT 1 |  |  | Acts 13:6 |
 | Barjona | ဘၢ်​ယိၤ​နါ | NT 1/1 |  |  | Matt 16:17 (စီၤ​ၡံ​မိၣ်​ဘၢ်​ယိၤ​နါ) |
 | Barkos | စီၤ​ဘၢ်​ကိၣ် | OT 2/2 |  |  |  |
 | Barnabas | စီၤ​ဘၢ်​နါ​ဘၤ | NT 27/28 |  |  |  |
+| Barsabas | စီၤ​ဘၢ်​စ​ဘါ | NT 2 |  |  | Acts 1:23; 15:22 |
 | Bartholomew | စီၤ​ဘၢ်​သ | NT 4/4 |  |  |  |
 | Bartimaeus | စီၤ​ဘၣ်​တံၤ​မဲ | NT 1 |  |  | Mark 10:46 |
 | Baruch | စီၤ​ဘၤ​ရူး | OT 23/24 |  |  |  |
@@ -1772,6 +1810,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Besor (brook) | ထံ​ကျိ​ဘ​စိၢ် | OT 3/3 |  |  | 1 Sam 30:9. |
 | Betah | ဘ့ၤ​တၤ | OT 1/1 |  |  |  |
 | Beten | ဘ့​တ့ၣ် | OT 1/1 |  |  |  |
+| Bethabara | (ဘ့ၤ​သ​နံ) | NT 0/1 |  |  | John 1:28 given as Bethany, following the Greek reading |
 | Bethanath | ဘ့ၤ​သၤ​နး | OT 2/2 |  |  |  |
 | Bethanoth | ဘ့ၤ​သၤ​နိး | OT 1/1 |  |  |  |
 | Bethany | ဘ့ၤ​သ​နံ | NT 11/11 |  |  |  |
@@ -1791,6 +1830,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Bethelite | ပှၤ​ဘ့ၤ​သ့​လး​ဖိ | OT 1/1 |  |  |  |
 | Bethemek | ဘ့ၤ​သ​ဧ့ၤ​မ့း | OT 1/1 |  |  |  |
 | Bether | က​စၢၢ်​လၢၢ်​မုၢ် | OT 1/1 |  |  | Song 2:17; translated, not transliterated |
+| Bethesda | ဘ့ၤ​သ့း​စ​ဒါ | NT 1 |  |  | John 5:2 |
 | Bethezel | ဘ့ၤ​စ​သ့​လး | OT 1/1 |  |  | Mic 1:11 |
 | Bethgader | ဘ့ၤ​သ​ကၤ​ဒ့ၢ် | OT 1/1 |  |  |  |
 | Bethgamul | ဘ့ၤ​သ​ကၤ​မူ​လး | OT 1/1 |  |  |  |
@@ -1853,8 +1893,10 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Bishlam | စီၤ​ဘံး​ၡ​လၣ် | OT 1/1 |  |  |  |
 | Bithiah | နီၢ်​ဘံး​သ​ယၤ | OT 1/1 |  |  |  |
 | Bithron | ဘံၤ​သြိၣ် | OT 1/1 |  |  |  |
+| Bithynia | ဘံၤ​သူၤ​နံ | NT 1 |  |  | Acts 16:7 |
 | Bizjothjah | ဘံ​စ​ယိၤ​သၤ | OT 1/1 |  |  |  |
 | Biztha | စီၤ​ဘံး​စ​သၤ | OT 1/1 |  |  |  |
+| Blastus | စီၤ​ဘျၤ​စ​တူး | NT 1 |  |  | Acts 12:20 |
 | Boanerges | ဘ​အၤ​န့ၢ်​က့း | NT 1/1 |  |  | Mark 3:17, explained as 'sons of thunder' (လီ​သီၣ်​အ​ဖိ​ခွါ) |
 | Boaz | စီၤ​ဘိၤ​ဧး | OT 20/22 |  |  |  |
 | Bocheru | စီၤ​ဘိ​က​ရူၤ | OT 2/2 |  |  |  |
@@ -1862,6 +1904,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Bohan | စီၤ​ဘိ​ဟၣ် | OT 1/2 |  |  |  |
 | Booz | စီၤ​ဘိၤ​ဧး | NT 1 |  |  | Matt 1:5 (the verse also has စီၤ​ဧိၤ​ဘ့း; see section 17); OT Boaz |
 | Boscath | ဘိး​စ​ကး | OT 1/1 |  |  |  |
+| Bosor | စီၤ​ဘ​ဧိၢ် | NT 1 |  |  | 2 Pet 2:15; same Karen form as Beor |
 | Bozez | ဘိ​စ့း | OT 1/1 |  |  |  |
 | Bozkath | ဘိး​စ​ကး | OT 1/1 |  |  |  |
 | Bozrah | ဘိး​စ​ရၤ | OT 9/9 |  |  |  |
@@ -1888,14 +1931,17 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Calno | ကး​လ​နိၤ | OT 1/1 |  |  |  |
 | Calvary | က​ရၤ​နံ | NT | same 3/4 | က​ရၤ​နံၤ 3/6 ⚠ spelling differs | NT: Luke 23:33 |
 | Camon | ကၤ​မိၣ် | OT 1/1 |  |  |  |
+| Cana | ကၤ​နါ | NT 4 |  |  | John 2:1, 11; 4:46; 21:2 |
 | Canaan | က​နၤ​ဧၣ် | OT 86/87 |  |  |  |
 | Canaanite | ပှၤ​က​နၤ​ဧၣ်​ဖိ | OT *Canaanite* 11/12; OT *Canaanites* 50/53 |  |  |  |
+| Candace | နီၢ်​ကၣ်​ဒါ​က့ၤ | NT 1 |  |  | Acts 8:27 |
 | Canneh | ကး​နၤ | OT 1/1 |  |  |  |
 | Capernaum | က​ပ့း​ရ​နီၣ် | NT 16/16 | same 7/10 |  |  |
 | Caphthorim | ကၤ​ပ​တိ​ရံၣ် | OT 1/1 |  |  |  |
 | Caphtor | ကၤ​ဖ​တိၢ် | OT 3/3 |  | Deut 2:23 |  |
 | Caphtorim | ကၤ​ပ​တိ​ရံၣ် | OT 1/1 |  |  |  |
 | Caphtorims | ပှၤ​ကၤ​ဖ​တိၢ်​ဖိ | OT 1/1 |  |  |  |
+| Cappadocia | က​ပၤ​ဒ​ကံ | NT 1 |  |  | Acts 2:9 |
 | Carcas | စီၤ​ကၤ​ရ​ကၣ် | OT 1/1 |  |  |  |
 | Carchemish | ကၢ်​က​မံၣ် | OT 3/3 |  |  |  |
 | Careah | စီၤ​ကၤ​ရ့ၤ | OT 1/1 |  |  |  |
@@ -1903,15 +1949,21 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Carmelite | ပှၤ​ကၢ်​မ့ၤ​လး​ဖိ | OT 4/5 |  |  |  |
 | Carmi | စီၤ​ကၢ်​မံၤ | OT 8/8 |  |  |  |
 | Carmites | ပှၤ​ကၢ်​မံၤ​ဖိ | OT 1/1 |  |  |  |
+| Carpus | စီၤ​ကၢ်​ပူး | NT 1 |  |  | 2 Tim 4:13 |
 | Carshena | စီၤ​ကၢ်​ၡၤ​နၤ | OT 1/1 |  |  |  |
 | Casiphia | ကၤ​စ​ဖၤ​ယၤ | OT 1/1 |  |  |  |
 | Casluhim | ကၤ​စ​လူ​ဃံၣ် | OT 2/2 |  |  |  |
+| Cedron | ကံ​ဒြိၣ် | NT 1 |  |  | John 18:1; same spelling as OT Kidron |
+| Cenchrea | က့ၣ်​ဃ​ရ့း | NT 1 |  |  | Acts 18:18 |
 | Cephas | စီၤ​က့ၤ​ဖး | NT 6/6 |  |  |  |
 | Chalcol | စီၤ​ကး​လ​ကိး​လး | OT 1/1 |  |  |  |
+| Chaldaeans | ကီၢ်​က့ၤ​စ့း | NT 1 |  |  | Acts 7:4 |
 | Chaldea | က့ၤ​စ့း | OT 7/7 |  |  | usually ကီၢ် က့ၤ စ့း |
 | Chaldeans | ပှၤ​က့ၤ​စ့း​ဖိ | OT 60/66 |  |  |  |
 | Chaldees | ပှၤ​က့ၤ​စ့း​ဖိ | OT 13/14 |  |  |  |
+| Chanaan | က​နၤ​ဧၣ် | NT 2 |  |  | Acts 7:11; 13:19 (OT Canaan) |
 | Charashim | ဃ​ရၤ​ၡး | OT 1/1 |  |  |  |
+| Charran | ဃၤ​ရၣ် | NT 2 |  |  | Acts 7:2, 4 (OT Haran) |
 | Chebar | က​ဘၢ် | OT 8/8 |  |  | river; ထံ မိၢ် ပှၢ် က ဘၢ် |
 | Chedorlaomer | က​ဒၢ်​လ​ဧိ​မ့ၢ် | OT 5/5 |  |  |  |
 | Chelal | စီၤ​က​လၤ​လး | OT 1/1 |  |  |  |
@@ -1941,11 +1993,13 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Chimham | ကံ​မ​ဟၣ် | OT 3/4 |  |  |  |
 | Chinnereth (sea of) | ပီၣ်​လဲၣ်​ကံး​န့ၤ​ရ့​သး | OT 3/4 |  | Num 34:11 |  |
 | Chinneroth | ကံး​န့ၤ​ရ့​သး | OT 2/2 |  |  |  |
+| Chios | ဃံ​အူး | NT 1 |  |  | Acts 20:15 |
 | Chisleu | ကံး​စ​လ့ၤ | OT 1/2 |  |  |  |
 | Chislon | စီၤ​ကံး​စ​လိၣ် | OT 1/1 |  |  |  |
 | Chislothtabor | ကံး​စ​လိး​တၤ​ဘိၢ် | OT 1/1 |  |  |  |
 | Chittim | ကံး​တံၣ် | OT 5/6 |  |  |  |
 | Chiun | ကံၣ်​ယူၣ် | OT 1/1 |  |  | Amos 5:26 |
+| Chloe | နီၢ်​ကျိး​အ့ၤ | NT 1 |  |  | 1 Cor 1:11 |
 | Chorashan | ရၤ​ၡၣ် | OT 1/1 |  |  |  |
 | Chorazin | ဃၤ​ရၤ​စံၣ် | NT 1 |  |  | Matt 11:21 |
 | Chozeba | ကိၤ​စ့​ဘၤ | OT 1/1 |  |  |  |
@@ -1957,18 +2011,31 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Chuza | စီၤ​ဃူၤ​စါ | NT 1 |  |  | Luke 8:3 |
 | Cilicia | ကံၤ​လံၤ​ကံ | NT 7/8 |  |  |  |
 | Cinneroth | ကံး​န့ၤ​ရ့​သး | OT 1/1 |  |  |  |
+| Cis | စီၤ​ကံၣ် | NT 1 |  |  | Acts 13:21 (OT Kish) |
+| Clauda | ကျီ​ဒ့ၤ | NT 1 |  |  | Acts 27:16 |
+| Claudia | နီၢ်​ကျီၢ်​ဒံ | NT 1 |  |  | 2 Tim 4:21 |
+| Claudius | စီၤ​ကျီၤ​ဒံ | NT 3 |  |  | Acts 11:28; 18:2; 23:26 (Claudius Lysias) |
+| Clement | စီၤ​ကျ့​မ့ၤ | NT 1 |  |  | Phil 4:3 |
 | Cleopas | စီၤ​ကျ့​အီး​ပၤ | NT 1 |  |  | Luke 24:18 |
+| Cleophas | စီၤ​ကျ့း​အီၤ​ပၤ | NT 1 |  |  | John 19:25; Cleopas in Luke 24:18 is စီၤ​ကျ့​အီး​ပၤ (see section 19) |
+| Cnidus | က​နံ​ဒူး | NT 1 |  |  | Acts 27:7 |
 | Colhozeh | စီၤ​ကိး​လ​ဃိ​စ့ၤ | OT 2/2 |  |  |  |
+| Colosse | က​လီး​စဲ | NT 1 |  |  | Col 1:2 |
 | Conaniah | စီၤ​က​နၤ​န​ယၤ | OT 1/1 |  |  | Same man as Cononiah. |
 | Coniah | ကၤ​န​ယၤ | OT 3/5 |  |  | Jer 22:24, 28; 37:1 |
 | Cononiah | စီၤ​က​နၤ​န​ယၤ | OT 2/2 |  |  | Same man as Conaniah. |
+| Coos | ကိၣ် | NT 1 |  |  | Acts 21:1 |
 | Corban | (ကီၤ​ဘၣ်) | NT 1 |  |  | Mark 7:11; given as 'a gift' rather than the word Corban |
+| Core | စီၤ​ကိၤ​ရး | NT 1 |  |  | Jude 1:11; same Karen form as Korah |
 | Corinth | က​ရံၣ်​သူး | NT 6/6 |  |  |  |
 | Cornelius | စီၤ​က​န့​လံး | NT 7/10 varies |  |  |  |
 | Cosam | စီၤ​ကိၣ်​စၣ် | NT 1 |  |  | Luke 3:28 |
 | Coz | စီၤ​ကိး | OT 1/1 |  |  |  |
 | Cozbi | နီၢ်​ကး​စ​ဘံၤ | OT 2/2 |  | Num 25:15, 18 |  |
+| Crescens | စီၤ​ကြံ​စ​ကံၣ် | NT 1 |  |  | 2 Tim 4:10 |
 | Crete | ကြ့​တ့ၤ | NT 5/5 |  |  |  |
+| Cretians | ပှၤ​ကြ့​တ့ၤ​ဖိ | NT 1 |  |  | Titus 1:12 |
+| Crispus | စီၤ​ကြံ​စ​ပူး | NT 2 |  |  | Acts 18:8; 1 Cor 1:14 |
 | Cush (person) | စီၤ​ကူၤ​ၡး | OT 9/9 |  |  | The land (Ethiopia) = ကူၤ​ၡး. |
 | Cushan | ကူၤ​ၡး | OT 1/1 |  |  | Hab 3:7, following the KJV margin 'Ethiopia' (same as Cush) |
 | Cushi | စီၤ​ကူၤ​ၡံ | OT |  |  | 2 Sam 18:21–32. |
@@ -1985,7 +2052,10 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Dagon | ဒၤ​ကိၣ် | OT 7/7 |  | Judg 16:23; 1 Sam 5 |  |
 | Dalaiah | စီၤ​ဒ​လါ​ယၤ | OT 1/1 |  |  |  |
 | Dalmanutha | ဒၤ​လ​မၤ​နူၤ​သၤ | NT 1/1 |  |  | Mark 8:10 |
+| Dalmatia | ဒၤ​လ​မါ​တံၤ | NT 1 |  |  | 2 Tim 4:10 |
 | Dalphon | စီၤ​ဒၤ​လ​ဖိၣ် | OT 1/1 |  |  |  |
+| Damaris | နီၢ်​ဒ​မၤ​ရံ | NT 1 |  |  | Acts 17:34 |
+| Damascenes | ဝ့ၢ်​ဒၤ​မ့ၤ​စ့း | NT 1 |  |  | 2 Cor 11:32 'the city of the Damascenes' rendered 'the city of Damascus' |
 | Damascus | ဒၤ​မ့ၤ​စ့း | NT 14/15; OT 39/40 |  |  |  |
 | Dan | ဒၣ် | OT 64/64 |  |  |  |
 | Daniel | စီၤ​ဒၤ​နံး​ယ့​လး | OT 71/71 |  |  |  |
@@ -2008,6 +2078,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Delaiah | စီၤ​ဒ​လါ​ယၤ | OT 6/6 |  |  |  |
 | Delilah | နီၢ်​ဒ​လံ​လၤ | OT 6/6 |  | Judg 16:4–18 |  |
 | Demas | စီၤ​ဒ့​မၤ | NT 3/3 |  |  |  |
+| Demetrius | စီၤ​ဒ့ၤ​မ့ၤ​တြံ | NT 2 |  |  | Acts 19:24, 38 |
 | Derbe | ဒ့ၢ်​ဘ့ၤ | NT 4/4 |  |  |  |
 | Deuel | စီၤ​ဒ​ဧူၤ​အ့​လး | OT 4/4 |  | Num 1:5–15 |  |
 | Diana | နီၢ်​အၢ်​တ့း​မံၤ | NT 5/5 |  |  |  |
@@ -2016,6 +2087,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Dibon | ဒံၤ​ဘိၣ် | OT 8/9 |  |  |  |
 | Dibongad | ဒံ​ဘိၣ်​ကး | OT 2/2 |  |  |  |
 | Dibri | စီၤ​ဒံး​ဘ​ရံၤ | OT 1/1 |  |  |  |
+| Didymus | စီၤ​ဒံ​ဒူၤ​မူး | NT 3 |  |  | John 11:16; 20:24; 21:2 |
 | Diklah | စီၤ​ဒံး​က​လး | OT 2/2 |  |  |  |
 | Dilean | ဒံ​လၣ် | OT 1/1 |  |  |  |
 | Dimnah | ဒံး​မ​နၤ | OT 1/1 |  |  |  |
@@ -2024,6 +2096,8 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Dinah | နီၢ်​ဒံ​နၤ | OT 7/8 |  |  |  |
 | Dinaites | ပှၤ​ဒံ​နၤ​ဖိ | OT 1/1 |  |  |  |
 | Dinhabah | ဒံး​န​ဟး​ဘၤ | OT 2/2 |  |  |  |
+| Dionysius | စီၤ​ဒံၤ​နူၤ​စံၤ | NT 1 |  |  | Acts 17:34 |
+| Diotrephes | စီၤ​ဒံ​အိၤ​တြ့ၤ​ဖံ | NT 1 |  |  | 3 John 1:9 |
 | Dishan | စီၤ​ဒံ​ၡၣ် | OT 5/5 |  |  |  |
 | Dishon | စီၤ​ဒံ​ၡိၣ် | OT 6/6 |  |  |  |
 | Dizahab | ဒံ​စၤ​ဟး | OT 1/1 |  |  |  |
@@ -2034,9 +2108,12 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Doeg | စီၤ​ဒိ​အ့း | OT 5/5 |  |  | 1 Sam 21:7. The Edomite. |
 | Dophkah | ဒၤ​ဖ​ကၤ | OT 2/2 |  |  |  |
 | Dor | ဒိၢ် | OT 6/6 |  |  |  |
+| Dorcas | နီၢ်​ဒီၢ်​ကါ | NT 2 |  |  | Acts 9:36, 39 |
 | Dothan | ဒိၤ​သၣ် | OT 2/2 |  |  |  |
+| Drusilla | နီၢ်​ဒြူၤ​စံး​လ့ၤ | NT 1 |  |  | Acts 24:24 |
 | Dumah | စီၤ​ဒူ​မၤ | OT 4/4 |  |  |  |
 | Dura | ဒူ​ရၤ | OT 1/1 |  |  |  |
+| Easter | (ဘူၣ်​လဲၤ​က​ပာ်) | NT 1 |  |  | Acts 12:4, rendered 'passover' |
 | Ebal | ဧ့ၤ​ဘါ​လး | OT 7/8 |  |  |  |
 | Ebed | စီၤ​ဧ့​ဘ့း | OT 6/6 |  |  |  |
 | Ebedmelech | ဧ့ၤ​ဘ့း​မ့​လ့း | OT 6/6 |  |  |  |
@@ -2133,9 +2210,11 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Eltolad | အ့း​လ​တိ​လး | OT 2/2 |  |  |  |
 | Elul | အ​လူ​လး | OT 1/1 |  |  |  |
 | Eluzai | စီၤ​အ​လူ​စဲၤ | OT 1/1 |  |  |  |
+| Elymas | စီၤ​အ့း​လူ​မၤ | NT 1 |  |  | Acts 13:8 |
 | Elzabad | စီၤ​အ့​လ​စၤ​ဘး | OT 2/2 |  |  |  |
 | Emims | ပှၤ​အ့ၣ်​ဖိ | OT 3/3 |  | Deut 2:10–11 |  |
 | Emmaus | အ့း​မၤ​အူ | NT 1 |  |  | Luke 24:13 |
+| Emmor | စီၤ​ဃ​မိၢ် | NT 1 |  |  | Acts 7:16 (OT Hamor) |
 | Enam | ဧ့ၤ​နၣ် | OT 1/1 |  |  |  |
 | Enan | စီၤ​ဧ့​နၣ် | OT 4/5 |  | Num 1:5–15 |  |
 | Endor | ဧ့ၣ်​ဒိၣ် | OT 1/3 varies |  |  | 1 Sam 28:7. |
@@ -2153,6 +2232,9 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Enrogel | ဧ့ၣ်​ရိၤ​က့​လး | OT 4/4 |  | Josh 15:7; 18:16 |  |
 | Enshemesh | ဧ့ၣ်​ၡ့​မ့ၣ် | OT 1/2 |  |  |  |
 | Entappuah | ဧ့ၣ်​တး​ပူၤ | OT 1/1 |  |  |  |
+| Epaenetus | စီၤ​အ့​ပဲ​န့း​တူး | NT 1 |  |  | Rom 16:5 |
+| Epaphras | စီၤ​အ့း​ပၤ​ဖြါ | NT 3 |  |  | Col 1:7; 4:12; Phlm 1:23 |
+| Epaphroditus | စီၤ​အ့း​ပၤ​ဖ​ရီး​ဒံ​တူး | NT 2 |  |  | Phil 2:25; 4:18 |
 | Ephai | ဧ့ၤ​ဖ့ၤ | OT 1/1 |  |  |  |
 | Epher | စီၤ​ဧ့ၤ​ဖ့ၢ် | OT 3/4 |  |  |  |
 | Ephesdammim | အ့​ဖ့း​စ​ဒး​မံၣ် | OT 1/1 |  |  |  |
@@ -2167,9 +2249,11 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Ephrath | အ့​ဖ​ရး​သး | OT 4/4 |  |  |  |
 | Ephrathite | ပှၤ​အ့​ဖ​ရး​သး​ဖိ | OT 3/3 |  |  |  |
 | Ephron | စီၤ​ဧ့ၤ​ဖ​ရိၣ် | OT 10/11 |  |  |  |
+| Epicureans | ပှၤ​အ့း​ပံၤ​ကူၤ​ရူး​ဖိ | NT 1 |  |  | Acts 17:18 |
 | Er | စီၤ​အ့ၢ် | OT 7/7 |  |  |  |
 | Eran | စီၤ​ဧ့​ရၣ် | OT 1/1 |  |  |  |
 | Eranites | ပှၤ​ဧ့​ရၣ်​ဖိ | OT 1/1 |  |  |  |
+| Erastus | စီၤ​အ့​ရၤ​စ​တူး | NT 1 |  |  | Acts 19:22 |
 | Erech | အ့​ရ့း | OT 1/1 |  |  |  |
 | Eri | စီၤ​ဧ့​ရံၤ | OT 2/2 |  |  |  |
 | Erites | ပှၤ​ဧ့​ရံၤ​ဖိ | OT 1/1 |  |  |  |
@@ -2201,7 +2285,12 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Ethiopian (Cushite) | ပှၤ​ကူၤ​ၡး​ဖိ | OT 7/7 |  | Num 12:1 |  |
 | Ethnan | စီၤ​အ့ၤ​သၣ် | OT 1/1 |  |  |  |
 | Ethni | စီၤ​အ့ၤ​သ​နံ | OT 1/1 |  |  |  |
+| Eubulus | စီၤ​အူၤ​ဘူ​လူး | NT 1 |  |  | 2 Tim 4:21 |
+| Eunice | နီၢ်​အူ​နံ​က့ၤ | NT 1 |  |  | 2 Tim 1:5 |
+| Euodias | နီၢ်​အူၤ​အိ​ဒံၤ | NT 1 |  |  | Phil 4:2 |
 | Euphrates | ဖ​ရၤ​သး | OT 17/19 |  |  |  |
+| Euroclydon | အူၤ​ရ​ကျူ​ဒိၣ် | NT 1 |  |  | Acts 27:14 |
+| Eutychus | စီၤ​အူ​တူၤ​ဃူး | NT 1 |  |  | Acts 20:9 |
 | Eve | နီၢ်​အံၣ်​အု | OT | same 3/3 |  | OT: Genesis 3:20 |
 | Evi | စီၤ​အ​ဝံၤ | OT 2/2 |  | Num 31:8 |  |
 | Evilmerodach | အ့​ဝ​လး​မ​ရိ​ဒး | OT 1/2 |  |  |  |
@@ -2219,10 +2308,12 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Ezri | စီၤ​ဧ့​စ​ရံၤ | OT 1/1 |  |  |  |
 | Felix | စီၤ​ဖ့​လံး | NT 6/8 varies |  |  |  |
 | Festus | စီၤ​ဖ့​စ​တူး | NT 12/13 |  |  |  |
+| Fortunatus | စီၤ​ဖူာ်​တူၤ​နါ​တူး | NT 1 |  |  | 1 Cor 16:17 |
 | Gaal | စီၤ​ကၤ​လး | OT 9/9 |  |  |  |
 | Gaash | ကၤ​ဧၣ် | OT 4/4 |  |  |  |
 | Gaba | က့​ဘၤ | OT 2/2 |  |  |  |
 | Gabbai | စီၤ​ကး​ဘဲ | OT 1/1 |  |  |  |
+| Gabbatha | ကၤ​ဘၤ​သါ | NT 1 |  |  | John 19:13 |
 | Gabriel | ကၤ​ဘြံၤ​အ့​လး | OT 2/2 |  |  | Dan 8:16; 9:21 |
 | Gad | ကး | OT 68/68 |  |  |  |
 | Gadarenes | ပှၤ​က​ဒါ​ရၤ | NT 3/3 |  |  |  |
@@ -2261,6 +2352,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Geber | စီၤ​က့​ဘ့ၢ် | OT 2/2 |  |  |  |
 | Gebim | က့​ဘံၣ် | OT 1/1 |  |  |  |
 | Gedaliah | စီၤ​က​ဒါ​လ​ယၤ | OT 30/31 |  |  |  |
+| Gedeon | စီၤ​ကံး​ဒ​ဧိၣ် | NT 1 |  |  | Heb 11:32; same Karen form as Gideon |
 | Geder | က့​ဒ့ၢ် | OT 1/1 |  |  |  |
 | Gederah | က​ဒ့​ရၤ | OT 1/1 |  |  |  |
 | Gederathite | ပှၤ​က​ဒ့​ရၤ​သး​ဖိ | OT 1/1 |  |  |  |
@@ -2522,11 +2614,15 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Hephzibah | နီၢ်​ဃ့​ပ​စံ​ဘၤ | OT 2/2 |  |  |  |
 | Heres | ဃ့​ရ့း | OT 1/1 |  |  |  |
 | Heresh | စီၤ​ဃ့​ရ့ၣ် | OT 1/1 |  |  |  |
+| Hermas | စီၤ​ဟ့ၣ်​မၤ | NT 1 |  |  | Rom 16:14 |
+| Hermes | စီၤ​ဟ့ၣ်​မ့ၣ် | NT 1 |  |  | Rom 16:14 |
+| Hermogenes | စီၤ​အ့း​ရံ​မိ​က့း​န့ၤ | NT 1 |  |  | 2 Tim 1:15 |
 | Hermon | ဃ့​ရ​မိၣ် | OT 12/13 |  |  |  |
 | Hermonites | ဃ့​ရ​မိၣ် | OT 1/1 |  |  | Ps 42:6; rendered as "mount Hermon" |
 | Herod | စီၤ​ဟ့ၤ​ရိာ် | NT 34/41 |  |  |  |
 | Herodians | ပှၤ​ဟ့ၤ​ရိာ်​ဖိ | NT 1 |  |  | Matt 22:16 |
 | Herodias | နီၢ်​ဟ့ၤ​ရိၤ​ဒံ | NT 6/6 |  |  |  |
+| Herodion | စီၤ​ဟ့ၤ​ရ​ဒံ | NT 1 |  |  | Rom 16:11 |
 | Hesed | စီၤ​ဃ့​စ့း | OT 1/1 |  |  |  |
 | Heshbon | ဃ့​ၡ​ဘိၣ် | OT 37/37 |  |  |  |
 | Heshmon | ဃ့​ၡ​မိၣ် | OT 1/1 |  |  |  |
@@ -2543,6 +2639,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Hiddai | စီၤ​ဟံး​ဒဲ | OT 1/1 |  |  |  |
 | Hiddekel | ဃံး​ဒ​က့​လး | OT 2/2 |  |  |  |
 | Hiel | ဃံၤ​အ့​လး | OT 1/1 |  |  |  |
+| Hierapolis | ဟံၣ်​ရိး​ပ​လံ | NT 1 |  |  | Col 4:13 |
 | Hilen | ဃံ​လ့ၣ် | OT 1/1 |  |  | Karen has it in the next or previous verse (verse boundaries differ) |
 | Hilkiah | စီၤ​ဃံး​လ​ကံ​ယၤ | OT 29/31 |  |  |  |
 | Hillel | ဟံး​လ့​လး | OT 2/2 |  |  |  |
@@ -2606,6 +2703,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Hushim | စီၤ​ဃူ​ၡံၣ် | OT 4/4 |  |  |  |
 | Huz | စီၤ​ဧူ​စး | OT 1/1 |  |  |  |
 | Huzzab | — | OT 0/1 |  |  | Nah 2:7 has နံၤ​န​ဝ့ 'Nineveh' in its place |
+| Hymenaeus | စီၤ​ဟူၤ​မ့း​နဲ | NT 2 |  |  | 1 Tim 1:20; 2 Tim 2:17 (same spelling) |
 | Ibhar | စီၤ​ယံး​ဘ​ဃၢ် | OT 3/3 |  |  |  |
 | Ibleam | ယံး​ဘျၣ် | OT 3/3 |  |  |  |
 | Ibneiah | စီၤ​ယံး​ဘ​နံ​ယၤ | OT 1/1 |  |  |  |
@@ -2627,6 +2725,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Ijon | ဧံၤ​ယိၣ် | OT 3/3 |  |  |  |
 | Ikkesh | စီၤ​ဧံး​က့ၣ် | OT 2/3 |  |  |  |
 | Ilai | စီၤ​ဧံ​လဲၤ | OT 1/1 |  |  |  |
+| Illyricum | အံး​လူၤ​ရံ​ကူး | NT 1 |  |  | Rom 15:19 |
 | Imla | စီၤ​ယံး​မ​လၤ | OT 2/2 |  |  |  |
 | Imlah | စီၤ​ယံး​မ​လၤ | OT 2/2 |  |  |  |
 | Immanuel | ဧံး​မၤ​နူၤ​အ့​လး | OT 1/2 |  |  | Isa 7:14 has ဧ့း (see section 19); Matt 1:23 has ဧံး. |
@@ -2680,6 +2779,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Isshiah | စီၤ​ယံး​ၡံ​ယၤ | OT 2/2 |  |  |  |
 | Isuah | စီၤ​ယံး​ၡ​ဝၤ | OT 1/1 |  |  |  |
 | Isui | စီၤ​ယံး​ၡ​ဝံၤ | OT 1/1 |  |  |  |
+| Italian | အံၤ​တ​လံ | NT 1 |  |  | Acts 10:1 (Italian band); same form as Italy |
 | Italy | အံၤ​တ​လံ | NT 4/4 |  |  |  |
 | Ithai | စီၤ​အံ​သဲၤ | OT 1/1 |  |  |  |
 | Ithamar | စီၤ​အံ​သ​မၢ် | OT 19/20 |  |  |  |
@@ -2756,11 +2856,13 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Jakeh | စီၤ ယၤ​က့ၣ် | OT 1/1 |  |  | Prov 30:1 |
 | Jakim | စီၤ​ယၤ​ကံၣ် | OT 2/2 |  |  |  |
 | Jalon | စီၤ​ယၤ​လိၣ် | OT 1/1 |  |  |  |
+| Jambres | စီၤ​ယၣ်​ဘြံၤ | NT 1 |  |  | 2 Tim 3:8 |
 | James | စီၤ​ယၤ​ကိာ် | NT 38/38 |  |  |  |
 | Jamin | စီၤ​ယး​မံၣ် | OT 1/6 |  |  |  |
 | Jaminites | ပှၤ​ယၤ​မံၣ်​ဖိ | OT 1/1 |  |  |  |
 | Jamlech | စီၤ​ယၤ​မ​လ့း | OT 1/1 |  |  | Karen has it in the next or previous verse (verse boundaries differ) |
 | Janna | စီၤ​ယၣ်​နါ | NT 1 |  |  | Luke 3:24 |
+| Jannes | စီၤ​ယၣ်​နံၤ | NT 1 |  |  | 2 Tim 3:8 |
 | Janoah | ယၤ​နိ​ဃၤ | OT 1/1 |  |  |  |
 | Janohah | ယၤ​နိ​ဃၤ | OT 2/2 |  |  |  |
 | Janum | ယၤ​နူၣ် | OT 1/1 |  |  |  |
@@ -2854,6 +2956,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Jekuthiel | စီၤ​ယ​ကူ​သံၤ​အ့​လး | OT 1/1 |  |  |  |
 | Jemima | နီၢ် ယ​မံ​မၤ | OT 1/1 |  |  |  |
 | Jemuel | စီၤ​ယၤ​မူ​အ့​လး | OT 1/2 |  |  |  |
+| Jephthae | စီၤ​ယံး​ဖ​သၤ | NT 1 |  |  | Heb 11:32; same Karen form as Jephthah |
 | Jephthah | စီၤ​ယံး​ဖ​သၤ | OT 25/25 |  |  |  |
 | Jephunneh | စီၤ​ယ​ဖူ​န့ၤ | OT 16/16 |  |  |  |
 | Jerah | စီၤ​ယၤ​ရၢ် | OT 2/2 |  |  |  |
@@ -2904,6 +3007,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Jeuel | စီၤ​ယူၤ​အ့​လး | OT 1/1 |  |  |  |
 | Jeush (Esau's son) | စီၤ​ယ​ဧူၤ​ၡး (varies) | OT 5/8 |  |  | Spelled 3 ways in Gen 36:5, 14, 18 and differently in 1 Chr 1:35. Check the printed Bible. |
 | Jeuz | စီၤ​ယ​ဧူး​စး | OT 1/1 |  |  |  |
+| Jewess | ပှၤ​ယူ​ဒၤ​မုၣ် | NT 2 |  |  | Acts 16:1; 24:24 |
 | Jewish nation | ပှၤ​ယူ​ဒၤ​ဖိ​က​လုာ် |  | ch. 1 (1×) |  |  |
 | Jewry | ကီၢ်​ယူ​ဒၤ | OT 1 |  |  | Dan 5:13 |
 | Jezaniah | ယ​စါ​န​ယၤ | OT 1/2 |  |  | also ယ စၤ န ယၤ (40:8) |
@@ -2993,6 +3097,10 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Judah | ယူ​ဒၤ | OT 743/754 |  |  |  |
 | Judea | ယူ​ဒၤ | OT 1/1 |  |  | Same Karen form as Judah (ကီၢ်​ယူ​ဒၤ). |
 | Judith | နီၢ်​ယ​ဟူ​ဒံး | OT 1/1 |  |  |  |
+| Julia | ယူၤ​လံ | NT 1 |  |  | Rom 16:15; spelled the same as Julius (Acts 27:1) |
+| Julius | စီၤ​ယူၤ​လံ | NT 2 |  |  | Acts 27:1, 3 |
+| Junia | ယူၤ​နံ | NT 1 |  |  | Rom 16:7 |
+| Jupiter | စူ | NT 2 |  |  | Acts 14:12, 13 |
 | Jushabhesed | စီၤ​ယူ​ၡ​ဘၤ​ဃ့​စ့း | OT 1/1 |  |  |  |
 | Justus | စီၤ​ယူ​စ​တူး | NT 3/3 |  |  |  |
 | Juttah | ယူး​တၤ | OT 2/2 |  |  |  |
@@ -3066,6 +3174,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Korhites | ပှၤ​ကိၤ​ရး​ဖိ | OT 4/4 |  |  |  |
 | Koz | စီၤ​ကိ​စး | OT 4/4 |  |  |  |
 | Kushaiah | စီၤ​ကူၤ​ၡါ​ယၤ | OT 1/1 |  |  |  |
+| Kyria (the elect lady) | နီၢ်​ကူၤ​ရံ | NT 2 |  |  | 2 John 1:1, 5; the Greek word for 'lady' (kyria) taken as a name |
 | Laadah | စီၤ​လၤ​ဒၤ | OT 1/1 |  |  |  |
 | Laadan | စီၤ​လၤ​ဒၣ် | OT 5/5 |  |  |  |
 | Laban | စီၤ​လၤ​ဘၣ် | OT 45/47 |  |  |  |
@@ -3078,7 +3187,9 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Lakum | လး​ကူၣ် | OT 1/1 |  |  |  |
 | Lamech | စီၤ​လ့ၤ​မ့း | OT 10/10 |  |  |  |
 | Laodicea | လီၤ​ဒံၤ​ကံ | NT 5/5 |  |  |  |
+| Laodiceans | ပှၤ​လီၤ​ဒံၤ​ကံ | NT 2 |  |  | Col 4:16 'the church of the Laodiceans' |
 | Lapidoth | စီၤ​လံး​ပံ | OT 1/1 |  |  |  |
+| Lasea | လၤ​စဲ | NT 1 |  |  | Acts 27:8 |
 | Lasha | လါ​ၡၤ | OT 1/1 |  |  |  |
 | Lasharon | လး​ၡၤ​ရိၣ် | OT 1/1 |  |  |  |
 | Latin | (ရိ​မ့ၤ​အ​ကျိာ်) | NT 1 |  |  | Luke 23:38, rendered 'the Roman language' |
@@ -3100,25 +3211,33 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Leummim | ပှၤ​လူ​မး​ဖိ | OT 1/1 |  |  |  |
 | Levi | စီၤ​လ့ၤ​ဝံ | NT 7/8; OT 35/61 varies |  |  |  |
 | Levite | ပှၤ​လ့ၤ​ဝံ​ဖိ | OT *Levite* 260/262; OT *Levite* 26/26; OT *Levites* 234/236 | *Levite(s)*: same 4/4 |  |  |
+| Levitical | ပှၤ​လ့ၤ​ဝံ​ဖိ | NT 1 |  |  | Heb 7:11 'the Levitical priesthood' |
+| Libertines | ပှၤ​လံၤ​ဘ့ၣ်​တံၣ်​ဖိ | NT 1 |  |  | Acts 6:9 |
 | Libnah | လံး​ဘ​နၤ | OT 17/17 |  |  |  |
 | Libni | စီၤ​လံး​ဘ​နံၤ | OT 5/7 |  | Num 3:18 |  |
 | Libnites | ပှၤ​လံး​ဘ​နၤ​ဖိ | OT 1/2 |  |  |  |
 | Libya, Lydia (Ezek 30:5) | ပူၤ​တၤ, လူၤ​ဒံ |  |  |  | Ezek 30:5; see Libyans, Lydians |
 | Libyans | ပူၤ​တၤ | OT 1/2 |  |  | ပှၤ ပူၤ တၤ ဖိ (Jer 46:9) |
 | Likhi | စီၤ​လံး​က​ဃံ | OT 1/1 |  |  |  |
+| Linus | စီၤ​လံ​နူး | NT 1 |  |  | 2 Tim 4:21 |
 | Loammi | လိၤ​ဧၣ်​မံၤ | OT 1/1 |  |  | Hos 1:9 |
 | Lod | လိး | OT 4/4 |  |  |  |
 | Lodebar | လိ​ဒ​ဘၢ် | OT 3/3 |  |  |  |
+| Lois | နီၢ်​လိၤ​အ့ၣ် | NT 1 |  |  | 2 Tim 1:5 |
 | Loruhamah | လိၤ​ရူ​ဃ​မၤ | OT 2/2 |  |  | Hos 1:6, 8 |
 | Lot | စီၤ​လိာ် | OT 30/31 |  |  |  |
 | Lotan | စီၤ​လိ​တၣ် | OT 5/5 |  |  |  |
 | Lubim | ပှၤ​လံၤ​ဘူ​ဖိ | OT 1/1 |  |  | Nah 3:9 |
 | Lubims | ပှၤ​လူ​ဘး​ဖိ | OT 2/2 |  |  |  |
+| Lucas | စီၤ​လူၤ​ကၣ် | NT 1 |  |  | Phlm 1:24; same Karen form as Luke |
 | Lucifer | ဆၣ်​တူၢ်​ဂီၤ | OT 1/1 |  |  | Rendered as the morning star (Isa 14:12). |
+| Lucius | စီၤ​လူၤ​ကံ | NT 2 |  |  | Acts 13:1; Rom 16:21; spelled the same as Lycia (Acts 27:5) |
 | Lud | စီၤ​လူး | OT 3/4 |  |  |  |
 | Ludim | လူ​ဒံၣ် | OT 2/2 |  |  |  |
 | Luhith | လူ​ဃံး | OT 2/2 |  |  |  |
 | Luz | လူး​စး | OT 7/7 |  | Gen 28:19; Josh 16:2 | Old name of Bethel. |
+| Lycaonia | လူၤ​ကီၤ​နံ | NT 2 |  |  | Acts 14:6, 11 |
+| Lycia | လူၤ​ကံ | NT 1 |  |  | Acts 27:5; spelled the same as Lucius |
 | Lydda | လူး​ဒၤ | NT 3/3 |  |  |  |
 | Lydians | လူၤ​ဒံ | OT 1/1 |  |  | ပှၤ လူၤ ဒံ ဖိ (Jer 46:9) |
 | Lysanias | စီၤ​လူၤ​စၤ​နံ | NT 1 |  |  | Luke 3:1 |
@@ -3140,6 +3259,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Maaz | စီၤ​မၤ​ဧး | OT 1/1 |  |  |  |
 | Maaziah | စီၤ​မၤ​ဧါ​စ​ယၤ | OT 2/2 |  |  |  |
 | Macedonia | မၤ​က့း​ဒ​နံ | NT 23/23 |  |  |  |
+| Macedonian | ပှၤ​မၤ​က့း​ဒ​နံ​ဖိ | NT 2 |  |  | Acts 16:9; 27:2 |
 | Machbanai | စီၤ​မၤ​က​ဘၤ​နဲ | OT 1/1 |  |  |  |
 | Machbenah | မၤ​က​ဘ့​နၤ | OT 1/1 |  |  |  |
 | Machi | စီၤ​မၤ​ကံ | OT 1/1 |  |  |  |
@@ -3148,6 +3268,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Machnadebai | စီၤ​မၤ​က​နၤ​ဒ​ဘဲ | OT 1/1 |  |  |  |
 | Machpelah | မး​က​ပ့​လၤ | OT 6/6 |  |  |  |
 | Madai | စီၤ​မၤ​ဒဲ | OT 1/2 |  |  |  |
+| Madian | မံး​ဒ​ယၣ် | NT 1 |  |  | Acts 7:29 (OT Midian) |
 | Madmannah | မၤ​ဒ​မး​နၤ | OT 2/2 |  |  |  |
 | Madmen | မး​ဒ​မၣ် | OT 1/1 |  |  |  |
 | Madmenah | မၤ​ဒ​မ့ၤ​နၤ | OT 1/1 |  |  |  |
@@ -3187,10 +3308,12 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Malchijah | စီၤ​မၤ​လ​ကံ​ယၤ | OT 6/6 |  |  |  |
 | Malchiram | စီၤ​မၤ​လ​ကံ​ရၣ် | OT 1/1 |  |  |  |
 | Malchishua | မး​လ​ကံ​ၡူၤ | OT 2/4 |  |  |  |
+| Malchus | စီၤ​မါ​လ​ဃူး | NT 1 |  |  | John 18:10 |
 | Maleleel | စီၤ​ဟ​မၤ​လ့​လး | NT 1 |  |  | Luke 3:37; OT Mahalaleel is စီၤ​မၤ​ဟ​လၤ​လ့​လး (Gen 5:12) |
 | Mallothi | စီၤ​မး​လိ​သံၤ | OT 2/2 |  |  |  |
 | Malluch | စီၤ​မး​လူး | OT 6/6 |  |  |  |
 | Mamre | မး​မ​ရ့ | OT 10/10 |  |  |  |
+| Manaen | စီၤ​မ​နၤ​အ့ၣ် | NT 1 |  |  | Acts 13:1 |
 | Manahath | စီၤ​မ​နၤ​ဃး | OT 2/3 |  |  |  |
 | Manahethites | ပှၤ​မ​နူ​ဃး​ဖိ | OT 2/2 |  |  |  |
 | Manasseh | မ​နၤ​ၡ့ၤ | OT 127/134 |  |  |  |
@@ -3203,6 +3326,8 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Mara | နီၢ်​မၤ​ရၤ | OT 1/1 |  |  |  |
 | Marah | မၤ​ရၤ | OT 3/3 |  | Num 33:8–9 |  |
 | Maralah | မ​ရၤ​လၤ | OT 1/1 |  |  |  |
+| Maranatha | (က​စၢ်​ဟဲ​ဝဲ) | NT 1 |  |  | 1 Cor 16:22, translated 'the Lord cometh'; Anathema is translated မ်​အ​ဘၣ်​တၢ်​ဆိၣ်​အၢ |
+| Marcus | စီၤ​မၢ်​ကူး | NT 3 |  |  | Col 4:10; same Karen form as Mark |
 | Mareshah | မ​ရ့​ၡၤ | OT 6/8 |  |  |  |
 | Maroth | မၤ​ရိး | OT 1/1 |  |  | Mic 1:12 |
 | Marsena | စီၤ​မၢ်​စ​နၤ | OT 1/1 |  |  |  |
@@ -3226,6 +3351,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Matthan | စီၤ​မး​သၣ် | NT 1 |  |  | Matt 1:15 |
 | Matthat | စီၤ​မး​သး | NT 2 |  |  | Luke 3:24, 29 |
 | Matthew | စီၤ​မး​သဲ | NT 5/5 |  |  |  |
+| Matthias | စီၤ​မး​သံ | NT 2 |  |  | Acts 1:23, 26 |
 | Mattithiah | စီၤ​မး​တံး​သ​ယၤ | OT 6/8 |  |  |  |
 | Mazzaroth | ဆၣ်​ဧိၤ​ဖီ​ဧိၤ | OT 1/1 |  |  | a constellation; Karen "the stars of the season" |
 | Meah | မ့ၤ​အၤ | OT 2/2 |  |  |  |
@@ -3259,6 +3385,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Melea | စီၤ​မ့း​လ့း | NT 1 |  |  | Luke 3:31 (written at the end of v30) |
 | Melech | စီၤ​မ့​လ့း | OT 2/2 |  |  |  |
 | Melicu | စီၤ​မံ​လ​ကူၤ | OT 1/2 |  |  |  |
+| Melita | မ့း​လံ​တ့ၤ | NT 1 |  |  | Acts 28:1 |
 | Melzar | မ့​လ​စၢ် | OT 2/2 |  |  |  |
 | Memphis | မိၤ​အး | OT 1/1 |  |  | Hos 9:6; same spelling as Moab, probably a mistake (Memphis is Noph, နိ​ဖး, elsewhere) |
 | Memucan | စီၤ​မ​မူ​ကၣ် | OT 3/3 |  |  |  |
@@ -3274,6 +3401,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Merari | မ​ရၤ​ရံၤ | OT 35/38 |  |  |  |
 | Merarites | ပှၤ​မ​ရၤ​ရံၤ​ဖိ | OT 1/1 |  |  |  |
 | Merathaim | မ​ရၤ​သဲၣ် | OT 1/1 |  |  |  |
+| Mercurius | ဟ့ၢ်​မ့ၤ | NT 1 |  |  | Acts 14:12 |
 | Mered | စီၤ​မ့​ရ့း | OT 2/2 |  |  |  |
 | Meremoth | စီၤ​မ​ရ့​မိး | OT 6/6 |  |  |  |
 | Meres | စီၤ​မ့​ရ့း | OT 1/1 |  |  |  |
@@ -3297,6 +3425,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Meshullemeth | နီၢ်​မ​ၡူ​လ​မံး | OT 1/1 |  |  |  |
 | Mesobaite | ပှၤ​မ​စိ​ဘ​ယၤ​ဖိ | OT 1/1 |  |  |  |
 | Mesopotamia | မ့း​စ​ပ​တၤ​မံ | OT 5/5 |  |  |  |
+| Messias | မ့း​ၡံ​အၤ | NT 2 |  |  | John 1:41; 4:25 |
 | Methegammah | မ့​သ့း​အး​မၤ | OT 1/1 |  |  |  |
 | Methusael | စီၤ​မ​သူ​ၡ့ၤ​အ့​လး | OT 1/1 |  |  |  |
 | Methuselah | စီၤ​မ​သူၤ​ၡ​လၤ | OT 6/6 |  |  |  |
@@ -3330,6 +3459,8 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Milalai | စီၤ​မံ​လ​လဲၤ | OT 1/1 |  |  |  |
 | Milcah | နီၢ်​မံး​လ​ကၤ | OT 10/10 |  |  |  |
 | Milcom | မိ​လး | OT 3/3 |  |  |  |
+| Miletum | မံ​လ့ၤ​တူး | NT 1 |  |  | 2 Tim 4:20; same place and spelling as Miletus |
+| Miletus | မံ​လ့ၤ​တူး | NT 2 |  |  | Acts 20:15, 17 |
 | Millo | မံး​လိၤ | OT 9/9 |  |  |  |
 | Miniamin | စီၤ​မံး​န​ယၤ​မံၣ် | OT 3/3 |  |  |  |
 | Minni | မံး​နံး | OT 1/1 |  |  |  |
@@ -3351,11 +3482,13 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Mithcah | မံး​သ​ကၤ | OT 2/2 |  |  |  |
 | Mithnite | ပှၤ​မံၤ​သၣ်​ဖိ | OT 1/1 |  |  |  |
 | Mithredath | စီၤ​မံး​သြၤ​ဒး | OT 2/2 |  |  |  |
+| Mitylene | မ့ၤ​တိၤ​လ့​န့ | NT 1 |  |  | Acts 20:14 |
 | Mizar | မံ​စၢ် | OT 1/1 |  |  | hill Mizar, Ps 42:6 |
 | Mizpah | မံး​စ​ပၤ | OT 19/21 |  |  |  |
 | Mizpeh | မံး​စ​ပၤ | OT 19/21 |  |  |  |
 | Mizraim | စီၤ​မံး​စ​ရၤ​ယံၣ် | OT 4/4 |  |  |  |
 | Mizzah | စီၤ​မံ​စၤ | OT 3/3 |  |  |  |
+| Mnason | စီၤ​မ​နါ​စိၣ် | NT 1 |  |  | Acts 21:16 |
 | Moab | မိၤ​အး | OT 150/151 |  |  |  |
 | Moabites | ပှၤ​မိၤ​အး​ဖိ | OT 16/18 |  |  |  |
 | Moadiah | စီၤ​မိၤ​ဧၤ​ဒ​ယၤ | OT 1/2 |  |  |  |
@@ -3376,6 +3509,8 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Muppim | စီၤ​မူး​ဖံၣ် | OT 1/1 |  |  |  |
 | Mushi | စီၤ​မူ​ၡံၤ | OT 8/8 |  |  |  |
 | Mushites | ပှၤ​မူ​ၡံၤ​ဖိ | OT 2/2 |  |  |  |
+| Myra | မူ​ရၤ | NT 1 |  |  | Acts 27:5 |
+| Mysia | မူၤ​စံ | NT 2 |  |  | Acts 16:7, 8 |
 | Naam | စီၤ​နၤ​ဧၣ် | OT 1/1 |  |  |  |
 | Naamah | နီၢ်​နၤ​ဧ​မၤ | OT 4/5 |  |  |  |
 | Naaman | စီၤ​န​ဧၤ​မၣ် | OT 13/14 |  |  |  |
@@ -3411,6 +3546,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Naphish | စီၤ​နါ​ဖံၣ် | OT 1/2 |  |  |  |
 | Naphtali | နး​သၤ​လံ *(Naphtali)*<br>စ​ဘူ​လိၣ် *(Zebulun)* | OT *Naphtali* 44/47; OT *Zebulun* 42/43 | *Zebulun / Naphtali*: same ch. 1 (1×) |  |  |
 | Naphtuhim | နၤ​ဖ​တူ​ဃံၣ် | OT 1/2 |  |  |  |
+| Narcissus | စီၤ​နၢ်​ကံ​စူး | NT 1 |  |  | Rom 16:11 |
 | Nathan | စီၤ​နၤ​သၣ် | OT 23/39 varies |  |  |  |
 | Nathanael | စီၤ​နၤ​သ​န့​လး | NT 6/6 |  |  |  |
 | Nathanmelech | စီၤ​နၤ​သၣ်​မ့​လ့း | OT 1/1 |  |  |  |
@@ -3418,6 +3554,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Nazarene | ပှၤ​န​စၤ​ရ့း​ဖိ | NT 1 |  |  | Matt 2:23 |
 | Nazareth | န​စၤ​ရ့း | NT 27/28 | same 3/4 |  |  |
 | Neah | န့​ဧၤ | OT 1/1 |  |  |  |
+| Neapolis | နါ​ပ​လံၣ် | NT 1 |  |  | Acts 16:11 |
 | Neariah | စီၤ​နၤ​ရ​ယၤ | OT 3/3 |  |  |  |
 | Nebai | စီၤ​န့​ဘဲၤ | OT 1/1 |  |  |  |
 | Nebaioth | စီၤ​န​ဘါ​ယိး | OT 2/2 |  |  |  |
@@ -3447,7 +3584,9 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Nephthalim | နး​သၤ​လံ | NT 2 |  |  | Matt 4:13, 15; OT Naphtali |
 | Nephtoah | န့​ဖ​တိၤ | OT 2/2 |  |  |  |
 | Nephusim | စီၤ​န​ဖူ​စံၣ် | OT 1/1 |  |  |  |
+| Nepthalim | နး​သၤ​လံ | NT 1 |  |  | Rev 7:6; same Karen form as Naphtali |
 | Ner | စီၤ​န့ၢ် | OT 16/16 |  |  |  |
+| Nereus | နၤ​ရ့း | NT 1 |  |  | Rom 16:15 |
 | Nergal | န့​ရ​ကၤ​လး | OT 1/1 |  |  |  |
 | Nergalsharezer | န့​ရ​ကၤ​လး​ၡ​ရ့ၢ်​စၢ် | OT 1/2 |  |  | also ၡ ၡ့ၢ် (39:3, 13) |
 | Neri | စီၤ​န့ၤ​ရံ | NT 1 |  |  | Luke 3:27 |
@@ -3462,6 +3601,12 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Nezib | န​စံာ် | OT 1/1 |  |  |  |
 | Nibhaz | နံၤ​ဘ​ဃး | OT 1/1 |  |  |  |
 | Nibshan | နံး​ဘ​ၡၣ် | OT 1/1 |  |  |  |
+| Nicanor | စီၤ​နံၤ​ကါ​နီၢ် | NT 1 |  |  | Acts 6:5 |
+| Nicodemus | စီၤ​နံၤ​က​ဒ့​မူး | NT 5 |  |  | John 3:1 etc. |
+| Nicolaitanes | ပှၤ​နံၤ​က​လါ​ဖိ | NT 2 |  |  | Rev 2:6, 15 (2:15 has စီၤ​နံၤ​က​လါ 'Nicolas') |
+| Nicolas | စီၤ​နံၤ​က​လါ | NT 1 |  |  | Acts 6:5 |
+| Nicopolis | နံၤ​က​ပီ​လံး | NT 1 |  |  | Titus 3:12 |
+| Niger | စီၤ​နံ​က့ၢ် | NT 1 |  |  | Acts 13:1 |
 | Nimrah | နံး​မ​ရၤ | OT 1/1 |  |  |  |
 | Nimrim | နံး​မ​ရံ | OT 2/2 |  |  |  |
 | Nimrod | စီၤ​နံး​မ​ရိး | OT 4/4 |  |  |  |
@@ -3484,6 +3629,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Noph | နိ​ဖး | OT 7/7 |  |  |  |
 | Nophah | နိၤ​ဖး | OT 1/1 |  |  |  |
 | Nun | စီၤ​နိၣ် | OT 28/29 |  |  |  |
+| Nymphas | စီၤ​နူၣ်​ဖၤ | NT 1 |  |  | Col 4:15 |
 | Obadiah | စီၤ​ဧိၤ​ဘါ​ဒ​ယၤ | OT 18/19 |  |  |  |
 | Obal | စီၤ​ဧူ​ဘ​လး | OT 1/1 |  |  |  |
 | Obed | စီၤ​ဧိၤ​ဘ့း | OT 8/9 |  |  |  |
@@ -3496,10 +3642,13 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Ohad | စီၤ​အိၤ​ဟး | OT 1/2 |  |  |  |
 | Ohel | စီၤ​အိ​ဟ့​လး | OT 1/1 |  |  |  |
 | olive | သ့ၣ်​စၤ​ယံး *(olive)*<br>က​စၢၢ်​သ့ၣ်​စၤ​ယံး *(Olives)* | NT *olive* 14/15; NT *Olives* 8/11 varies; OT *olive* 33/33 | *olive(s)*: same 4/4 |  |  |
+| Olympas | စီၤ​အီး​လူၣ်​ပၤ | NT 1 |  |  | Rom 16:15 |
 | Omar | စီၤ​အိ​မၢ် | OT 3/3 |  |  |  |
 | Omri | စီၤ​ဧိၣ်​ရံၤ | OT 14/16 |  |  |  |
 | Onam | စီၤ​အိၣ်​နၣ် | OT 2/4 |  |  |  |
 | Onan | စီၤ​အိၤ​နၣ် | OT 5/6 |  |  |  |
+| Onesimus | စီၤ​အီး​န့ၤ​စံ​မူး | NT 2 |  |  | Col 4:9; Phlm 1:10 (same spelling) |
+| Onesiphorus | စီၤ​အီး​နံၤ​စံ​ဖ​ရူး | NT 2 |  |  | 2 Tim 1:16; 4:19 |
 | Ono | အိ​နိၤ | OT 5/5 |  |  |  |
 | Ophel | ဧိၤ​ဖ့​လး | OT 5/5 |  |  |  |
 | Ophir | အိ​ဖ့ၢ် | OT 12/12 |  |  |  |
@@ -3510,6 +3659,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Orion | ဆၣ်​ယိး​မါ | OT 3/3 |  | Job 9:9; 38:31; Amos 5:8 | constellation (corrected 2026-10-28: the two star names had been swapped) |
 | Ornan | စီၤ​အၤ​ရ​နၤ | OT 10/10 |  |  |  |
 | Orpah | နီၢ်​ဧိး​ရ​ပၤ | OT 2/2 |  | Ruth 1:4, 14 |  |
+| Osee | စီၤ​ဟိၤ​ၡ့ | NT 1 |  |  | Rom 9:25; same as the prophet Hosea |
 | Othni | စီၤ​ဧီၤ​သ​နံ | OT 1/1 |  |  |  |
 | Othniel | စီၤ​ဧီၤ​သ​န့​လး | OT 6/6 |  | Judg 1:13; 3:9–11 |  |
 | Ozem | စီၤ​အိ​စ့ၣ် | OT 1/2 |  |  |  |
@@ -3532,20 +3682,26 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Paltite | ပှၤ​ပး​လ​တံၤ​ဖိ | OT 1/1 |  |  |  |
 | Pamphylia | ပၣ်​ဖူၤ​လံ | NT 5/5 |  |  |  |
 | Pannag | ကိၣ်​ဆၢ | OT 1 |  |  | Ezek 27:17; translated 'sweet cakes' |
+| Paphos | ပါ​ပူး | NT 2 |  |  | Acts 13:6, 13 |
 | Parah | ပါ​ရၤ | OT 1/1 |  |  |  |
 | Paran (wilderness) | ပှၢ်​မုၢ်​က​နၢ​ပၤ​ရၣ် | OT 9/11 |  |  | Gen 21:21; 1 Sam 25:1. |
 | Parmashta | စီၤ​ပၢ်​မၤ​ၡ​တၤ | OT 1/1 |  |  |  |
+| Parmenas | စီၤ​ပၢ်​မ့း​နး | NT 1 |  |  | Acts 6:5 |
 | Parnach | စီၤ​ပၢ်​နး | OT 1/1 |  |  |  |
 | Parosh | စီၤ​ပၤ​ရိာ် | OT 5/5 |  |  |  |
 | Parshandatha | စီၤ​ပ​ၡၤ​န​ဒၤ​သၤ | OT 1/1 |  |  |  |
+| Parthians | ပှၤ​ပၢ်​သ့ၤ​ဖိ | NT 1 |  |  | Acts 2:9 |
 | Paruah | စီၤ​ပၤ​ရူၤ | OT 1/1 |  |  |  |
 | Parvaim | ပး​ရ​ဝဲၣ် | OT 1/1 |  |  |  |
 | Pasach | စီၤ​ပါ​စး | OT 1/1 |  |  |  |
 | Pasdammim | ပၤ​စ​ဒၤ​မံၣ် | OT 1/1 |  |  |  |
 | Paseah | စီၤ​ပၤ​စ့ၤ | OT 3/3 |  |  |  |
 | Pashur | စီၤ​ပၣ်​ၡ​ဃူၢ် | OT 6/12 |  |  |  |
+| Patara | ပ​တါ​ရါ | NT 1 |  |  | Acts 21:1 |
 | Pathros | ပၤ​သြိၣ် | OT 5/5 |  |  |  |
 | Pathrusim | ပ​သြူ​စံၣ် | OT 1/2 |  |  |  |
+| Patmos | ပး​မူး | NT 1 |  |  | Rev 1:9 'the isle called Patmos' |
+| Patrobas | စီၤ​ပၤ​တြီး​ဘၤ | NT 1 |  |  | Rom 16:14 |
 | Pau | ဖၤ​ဧူၤ | OT 1/1 |  |  |  |
 | Paul | စီၤ​ပီ​လူး | NT 153/158 | same 4/6 |  |  |
 | Pedahel | စီၤ​ပ​ဒၤ​အ့​လး | OT 1/1 |  |  |  |
@@ -3563,6 +3719,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Peleth | စီၤ​ပ့း​လ့း | OT 1/2 |  |  |  |
 | Pelonite | ပှၤ​ပ​လိၣ်​ဖိ | OT 3/3 |  |  |  |
 | Peninnah | နီၢ်​ပ​နံး​နၤ | OT 2/2 |  | 1 Sam 1:2, 4 |  |
+| Pentecost | (ဘူၣ်​ယဲၢ်​ဆံ) | NT 2 |  |  | Acts 2:1; 20:16, rendered 'feast of fifty (days)' |
 | Penuel / Peniel | ပ​နံၤ​အ့​လး | OT 4/7 |  | Judg 8:8–17 |  |
 | Peor | ပ​ဧိၢ် | OT 4/4 |  | Num 23:28 |  |
 | Perazim | ပ​ရၤ​စံၣ် | OT 1/1 |  |  |  |
@@ -3570,10 +3727,12 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Perezuzza | ဖ့​ရ့း​ဧူး​စၤ | OT 1/1 |  |  |  |
 | Perezuzzah | ဖ့​ရ့း​ဧူး​စၤ | OT 1/1 |  |  |  |
 | Perga | ပ့ၢ်​က့ၤ | NT 3/3 |  |  |  |
+| Pergamos | ပ့ၢ်​က​မူး | NT 2 |  |  | Rev 1:11; 2:12 |
 | Perida | စီၤ​ပ​ရံ​ဒၤ | OT 1/2 |  |  |  |
 | Perizzites | ပှၤ​ပ​ရး​စၤ​ဖိ | OT 14/18 varies |  |  |  |
 | Persia | ပၤ​ရၣ် | OT 24/25 |  |  |  |
 | Persians | ပှၤ​ပၤ​ရၣ်​ဖိ | OT 5/5 |  |  |  |
+| Persis | နီၢ်​ပ့ၢ်​စံ | NT 1 |  |  | Rom 16:12 |
 | Peruda | စီၤ​ပ​ရူ​ဒၤ | OT 1/1 |  |  |  |
 | Peter | စီၤ​ပ့း​တ​ရူး | NT 136/156 | same 7/8 |  |  |
 | Pethahiah | စီၤ​ပ​သၤ​ဃ​ယၤ | OT 3/4 |  |  |  |
@@ -3595,15 +3754,26 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Pharpar | ဖၢ်​ပၢ် | OT 1/1 |  |  |  |
 | Pharzites | ပှၤ​ဖ့ၤ​ရ့း​ဖိ | OT 1/1 |  |  |  |
 | Phaseah | စီၤ​ပၤ​စ့ၤ | OT 1/1 |  |  |  |
+| Phebe | နီၢ်​ဖံ​ဘ့ၤ | NT 1 |  |  | Rom 16:1 |
 | Phenice | လၢ​ဖံၤ​နံ​က့ၤ | NT 2/3 varies |  |  |  |
+| Phenicia | ဖံၤ​နံ​က့ၤ | NT 1 |  |  | Acts 21:2; same spelling as Phenice |
 | Phichol | စီၤ​ဖံ​ကိး​လး | OT 3/3 |  |  |  |
+| Philadelphia | ဖံၤ​လ​ဒ့း​လ​ဖံ | NT 2 |  |  | Rev 1:11; 3:7 |
+| Philemon | စီၤ​ဖံၤ​လ့​မိၣ် | NT 1 |  |  | Phlm 1:1 |
+| Philetus | စီၤ​ဖံ​လ့ၤ​တူး | NT 1 |  |  | 2 Tim 2:17 |
 | Philip | စီၤ​ဖံ​လံး​ပူး | NT 32/35 | same 3/3 |  |  |
+| Philippi | ဖံ​လံး​ပံၤ | NT |  |  | Phil 1:1; Acts 16:12 |
+| Philippians | ပှၤ​ဖံ​လံး​ပံၤ​ဖိ | NT 1 |  |  | Phil 4:15 |
 | Philistia | ဖ​လ့​ၡ​သး | OT 3/3 |  |  |  |
 | Philistine | ပှၤ​ဖ​လ့​ၡ​သး​ဖိ | OT *Philistine* 27/28; OT *Philistines* 212/218 |  |  |  |
+| Philologus | စီၤ​ဖံၤ​လ​လီး​ကူး | NT 1 |  |  | Rom 16:15 |
 | Phinehas | စီၤ​ဖံၤ​န​ဃၣ် | OT 19/24 varies |  |  | Num 25:7, 11 spell it ပံၤ​န​ဃၣ် |
+| Phlegon | စီၤ​ဖျ့​ကီၣ် | NT 1 |  |  | Rom 16:14 |
+| Phrygia | ဖြူၤ​ကံ | NT 3 |  |  | Acts 2:10; 16:6; 18:23 |
 | Phurah | စီၤ​ဖူ​ရါ | OT 2/2 |  |  |  |
 | Phut | စီၤ​ဖူး | OT 1/2 |  |  |  |
 | Phuvah | စီၤ​ဖူ​ဝၤ | OT 1/1 |  |  |  |
+| Phygellus | စီၤ​ဖူ​က့း​လူး | NT 1 |  |  | 2 Tim 1:15 |
 | Pibeseth | ပံၤ​ဘ့​စ့း | OT 1/1 |  |  |  |
 | Pihahiroth | ပံၤ​ဟ​ဃံ​ရိး | OT 4/4 |  | Num 33:7–8 |  |
 | Pilate | စီၤ​ပံၤ​လး | NT 48/54 |  |  |  |
@@ -3615,34 +3785,45 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Pirathon | ပံး​ရၤ​သိၣ် | OT 1/1 |  |  |  |
 | Pirathonite | ပှၤ​ပံး​ရ​သိၣ်​ဖိ | OT 3/5 |  |  |  |
 | Pisgah | က​စၢၢ်​ပံး​စ​ကၤ | OT 8/8 |  | Num 21:20 |  |
+| Pisidia | ပံၤ​စံၤ​ဒံ | NT 2 |  |  | Acts 13:14; 14:24 |
 | Pison | ပံၤ​ၡိၣ် | OT 1/1 |  |  |  |
 | Pispah | စီၤ​ပံး​စ​ပၤ | OT 1/1 |  |  |  |
 | Pithom | ပံ​သိၣ် | OT 1/1 |  |  |  |
 | Pithon | စီၤ​ပံၤ​သိၣ် | OT 2/2 |  |  |  |
 | Pleiades | ဆၣ်​ဒၢ​မုၢ် | OT 2/2 |  | Job 9:9; 38:31 | constellation; also "seven stars" in Amos 5:8 |
 | Pochereth | စီၤ​ဖိၤ​က့​ရ့း | OT 2/2 |  |  |  |
+| Pollux | (မုၢ်​ဃါ​သ​ဃံာ်) | NT 1 |  |  | Acts 28:11 'Castor and Pollux', rendered as a star name |
 | Pontius | တံၤ​ပံၤ​လး | NT 4/4 |  |  |  |
 | Pontus | ပီၣ်​တူး | NT 3/3 |  |  |  |
 | Poratha | စီၤ​ပိၤ​ရ​သး | OT 1/1 |  |  |  |
+| Porcius | (စီၤ)​ပီၤ​ကံၤ | NT 1 |  |  | Acts 24:27 (Porcius Festus = စီၤ​ပီၤ​ကံၤ​ဖ့​စ​တူး) |
 | Potiphar | စီၤ​ပိၤ​တံၤ​ဖၢ် | OT 2/2 |  |  |  |
 | Potipherah | စီၤ​ပိၤ​တံၤ​ဖ့​ရၤ | OT 3/3 |  |  |  |
 | Praetorium | — | NT 0/1 |  |  | Mark 15:16 described as 'the governor's soldiers' quarters' |
+| Prisca | နီၢ်​ပြံ​စ​ကံး​လၤ | NT 1 |  |  | 2 Tim 4:19; rendered with the Priscilla form |
 | Priscilla | နီၢ်​ပြံ​စ​ကံး​လၤ | NT 4/5 |  |  |  |
+| Prochorus | စီၤ​ပြ​ဃီၢ် | NT 1 |  |  | Acts 6:5 |
+| Ptolemais | ပ​တ​လ့း​မဲ | NT 1 |  |  | Acts 21:7 |
 | Pua | စီၤ​ဖူၤ​ဝၤ | OT 1/1 |  |  |  |
 | Puah | စီၤ​ပူ​ဧၤ | OT 1/3 |  |  |  |
+| Publius | စီၤ​ပီး​ပျံၤ | NT 2 |  |  | Acts 28:7, 8 |
+| Pudens | စီၤ​ပူ​ဒံၣ် | NT 1 |  |  | 2 Tim 4:21 |
 | Puhites | ပှၤ​ပူၤ​သး​ဖိ | OT 1/1 |  |  |  |
 | Pul | ပူ​လး | OT 3/3 |  |  |  |
 | Punites | ပှၤ​ဖူၤ​ဝၤ​ဖိ | OT 1/1 |  |  |  |
 | Punon | ပူၤ​နိၣ် | OT 2/2 |  |  |  |
 | Pur | ပူ​ရး | OT 3/3 |  |  |  |
 | Purim | ပူ​ရံၣ် | OT 5/5 |  |  |  |
+| Puteoli | ပီး​တံၤ​လူး | NT 1 |  |  | Acts 28:13 |
 | Putiel | စီၤ​ပူ​တံၤ​အ့ၤ​လး | OT 1/1 |  |  |  |
+| Quartus | စီၤ​ကူ​အၢ်​တူး | NT 1 |  |  | Rom 16:23 |
 | Raamah | စီၤ​ရၤ​ဧ​မၤ | OT 3/3 |  |  |  |
 | Raamiah | စီၤ​ရၤ​မ​ယၤ | OT 1/1 |  |  | Same Karen form as Ramiah. |
 | Raamses | ရၤ​မ​စ့ | OT 1/1 |  |  |  |
 | Rabbah | ရး​ဘး | OT 12/12 |  |  |  |
 | Rabbath | ရး​ဘး | OT 2/2 |  | Deut 3:11 |  |
 | Rabbith | ရး​ဘံး | OT 1/1 |  |  | Karen has it in the next or previous verse (Josh 19 verse boundaries differ) |
+| Rabboni | ရၤ​ဘူ​နံၤ | NT 1 |  |  | John 20:16 |
 | Rabmag | ပှၤ​မါ​ကူး​အ​ခိၣ် | OT 2 |  |  | Jer 39:3, 13; translated 'chief of the magi' |
 | Rabsaris | စီၤ​ရၤ​ဘ​စါ​ရံၣ် | OT 1/3 |  |  |  |
 | Rabshakeh | စီၤ​ရၤ​ဘ​ၡါ​က့ၤ | OT 16/16 |  |  |  |
@@ -3674,6 +3855,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Reaia | စီၤ​ရ​အါ​ယၤ | OT 1/1 |  |  |  |
 | Reaiah | စီၤ​ရ​အါ​ယၤ | OT 2/3 |  |  |  |
 | Reba | စီၤ​ရ့​ဘၤ | OT 1/2 |  |  |  |
+| Rebecca | နီၢ်​ရံး​ဘ​ကၤ | NT 1 |  |  | Rom 9:10; same as OT Rebekah |
 | Rebekah | နီၢ်​ရံး​ဘ​ကၤ | OT 29/29 |  |  |  |
 | Rechab | စီၤ​ရ့​ကး | OT 10/13 varies |  |  |  |
 | Rechabites | ရ့​ကး | OT 3/4 |  |  | ပှၤ ရ့ ကး ဖိ |
@@ -3709,7 +3891,10 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Rezia | စီၤ​ရံ​စ​ယၤ | OT 1/1 |  |  |  |
 | Rezin | ရ​စံၣ် | OT 11/11 |  |  |  |
 | Rezon | စီၤ​ရ​စိၣ် | OT 1/1 |  |  |  |
+| Rhegium | ရ့​ကံၤ | NT 1 |  |  | Acts 28:13 (written at the end of v12) |
 | Rhesa | စီၤ​ရ့ၤ​စါ | NT 1 |  |  | Luke 3:27 |
+| Rhoda | နီၢ်​ရိ​ဒ့ၤ | NT 1 |  |  | Acts 12:13 |
+| Rhodes | ရ​ဒူး | NT 1 |  |  | Acts 21:1 |
 | Ribai | စီၤ​ရံ​ဘဲၤ | OT 1/2 |  |  |  |
 | Riblah | ရံး​ဘ​လၤ | OT 7/11 varies |  |  |  |
 | Rimmon (rock) | လၢၢ်​ရံး​မိၣ် | OT 10/11 |  | Judg 20:45–47 |  |
@@ -3740,26 +3925,33 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Sadoc | စီၤ​စၤ​ဒိး | NT 1 |  |  | Matt 1:14 |
 | Sala | စီၤ​စ့ၤ​လါ | NT 1 |  |  | Luke 3:35; same as OT Salah (Gen 11:14) |
 | Salah | စီၤ​စ့ၤ​လါ | OT 5/5 |  |  |  |
+| Salamis | စ​လၤ​မံ | NT 1 |  |  | Acts 13:5 |
 | Salathiel | စီၤ​ၡၤ​လ​တံ​အ့​လး | OT 1/1 |  |  |  |
 | Salcah | စၤ​လ​ကး | OT 2/2 |  |  |  |
 | Salchah | စၤ​လ​ကး | OT 2/2 |  |  |  |
 | Salem | ၡၤ​လ့ၣ် | OT 2/2 |  |  |  |
+| Salim | ၡၤ​လ့ၣ် | NT 1 |  |  | John 3:23; spelled the same as Salem (Gen 14:18; Heb 7:1) |
 | Sallu | စီၤ​စၤ​လူၤ | OT 1/3 |  |  |  |
 | Salma | စီၤ​စၤ​လ​မၤ | OT 2/3 |  |  |  |
 | Salmon | စီၤ​စၤ​လ​မိၣ် | NT 3/3 |  |  |  |
 | Salmon (mount) | စၤ​လ​မိၣ် | OT 1/1 |  |  | Ps 68:14; same as Zalmon (Judg 9:48 စး​လ​မိၣ်) |
+| Salmone | စၤ​လ​မိၣ် | NT 1 |  |  | Acts 27:7 |
 | Salome | နီၢ်​စၤ​လိၣ် | NT 2 |  |  | Mark 15:40; 16:1 |
 | Salu | စီၤ​စၤ​လူ | OT 1/1 |  |  |  |
 | Samaria | ၡၤ​မ​ရံ | NT 12/12; OT 100/103 | same 3/3 |  |  |
 | Samaritans | ပှၤ​ၡၤ​မ​ရံ​ဖိ | NT 5/6 | *Samaritan(s)*: same 7/7 |  |  |
 | Samgarnebo | စၤ​မ​ကၢ်​န​ဘိ | OT 1/1 |  |  |  |
 | Samlah | စီၤ​စး​မ​လၤ | OT 4/4 |  |  |  |
+| Samos | စါ​မူး | NT 1 |  |  | Acts 20:15 |
+| Samothracia | စၤ​မ​သြါ​က့ၤ | NT 1 |  |  | Acts 16:11 |
 | Samson | စီၤ​ၡံၣ်​ၡိၣ် | OT 37/37 |  |  |  |
 | Samuel | စီၤ​ၡ​မူၤ​အ့​လး | NT 3/3; OT 115/118 |  |  |  |
 | Sanballat | စီၤ​စၤ​န​ဘၤ​လး | OT 10/10 |  |  |  |
 | Sansannah | စၤ​န​စး​နၤ | OT 1/1 |  |  |  |
 | Saph | စီၤ​စာ် | OT 1/1 |  |  |  |
 | Saphir | ၡၤ​ဖံၣ် | OT 1/1 |  |  | Mic 1:11 |
+| Sapphira | နီၢ်​စး​ဖံး​ရး | NT 1 |  |  | Acts 5:1 |
+| Sara | နီၢ်​စၤ​ရါ | NT 1 |  |  | Heb 11:11; same Karen form as Sarah |
 | Sarah | နီၢ်​စၤ​ရါ | NT 2/3 varies; OT 31/33 |  |  |  |
 | Sarai | နီၢ်​စၤ​ရဲ | OT 13/13 |  |  |  |
 | Saraph | စီၤ​စၤ​ရာ် | OT 1/1 |  |  |  |
@@ -3767,20 +3959,25 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Sardites | ပှၤ​စ့​ရ့း​ဖိ | OT 1/1 |  |  |  |
 | Sargon | စီၤ​စၤ​ရ​ကိၣ် | OT 1/1 |  |  |  |
 | Sarid | စၤ​ရံး | OT 2/2 |  |  |  |
+| Saron | ၡၤ​ရိၣ် | NT 1 |  |  | Acts 9:35 |
 | Sarsechim | စၢ်​စ​ကံၣ် | OT 1/1 |  |  |  |
 | Saruch | စီၤ​စၤ​ရူာ် | NT 1 |  |  | Luke 3:35; OT Serug |
 | Saul | စီၤ​စီ​လူး | NT 21/23; OT 320/328 |  |  |  |
+| Sceva | စီၤ​စ​က့း​ဝၤ | NT 1 |  |  | Acts 19:14 |
+| Scythian | ပှၤ​စ​ကူ​သ့ၤ​ဖိ | NT 1 |  |  | Col 3:11 |
 | Sea of Galilee | ပီၣ်​လဲၣ်​ကၤ​လံၤ​လါ |  | 3/3 |  |  |
 | Seba | စီၤ​စ​ဘၤ | OT 4/4 |  |  |  |
 | Sebat (month) | ၡ​ဘး | OT 1/1 |  |  | Zech 1:7 (the eleventh month) |
 | Secacah | စ​ကၤ​ကၤ | OT 1/1 |  |  |  |
 | Sechu | စ့​ကူၤ | OT 1/1 |  |  |  |
+| Secundus | စီၤ​စ့း​ကူၣ်​ဒူး | NT 1 |  |  | Acts 20:4 |
 | Segub | စီၤ​စ​ကံာ် | OT 3/3 |  |  |  |
 | Seir | စ့​ဧၢ် | OT 29/38 varies |  |  | Gen 32:3; 33:14, 16 spell it စံ​ဧ့ၢ် (possible variant/typo). |
 | Seirath | စ့​ဧ့ၢ်​သၤ | OT 1/1 |  |  |  |
 | Sela | စ့​လၤ | OT 1/1 |  |  | Isa 16:1; Isa 42:11 also renders "the rock" as စ့​လၤ. |
 | Selahammahlekoth | စ့​လၤ​ဟး​မၤ​ဃ​လ | OT 1/1 |  |  |  |
 | Seled | စီၤ​စ့​လ့း | OT 1/1 |  |  |  |
+| Seleucia | စ့း​လူ​ကံၤ | NT 1 |  |  | Acts 13:4 |
 | Sem | စီၤ​ၡ့ၣ် | NT 1 |  |  | Luke 3:36; OT Shem |
 | Semachiah | စီၤ​စ​မၤ​က​ယၤ | OT 1/1 |  |  |  |
 | Semei | စီၤ​စ့း​မ့း​အံ | NT 1 |  |  | Luke 3:26 |
@@ -3797,6 +3994,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Serah | နီၢ်​စ့​ရၤ | OT 2/2 |  |  |  |
 | Seraiah | စီၤ​စ​ရါ​ယၤ | OT 18/18 |  |  |  |
 | Sered | စီၤ​စ့​ရ့း | OT 2/2 |  |  |  |
+| Sergius Paulus | စီၤ​စ့ၢ်​ကံ​ပီ​လူး | NT 1 |  |  | Acts 13:7; Paulus has the same spelling as Paul |
 | Serug | စီၤ​စ​ရူာ် | OT 5/5 |  |  |  |
 | Seth | စီၤ​ၡ့​သး | OT 7/7 |  |  |  |
 | Sethur | စီၤ​စ​သူၢ် | OT 1/1 |  | Num 13 |  |
@@ -4003,11 +4201,13 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Silla | စံး​လၤ | OT 1/1 |  |  |  |
 | Siloah | ၡံ​လိၤ | OT 1/1 |  |  |  |
 | Siloam | ၡံ​လိၣ် | NT 1 |  |  | Luke 13:4 (spelled like Shiloh); John 9:7 has ၡံ​လိၤ (see section 19) |
+| Silvanus | စီၤ​စံၤ​လ​ဝ့​နုၤ | NT 4 |  |  | 2 Cor 1:19; 1 Thess 1:1 and 2 Thess 1:1 use စီၤ​စံ​လၤ (see section 19); 1 Pet 5:12 uses စီၤ​စံၤ​လ​ဝ့ၤ​နုၤ |
 | Simeon | စီၤ​စူၤ​မ့း​အိၣ် *(NT)*<br>စူၤ​မ့း​အိၣ် *(OT)* | NT 4/6 varies; OT 34/39 |  |  |  |
 | Simeonites | ပှၤ​စူၤ​မ့း​အိၣ်​ဖိ | OT 2/3 |  |  |  |
 | Simon | စီၤ​ၡံ​မိၣ် | NT 67/71 |  |  |  |
 | Simri | စီၤ​ၡံ​မ​ရံ | OT 1/1 |  |  |  |
 | Sin (Pelusium) | စံၤ | OT 2 |  |  | Ezek 30:15, 16 |
+| Sina | စံၤ​နါ | NT 2 |  |  | Acts 7:30, 38 (OT Sinai) |
 | Sinai | စံၤ​နါ | OT 34/34 |  |  |  |
 | Sinim | စံၣ် | OT 1/1 |  |  |  |
 | Sinite | ပှၤ​စံၣ်​ဖိ | OT 1/2 |  |  |  |
@@ -4020,17 +4220,24 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Sisera | စီၤ​စံ​စ​ရၤ | OT 17/19 |  |  |  |
 | Sitnah | စံး​တ​နၤ | OT 1/1 |  |  |  |
 | Sivan | စံ​ဝၣ် | OT 1/1 |  |  |  |
+| Smyrna | စ​မူ​ရ​နၤ | NT 2 |  |  | Rev 1:11; 2:8 |
 | Socho | စိ​ကိၤ | OT 1/1 |  |  |  |
 | Sochoh | စိ​ကိၤ | OT 1/1 |  |  |  |
 | Socoh | စိ​ကိၤ | OT 1/2 |  |  |  |
 | Sodi | စီၤ​စိ​ဒံၤ | OT 1/1 |  |  |  |
 | Sodom | စ​ဒိၣ် | NT 9/9; OT 38/38 |  |  |  |
 | Solomon | စီၤ​ၡ​လိၤ​မိၤ | NT 9/10; OT 233/264 |  |  |  |
+| Sopater | စီၤ​စိ​ပၤ​တြူး | NT 1 |  |  | Acts 20:4 |
 | Sophereth | စီၤ​စိ​ဖ့ၤ​ရ့း | OT 2/2 |  |  |  |
 | Sorek | စိ​ရ့း | OT 1/1 |  |  |  |
+| Sosipater | စီၤ​စီး​ပၤ​တြူး | NT 1 |  |  | Rom 16:21; compare Sopater (Acts 20:4) စီၤ​စိ​ပၤ​တြူး |
+| Sosthenes | စီၤ​စိၤ​စ​သ့ၣ် | NT 1 |  |  | Acts 18:17 |
 | Sotai | စီၤ​စိ​တဲၤ | OT 2/2 |  |  |  |
+| Spain | စ​ပၤ​နံ | NT 2 |  |  | Rom 15:24, 28 |
+| Stachys | စီၤ​စ​တါ​ဃူၣ် | NT 1 |  |  | Rom 16:9 |
 | Stephanas | စီၤ​စ​တ့း​ဖ​နၣ် | NT 3/3 |  |  |  |
 | Stephen | စီၤ​စ​တ့း​ဖၣ် | NT 7/7 |  |  |  |
+| Stoicks | ပှၤ​စ​တီး​အၤ​ဖိ | NT 1 |  |  | Acts 17:18 |
 | Suah | စီၤ​စူၤ​အၤ | OT 1/1 |  |  |  |
 | Succoth | စူး​ကိၤ​သး | OT 15/16 |  |  |  |
 | Succothbenoth | စူး​ကိၤ​သး​ဘ​နိး | OT 1/1 |  |  |  |
@@ -4039,7 +4246,11 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Susanchites | ပှၤ​ၡူ​ရ​နၤ​ဖိ | OT 1/1 |  |  |  |
 | Susanna | နီၢ်​စူၤ​စၣ်​နၤ | NT 1 |  |  | Luke 8:3 |
 | Susi | စီၤ​စူ​စံၤ | OT 1/1 |  |  |  |
+| Sychar | စံ​ဃၢ် | NT 1 |  |  | John 4:5 |
+| Sychem | ၡ​က့ၣ် | NT 2 |  |  | Acts 7:16 (OT Shechem) |
 | Syene | စ​ဝ့​န့ၤ | OT 2/2 |  |  | Ezek 29:10; 30:6 |
+| Syntyche | နီၢ်​စူၣ်​တူ​ဃ့ၤ | NT 1 |  |  | Phil 4:2 |
+| Syracuse | စူၤ​ရၤ​ကူ | NT 1 |  |  | Acts 28:12 |
 | Syria | စူၤ​ရံ | NT 8/8; OT 61/63 |  |  |  |
 | Syriack (language) | ပှၤ​အၤ​ရၣ်​ဖိ​အ​ကျိာ် | OT 1 |  |  | Dan 2:4 |
 | Syrians | ပှၤ​စူၤ​ရံ​ဖိ | OT 55/55 |  |  |  |
@@ -4051,6 +4262,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Tabeal | စီၤ​တၤ​ဘ​အ့​လး | OT 1/1 |  |  |  |
 | Tabeel | စီၤ​တၤ​ဘ့​လး | OT 1/1 |  |  |  |
 | Taberah | တး​ဘ​ဧ့​ရၤ | OT 2/2 |  | Num 11:3 |  |
+| Tabitha | နီၢ်​တ​ဘံၤ​သါ | NT 2 |  |  | Acts 9:36, 40 |
 | Tabor | တၤ​ဘိၢ် | OT 9/10 |  |  |  |
 | Tabrimon | စီၤ​တၤ​ဘြံ​မိၣ် | OT 1/1 |  |  |  |
 | Tachmonite | ပှၤ​တၤ​ဃ​ကး​မိၣ်​ဖိ | OT 1/1 |  |  |  |
@@ -4104,6 +4316,8 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Temeni | စီၤ​တ့​မ​နံၤ | OT 1/1 |  |  |  |
 | Terah | စီၤ​တ့​ရၤ | OT 9/9 |  |  |  |
 | Teresh | စီၤ​တ့​ရ့ၣ် | OT 2/2 |  |  |  |
+| Tertius | စီၤ​တ့ၢ်​တံၤ | NT 1 |  |  | Rom 16:22 |
+| Tertullus | စီၤ​တ့ၢ်​တူး​လူး | NT 2 |  |  | Acts 24:1, 2 |
 | Thahash | စီၤ​တ​ဃာ် | OT 1/1 |  |  |  |
 | Thamah | စီၤ​သၤ​မၤ | OT 1/1 |  |  |  |
 | Thamar | နီၢ်​တၤ​မၤ | NT 1 |  |  | Matt 1:3; OT Tamar |
@@ -4114,9 +4328,11 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Theophilus | စီၤ​သီး​ဖံၤ​လူး | NT 2 |  |  | Luke 1:3; Acts 1:1 |
 | Thessalonians | ပှၤ​သ့း​စၤ​လ​နံ​ဖိ | NT 2/3 varies |  |  |  |
 | Thessalonica | သ့း​စၤ​လ​နံ | NT 6/6 |  |  |  |
+| Theudas | စီၤ​သူ​ဒါ | NT 1 |  |  | Acts 5:36 |
 | Thimnathah | သံ​မ​နၤ​သၤ | OT 1/1 |  |  |  |
 | Thomas | စီၤ​သိၤ​မါ | NT 12/12 |  |  |  |
 | Thyatira | သူၤ​အ​တံ​ရၤ | NT 4/4 |  |  |  |
+| Tiberias | တံၤ​ဘ့ၤ​ရံ | NT 3 |  |  | John 6:1, 23; 21:1 (the emperor Tiberius in Luke 3:1 is တံၤ​ဘ့း​ရံ) |
 | Tiberius | ကဲ​စၢ်​တံၤ​ဘ့း​ရံ | NT 1 |  |  | Luke 3:1 |
 | Tibhath | တံး​ဘ​ဃး | OT 1/1 |  |  |  |
 | Tibni | စီၤ​တံး​ဘ​နံၤ | OT 2/2 |  |  |  |
@@ -4132,6 +4348,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Timnathheres | တံ​မ​နး​ဃ့​ရ့း | OT 1/1 |  |  |  |
 | Timnathserah | တံး​မ​နး​စ့​ရၤ | OT 1/2 |  |  |  |
 | Timnite | ပှၤ​တံး​မ​နး​ဖိ | OT 1/1 |  |  |  |
+| Timon | စီၤ​တံ​မိၣ် | NT 1 |  |  | Acts 6:5 |
 | Timotheus | စီၤ​တံၤ​မ​သ့း | NT 17/17 |  |  |  |
 | Timothy | စီၤ​တံၤ​မ​သ့း | NT 7/7 |  |  |  |
 | Tiphsah | တံ​ပ​စၤ | OT 1/2 |  |  |  |
@@ -4161,10 +4378,14 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Tou | စီၤ​တိ​ဧူၤ | OT 2/2 |  |  |  |
 | Trachonitis | ကီၢ်​တြ​ဃိၤ​န့​တံၤ | NT 1 |  |  | Luke 3:1 |
 | Troas | တြိၤ​အါ | NT 6/6 |  |  |  |
+| Trogyllium | တြိၤ​ကူး​လံ | NT 1 |  |  | Acts 20:15 |
 | Trophimus | စီၤ​တြီး​ဖံၤ​မူး | NT 2/3 varies |  |  |  |
+| Tryphena | နီၢ်​တြူ​ဖဲၤ​နၤ | NT 1 |  |  | Rom 16:12 |
+| Tryphosa | နီၢ်​တြူ​ဖိၤ​စၤ | NT 1 |  |  | Rom 16:12 |
 | Tubal | တူၤ​ဘ​လး | OT 8/8 |  |  |  |
 | Tubalcain | စီၤ​တူၤ​ဘ​လး​က့ၤ​ယံၣ် | OT 1/1 |  |  |  |
 | Tychicus | စီၤ​တူ​ဃံၤ​ကူး | NT 5/5 |  |  |  |
+| Tyrannus | စီၤ​တူၤ​ရၣ်​နူး | NT 1 |  |  | Acts 19:9 |
 | Tyre | စိၢ် | NT 12/12; OT 24/24 |  |  |  |
 | Tyrus | စိၢ် | OT 20/20 |  |  |  |
 | Ucal | စီၤ အူး​ကါ​လး | OT 1/1 |  |  | Prov 30:1 |
@@ -4176,6 +4397,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Unni | စီၤ​ဧူး​နံၤ | OT 3/3 |  |  |  |
 | Uphaz | အူ​ဖ​စး | OT 2/2 |  |  |  |
 | Ur | အူၢ် | OT 4/5 |  |  |  |
+| Urbane | စီၤ​အူၢ်​ဘါ​နူး | NT 1 |  |  | Rom 16:9 |
 | Uri | စီၤ​အူ​ရံၤ | OT 7/7 |  |  |  |
 | Uriah | စီၤ​အူၤ​ရံ​ယၤ | OT 19/23 |  |  |  |
 | Urias | စီၤ​အူၤ​ရံ​ယၤ | NT 1 |  |  | Matt 1:6; OT Uriah |
@@ -4200,6 +4422,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Vashni | စီၤ​ဝၤ​ၡ​နံၤ | OT 1/1 |  |  |  |
 | Vashti | ဝး​ၡ​တံၤ | OT 8/10 |  |  |  |
 | Vophsi | စီၤ​ဝး​ဖ​စံၤ | OT 1/1 |  |  |  |
+| Wormwood | အး​ပ​စံၣ်​သိၣ် | NT 1 |  |  | Rev 8:11; from the Greek Apsinthos |
 | Zaanaim | စၤ​ဧ​နဲၣ် | OT 1/1 |  |  |  |
 | Zaanan | စၤ​နၣ် | OT 1/1 |  |  | Mic 1:11 |
 | Zaanannim | စ​ဧး​နဲၣ် | OT 1/1 |  |  |  |
@@ -4266,6 +4489,7 @@ Karen text has zero-width spaces between syllables, following your translation i
 | Zemarite | ပှၤ​စ​မၢ်​ဖိ | OT 2/2 |  |  |  |
 | Zemira | စီၤ​စ​မံ​ရၤ | OT 1/1 |  |  |  |
 | Zenan | စ​နၣ် | OT 1/1 |  |  |  |
+| Zenas | စီၤ​စ့ၤ​နါ | NT 1 |  |  | Titus 3:13 |
 | Zephaniah | စီၤ​စ​ဖါ​န​ယၤ | OT 10/10 |  |  |  |
 | Zephath | စ့​ဖး | OT 1/1 |  |  |  |
 | Zephathah | စ​ဖၤ​သး | OT 1/1 |  |  |  |
@@ -5228,7 +5452,7 @@ Each spelling below appears only once or twice, while the usual spelling appears
 | Zechariah 6:15 | မၢ​လီၤ​ယ​ခံ​ဆူ | မၢ​လီၤ​ယၤ​ဆူ | hath sent me unto you |
 | Malachi 2:15 | မၢ​လီ​တၢ် | မၤ​လီ​တၢ် | deal treacherously |
 
-## 17. Possible typos in the Karen New Testament text (115)
+## 17. Possible typos in the Karen New Testament text (206)
 
 Each spelling below appears only once or twice, while the usual spelling appears many times. Check these against the printed Bible.
 
@@ -5349,6 +5573,97 @@ Each spelling below appears only once or twice, while the usual spelling appears
 | Luke 6:8 | ဂဲၤ​ထၢၣ် | ဂဲၤ​ဆၢ​ထၢၣ် | rise up (twice in the verse) |
 | Luke 14:21 | ပှၤ​အ​ဂီၤ​ဟး​ဂီၤ | ပှၤ​အ​စု​ဟး​ဂီၤ | the maimed (as in v13) |
 | Luke 20:10 | မၤ​အ​ခ့​အ​ပှၤ | မၢ​အ​ခ့​အ​ပှၤ | sent a servant (as in vv11–12) |
+| John 3:28 | သု​က​အုၣ်​သုး​သး | သု​က​အုၣ်​သု​သး | ye (yourselves) bear witness |
+| John 4:18 | ယဲၢ်​ဆီ | ယဲၢ်​ဂၤ | five (husbands); ဆီ is not a counter for people |
+| John 6:31 | ပှၢ်​မုၢ်​က​နၢ် | ပှၢ်​မုၢ်​က​နၢ | desert, wilderness |
+| John 9:27 | အ​ဝဲ​ဒၣ်​က​က​တိၤ​ဆၢ | အ​ဝဲ​ဒၣ်​က​တိၤ​ဆၢ | he answered (doubled က) |
+| John 11:2 | တြူၢ်​ဝဲ | တြူာ်​ဝဲ | wiped (his feet); 12:3 has တြူာ် |
+| John 13:5 | ကံၢ်​တူၢ် | ကံၢ်​တူာ် | girded (v4 has ကံၢ်·တူာ်) |
+| Acts 3:26 | ဂဲၤ​ဆၢ​ထၢၣ်​ကံၤ | ဂဲၤ​ဆၢ​ထၢၣ်​က့ၤ | raised up |
+| Acts 4:36 | ပှၤ​မၢ​တၢ်​ဖိ | ပှၤ​တၢ်​မၢ​ဖိ | apostles (word order) |
+| Acts 7:21 | ဖၤ​ရိာ် | ဖၤ​ရိၤ | Pharaoh |
+| Acts 8:9 | မၤ​မၢ​မၣ် | မၤ​က​မၢ​က​မၣ် | bewitched, amazed |
+| Acts 9:16 | ယ​က​ဒုး​နဲၣ်​နၤ​အီၤ | ယ​က​ဒုး​နဲၣ်​အီၤ | I will shew him (stray နၤ) |
+| Acts 11:6 | ထိၣ်​ဧိၤ​လံာ်​ဧိၤ | ထိၣ်​ဧိၤ​လံၣ်​ဧိၤ | fowls (Acts 10:12) |
+| Acts 19:7 | ဃၣ်​ဃၣ်​လၤ. | ဃၣ်​ဃၣ်​လီၤ. | (sentence-final particle) |
+| Acts 19:17 | အ့း​ဖ့း​စူၤ | အ့း​ဖ့း​စူး | Ephesus |
+| Acts 19:39 | လၢ​တၢ်​တၢ်​အိၣ်​ဖှိၣ် | လၢ​တၢ်​အိၣ်​ဖှိၣ် | in a (lawful) assembly; doubled တၢ် |
+| Acts 22:3 | ကံၤ​လံၤ​လံ | ကံၤ​လံၤ​ကံ | Cilicia |
+| Acts 22:7 | မၤ​အၤ​မၤ​သီ | မၤ​အၢ​မၤ​သီ | persecute (v8) |
+| Acts 23:34 | ဒီး​ဟ​ပ​ဒိၣ် | ဒီး​ပ​ဒိၣ် | and the governor (stray ဟ) |
+| Acts 24:1 | စီၤ​အၤ​နၤ​နံ | စီၤ​အ​နၤ​နံ | Ananias |
+| Acts 26:20 | ဃၣ်​ဃီၣ် | ဃၣ်​ဃီၤ | turn (to God) |
+| Acts 26:28 | ဒုး​က​ယဲၤ | ဒုး​ကဲ​ယၤ | make me (a Christian) |
+| Acts 27:29 | ဘၣ်​ယိာ် | ဘၣ်​ယိၣ် | fearing (v17) |
+| Acts 28:29 | ဒိၣ်​မး​လိၤ. | ဒိၣ်​မး​လီၤ. | (sentence-final particle) |
+| Romans 8:18 | ဟ​ထိၣ်​သ​တြီၤ | ထိၣ်​သ​တြီၤ | compared (stray ဟ) |
+| Romans 14:8 | အ​ဂ့ၢ်​ဒ်​အံၣ် | အ​ဂ့ၢ်​ဒ်​အံၤ | for (conjunction) |
+| 1 Corinthians 2:12 | လၢ​ယွ့ၣ်​လီၤ​က​လီ | လၢ​ယွၤ​ဟ့ၣ်​လီၤ​က​လီ | freely given of God |
+| 1 Corinthians 2:13 | သး​လၢ်​ဘၣ်​ဃး | သး​လၢ​ဘၣ်​ဃး | (comparing) spiritual with spiritual |
+| 1 Corinthians 3:19 | တၢ်​ကွဲ​အ​သး | တၢ်​ကွဲး​အ​သး | it is written |
+| 1 Corinthians 4:10 | သု​လၢ​သု​က​ပီၤ | သု​လၤ​သု​က​ပီၤ | ye are honourable |
+| 1 Corinthians 5:1 | သ​ကုး​ဆး​ဒး | သ​ကုၤ​ဆး​ဒး | everywhere, commonly |
+| 1 Corinthians 5:1 | တၢ်​မၤ​က​မၣ်​မုာ်​က​မၣ်​ခွါ | တၢ်​မၤ​က​မၣ်​မုၣ်​က​မၣ်​ခွါ | fornication |
+| 1 Corinthians 5:5 | မုၢ်​ကီၤ​လံၢ် | မုၣ်​ကီၤ​လံၢ် | Satan |
+| 1 Corinthians 5:7 | မး​သး​ဒ်​န့ၣ် | မၤ​သး​ဒ်​န့ၣ် | therefore |
+| 1 Corinthians 6:3 | အါ​န့ၣ်​အ​န့ၣ် | အါ​န့ၢ်​အ​န့ၣ် | how much more |
+| 1 Corinthians 7:5 | လု​က​အိၣ်​ဖး | လၢ​သု​က​အိၣ်​ဖး | that ye may (be apart) |
+| 1 Corinthians 7:5 | သု​က​ဟ​ဒုၣ် | သု​က​ဒုၣ် | (give yourselves to) fasting; stray ဟ |
+| 1 Corinthians 7:5 | အ​ဃိၤ​လီၤ | အ​ဃိ​လီၤ | because of |
+| 1 Corinthians 7:39 | အ​ဖၢ​မုၣ် | အ​ဖၢ​မုၢ် | while, as long as |
+| 1 Corinthians 9:17 | လိၣ်​ထီ​ဒၣ် | လိၣ်​ထီၣ်​ဒၣ် | willingly |
+| 1 Corinthians 9:20 | ဒ​ပှၤ | ဒ်​ပှၤ | as (one under the law) |
+| 1 Corinthians 10:8 | လုၢ်​တ​နံၤ​ဃီ | လၢ​မုၢ်​တ​နံၤ​ဃီ | in one day |
+| 1 Corinthians 10:9 | လ့​ပ​စၢ် | လ့​ပ​စီ | tempted |
+| 1 Corinthians 10:10 | တ​နီၤ​နီ​ဒူး | တ​နီၤ​နီၤ​က​ဒူး | some (of them) murmured |
+| 1 Corinthians 10:20 | သ​ဘၣ်​ဃး | သု​ဘၣ်​ဃး | ye (should have fellowship) |
+| 1 Corinthians 11:14 | တၢ်​အ​အ​လုၢ် | တၢ်​အ​လုၢ် | nature (doubled အ) |
+| 1 Corinthians 12:10 | ဒီး​တၢ်​ဂၤ​ဒၣ် | ဒီး​တ​ဂၤ​ဒၣ် | and to another |
+| 1 Corinthians 12:13 | မ့ၢ်​ဂ့ၢ် | မ့ၢ်​ဂ့ၤ | or (… or …) |
+| 1 Corinthians 12:22 | လီၤ​ဂၤ | လီၤ​ဂာ် | seem, be like |
+| 1 Corinthians 15:28 | လ​ဖီ​လာ် | လၢ​အ​ဖီ​လာ် | under him |
+| 1 Corinthians 15:43 | အ​စိၤ​အ​က​မီၤ | အ​စိ​အ​က​မီၤ | power |
+| 1 Corinthians 15:46 | ဝၢ​ခံ | လၢ​ခံ | afterward |
+| 1 Corinthians 15:47 | ဟ​က​စၢ် | က​စၢ် | the Lord (stray ဟ) |
+| 1 Corinthians 15:50 | န့ၢ်​ဘၣ်​သၢ် | န့ၢ်​ဘၣ်​သါ | inherit |
+| 1 Corinthians 15:55 | ပျုၤ​ပူ​ဧၢ | ပျုၤ​ပူၤ​ဧၢ | O grave |
+| 1 Corinthians 15:55 | တၢၤ​နၢၤ | တၢ်​မၤ​နၢၤ | victory |
+| 1 Corinthians 15:57 | လ​ဒုး | လၢ​အ​ဒုး | which giveth |
+| 1 Corinthians 16:19 | နီၢ်​ပြံး​စ​ကံ​လၤ | နီၢ်​ပြံ​စ​ကံး​လၤ | Priscilla |
+| 2 Corinthians 7:7 | သုး​သး​ဂဲၤ | သု​သး​ဂဲၤ | your fervent mind (သုး = soldier) |
+| 2 Corinthians 12:18 | ယ​က​ညး | ယ​ဃ့​က​ညး | I desired (ဃ့ dropped) |
+| Galatians 3:8 | စီၤ​အၤ​ဘြၤ (verse end) | စီၤ​အၤ​ဘြၤ​ဟၣ် | Abraham; the verse is cut off here |
+| Galatians 4:23 | ကုၢ်​မုၣ်​တ​တ​ဂၤ | ကုၢ်​မုၣ်​တ​ဂၤ | the bondwoman (doubled တ) |
+| Ephesians 1:5 | အ​အ​ဝဲ​ဒၣ် | အ​ဝဲ​ဒၣ် | he (doubled အ) |
+| Colossians 2:23 | လၢ​ထိၣ်​ပှဲၤ​ထီၣ် | လၢ​ထီၣ်​ပှဲၤ​ထီၣ် | satisfying (ထိၣ् for ထီၣ်) |
+| Colossians 3:18 | သု​ဝၢ | သု​ဝၤ | your husbands |
+| Colossians 4:3 | စ့ၢ်​ကီၣ် | စ့ၢ်​ကီး | also |
+| Colossians 4:9 | လဲၤ​စူ | လဲၤ​ဆူ | go to |
+| Colossians 4:9 | ဘၣ်​အး​ဒီး | ဘၣ်​ဃး​ဒီး | concerning |
+| 1 Thessalonians 1:2 | ပ​တၢ်​ထု​က​တ​ဖၣ် | ပ​တၢ်​ထု​က​ဖၣ်​တ​ဖၣ် | our prayers |
+| 1 Thessalonians 2:2 | တၢ်​ဂ့ၤ​လိာ်​ဘှီ​လိာ် | တၢ်​ဂ့ၢ်​လိာ်​ဘှီ​လိာ် | contention |
+| 1 Thessalonians 4:13 | သု​တ​တ​အုး | သု​တ​အုး | that ye sorrow not (doubled တ) |
+| 1 Thessalonians 5:11 | မၤ​မုၣ်​ထီၣ် | မၤ​မုာ်​ထီၣ် | comfort |
+| 2 Thessalonians 3:1 | အ​က​လုၢ်​အ​ထါ | အ​က​လုၢ်​အ​က​ထါ | word (က dropped) |
+| 1 Timothy 2:12 | အ​ဖိ​ခိၣ် | အ​ဖီ​ခိၣ် | over (the man) |
+| 1 Timothy 4:5 | အ​အ​ဂ့ၢ်​ဒ်​အံၤ | အ​ဂ့ၢ်​ဒ်​အံၤ | for (doubled အ) |
+| 1 Timothy 5:16 | ပ​မုၣ်​က​မဲ | ပှၤ​မုၣ်​က​မဲ | widows |
+| 1 Timothy 6:6 | တၢ်​ယူး​ယွၤ | တၢ်​ယူး​ယီၣ်​ယွၤ | godliness (ယီၣ် dropped) |
+| 2 Timothy 3:11 | အံၤ​က​နံ | အံၤ​က​နံၤ | Iconium (5 other verses have နံၤ) |
+| Hebrews 10:3 | ကိး​နံၤ​ဒဲး | ကိး​နံၣ်​ဒဲး | every year (နံၤ 'day' for နံၣ် 'year') |
+| Hebrews 11:2 | အ​အ​ဂ့ၢ်​ဒ်​အံၤ | အ​ဂ့ၢ်​ဒ်​အံၤ | for (doubled အ) |
+| Hebrews 11:5 | စီၤ​ဃ​နိၣ် | စီၤ​ဃ​နိာ် | Enoch (17 other verses have နိာ်) |
+| James 2:5 | တီၤ​ဝဲ​လၢ​တၢ်​နၣ် | တီၤ​ဝဲ​လၢ​တၢ်​နာ် | rich in faith (နၣ် for နာ်) |
+| Jude 1:21 | သူ​သး | သု​သး | yourselves (သူ for သု) |
+| Revelation 1:8 | စံး​စဲ​ဒၣ် | စံး​ဝဲ​ဒၣ် | saith |
+| Revelation 3:21 | လီၢ်​ပ​စိၣ် | လီၢ်​ပ​စိာ် | throne (181 verses have စိာ်) |
+| Revelation 9:15 | သၢ​ပူ​တ​ပူၤ | သၢ​ပူ​တ​ပူ | third part; also 16:19 |
+| Revelation 11:6 | အ​စီ​အ​က​မီၤ | အ​စိ​အ​က​မီၤ | power |
+| Revelation 14:15 | ဆ့ၣ်​အ​နီၤ | ဆ့ၣ်​နီၤ | sat |
+| Revelation 15:3 | အ​ခ့​ပှၤ | အ​ခ့​အ​ပှၤ | servant |
+| Revelation 19:12 | အ​မဲာ်​သၣ်​ကိၣ် | အ​မဲာ်​သၣ်​တိၣ် | his eyes |
+| Revelation 21:6 | အ​ခိၣ်​ထံး | အ​ခီၣ်​ထံး | the beginning |
+| Revelation 21:20 | တ​ဆံ​တၢ​တီၤ | တ​ဆံ​တ​တီၤ | the eleventh |
 
 ## 18. Notes on method
 
@@ -5359,7 +5674,7 @@ Each spelling below appears only once or twice, while the usual spelling appears
 - **Corrections made while combining:** the earlier MH chapter 1 note said MH's word for "temple" (တၢ်​လုၢ်​ဟံၣ်) didn't match the Bible, but it does match the New Testament. Decapolis, Calvary and Eve were checked directly against the Karen Bible (Mark 5:20, Luke 23:33, Genesis 3:20).
 - **Genesis 2 review (26 October 2026):** Genesis 2 in the Karen Bible was compared with the KJV. Terms used 3 or more times in the chapter and not yet listed were added after checking their consistency across the Old Testament: the LORD God, man (male), field, ground, create / form, every, whole. Notes were added to Adam, river, beast and seventh day.
 
-## 19. Spellings to decide (117)
+## 19. Spellings to decide (130)
 
 Names and words that appear in more than one form in the Karen Bible, where the right spelling is not clear. Counts are whole-Bible verse counts. "Suggested" is the more common or more likely form; "Decision" is for the team.
 
@@ -5369,9 +5684,11 @@ Names and words that appear in more than one form in the Karen Bible, where the 
 | Adrammelech | အ​ဒြၤ​မ့​လ့း (2: 2 Kgs 17:31; 19:37)<br>အ​ဒြၤ​မ့ၤ​လ့း (1: Isa 37:38) | Only Isaiah differs. | အ​ဒြၤ​မ့​လ့း |  |
 | afraid | ဘၣ်​ယိၣ် (83)<br>ဘၣ်​ယိာ် (6: Deut 2:25; Ps 56:4, 11; Matt 6:25, 34; Acts 27:29) | Same word, two final tones. | ဘၣ်​ယိၣ် |  |
 | Ahaz | အၤ​ဃး (36: 2 Ki 16; Isa 7 …)<br>အၤ​ဃာ် (2: Hos 1:1; Mic 1:1) | အၤ​ဃာ် is the spelling of Ahab | အၤ​ဃး |  |
+| Alexandria / Alexandrians | အ​လ့း​စၣ်​ဒြူး (Acts 18:24; 27:6)<br>အ​လ့း​စၣ်​ဒြ့း (Acts 6:9; 28:11) | the first form is also the man's name Alexander | (decide) |  |
 | Amok | ဧၤ​မိး (Neh 12:7)<br>ဧး​မိး (Neh 12:20) | One each. | (decide) |  |
 | Amoz | အၤ​မိာ် (8: Isaiah) / အၤ​မိး (6: 2 Kgs 19:2, 20; 20:1; 2 Chr 26:22; 32:20, 32) | Kings/Chronicles use one form, Isaiah the other | အၤ​မိာ် |  |
 | Aram (ancestor of David) | စီၤ​အ​ရၣ် (OT; Matt 1:3)<br>စီၤ​ရၣ် (Luke 3:33) | | စီၤ​အ​ရၣ် |  |
+| Archippus | စီၤ​အၢ်​ဃံး​ပူး (Col 4:17)<br>စီၤ​အၢ်​ဃံၤ​ပူး (Phlm 1:2) | one verse each | |  |
 | Arioch | အၤ​ရ​ယိာ် (Gen 14:1, 9)<br>အၤ​ရ​ယိး (4: Dan 2:14, 15, 24, 25) | the Genesis king and Daniel's captain are different people | — |  |
 | Asher / Aser | အၤ​ၡ့ၢ် (OT; Rev 7:6)<br>အၤ​ၡူၢ် (1: Luke 2:36) | | အၤ​ၡ့ၢ် |  |
 | Ashnah | အါ​ၡ​နၤ (Josh 15:33) / အါ​နၤ (Josh 15:43) | Two different towns in KJV, but both are “Ashnah” | အါ​ၡ​နၤ |  |
@@ -5379,11 +5696,15 @@ Names and words that appear in more than one form in the Karen Bible, where the 
 | Bethphage | ဘ့ၤ​သ​ဖၤ​က့ (2: Matt 21:1, Mark 11:1)<br>ဘ့ၤ​သ​ဖး​က့ (1: Luke 19:29) | | ဘ့ၤ​သ​ဖၤ​က့ |  |
 | brightness | က​ပြုၢ်​က​ပြီၤ (22: Exod 34:29 …)<br>က​ပြူၢ်​က​ပြီၤ (3: Ezek 1:4; 21:10, 28) | Ezek 1:28 also has the typo က​ပြု | က​ပြုၢ်​က​ပြီၤ |  |
 | Caesarea Philippi | ဖံး​လံး​ပူး​ကဲၤ​စါ​ရံၤ (Matt 16:13)<br>ဖံ​လံး​ပံၤ​ကဲၤ​စါ​ရံၤ (Mark 8:27) | 'Philippi' itself (Acts, Phil) should be checked too | (decide) |  |
+| Cappadocia | က​ပၤ​ဒ​ကံ (Acts 2:9)<br>ကး​ပၤ​ဒ​ကံ (1 Pet 1:1) | one verse each | |  |
 | cedar | သ့ၣ်​ဆှိ​အ့​ရ့း (63: Lev 14:4 …)<br>သ့ၣ်​ဆှိး​အ့​ရ့း (8: 2 Sam 5:11; 7:2, 7; 1 Ki 4:33; 6:10; 7:12 …) | the ဆှိး form is in Samuel/Kings | သ့ၣ်​ဆှိ​အ့​ရ့း |  |
 | Cherethites | ပှၤ​က​ရံ​သး​ဖိ (7: 2 Sam 15:18; 20:7, 23; 1 Kgs 1:38, 44; 1 Chr 18:17; Ezek 25:16) / ပှၤ​က​ရံး​သး​ဖိ (2: 1 Sam 30:14; 2 Sam 8:18) |  | ပှၤ​က​ရံ​သး​ဖိ |  |
 | Chisleu | ကံး​စ​လ့ၤ (1: Neh 1:1)<br>ကံ​စ​လ့ၤ (1: Zech 7:1) | the same month | (decide) |  |
 | Chorazin | ဃၤ​ရၤ​စံၣ် (1: Matt 11:21)<br>ဃ​ရၤ​စံၣ် (1: Luke 10:13) | | (decide) |  |
+| Cleopas / Cleophas | စီၤ​ကျ့​အီး​ပၤ (Luke 24:18)<br>စီၤ​ကျ့း​အီၤ​ပၤ (John 19:25) | probably two different men, but the spellings differ only in tone marks | (decide) |  |
 | conies (rock badgers) | ယူၣ်​ၡ​ဖၣ် (1: Ps 104:18)<br>ယုၢ်​ၡၤ​ဖး (1: Prov 30:26) | One mention each; Lev 11:5 and Deut 14:7 not yet compared. |  |  |
+| Crispus | စီၤ​ကြံ​စ​ပူး (Acts 18:8)<br>စီၤ​ကြံ​စ​ပူၤ (1 Cor 1:14) | | စီၤ​ကြံ​စ​ပူး |  |
+| Demetrius | စီၤ​ဒ့ၤ​မ့ၤ​တြံ (Acts 19:24, 38)<br>စီၤ​ဒ့ၤ​မ့ၤ​တြံၤ (3 John 1:12) | two different men with the same Greek name | |  |
 | Eber / Heber (Luke 3:35) | စီၤ​ဧ့ၤ​ဘ့ၢ် (Gen 11:14)<br>စီၤ​ဧၤ​ဘ့ၢ် (Luke 3:35) | not the same as the Heber row in section 12 (ဃ့​ဘ့ၢ်) | (decide) |  |
 | Elah (valley) | အ့​လၤ (21: 1 Sam 17:2, 17:19…) / အ့​လး (1: 1 Sam 21:9) | အ့လး is also the usual ending of ၡမူၤအ့လး / ဣ့လး names | အ့​လၤ |  |
 | Eleven / twenty-one (ordinals) | တ​ဆံ​တၢ / ခံ​ဆံ​တၢ (6: 1 Chr 24:12, 17; 25:18, 28; 27:14; Rev 21:20) / usual တ​ဆံ​တ | Possibly a deliberate spelling for 'one' in ordinals, or a slip | တ​ဆံ​တ |  |
@@ -5394,6 +5715,7 @@ Names and words that appear in more than one form in the Karen Bible, where the 
 | Engedi | ဧ့ၣ်​က့​ဒံၤ (4: Josh 15:62, 1 Sam 24:1, 2 Chr 20:2, Song 1:14) / ဧ့ၣ်​က့ၤ​ဒံၤ (1: 1 Sam 23:29) / ဧ့ၣ်​က့ၤ​ဒံ (1: Ezek 47:10) | Same place, three spellings | ဧ့ၣ်​က့​ဒံၤ |  |
 | English | Forms found (count: where) | Notes | Suggested | Decision |
 | Enshemesh | ဧၣ်​ၡ့​မ့ၣ် (Josh 15:7) / ဧ့ၣ်​ၡ့​မ့ၣ် (Josh 18:17) | “En-” is ဧ့ၣ် elsewhere (Enrogel, Engedi) | ဧ့ၣ်​ၡ့​မ့ၣ် |  |
+| Erastus | စီၤ​အ့​ရၤ​စ​တူး (Acts 19:22; Rom 16:23)<br>စီၤ​အ့ၤ​ရၤ​စ​တူး (2 Tim 4:20) | | စီၤ​အ့​ရၤ​စ​တူး |  |
 | Esrom | စီၤ​ဃ့ၤ​စ​ရိၣ် (Matt 1:3)<br>စီၤ​ဃ့ၤ​စ​ရိာ် (Luke 3:33) | | (decide) |  |
 | firm, steadfast | ခၢၣ်​သ​နၢၢ် (39)<br>ခၢၣ်​သ​နၢၣ် (5: Judg 9:51; Ezek 34:27; Dan 11:31; Hos 6:3; 1 Pet 5:10) | same word; final tone mark differs | ခၢၣ်​သ​နၢၢ် |  |
 | Gennesaret | ကံး​န့ၤ​ရ့​သး (8: Matt 14:34 etc.)<br>ကံး​န့​ရ့ၤ​သး (1: Luke 5:1) | | ကံး​န့ၤ​ရ့​သး |  |
@@ -5421,6 +5743,7 @@ Names and words that appear in more than one form in the Karen Bible, where the 
 | Jozadak / Josedech | ယိၤ​စ​ဒး (4: Ezra, Neh)<br>ယိၤ​စါ​ဒး (6: Haggai) | the same high priest's father | (decide) |  |
 | Kareah | ကါ​ရ့ၤ (11: Jer 40:8 …)<br>ကါ​ရ့း (2: Jer 40:15; 43:4) | same person | ကါ​ရ့ၤ |  |
 | Libyans (Put) | ပှၤ​ပူၤ​တၤ​ဖိ (Jer 46:9; Ezek 30:5; 38:5)<br>ပှၤ​လူ​အး​ဖိ (1: Dan 11:43) | see the Phut / Put row | ပူၤ​တၤ |  |
+| Lucius | စီၤ​လူၤ​ကံ (Acts 13:1)<br>စီၤ​လူ​ကံၤ (Rom 16:21) | probably two different men | (decide) |  |
 | Madai | မၤ​ဒဲ (1 Chr 1:5) / စၤ​ဒဲ (Gen 10:2) | Hebrew begins with M | မၤ​ဒဲ |  |
 | Malcham | မၤ​လ​က့ၣ် (1: 1 Chr 8:9)<br>မ​လိာ် (1: Zeph 1:5, 'their idol Malcham') | the person in 1 Chr and the idol in Zephaniah; also see Milcom / Molech | (decide) |  |
 | Memphis / Noph | နိ​ဖး (7: Isa 19:13; Jer 2:16; Ezek 30:13)<br>မိၤ​အး (1: Hos 9:6) | မိၤ​အး is the spelling of Moab, so Hos 9:6 reads as 'Moab' | နိ​ဖး |  |
@@ -5430,6 +5753,7 @@ Names and words that appear in more than one form in the Karen Bible, where the 
 | Micah (the prophet) | စီၤ​မံ​ကၤ (1: Mic 1:1; also the book name မံ​ကၤ)<br>စီၤ​မံၤ​ကါ (the rest, incl. Jer 26:18 for the same prophet) | the book title and Mic 1:1 differ from every other Micah | (decide) |  |
 | Michal | မံ​ကၤ​လး (10)<br>မံၤ​ကၤ​လး (5, e.g. 1 Sam 14:49) | Both common. | (decide) |  |
 | Milcom | မိ​လး (1 Ki 11:5, 33; 2 Ki 23:13; same form as Molech)<br>မံး​လ​ကိၣ် (2: Jer 49:1, 3) | Jeremiah uses a separate form | — |  |
+| Moloch | မိ​လး (Amos 5:26)<br>မိၤ​လး (Acts 7:43) | | (decide) |  |
 | Nebat | န​ဘး (most) / န​ဘိး (4: 2 Kgs 14:24; 15:24, 28; 17:21) | 2 Kings only | န​ဘး |  |
 | Nebuchadrezzar | န​ဘူၤ​ကး​န့​စၢ် (81: 2 Ki 24:1 …)<br>န​ဘူး​ကး​န့​စၢ် (5: Jer 21:7; 22:25; 24:1; 46:13, 26) | 5 Jeremiah verses use ဘူး | န​ဘူၤ​ကး​န့​စၢ် |  |
 | Nebuzaradan | န​ဘူ​စၢ်​ရ​ဒၣ် (11: 2 Ki 25:8 …)<br>န​ဘူ​စၢ်​ရ​ဒၢ် (4: Jer 39:11, 13; 40:1; 52:12) | Jer 40:1 has both | န​ဘူ​စၢ်​ရ​ဒၣ် |  |
@@ -5440,6 +5764,7 @@ Names and words that appear in more than one form in the Karen Bible, where the 
 | Phares | စီၤ​ဖ့ၤ​ရ့း (Matt 1:3)<br>စီၤ​ပ့း​ရ့း (Luke 3:33) | | (decide) |  |
 | Pharez / Perez | ဖ့ၤ​ရ့း (16)<br>ဖ့​ရ့း (3: e.g. Ruth 4:12)<br>ဖ့း​ရ့း (3: e.g. Ruth 4:18–19) | Three forms. | ဖ့ၤ​ရ့း |  |
 | Phut / Put (people) | ပှၤ​ပူၤ​တၤ​ဖိ (4: Jer 46:9; Ezek 30:5; 38:5; Nah 3:9)<br>ပှၤ​ပူၤ​တၢ်​ဖိ (1: Ezek 27:10) | the person in Gen 10:6 is စီၤ​ဖူး | ပူၤ​တၤ |  |
+| Priscilla | နီၢ်​ပြံ​စ​ကံး​လၤ (5: Acts 18; Rom 16:3; 2 Tim 4:19)<br>နီၢ်​ပြံး​စ​ကံ​လၤ (1: 1 Cor 16:19) | the second is probably a typo (also in section 17) | နီၢ်​ပြံ​စ​ကံး​လၤ |  |
 | queen of heaven | မူ​ခိၣ်​အ​နီၢ်​ပၤ​မုၣ် (Jer 44:17, 18, 25)<br>မူ​ခိၣ်​အ​နီၢ်​မၤ​မုၣ် (1: Jer 7:18) | 44:19 has the typo ပၤ​မုၢ် | မူ​ခိၣ်​အ​နီၢ်​ပၤ​မုၣ် |  |
 | Rechab | ရ့​ကး (10+) / ရ့​ကာ် (2: 2 Kgs 10:15, 23) | Both 2 Kings 10 verses use ရ့ကာ် | ရ့​ကး |  |
 | Riblah | ရံး​ဘ​လၤ (7: Num 34:11; 2 Ki 23:33; 25:6, 20, 21; Jer 39:5, 6)<br>ရံး​ဘ​လး (4: Jer 52:9, 10, 26, 27) | Jer 52 uses ဘလး | ရံး​ဘ​လၤ |  |
@@ -5451,11 +5776,14 @@ Names and words that appear in more than one form in the Karen Bible, where the 
 | Sheshach | ၡ့​ၡး (1: Jer 25:26)<br>ၡံ​ၡး (1: Jer 51:41) | one each | — |  |
 | Shimei | ၡံ​မံၤ (37)<br>ၡံး​မံၤ (3: 1 Kgs 4:18; 2 Chr 29:14; Ezra 10:33) |  | ၡံ​မံၤ |  |
 | Siloam | ၡံ​လိၣ် (Luke 13:4; the same as Shiloh)<br>ၡံ​လိၤ (John 9:7) | | (decide) |  |
+| Silvanus | စီၤ​စံၤ​လ​ဝ့​နုၤ (2 Cor 1:19)<br>စီၤ​စံ​လၤ (1 Thess 1:1; 2 Thess 1:1; same as Silas)<br>စီၤ​စံၤ​လ​ဝ့ၤ​နုၤ (1 Pet 5:12) | Silvanus and Silas are the same person | |  |
 | Tabbaoth | တး​ဘၤ​ဧိး (Ezra 2:43)<br>တၤ​ဘၤ​ဧိး (Neh 7:46) | One each. | (decide) |  |
 | Tirhakah | တံ​ရ​ဟၤ​ကၤ (1: 2 Kgs 19:9)<br>တံ​ရ​တၤ​ကၤ (1: Isa 37:9) | One mention each; Hebrew has h. | တံ​ရ​ဟၤ​ကၤ |  |
 | Tishbite | တံး​ၡ​ဘး (4) / တံး​ၡ့​ဘး (1: 1 Kgs 17:1) / တံး​ၡ​ဘၤ (1: 1 Kgs 21:28) |  | တံး​ၡ​ဘး |  |
+| Trophimus | စီၤ​တြီး​ဖံၤ​မူး (2: Acts 20:4; 2 Tim 4:20)<br>စီၤ​တြီ​ဖံ​မူး (1: Acts 21:29) | | စီၤ​တြီး​ဖံၤ​မူး |  |
 | withered (dried up) | ဃ့​ထီၣ်​ကွံာ် (31)<br>ဃ့​ထီ​ကွံာ် (9: Num 11:6; Isa 27:11; Ezek 37:11; Hos 9:16; Joel 1:10; Amos 1:2; Matt 13:6; 21:19, 20) | Second form drops the final ၣ်. | ဃ့​ထီၣ်​ကွံာ် |  |
 | Zacharias (son of Barachias) | စီၤ​စ​ဃၤ​ရံ (Matt 23:35)<br>စီၤ​စ​ကၤ​ရ​ယၤ (Luke 11:51) | Luke uses the OT 'Zechariah' spelling for the same man | (decide) |  |
+| Zelotes | စီၤ​စ့ၤ​လိၣ် (Luke 6:15)<br>စီၤ​စ့ၤ​လိာ် (Acts 1:13) | | (decide) |  |
 | Zeruiah | စ​ရူ​ယၤ (20) / စ​ရူၤ​ယၤ (5: 2 Sam 3:39; 16:9, 10; 1 Chr 18:12, 15) | Mother of Joab, Abishai, Asahel | စ​ရူ​ယၤ |  |
 | Zorobabel | စီၤ​စ​ရူ​ဘၤ​ဘ့​လး (Matt 1:12, 13)<br>စီၤ​စ​ရူ​ဘၤ​ဘ့း​လး (Luke 3:27) | the section 12 row has only စ​ရူ​ဘၤ | (decide) |  |
 |---|---|---|---|---|
