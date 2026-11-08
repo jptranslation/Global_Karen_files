@@ -5810,3 +5810,666 @@ Names and words that appear in more than one form in the Karen Bible, where the 
 | Phinehas | ဖံၤ​န​ဃၣ် (22)<br>ပံၤ​န​ဃၣ် (3: Num 25:7, 11; 31:6) |  | ဖံၤ​န​ဃၣ် |  |
 | Timnath / Timnah | တံး​မ​နး (5: Josh 19:50; 24:30; Judg 14:1, 5; 15:6)<br>တံ​မ​နး (4: Josh 24:30; Judg 2:9; 14:1, 2) | Judg 14:1 and Josh 24:30 have both. | (decide) |  |
 | wilderness | ပှၢ်​မုၢ်​က​နၢ (276)<br>ပှၤ​မုၢ်​က​နၢ (5: Josh 5:5; 1 Sam 13:18; Ps 68:7; Jer 2:31; 50:12) | Second form is probably a slip. | ပှၢ်​မုၢ်​က​နၢ |  |
+
+
+## 20. Words from the verse-by-verse Bible word lists (655)
+
+Words that the verse-by-verse word lists in KJV_Karen_Bible.txt found missing from sections 1–12. Each chapter's words are added when the chapter is finished. 'First' is the first verse where the word was listed.
+
+| English | Karen — use this | First | MH | STC draft | Notes |
+|---|---|---|---|---|---|
+| in the beginning | လၢ​ထံး​လၢ​သီ | Gen 1:1 |  |  |  |
+| be without form, desolate | အိၣ်​သ​ယုၢ် | Gen 1:1 |  |  |  |
+| be void, empty | အိၣ်​က​လီ | Gen 1:1 |  |  |  |
+| the deep | တၢ်​ယိာ် | Gen 1:2 |  |  |  |
+| face (surface) of the waters | ထံ​ဖံး​ခိၣ် | Gen 1:2 |  |  |  |
+| move, brood (of the Spirit) | ဟု | Gen 1:2 |  |  |  |
+| light | တၢ်​က​ပီၤ | Gen 1:3 |  |  |  |
+| let there be, come to be | ကဲ​ထီၣ် | Gen 1:3 |  |  |  |
+| said | စံး​ဝဲ​ဒၣ် | Gen 1:3 |  |  |  |
+| good | အ​ဂ့ၤ | Gen 1:4 |  |  |  |
+| between | အ​ဆၢ | Gen 1:4 |  |  |  |
+| day (a day) | မုၢ်​နံၤ | Gen 1:5 |  |  |  |
+| morning | မုၢ်​ဂီၤ | Gen 1:5 |  |  |  |
+| in the midst | အ​သး​ကံၢ်​ပူၤ | Gen 1:6 |  |  |  |
+| under | အ​ဖီ​လာ် | Gen 1:7 |  |  |  |
+| above, upon | အ​ဖီ​ခိၣ် | Gen 1:7 |  |  |  |
+| it was so | တၢ်​မၤ​အ​သး​ဒ်​န့ၣ် | Gen 1:7 |  |  |  |
+| be gathered together | အိၣ်​ဖှိၣ် | Gen 1:9 |  |  |  |
+| one place | လီၢ်​တ​ပူၤ​ဃီ | Gen 1:9 |  |  |  |
+| dry land | ခိ | Gen 1:9 |  |  |  |
+| appear | အိၣ်​ဖျါ​ထီၣ် | Gen 1:9 |  |  |  |
+| bring forth (plants) | ဒုး​မဲ​ထီၣ် | Gen 1:11 |  |  |  |
+| grass, green herb | နီၣ်​ဧိၤ​မံၤ​ဧိၤ | Gen 1:11 |  |  |  |
+| herb | ဘု​ဧိၤ​ဟု​ဧိၤ | Gen 1:11 |  |  |  |
+| seed (grain) | ဘု​သၣ် | Gen 1:11 |  |  |  |
+| tree(s) | သ့ၣ်​ဧိၤ​ဝၣ်​ဧိၤ | Gen 1:11 |  |  |  |
+| its seed | အ​ချံ | Gen 1:11 |  |  |  |
+| lights (sun, moon) | တၢ်​က​ပီၤ​အ​ဖျၢၣ် | Gen 1:14 |  |  |  |
+| seasons | တၢ်​အ​မုၢ်​အ​လါ | Gen 1:14 |  |  |  |
+| years | နံၣ်​ဧိၤ​လါ​ဧိၤ | Gen 1:14 |  |  |  |
+| the lesser | အ​ဆံး | Gen 1:16 |  |  |  |
+| set, put | ပာ် | Gen 1:18 |  |  |  |
+| bring forth abundantly | ဖှံ​ထီၣ်​န့ၢ် | Gen 1:20 |  |  |  |
+| the moving creature that hath life | တၢ်​မူ​တၢ်​ဂဲၤ | Gen 1:20 |  |  |  |
+| fowl, birds | ထိၣ်​ဧိၤ​လံၣ်​ဧိၤ | Gen 1:20 |  |  |  |
+| fly | ယူၤ​ထီၣ် | Gen 1:20 |  |  |  |
+| great whales (great creatures) | တၢ်​သး​ဖး​ဒိၣ် | Gen 1:21 |  |  |  |
+| living creature | တၢ်​အ​သး | Gen 1:21 |  |  |  |
+| that moveth | ဟူး​သ့​ဂဲၤ​သ့ | Gen 1:21 |  |  |  |
+| winged fowl | တၢ်​အ​ယူၤ | Gen 1:21 |  |  |  |
+| be fruitful | သၣ်​ထီၣ် | Gen 1:22 |  |  |  |
+| fill, replenish | မၤ​ပှဲၤ​ထီၣ် | Gen 1:22 |  |  |  |
+| cattle | ဆၣ်​ဧိၤ​ကီၢ်​ဧိၤ​အ​ဒၢ | Gen 1:24 |  |  |  |
+| beast of the earth (wild beast) | ဆၣ်​ဧိၤ​ကီၢ်​ဧိၤ​အ​မံၤ | Gen 1:24 |  |  |  |
+| beast(s), animals | ဆၣ်​ဧိၤ​ကီၢ်​ဧိၤ | Gen 1:24 |  |  |  |
+| creep | စွါ | Gen 1:25 |  |  |  |
+| image | အ​ဂီၤ | Gen 1:26 |  |  |  |
+| fish | ဒ့ၣ်​ဧိၤ​ညၣ်​ဧိၤ | Gen 1:26 |  |  |  |
+| the air (sky) | တၢ်​ဖး​ဖီ | Gen 1:26 |  |  |  |
+| life | အ​သး​သ​မူ | Gen 1:30 |  |  |  |
+| every thing | တၢ်​တ​မံၤ​လၢ်​လၢ် | Gen 1:31 |  |  |  |
+| very good | အ​ဂ့ၤ​မး | Gen 1:31 |  |  |  |
+| host (of heaven and earth) | အ​သုး​မုၢ်​ဂီၢ်​မုၢ် | Gen 2:1 |  |  |  |
+| be finished | ဝံၤ | Gen 2:1 |  |  |  |
+| end, finish (a work) | မၤ​ဝံၤ | Gen 2:2 |  |  |  |
+| sanctify (a day) | ပာ်​စီ​ဆှံ | Gen 2:3 |  |  |  |
+| generations (account of origins) | တၢ်​အိၣ်​ဖျဲၣ် | Gen 2:4 |  |  |  |
+| plant (of the field) | တၢ်​မဲ​တၢ်​မါ | Gen 2:5 |  |  |  |
+| grow, spring up | မဲ​ထီၣ် | Gen 2:5 |  |  |  |
+| rain (verb) | ဟဲ​စူၤ | Gen 2:5 |  |  |  |
+| till the ground | မၤ​ဟီၣ်​ခိၣ် | Gen 2:5 |  |  |  |
+| mist | ဘှ့ၣ် | Gen 2:6 |  |  |  |
+| water (the ground) | မၤ​ဘၣ်​စီၣ် | Gen 2:6 |  |  |  |
+| dust | ကမူၣ် | Gen 2:7 |  |  |  |
+| breathe into | အူ​သ​ဖှိ | Gen 2:7 |  |  |  |
+| nostrils | နါ​ဒ့ | Gen 2:7 |  |  |  |
+| a living soul | ပှၤ​အ​သး​သ​မူ | Gen 2:7 |  |  |  |
+| plant (a garden) | သူၣ်​လီၤ​ဖျး​လီၤ | Gen 2:8 |  |  |  |
+| eastward | မုၢ်​ထီၣ်​တ​ခီ | Gen 2:8 |  |  |  |
+| pleasant to the sight | ကွၢ်​ဂ့ၤ | Gen 2:9 |  |  |  |
+| good for food | အီၣ်​ဂ့ၤ | Gen 2:9 |  |  |  |
+| the tree of life | တၢ်​မူ​အ​သ့ၣ် | Gen 2:9 |  |  |  |
+| be parted (river) | ဖး​ဒ့​ထီၣ် | Gen 2:10 |  |  |  |
+| river, stream (counter: heads) | ကျိ | Gen 2:10 |  |  |  |
+| compass, go round | လဲၤ​တ​ရံး | Gen 2:11 |  |  |  |
+| onyx stone | တၢ်​မျၢ်​မ​ဟူ​ယၤ | Gen 2:12 |  |  |  |
+| keep, guard | ပၢၤ | Gen 2:15 |  |  |  |
+| alone | တ​ဂၤ​ဃီ | Gen 2:18 |  |  |  |
+| an help | တၢ်​မၤ​စၢၤ | Gen 2:18 |  |  |  |
+| meet for, fit for | ကြၢး​ဒီး | Gen 2:18 |  |  |  |
+| bring (them) to | ဒုး​ဟဲ | Gen 2:19 |  |  |  |
+| deep sleep | တၢ်​မံ​သ​ပ့ၤ | Gen 2:21 |  |  |  |
+| take out (from) | ထဲး​ထီၣ်​န့ၢ် | Gen 2:21 |  |  |  |
+| rib | ဂုာ်​ဃံ | Gen 2:21 |  |  |  |
+| close up (flesh) | မၤ​မံ​ထီ | Gen 2:21 |  |  |  |
+| bring (lead) | ဆှၢ | Gen 2:22 |  |  |  |
+| bone | ဃံ | Gen 2:23 |  |  |  |
+| leave, forsake | ဟး​သ​ဒၣ် | Gen 2:24 |  |  |  |
+| cleave unto | ဘျုး​အ​သး | Gen 2:24 |  |  |  |
+| one flesh | တ​သွံၣ်​ဃီ​တ​ညၣ်​ဃီ | Gen 2:24 |  |  |  |
+| ashamed | မဲာ်​ဆှး | Gen 2:25 |  |  |  |
+| surely, truly | သ​ပှၢ်​တၢၢ် | Gen 3:1 |  |  |  |
+| lest ye die | သံ​ဘၣ်​ဖုး | Gen 3:3 |  |  |  |
+| be as, be like | လီၤ​ဂာ်​ဒီး | Gen 3:5 |  |  |  |
+| pleasant, beautiful | ဃံ​လၤ | Gen 3:6 |  |  |  |
+| desired, delightful | မုာ်​လၤ | Gen 3:6 |  |  |  |
+| make wise | ဒုး​ကူၣ်​သ့ | Gen 3:6 |  |  |  |
+| sew together | ဆး​ပ​ကိာ် | Gen 3:7 |  |  |  |
+| leaves | အ​လၣ် | Gen 3:7 |  |  |  |
+| the cool of the day | မုၢ်​ခုၣ်​လီၤ​အ​က​တီၢ် | Gen 3:8 |  |  |  |
+| hide oneself | ပာ်​တ​ဒၢ​အ​သး | Gen 3:8 |  |  |  |
+| call unto | ကိး​ထီၣ် | Gen 3:9 |  |  |  |
+| beguile, deceive | လီ​န့ၢ် | Gen 3:13 |  |  |  |
+| belly | ဟၢ​ဖၢ | Gen 3:14 |  |  |  |
+| enmity | ထီ​ဒုၣ်​ထီ​ဒါ | Gen 3:15 |  |  |  |
+| seed (offspring) | ချံ​သၣ် | Gen 3:15 |  |  |  |
+| bruise, crush | မၤ​သ​ဘှံး | Gen 3:15 |  |  |  |
+| heel | ခီၣ်​နၢၣ်​ခံ | Gen 3:15 |  |  |  |
+| sorrow, pain (of childbirth) | တၢ်​ဆိး​ကဲး | Gen 3:16 |  |  |  |
+| bring forth (a child) | ဆံး​စၢ် | Gen 3:16 |  |  |  |
+| sorrow, grief | သူၣ်​အုး​သး​အုး | Gen 3:16 |  |  |  |
+| desire toward (lean upon) | သန့ၤ​အ​သး | Gen 3:16 |  |  |  |
+| toil, sorrow (hardship) | တၢ်​ဘၣ်​ကိၢ်​ဘၣ်​ဂီၤ | Gen 3:17 |  |  |  |
+| thorns | တၤ​ဆှုၣ်​တၤ​မဲ | Gen 3:18 |  |  |  |
+| the sweat of thy face | မဲာ်​က​ပၢၤ | Gen 3:19 |  |  |  |
+| coats, garments | ဆ့ | Gen 3:21 |  |  |  |
+| skins | တၢ်​ဖံး | Gen 3:21 |  |  |  |
+| clothe | ဒုး​ကူ​ဒုး​သိး | Gen 3:21 |  |  |  |
+| put forth (the hand) | ယူာ်​ထီၣ် | Gen 3:22 |  |  |  |
+| the tree of life | သ့ၣ်​မူ | Gen 3:22 |  |  |  |
+| send forth, expel | ဒုး​ဟး​ထီၣ်​ကွံာ် | Gen 3:23 |  |  |  |
+| flaming sword | နး​မ့ၣ်​အူ | Gen 3:24 |  |  |  |
+| turn (every way) | တ​ရံး​အ​သး | Gen 3:24 |  |  |  |
+| an offering (gift) | တၢ်​မၤ​ဘူၣ် | Gen 4:3 |  |  |  |
+| bring (carry to) | ဟဲ​စိာ် | Gen 4:3 |  |  |  |
+| firstlings, firstborn | ဝဲၢ်​ကိ | Gen 4:4 |  |  |  |
+| fat (of animals) | အ​သိ | Gen 4:4 |  |  |  |
+| be wroth, angry | သး​ထီၣ် | Gen 4:5 |  |  |  |
+| countenance fell | မဲာ်​လီၤ​သ​ပှၢ် | Gen 4:5 |  |  |  |
+| rise up (against) | ဂဲၤ​ထၢၣ် | Gen 4:8 |  |  |  |
+| open (the mouth) | အဲး​ထီၣ် | Gen 4:11 |  |  |  |
+| a vagabond, wanderer | ပှၤ​လဲၤ​ဝ့ၤ​ဝီၤ​တၢ် | Gen 4:12 |  |  |  |
+| a fugitive | ပှၤ​ဃ့ၢ်​တၢ် | Gen 4:12 |  |  |  |
+| bear, endure | တူၢ် | Gen 4:13 |  |  |  |
+| be hid | အိၣ်​တ​ဒၢ | Gen 4:14 |  |  |  |
+| sevenfold | နွံ​စး | Gen 4:15 |  |  |  |
+| play the harp | ဒ့​တ​နၢ် | Gen 4:21 |  |  |  |
+| organ, pipe | အူ​ပံ | Gen 4:21 |  |  |  |
+| teach, instructer | သိၣ်​လိ | Gen 4:22 |  |  |  |
+| wound, wounding | တူာ် | Gen 4:23 |  |  |  |
+| a young man | ပှၤ​ဖိၣ်​သၣ်​ခွါ | Gen 4:23 |  |  |  |
+| seed (offspring) | တၢ်​အ​ချံ​အ​သၣ် | Gen 4:25 |  |  |  |
+| begin to (call upon) | ကိး​ထီၣ်​သီ | Gen 4:26 |  |  |  |
+| the generations (descendants) | အ​စၢၤ​အ​သွဲၣ် | Gen 5:1 |  |  |  |
+| the days (lifetime) | မုၢ်​နံၤ​မုၢ်​သီ | Gen 5:4 |  |  |  |
+| after (that) | အ​လီၢ်​ခံ | Gen 5:4 |  |  |  |
+| comfort (verb) | မၤ​မုာ်​ထီၣ်​က့ၤ | Gen 5:29 |  |  |  |
+| toil, weariness | တၢ်​ဘှံး​ပ​သး | Gen 5:29 |  |  |  |
+| begin to multiply | အါ​ထီၣ်​သီ | Gen 6:1 |  |  |  |
+| strive, contend | ဂ့ၢ်​လိာ်​ဘှီ​လိာ် | Gen 6:3 |  |  |  |
+| mighty men | ပှၤ​အ​ဒိၣ်​အ​ထီ | Gen 6:4 |  |  |  |
+| of renown, famous | အ​မံၤ​ဟူ​သၣ်​ဖျါ | Gen 6:4 |  |  |  |
+| imagination of the thoughts | တၢ်​ကူၣ်​ဆိ​က​မိၣ် | Gen 6:5 |  |  |  |
+| evil, wicked | အ​အၢ​အ​သီ | Gen 6:5 |  |  |  |
+| continually (day and night) | ကိး​မုၢ်​နံၤ​မုၢ်​နၤ​ဒဲး | Gen 6:5 |  |  |  |
+| be grieved | သး​အုး | Gen 6:6 |  |  |  |
+| find grace (favour) | ဘၣ်​ဘျုး | Gen 6:8 |  |  |  |
+| violence | တၢ်​မၤ​ဆူၣ်​မၤ​စိး | Gen 6:11 |  |  |  |
+| the end | အ​က​တၢၢ် | Gen 6:13 |  |  |  |
+| gopher wood | သ့ၣ်​ကီး​ဖၢ် | Gen 6:14 |  |  |  |
+| length | အ​ထီ | Gen 6:15 |  |  |  |
+| breadth | အ​ဒီၣ်​ဃီၤ | Gen 6:15 |  |  |  |
+| height | အ​က​စီၤ​ထီၣ် | Gen 6:15 |  |  |  |
+| window | တၢ်​ထူၣ်​ဖျိ | Gen 6:15 |  |  |  |
+| the side | အ​က​ပၤ | Gen 6:16 |  |  |  |
+| establish | မၤ​ဂၢၢ်​မၤ​ကျၢၤ | Gen 6:18 |  |  |  |
+| two of every sort | ခံ​ဒု​ခံ​ဒု | Gen 6:19 |  |  |  |
+| gather, store up | ပာ်​ဖှိၣ် | Gen 6:21 |  |  |  |
+| household, house | ပှၤ​ဟံၣ်​ဖိ | Gen 7:1 |  |  |  |
+| a generation (people of an age) | ပှၤ​တ​စိၤ | Gen 7:1 |  |  |  |
+| by sevens (of animals) | နွံ​ဒု​နွံ​ဒု | Gen 7:2 |  |  |  |
+| by sevens (of birds) | နွံ​ဘ့ၣ်​နွံ​ဘ့ၣ် | Gen 7:3 |  |  |  |
+| age, years old | သး​ပှၢ် | Gen 7:6 |  |  |  |
+| day of the month | လါ​ထီၣ် | Gen 7:11 |  |  |  |
+| be broken up (burst open) | ဘၢၣ်​ဖျိ​ထီၣ် | Gen 7:11 |  |  |  |
+| bear up, float | ကဖီ​ထီၣ် | Gen 7:17 |  |  |  |
+| prevail (of waters) | ဆူၣ်​ထီၣ် | Gen 7:18 |  |  |  |
+| high hills | ကစၢၢ်​ထီ | Gen 7:19 |  |  |  |
+| be covered (submerged) | လီၤ​ဘျၢ | Gen 7:19 |  |  |  |
+| mountains | ကစၢၢ်​က​လိ | Gen 7:20 |  |  |  |
+| be destroyed | ဟး​ဂီၤ​ကွံာ် | Gen 7:23 |  |  |  |
+| remain, be left | အိၣ်​လီၤ​တဲာ် | Gen 7:23 |  |  |  |
+| remember | သ့ၣ်​နီၣ်​ထီၣ်​က့ၤ | Gen 8:1 |  |  |  |
+| make (a wind) blow | ဒုး​အူ​ထီၣ် | Gen 8:1 |  |  |  |
+| be stopped (shut up) | ဆွံ​တံာ်​ဃာ် | Gen 8:2 |  |  |  |
+| stop, cease, be restrained | တုာ် | Gen 8:2 |  |  |  |
+| return | က့ၤ​က​ဒါ​က့ၤ | Gen 8:3 |  |  |  |
+| be abated, decrease | လီၤ​စှၤ | Gen 8:3 |  |  |  |
+| rest, come to rest (of the ark) | တုာ်​ထီၣ် | Gen 8:4 |  |  |  |
+| the tops (of mountains) | အ​ဒီ​ခိၣ် | Gen 8:5 |  |  |  |
+| send forth (let go) | ပျၢ်​ထီၣ် | Gen 8:7 |  |  |  |
+| be dried up | သူ​ထီၣ်​ကွံာ် | Gen 8:7 |  |  |  |
+| pull (bring) in | ဒုး​နုာ် | Gen 8:9 |  |  |  |
+| stay, wait | အိၣ်​ခိး | Gen 8:10 |  |  |  |
+| fresh (leaf) | သံ​က​စဲာ် | Gen 8:11 |  |  |  |
+| mouth, beak (of a bird) | နိး | Gen 8:11 |  |  |  |
+| the covering | တၢ်​ကျၢၢ်​ဘၢ | Gen 8:13 |  |  |  |
+| go forth, come down (out of) | ယုၢ်​လီၤ | Gen 8:16 |  |  |  |
+| bring forth (bring down out of) | ဒုး​ယုၢ်​လီၤ | Gen 8:17 |  |  |  |
+| breed abundantly | ဖှံ​ထီၣ် | Gen 8:17 |  |  |  |
+| kinds, families | အ​ဒူၣ် | Gen 8:19 |  |  |  |
+| smell | နၢ​ထီၣ် | Gen 8:21 |  |  |  |
+| youth (grow up) | ဖိၣ်​သၣ်​ခွါ​ထီၣ် | Gen 8:21 |  |  |  |
+| seedtime (sow) | ဖှံ​တၢ် | Gen 8:22 |  |  |  |
+| harvest (reap) | ကူး​ဘု | Gen 8:22 |  |  |  |
+| cold | တၢ်​ဂိၢ် | Gen 8:22 |  |  |  |
+| heat | တၢ်​ကိၢ် | Gen 8:22 |  |  |  |
+| summer (rainy season) | တၢ်​စူၤ​အ​က​တီၢ် | Gen 8:22 |  |  |  |
+| winter (dry season) | တၢ်​ယီၤ​အ​က​တီၢ် | Gen 8:22 |  |  |  |
+| fear (n.) | တၢ်​ပျံၤ | Gen 9:2 |  |  |  |
+| dread (n.) | တၢ်​ဖုး | Gen 9:2 |  |  |  |
+| moving thing | တၢ်​ဂဲၤ | Gen 9:3 |  |  |  |
+| shed (blood) | လူ​လီၤ | Gen 9:6 |  |  |  |
+| cut off | ဒီၣ်​တဲာ်​ကွံာ် | Gen 9:11 |  |  |  |
+| bring (a cloud) over, raise up | ဒုး​ထီၣ် | Gen 9:14 |  |  |  |
+| overspread, everywhere | သ​ကုၤ​ဆး​ဒး | Gen 9:19 |  |  |  |
+| vineyard | စ​ပံး​အ​လီၢ် | Gen 9:20 |  |  |  |
+| be drunken | အီ​မူၤ | Gen 9:21 |  |  |  |
+| shoulders | ဖံ​ဘၣ်​ခိၣ် | Gen 9:23 |  |  |  |
+| go backward | လဲၤ​ဂုၤ​ခံ | Gen 9:23 |  |  |  |
+| cover (verb) | မၤ​ဘံၣ် | Gen 9:23 |  |  |  |
+| turn backward (face away) | ဃၣ်​ဒူၣ်​ချၢ | Gen 9:23 |  |  |  |
+| awake | ဖု​သံ​နီၣ်​ထီၣ် | Gen 9:24 |  |  |  |
+| younger son | အ​ဖိ​သ​ဒါ | Gen 9:24 |  |  |  |
+| enlarge | မၤ​လဲၢ်​ထီၣ် | Gen 9:27 |  |  |  |
+| tongue, language | တၢ်​က​တိၤ​အ​ကျိာ် | Gen 10:5 |  |  |  |
+| each, every one | စုာ်​စုာ် | Gen 10:5 |  |  |  |
+| begin to be | ကဲ​ထီၣ်​သီ | Gen 10:8 |  |  |  |
+| a mighty one | ပှၤ​အ​ဒိၣ် | Gen 10:8 |  |  |  |
+| a hunter | ပှၤ​ခိး​ခး​တၢ်​ဖိ | Gen 10:9 |  |  |  |
+| kingdom | ဘီ​မုၢ် | Gen 10:10 |  |  |  |
+| between | အ​ဘၢၣ်​စၢၤ | Gen 10:12 |  |  |  |
+| border, coast | ကီၢ်​ဃၢၤ | Gen 10:19 |  |  |  |
+| days, generation (lifetime) | အ​စိၤ | Gen 10:25 |  |  |  |
+| be divided | လီၤ​မုၢ်​လီၤ​ဖး | Gen 10:25 |  |  |  |
+| Go to, come (let us) | ဟဲ​မီၣ် | Gen 11:3 |  |  |  |
+| make or do together (let us) | မၤ​သ​ကိး | Gen 11:3 |  |  |  |
+| slime, bitumen | ကျဲ​တံး​ကိၢ်​လိၣ် | Gen 11:3 |  |  |  |
+| tower | တၢး​ထီ | Gen 11:4 |  |  |  |
+| come down | ဟဲ​လီၤ | Gen 11:5 |  |  |  |
+| one people | ပှၤ​တ​က​လုာ်​ဃီ | Gen 11:6 |  |  |  |
+| restrain, hinder, forbid | တြီ | Gen 11:6 |  |  |  |
+| confound, confuse | မၤ​သ​ဘံၣ်​ဘုၣ် | Gen 11:7 |  |  |  |
+| scatter abroad | မၤ​လီၤ​ပြံ​လီၤ​ပြါ | Gen 11:8 |  |  |  |
+| leave off, cease | ဆိ​တ့ၢ် | Gen 11:8 |  |  |  |
+| grandson (son's son) | အ​လံၤ | Gen 11:31 |  |  |  |
+| daughter in law | အ​ဒဲၣ် | Gen 11:31 |  |  |  |
+| country, homeland | ထံ​ကီၢ် | Gen 12:1 |  |  |  |
+| kindred, relatives | ဘူး​တံၢ် | Gen 12:1 |  |  |  |
+| make great, magnify | ပာ်​ဒိၣ် | Gen 12:2 |  |  |  |
+| nephew (brother's son) | အ​ဖိ​ဒိၣ် | Gen 12:5 |  |  |  |
+| pass through, cross over | ခီ​ဂာ် | Gen 12:6 |  |  |  |
+| plain (of Moreh), oak, terebinth | သ့​ထိး​ဖၣ် | Gen 12:6 |  |  |  |
+| an altar | တၢ်​လုၢ်​အ​လီၢ် | Gen 12:7 |  |  |  |
+| the west | မုၢ်​နုာ်​တ​ခီ | Gen 12:8 |  |  |  |
+| the south | ကလံၤ​ထံး​တ​ခီ | Gen 12:9 |  |  |  |
+| sojourn | အိၣ်​တ​မှံၤ | Gen 12:10 |  |  |  |
+| save alive | ဒုး​မူ | Gen 12:12 |  |  |  |
+| treat well, do good to | မၤ​ဂ့ၤ | Gen 12:13 |  |  |  |
+| menservants | ကုၢ်​ပိာ်​ခွါ | Gen 12:16 |  |  |  |
+| plague, smite | တီၢ် | Gen 12:17 |  |  |  |
+| plagues (strokes) | တီၢ်​တၢ် | Gen 12:17 |  |  |  |
+| be very rich | ထူး​ဝဲ​တီၤ​ဝဲ | Gen 13:2 |  |  |  |
+| silver | ကျိၣ်​ဧိၤ​စ့​ဧိၤ | Gen 13:2 |  |  |  |
+| gold (and jewels) | ထူ​ဧိၤ​လွဲ​ဧိၤ | Gen 13:2 |  |  |  |
+| journey (n.) | တၢ်​လဲၤ | Gen 13:3 |  |  |  |
+| flock, herd (counter) | အ​ဖု | Gen 13:5 |  |  |  |
+| strife, quarrel | အ့ၣ်​လိာ်​ဆိး​က့​လိာ် | Gen 13:7 |  |  |  |
+| lift up (the eyes) | ကျ့​ထီၣ် | Gen 13:10 |  |  |  |
+| well watered | ဘၣ်​စီၣ် | Gen 13:10 |  |  |  |
+| be separated, part | လီၤ​ဖး | Gen 13:11 |  |  |  |
+| wicked (people) | ပှၤ​အၢ | Gen 13:13 |  |  |  |
+| for ever | လီၤ​စိၤ​လီၤ​ထီ | Gen 13:15 |  |  |  |
+| number, count | ဂံၢ် | Gen 13:16 |  |  |  |
+| breadth | အ​ဒီၣ်​တူာ် | Gen 13:17 |  |  |  |
+| remove (a tent), move | သုး | Gen 13:18 |  |  |  |
+| make war (with each other) | ဒုး​လိာ်​အ​သး | Gen 14:2 |  |  |  |
+| be joined together (allied) | ဒီ​တံၤ​ဒီ​သ​ကိး​လိာ်​အ​သး | Gen 14:3 |  |  |  |
+| vale, valley | တၢ်​ပၢၤ​ခိၣ် | Gen 14:3 |  |  |  |
+| rebel | ဂဲၤ​ထၢၣ်​ထီ​ဒါ | Gen 14:4 |  |  |  |
+| smite, defeat | ကျီ​ကွံာ် | Gen 14:5 |  |  |  |
+| fight, join battle | ဒုး​တၢ် | Gen 14:8 |  |  |  |
+| slimepits (bitumen pits) | ကျဲ​တံး​အ​ပူၤ | Gen 14:10 |  |  |  |
+| victuals, food and drink | တၢ်​အီၣ်​တၢ်​အီ | Gen 14:11 |  |  |  |
+| escape | ထူၣ်​ဖျဲး | Gen 14:13 |  |  |  |
+| confederate, allied | ဒီ​သိၣ် | Gen 14:13 |  |  |  |
+| take captive | ဖီၣ်​န့ၢ် | Gen 14:14 |  |  |  |
+| pursue | လူၤ​ပိာ်​အ​ခံ | Gen 14:14 |  |  |  |
+| women | ပိာ်​မုၣ်​ပိာ်​မၢၤ | Gen 14:16 |  |  |  |
+| the people | ပှၤ​ဂီၢ်​မုၢ်​ဂီၢ်​ပၤ | Gen 14:16 |  |  |  |
+| enemies | ဒုၣ်​ဒါ | Gen 14:20 |  |  |  |
+| tithe, a tenth | ဆံ​ဆဲၣ်​ပူ​တ​ပူ | Gen 14:20 |  |  |  |
+| thread | လုၣ် | Gen 14:23 |  |  |  |
+| shoelatchet (sandal strap) | ခီၣ်​ဖံး​ပျံၤ | Gen 14:23 |  |  |  |
+| make rich | ဒုး​ထူး​ထီၣ်​တီၤ​ထီၣ် | Gen 14:23 |  |  |  |
+| a vision | တၢ်​ထံၣ်​တၢ်​လၢ​ညါ​ခီ | Gen 15:1 |  |  |  |
+| reward, wages | ဘူး​လဲ | Gen 15:1 |  |  |  |
+| heir | ပှၤ​န့ၢ်​သါ | Gen 15:3 |  |  |  |
+| inherit | န့ၢ်​သါ | Gen 15:7 |  |  |  |
+| bring (him) forth, lead out | ဒုး​ဟး​ထီၣ် | Gen 15:5 |  |  |  |
+| look toward (up) | ကွၢ်​ထီၣ် | Gen 15:5 |  |  |  |
+| count, reckon (as) | ပး​ကဲ | Gen 15:6 |  |  |  |
+| bring out (of a place) | ဒုး​ဟဲ​ထီၣ် | Gen 15:7 |  |  |  |
+| a she goat | မဲာ်​တဲး​လဲး​မိၢ် | Gen 15:9 |  |  |  |
+| opposite, one against another | သ​ဃီၤ | Gen 15:10 |  |  |  |
+| carcase, dead body | တၢ်​စိၣ် | Gen 15:11 |  |  |  |
+| drive away (birds) | ဃါ​ထီၣ်​ကွံာ် | Gen 15:11 |  |  |  |
+| sunset, the sun going down | မုၢ်​လီၤ​နုာ် | Gen 15:12 |  |  |  |
+| afflict, deal hardly with | မၤ​နး​မၤ​ဖှီၣ် | Gen 15:13 |  |  |  |
+| in peace | မုာ်​မုာ် | Gen 15:15 |  |  |  |
+| a good old age (grey head) | ခိၣ်​ဝါ​ဂ့ၤ | Gen 15:15 |  |  |  |
+| the fourth generation | လွံၢ်​စိၤ​တ​စိၤ | Gen 15:16 |  |  |  |
+| furnace | ဖၣ်​က​ပူၤ | Gen 15:17 |  |  |  |
+| burn, blaze | ကဲၤ​ထီၣ် | Gen 15:17 |  |  |  |
+| make a covenant | အၢၣ်​လီၤ​အီ​လီၤ | Gen 15:18 |  |  |  |
+| obtain children by (build up) | သူၣ်​ထီၣ်​အ​သး | Gen 16:2 |  |  |  |
+| flee | ဃ့ၢ်​ထီၣ်​ကွံာ် | Gen 16:6 |  |  |  |
+| a wild man | ပှၤ​မံၤ | Gen 16:12 |  |  |  |
+| be perfect (complete) | လၢ​ထီၣ်​ပှဲၤ​ထီၣ် | Gen 17:1 |  |  |  |
+| multiply | မၤ​အါ​ထီၣ် | Gen 17:2 |  |  |  |
+| exceedingly | အါ​အါ​က​လဲာ် | Gen 17:2 |  |  |  |
+| fall on (one's) face | တီၤ​လီၤ​က​ဒွံ​ကျိာ် | Gen 17:3 |  |  |  |
+| make fruitful | ဒုး​သၣ်​ထီၣ် | Gen 17:6 |  |  |  |
+| come out of, descend from | လီၤ​စၢၤ | Gen 17:6 |  |  |  |
+| establish | ဒုး​အိၣ်​ဂၢၢ်​ဆိး​ကျၢၤ | Gen 17:7 |  |  |  |
+| generations | စိၤ​ဃၣ် | Gen 17:7 |  |  |  |
+| keep (a covenant) | တိၢ်​န့ၢ် | Gen 17:9 |  |  |  |
+| foreskin | တၢ်​အ​ခိၣ်​ဖံး | Gen 17:11 |  |  |  |
+| stranger, foreigner | တ​ခီ​ဘီ​မုၢ်​ဖိ | Gen 17:27 |  |  |  |
+| break (a covenant) | သ့ၣ်​ခါ​ပ​တာ် | Gen 17:14 |  |  |  |
+| laugh | နံၤ​ထီၣ် | Gen 17:17 |  |  |  |
+| heart (inner self) | သး​ကံၢ်​ပူၤ | Gen 17:17 |  |  |  |
+| live | မူ | Gen 17:18 |  |  |  |
+| call (a name) | ယုၢ် | Gen 17:19 |  |  |  |
+| great | ဖး​ဒိၣ် | Gen 17:20 |  |  |  |
+| the next year | ခဲ​ကိာ်​တ​နံၣ် | Gen 17:21 |  |  |  |
+| set time | အ​က​တီၢ်​အံၤ​ဆၢ​အ​လီၢ် | Gen 17:21 |  |  |  |
+| the heat of the day | မုၢ်​ကိၢ်​ထီၣ် | Gen 18:1 |  |  |  |
+| pass away (by) | လဲၤ​ပူၤ​ကွံာ် | Gen 18:3 |  |  |  |
+| fetch, carry | စိာ် | Gen 18:4 |  |  |  |
+| wash | သ့ | Gen 18:4 |  |  |  |
+| a morsel | တ​ကူာ် | Gen 18:5 |  |  |  |
+| hastily, hasten | ချ့​သ​ဒံး | Gen 18:6 |  |  |  |
+| measure (of meal) | စ့ၤ | Gen 18:6 |  |  |  |
+| knead | စံၢ် | Gen 18:6 |  |  |  |
+| tender (meat) | ညၣ်​စၢ် | Gen 18:7 |  |  |  |
+| butter | တၢ်​နုၢ်​ထံ​လီၤ​သ​ကၤ | Gen 18:8 |  |  |  |
+| the time of life (when the season returns) | တၢ်​ဆၢ​က့ၤ​အ​က​တီၢ် | Gen 18:10 |  |  |  |
+| behind | ချၢ​ဃံ | Gen 18:10 |  |  |  |
+| hard (thing), too hard | တၢ်​ကီ​ကဲၣ်​ဆိး | Gen 18:14 |  |  |  |
+| mighty, strong | ဆူၣ် | Gen 18:18 |  |  |  |
+| cry, outcry | ကိး​တၢ် | Gen 18:20 |  |  |  |
+| grievous | ဒဲး​ဘး | Gen 18:20 |  |  |  |
+| draw near | သုး​ဘူး​အ​သး | Gen 18:23 |  |  |  |
+| answer | စံး​ဆၢ | Gen 18:27 |  |  |  |
+| lack, be short | စှၤ​လီၤ | Gen 18:28 |  |  |  |
+| (this) once | တ​ဘျီ​ဧိၤ | Gen 18:32 |  |  |  |
+| commune, talk together | က​တိၤ​လိာ်​အ​သး | Gen 18:33 |  |  |  |
+| tarry all night | အိၣ်​သီ​တ​နၤ​ကျၢၤ | Gen 19:2 |  |  |  |
+| early (in the morning) | ဂီၤ​ဂီၤ | Gen 19:2 |  |  |  |
+| (in) the street | ကျဲ​ပူၤ | Gen 19:2 |  |  |  |
+| press upon, urge | က​ညး | Gen 19:3 |  |  |  |
+| greatly, strongly | ဆူၣ်​မး | Gen 19:3 |  |  |  |
+| bake | သၣ်​မံ | Gen 19:3 |  |  |  |
+| shut | ကး​တံာ် | Gen 19:6 |  |  |  |
+| wickedness, do wickedly | တၢ်​အၢ​တၢ်​သီ | Gen 19:7 |  |  |  |
+| shadow | က​ဒု | Gen 19:8 |  |  |  |
+| stand back | သုး​ကွံာ်​န​သး | Gen 19:9 |  |  |  |
+| now | ခဲ​က​နံၣ် | Gen 19:9 |  |  |  |
+| press sore | သ​နံး | Gen 19:9 |  |  |  |
+| break | သ့ၣ်​ဖး | Gen 19:9 |  |  |  |
+| smite with blindness | မၤ​ဘျီၣ် | Gen 19:11 |  |  |  |
+| weary oneself | မၤ​ဘှံး​အ​သး | Gen 19:11 |  |  |  |
+| mock, jest | က​တိၤ​လိာ်​ကွဲ | Gen 19:14 |  |  |  |
+| linger | မၤ​ယံာ်​မၤ​နီၢ်​အ​သး | Gen 19:16 |  |  |  |
+| be merciful, love | သး​အိၣ် | Gen 19:16 |  |  |  |
+| grace, mercy | ဘျုး​ဖှိၣ် | Gen 19:19 |  |  |  |
+| magnify | မၤ​ဒိၣ်​ထီၣ် | Gen 19:19 |  |  |  |
+| evil (harm) | တၢ်​အၢ​တၢ်​နး | Gen 19:19 |  |  |  |
+| accept (a person) | ဝံၣ်​ထီၣ်​မဲာ် | Gen 19:21 |  |  |  |
+| look back | ကွၢ်​က​ဒါ​က့ၤ | Gen 19:26 |  |  |  |
+| a pillar of salt | အံ​သၣ်​ထူၣ် | Gen 19:26 |  |  |  |
+| smoke | မ့ၣ်​အူ​ခုၣ် | Gen 19:28 |  |  |  |
+| a cave | တၢ်​အိ | Gen 19:30 |  |  |  |
+| lie with | မံ​ဃုာ် | Gen 19:32 |  |  |  |
+| preserve, keep alive | ဒုး​မူ​ထီၣ် | Gen 19:32 |  |  |  |
+| yesternight | မုၢ်​ဟါ​တ​နံၤ | Gen 19:34 |  |  |  |
+| this night, tonight | ခဲ​မုၢ်​နၤ | Gen 19:34 |  |  |  |
+| a dead man | ပှၤ​သံ | Gen 20:3 |  |  |  |
+| come near | လဲၤ​ဘူး | Gen 20:4 |  |  |  |
+| sin against, offend | မၤ​က​မၣ် | Gen 20:6 |  |  |  |
+| restore, give back | ဟ့ၣ်​က့ၤ | Gen 20:7 |  |  |  |
+| (in the) ears | နၢ်​ပူၤ | Gen 20:8 |  |  |  |
+| the fear of God | တၢ်​ပျံၤ​ယွၤ | Gen 20:11 |  |  |  |
+| (it) pleases you | ဘၣ်​န​သး | Gen 20:15 |  |  |  |
+| a covering of the eyes | တၢ်​မၤ​ဘၢ​မဲာ် | Gen 20:16 |  |  |  |
+| close up, shut up | မၤ​တံာ်​ဃာ် | Gen 20:18 |  |  |  |
+| make to laugh | ဒုး​နံၤ | Gen 21:6 |  |  |  |
+| laugh with | နံၤ​ဃုာ် | Gen 21:6 |  |  |  |
+| give suck, nurse | ဒုး​အီၣ်​နုၢ် | Gen 21:7 |  |  |  |
+| wean, be weaned | ဖှၣ် | Gen 21:8 |  |  |  |
+| mocking | နံၤ​ဘၣ်​ဖၣ်​လဲ | Gen 21:9 |  |  |  |
+| grievous, hard | ကီ | Gen 21:11 |  |  |  |
+| wander | ဝ့ၤ​ဝီၤ | Gen 21:14 |  |  |  |
+| spent, used up | လၢာ် | Gen 21:15 |  |  |  |
+| shrub | သ့ၣ်​ဖိ | Gen 21:15 |  |  |  |
+| far off | ယံၤ | Gen 21:16 |  |  |  |
+| a bowshot | တ​ခး​ချံၣ် | Gen 21:16 |  |  |  |
+| lift up (the) voice | ထု​ထီၣ်​အ​က​လုၢ် | Gen 21:16 |  |  |  |
+| fear, be afraid | ဘၣ်​ယိၣ် | Gen 21:17 |  |  |  |
+| lift up (a person) | ဝံၣ်​ဆၢ​ထၢၣ် | Gen 21:18 |  |  |  |
+| hold | ဟံး​ထီၣ် | Gen 21:18 |  |  |  |
+| fill | မၤ​ပှဲၤ | Gen 21:19 |  |  |  |
+| an archer | ပှၤ​ခး​တၢ်​ဖိ | Gen 21:20 |  |  |  |
+| son's son, descendants | စၢၤ​သွဲၣ် | Gen 21:23 |  |  |  |
+| take away violently | ဟံး​န့ၢ်​ဆူၣ် | Gen 21:25 |  |  |  |
+| ewe lamb | သိ​ဖိ​မိၢ် | Gen 21:28 |  |  |  |
+| by themselves, apart | တ​ပူၤ​ဒၣ် | Gen 21:28 |  |  |  |
+| a grove (clump of trees, not Asherah) | သ့ၣ်​တ​ဖု | Gen 21:33 |  |  |  |
+| many days | အါ​နံၤ​အါ​သီ | Gen 21:34 |  |  |  |
+| tempt, test (glossary 'tempt' = လ့ပစီ) | မၤ​ကွၢ် | Gen 22:1 |  |  |  |
+| offer (a sacrifice) | လုၢ်​ထီၣ် | Gen 22:2 |  |  |  |
+| saddle | ဂီၤ​ကၢ် | Gen 22:3 |  |  |  |
+| worship (glossary: ဘူၣ်ထီၣ်ဘါထီၣ်) | ဘူၣ်​တၢ်​ဘါ​တၢ် | Gen 22:5 |  |  |  |
+| a knife | ဒီ​တ​ဘ့ၣ် | Gen 22:6 |  |  |  |
+| withhold | ညး | Gen 22:12 |  |  |  |
+| caught (entangled) | ကွး | Gen 22:13 |  |  |  |
+| horns | နၢၤ | Gen 22:13 |  |  |  |
+| a thicket | သ​ဃာ် | Gen 22:13 |  |  |  |
+| the second time | ခံ​ဘျီ​တ​ဘျီ | Gen 22:15 |  |  |  |
+| withhold, keep back | ဟံး​ဃာ် | Gen 22:16 |  |  |  |
+| sand | မဲး​ဧိၤ​ဟီၣ်​ဧိၤ | Gen 22:17 |  |  |  |
+| bow oneself (down) | သ​ကူး​လီၤ​အ​သး | Gen 23:7 |  |  |  |
+| the people of the land | ပှၤ​ကီၢ်​ဖိ | Gen 23:7 |  |  |  |
+| a field (piece of land) | ဟီၣ်​ခိၣ်​တ​က​ဝီၤ | Gen 23:9 |  |  |  |
+| be worth | ကြၢး | Gen 23:9 |  |  |  |
+| weigh (out silver) | စီၤ​ထီၣ် | Gen 23:16 |  |  |  |
+| round about | ဝး​ဝး | Gen 23:17 |  |  |  |
+| make sure (secure a title) | မၤ​ကျၢၤ | Gen 23:17 |  |  |  |
+| (purchased) possession | တၢ်​ပှ့ၤ​ဃာ် | Gen 23:18 |  |  |  |
+| eldest servant | ကုၢ်​သး​ပှၢ် | Gen 24:2 |  |  |  |
+| make (someone) swear | ဒုး​ဆိၣ် | Gen 24:3 |  |  |  |
+| beware | ပ​လီၢ်​န​သး | Gen 24:6 |  |  |  |
+| be clear (free from an oath) | ပူၤ​ဖျဲး | Gen 24:8 |  |  |  |
+| (not) by any means | လ့ၤ​တ​က့ၤ...တ​ဂ့ၤ | Gen 24:8 |  |  |  |
+| kneel down (of camels) | ချံး | Gen 24:11 |  |  |  |
+| let down | ပာ်​လီၤ | Gen 24:14 |  |  |  |
+| trough | ကျိး | Gen 24:20 |  |  |  |
+| weight | တ​ယၢၢ် | Gen 24:22 |  |  |  |
+| bracelets | ထံ​ဖှံၣ် | Gen 24:22 |  |  |  |
+| straw | လီၢ်​ဧိၤ​ဒံး​ဧိၤ | Gen 24:25 |  |  |  |
+| bow down (the head) | ဆုး​လီၤ | Gen 24:26 |  |  |  |
+| leave destitute | ဒုး​လဲၤ​သ​ဒၣ် | Gen 24:27 |  |  |  |
+| ungird | ဃ့ၣ်​လီၤ | Gen 24:32 |  |  |  |
+| herds | ဂီၤ​ဘုၣ်​ဂီၤ​ဖံး | Gen 24:35 |  |  |  |
+| earring (nose ring) | နါ​ဒ့​ကွီၤ | Gen 24:47 |  |  |  |
+| put on (an ornament) | ဒုး​တုၢ်​ထီၣ် | Gen 24:47 |  |  |  |
+| put on (the hands) | ဒုး​သိး | Gen 24:47 |  |  |  |
+| deal kindly | မၤ​ဘျုး​မၤ​ဖှိၣ် | Gen 24:49 |  |  |  |
+| deal truly | မၤ​မ့ၢ်​မၤ​တီ | Gen 24:49 |  |  |  |
+| bring forth, draw out | ထုး​ထီၣ် | Gen 24:53 |  |  |  |
+| jewels | က​ယၢ | Gen 24:53 |  |  |  |
+| ten thousand | က​လး | Gen 24:60 |  |  |  |
+| ride (upon) | ဒိး​ထီၣ် | Gen 24:61 |  |  |  |
+| a vail | နီၣ်​ကျၢၢ်​ဘၢ | Gen 24:65 |  |  |  |
+| cover (oneself) | ကျၢၢ်​ဘၢ | Gen 24:65 |  |  |  |
+| comfort | မၤ​မုာ်​မၤ​ခုၣ် | Gen 24:67 |  |  |  |
+| gifts | တၢ်​ဟ့ၣ် | Gen 25:6 |  |  |  |
+| give up the ghost | သး​လၢာ် | Gen 25:8 |  |  |  |
+| (good) old age, grey head | ခိၣ်​ဝါ | Gen 25:8 |  |  |  |
+| full (of years) | အိၣ်​ဘျဲး | Gen 25:8 |  |  |  |
+| castles, walled towns | ဝ့ၢ်​က​ရၢ | Gen 25:16 |  |  |  |
+| struggle together | ဘၣ်​ထံး​လိာ်​အ​သး | Gen 25:22 |  |  |  |
+| twins | ပှၤ​သ​ဃံာ် | Gen 25:24 |  |  |  |
+| come out first | ဟဲ​ဆိ | Gen 25:25 |  |  |  |
+| a cunning (skilful) hunter | ပှၤ​ခး​တၢ်​သ့ | Gen 25:27 |  |  |  |
+| a plain (quiet) man | ပှၤ​က​စု​ဒု | Gen 25:27 |  |  |  |
+| seethe, boil (food) | ချီ | Gen 25:29 |  |  |  |
+| faint | သး​လီၤ​ဘှါ | Gen 25:29 |  |  |  |
+| profit | ဂိာ်​တၢ် | Gen 25:32 |  |  |  |
+| pottage | က​သူ | Gen 25:34 |  |  |  |
+| lentiles | ပ​ထိး​သၣ် | Gen 25:34 |  |  |  |
+| despise (not value) | တ​ပး​ကဲ | Gen 25:34 |  |  |  |
+| a long time | ယံာ် | Gen 26:8 |  |  |  |
+| sport, play | လိာ်​ကွဲ | Gen 26:8 |  |  |  |
+| an hundredfold | အ​လီၢ်​အ​စး​တ​က​ယၤ | Gen 26:12 |  |  |  |
+| flocks | သိ​အ​ဖု | Gen 26:14 |  |  |  |
+| great store, very many | အါ​ဒံ​အါ​ဂၤ | Gen 26:14 |  |  |  |
+| stop (up a well) | မၤ​တံာ်​ဘၢ | Gen 26:15 |  |  |  |
+| valley (glossary 'valley' = ကစၢၢ်ကဆူး) | တၢ်​တြိ | Gen 26:17 |  |  |  |
+| herdmen | ပှၤ​ကွၢ်​တၢ်​ဖိ | Gen 26:20 |  |  |  |
+| strive, quarrel | အ့ၣ်​လိာ်​ဆိး​က့​လိာ်​အ​သး | Gen 26:20 |  |  |  |
+| do hurt, harm | မၤ​အၢ | Gen 26:29 |  |  |  |
+| grieve (the heart), grief of mind | မၤ​ဆါ...အ​သး | Gen 26:35 |  |  |  |
+| (eyes) dim | မဲာ်​ခံး | Gen 27:1 |  |  |  |
+| weapons | စု​က​ဝဲၤ | Gen 27:3 |  |  |  |
+| quiver | လၢ​ပီၤ | Gen 27:3 |  |  |  |
+| hunt, shoot (game) | ခး | Gen 27:3 |  |  |  |
+| a smooth man | ပှၤ​အ​ဘျ့ | Gen 27:11 |  |  |  |
+| feel (touch) | က​လၢၢ် | Gen 27:12 |  |  |  |
+| younger son | ဖိ​ခွါ​သ​ဒါ | Gen 27:15 |  |  |  |
+| the smooth of the neck | ကိာ်​ဘျ့ | Gen 27:16 |  |  |  |
+| skin (of an animal) | ဖံး | Gen 27:16 |  |  |  |
+| kiss | နၢ​မူ | Gen 27:26 |  |  |  |
+| smell (verb) | နၢ | Gen 27:27 |  |  |  |
+| smell (noun) | အ​စိ | Gen 27:27 |  |  |  |
+| wine | စ​ပံး​ထံ​စ​ပံး​နိ | Gen 27:28 |  |  |  |
+| cry (a great and bitter cry) | ကဲး​ကိး​ပ​သူ​ထီၣ် | Gen 27:34 |  |  |  |
+| subtilty, deceit | လီ​တၢ် | Gen 27:35 |  |  |  |
+| supplant | ခွီၣ်​ဘျီ | Gen 27:36 |  |  |  |
+| reserve, keep back | ပာ်​လီၤ​တဲာ် | Gen 27:36 |  |  |  |
+| sustain | ဒုး​အိၣ်​ကျၢၤ | Gen 27:37 |  |  |  |
+| break (a yoke) | မၤ​ကၢ် | Gen 27:40 |  |  |  |
+| fury, anger | သး​ဒိၣ် | Gen 27:44 |  |  |  |
+| be deprived (of) | ဟါ​မၢ်​သ​ဒၣ် | Gen 27:45 |  |  |  |
+| be weary | ဘှံး​သး | Gen 27:46 |  |  |  |
+| pillow | ခိၣ်​တ​ခၢၣ် | Gen 28:11 |  |  |  |
+| lie down (to sleep) | မံ​နီၤ | Gen 28:11 |  |  |  |
+| a ladder | ဃီ | Gen 28:12 |  |  |  |
+| spread abroad | ပြံ​ထီၣ်​ပြါ​ထီၣ် | Gen 28:14 |  |  |  |
+| keep, watch over | အံး​က့ၤ​ကွၢ်​က့ၤ | Gen 28:15 |  |  |  |
+| a pillar | ထူၣ် | Gen 28:18 |  |  |  |
+| put on (clothes) | ကူ​က​သိး | Gen 28:20 |  |  |  |
+| go on (a journey) | ထွဲ​ထီၣ်​အ​ခီၣ် | Gen 29:1 |  |  |  |
+| lie (of flocks resting) | ကိာ်​လီၤ | Gen 29:2 |  |  |  |
+| mouth (of a well) | ခိၣ်​ထိး | Gen 29:2 |  |  |  |
+| be gathered together | အိၣ်​ဖှိၣ်​ရိ​ဖှိၣ် | Gen 29:3 |  |  |  |
+| roll (a stone) | တ​လ့ၣ် | Gen 29:3 |  |  |  |
+| (yet) high (day) | ဖး​ထီ | Gen 29:7 |  |  |  |
+| feed (animals) | ဒုး​အီၣ်​အ​ဆၣ် | Gen 29:7 |  |  |  |
+| tidings | က​စီၣ် | Gen 29:13 |  |  |  |
+| embrace | ဖိး | Gen 29:13 |  |  |  |
+| tender eyed (weak eyes) | မဲာ်​ဖ့ | Gen 29:17 |  |  |  |
+| a few days | စှၤ​နံၤ​စှၤ​သီ | Gen 29:20 |  |  |  |
+| gather together | ဒုး​အိၣ်​ဖှိၣ်​ရိ​ဖှိၣ် | Gen 29:22 |  |  |  |
+| a week | တ​နွံ | Gen 29:27 |  |  |  |
+| withhold | တြီ​ဃာ် | Gen 30:2 |  |  |  |
+| knees | ခီၣ်​လ့ၢ်​ခိၣ် | Gen 30:3 |  |  |  |
+| judge (one's cause) | စံၣ်​ညီၣ်​ကွီၢ် | Gen 30:6 |  |  |  |
+| wrestle | က​နိ | Gen 30:8 |  |  |  |
+| wrestlings | တၢ်​က​နိ | Gen 30:8 |  |  |  |
+| a troop | ပှၤ​တ​ဖု | Gen 30:11 |  |  |  |
+| happy, blessed | ဘၣ်​တၢ်​အ​မုာ် | Gen 30:13 |  |  |  |
+| hire (a person) | မၢ​လဲ | Gen 30:16 |  |  |  |
+| endue, give (a portion) | နီၤ​ဟ့ၣ် | Gen 30:20 |  |  |  |
+| a dowry, portion | တၢ်​နီၤ​ဟ့ၣ် | Gen 30:20 |  |  |  |
+| reproach | တၢ်​ဒုၣ်​ဒွဲၣ် | Gen 30:23 |  |  |  |
+| increase | ဖျိး​ထီၣ် | Gen 30:30 |  |  |  |
+| pass through | လဲၤ​ခီ​တူာ် | Gen 30:32 |  |  |  |
+| brown | ဃး | Gen 30:32 |  |  |  |
+| stolen (thing) | တၢ်​ဟုၣ်​တၢ် | Gen 30:33 |  |  |  |
+| he (goat), male (animal) | ဖါ | Gen 30:35 |  |  |  |
+| white (part) | တၢ်​အ​ဝါ | Gen 30:35 |  |  |  |
+| the rest, remaining | လီၤ​တဲာ် | Gen 30:36 |  |  |  |
+| pill, peel | ကုၣ်​လီၤ | Gen 30:37 |  |  |  |
+| watering troughs | နီၣ်​အီ​ထံ | Gen 30:38 |  |  |  |
+| gutters | ကျိး​ဧိၤ​ကျး​ဧိၤ | Gen 30:38 |  |  |  |
+| bring forth (young) | ဖှံ​လီၤ | Gen 30:39 |  |  |  |
+| stronger (animals) | ဂံၢ်​ဆူၣ်​ဘါ​ဆူၣ် | Gen 30:41 |  |  |  |
+| feeble | ဂံၢ်​စၢ်​ဘါ​စၢ် | Gen 30:42 |  |  |  |
+| before, formerly | မ​ဟါ​မ​ဟိ | Gen 31:2 |  |  |  |
+| change | လဲ​က့ၤ | Gen 31:7 |  |  |  |
+| leap upon (of rams) | စံၣ်​ထီၣ် | Gen 31:10 |  |  |  |
+| grisled | ကံၣ်​စံၣ်​ပိၣ် | Gen 31:10 |  |  |  |
+| quite, entirely | လၢာ်​စီ​ဖ့​က​လ့ၤ | Gen 31:15 |  |  |  |
+| riches | တၢ်​အ​စု​လီၢ်​အ​ခီၣ်​ခိၣ် | Gen 31:16 |  |  |  |
+| children | ဖိ​လံၤ | Gen 31:16 |  |  |  |
+| shear | တံာ် | Gen 31:19 |  |  |  |
+| steal away unawares (steal the heart) | ဟုၣ်​န့ၢ်​သး | Gen 31:20 |  |  |  |
+| pursue | လူၤ​ပိာ် | Gen 31:23 |  |  |  |
+| overtake | ချုး​န့ၢ် | Gen 31:23 |  |  |  |
+| carry away | မိၤ​ထီၣ် | Gen 31:26 |  |  |  |
+| mirth, joy | တၢ်​သး​ခု | Gen 31:27 |  |  |  |
+| songs | တၢ်​သး​ဝံၣ် | Gen 31:27 |  |  |  |
+| tabret | ဒၢ​ဧိၤ​တြၤ​ဧိၤ | Gen 31:27 |  |  |  |
+| long after | သး​သ​ယုၢ် | Gen 31:30 |  |  |  |
+| take by force | ဂုာ်​ဆူၣ် | Gen 31:31 |  |  |  |
+| discern | ကွၢ်​နီၣ် | Gen 31:32 |  |  |  |
+| hotly pursue | လူၤ​သ​ဖှိ | Gen 31:36 |  |  |  |
+| judge between | လိာ်​ကွီၢ် | Gen 31:37 |  |  |  |
+| young (of animals), cast young | ဟုး | Gen 31:38 |  |  |  |
+| torn of beasts | ဘၣ်​ဖှီ​သံ | Gen 31:39 |  |  |  |
+| empty | က​လီ | Gen 31:42 |  |  |  |
+| gather | ထၢ​ထီၣ် | Gen 31:46 |  |  |  |
+| make (an heap) | ပူ​ဖှိၣ်​ထီၣ် | Gen 31:46 |  |  |  |
+| be absent (from one another) | အိၣ်​သ​ဒၢ | Gen 31:49 |  |  |  |
+| distressed | သူၣ်​ကိၢ်​သး​ဂီၤ | Gen 32:7 |  |  |  |
+| staff | နီၣ်​ထိး​ဘိ | Gen 32:10 |  |  |  |
+| smite, kill | ကျီ​သံ | Gen 32:11 |  |  |  |
+| put a space | ပာ်​တၢ်​အ​လီၢ် | Gen 32:16 |  |  |  |
+| send (as a present) | ဟ့ၣ်​ယုၢ် | Gen 32:18 |  |  |  |
+| appease | မၤ​ဘၢ​မဲာ် | Gen 32:20 |  |  |  |
+| accept (a person) | ကွၢ်​မဲာ် | Gen 32:20 |  |  |  |
+| the ford | တၢ်​ကျိး​ထံ​အ​လီၢ် | Gen 32:22 |  |  |  |
+| the breaking of the day | မုၢ်​ဆ့ၣ်​ဝါ​ထီၣ် | Gen 32:24 |  |  |  |
+| prevail (against) | မၤ​ဃၣ် | Gen 32:25 |  |  |  |
+| the hollow of the thigh | ကံၣ်​ဒုၣ်​ဆၢ | Gen 32:25 |  |  |  |
+| out of joint | တ​လံာ် | Gen 32:25 |  |  |  |
+| have power as a prince | မၤ​ပ​ဒိၣ်​သး | Gen 32:28 |  |  |  |
+| face to face | ကွၢ်​ဆၢ​ညါ | Gen 32:30 |  |  |  |
+| halt, limp | တ​ကျဲၢ်​တ​ကျဲၢ် | Gen 32:31 |  |  |  |
+| hollow of the thigh (lower thigh) | ကံၣ်​ဒုၣ်​လာ် | Gen 32:32 |  |  |  |
+| hindermost, last | ခံ​က​တၢၢ် | Gen 33:2 |  |  |  |
+| fall (on the neck) | ထိၣ်​လီၤ​တီၢ်​အ​သး | Gen 33:4 |  |  |  |
+| give graciously, deal graciously | ဟ့ၣ်​သး​က​ညီၤ | Gen 33:5 |  |  |  |
+| come near | ဟဲ​ဘူး | Gen 33:6 |  |  |  |
+| meet (come upon) | ဘၣ်​သ​ဃိာ် | Gen 33:8 |  |  |  |
+| overdrive | ဟီ​လဲၤ...ဆူၣ် | Gen 33:13 |  |  |  |
+| softly, slowly | က​ဘဲး​က​ဘဲး | Gen 33:14 |  |  |  |
+| keep up, endure (on a journey) | ထွဲ​တၢ် | Gen 33:14 |  |  |  |
+| booths | တ​ကူး | Gen 33:17 |  |  |  |
+| spread (a tent) | သ​လၣ်​ထီၣ် | Gen 33:19 |  |  |  |
+| pieces of money | က​စံ​တၤ | Gen 33:19 |  |  |  |
+| cleave to, long for (in love) | သး​စဲ​ဘူး | Gen 34:3 |  |  |  |
+| kindly | ဘၣ်​သူၣ်​ဘၣ်​သး | Gen 34:3 |  |  |  |
+| grieved | သး​ဆါ | Gen 34:7 |  |  |  |
+| make marriages, intermarry | န့ၢ်​မါ​န့ၢ်​ဝၤ | Gen 34:9 |  |  |  |
+| trade | ကၤ​တၢ် | Gen 34:10 |  |  |  |
+| dowry (bride price) | တၢ်​က​လိး | Gen 34:12 |  |  |  |
+| defer not, not delay | တ​သုး​နံၤ​သုး​သီ | Gen 34:19 |  |  |  |
+| peaceable | အိၣ်​ဃူ​အိၣ်​ဖိး | Gen 34:21 |  |  |  |
+| large, wide | လဲၢ် | Gen 34:21 |  |  |  |
+| be sore (in pain) | ဆါ​ထီၣ် | Gen 34:25 |  |  |  |
+| boldly, unawares | သး​ခူ​တ​လ့ၢ် | Gen 34:25 |  |  |  |
+| spoil, plunder | ဂုာ်​န့ၢ် | Gen 34:27 |  |  |  |
+| little ones | ဖိ​ဒံ​ဖိ​သၣ် | Gen 34:29 |  |  |  |
+| trouble | မၤ​ကိၢ်​မၤ​ဂီၤ | Gen 34:30 |  |  |  |
+| against | ထီ​ဒါ | Gen 34:30 |  |  |  |
+| destruction, be destroyed | တၢ်​ဟး​ဂူာ်​ဟး​ဂီၤ | Gen 34:30 |  |  |  |
+| put away | ကွံာ်​တ့ၢ်​ကွံာ် | Gen 35:2 |  |  |  |
+| be clean, cleanse | မၤ​က​ဆှီ | Gen 35:2 |  |  |  |
+| distress | တၢ်​ကိၢ်​တၢ်​ဂီၤ | Gen 35:3 |  |  |  |
+| appear, show oneself | ဒုး​နဲၣ်​အ​သး | Gen 35:7 |  |  |  |
+| pour (oil) | ဂၢ် | Gen 35:14 |  |  |  |
+| travail, be in labour | ဟုး​ဆါ | Gen 35:16 |  |  |  |
+| beyond | ဝၢ်​ဘး​ခီ | Gen 35:21 |  |  |  |
+| hot springs (KJV mules) | ထံ​ထီၣ်​ကိၢ် | Gen 36:24 |  |  |  |
+| reign (be king) | ကဲ​စီၤ​ပၤ | Gen 36:31 |  |  |  |
+| by the river | ထံ​မိၢ်​ပှၢ်​အ​နံၤ | Gen 36:37 |  |  |  |
+| evil report | က​စီၣ်​အ​အၢ | Gen 37:2 |  |  |  |
+| speak peaceably | က​တိၤ​မုာ်​မုာ် | Gen 37:4 |  |  |  |
+| bind (sheaves) | ဃ့ | Gen 37:7 |  |  |  |
+| sheaves | ဘု​က​ဒိၣ် | Gen 37:7 |  |  |  |
+| upright | ထူၣ်​က​လာ် | Gen 37:7 |  |  |  |
+| conspire against | ကူၣ်​ထီ​ဒါ | Gen 37:18 |  |  |  |
+| dreamer | တၢ်​မံ​မီၢ်​အ​က​စၢ် | Gen 37:19 |  |  |  |
+| cast (into) | တ့ၢ်​လီၤ​ကွံာ် | Gen 37:20 |  |  |  |
+| strip (off clothes) | ဘ့ၣ်​ကွံာ် | Gen 37:23 |  |  |  |
+| spicery | နီၣ်​တြူး​န​ကိး​အ​ဃ့ | Gen 37:25 |  |  |  |
+| draw up | စဲၤ​ထီၣ် | Gen 37:28 |  |  |  |
+| rend (clothes) | ဖှီ | Gen 37:29 |  |  |  |
+| dip | ဘျၢ​လီၤ | Gen 37:31 |  |  |  |
+| rent in pieces (by a beast) | ယာ်​သံ | Gen 37:33 |  |  |  |
+| put on (sackcloth) | ကူ​ထၢၣ် | Gen 37:34 |  |  |  |
+| mourning | တၢ်​ဟီၣ်​တၢ်​ယၢၤ | Gen 37:35 |  |  |  |
